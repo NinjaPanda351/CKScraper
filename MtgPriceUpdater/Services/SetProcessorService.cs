@@ -115,7 +115,7 @@ public class SetProcessorService
 
                 if (totalFoils > 0)
                 {
-                    int foilPages = (int)Math.Ceiling(totalFoils / 25.0);
+                    int foilPages = (int) Math.Ceiling(totalFoils / 25.0);
                     for (int i = 1; i <= foilPages; i++)
                     {
                         string foilUrl = $"{baseUrl}/foils?page={i}";
@@ -123,7 +123,7 @@ public class SetProcessorService
                         _httpClient.DefaultRequestHeaders.UserAgent.Clear();
                         string userAgent = UserAgentProvider.GetRandomAgent();
                         _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(userAgent);
-                        Logger.Log($"Fetching page {i}/{pages} with user agent: {userAgent}");
+                        Logger.Log($"Fetching page {i}/{foilPages} with user agent: {userAgent}");
 
                         newCards.AddRange(await _scraperService.FetchCardsAsync(_httpClient, foilUrl, true, setCode));
                         await Task.Delay(Random.Shared.Next(MinPageDelay, MaxPageDelay));

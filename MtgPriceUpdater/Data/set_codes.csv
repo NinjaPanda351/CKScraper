@@ -16,6 +16,10 @@ Adventures-in-the-Forgotten-Realms,AFR
 Adventures-in-the-Forgotten-Realms-Variants,AFR
 Adventures-in-the-Forgotten-Realms-Commander-Decks,AFC
 Adventures-in-the-Forgotten-Realms-Commander-decks-Variants,AFC
+Aetherdrift,DFT
+Aetherdrift-Commander-Decks,DRC
+Aetherdrift-Commander-Decks-Variants,DRC
+Aetherdrift-Variants,DFT
 Aether-Revolt,AER
 Alara-Reborn,ARB
 Alliances,ALL
@@ -105,6 +109,10 @@ Duel-Decks-Speed-Vs-Cunning,DDN
 Duel-Decks-Venser-Vs-Koth,VVK
 Duel-Decks-Zendikar-Vs-Eldrazi,DDP
 Duels-of-the-Planeswalkers,DPW
+Duskmourn-House-Of-Horror,DSK
+Duskmourn-House-Of-Horror-Commander-Decks,DSC
+Duskmourn-House-Of-Horror-Commander-Decks-Variants,DSC
+Duskmourn-House-Of-Horror-Variants,DSK
 Eldritch-Moon,EMN
 Eternal-Masters,EMA
 Eventide,EVE
@@ -113,6 +121,10 @@ Explorers-of-Ixalan,E02
 Fallen-Empires,FEM
 Fate-Reforged,FRF
 Fifth-Dawn,5DN
+Foundations,FDN
+Foundations-Commander,FDC
+Foundations-Jumpstart,J25
+Foundations-Variants,FDN
 From-the-Vault-Angels,V15
 From-the-Vault-Annihilation,V14
 From-the-Vault-Dragons,V08
@@ -148,6 +160,8 @@ Innistrad-Crimson-Vow-Variants,VOW
 Innistrad-Crimson-Vow-Commander-Decks,VOC
 Innistrad-Crimson-Vow-Commander-Decks-Variants,VOC
 Innistrad-Double-Feature,DBL
+Innistrad-Remastered,INR
+Innistrad-Remastered-Variants,INR
 Invasion,INV
 Ixalan,XLN
 Journey-into-Nyx,JOU
@@ -163,6 +177,7 @@ Kamigawa-Neon-Dynasty-Variants,NEO
 Kamigawa-Neon-Dynasty-Commander-Decks,NEC
 Kamigawa-Neon-Dynasty-Commander-Decks-Variants,NEC
 Khans-of-Tarkir,KTK
+Legends,LEG
 Legions,LGN
 Lorwyn,LRW
 Magic-Origins,ORI

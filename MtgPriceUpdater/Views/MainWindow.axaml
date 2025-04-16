@@ -1,0 +1,35 @@
+<Window
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:MtgPriceUpdater.ViewModels"
+    x:Class="MtgPriceUpdater.Views.MainWindow"
+    Title="Set Selection"
+    Width="400" Height="600">
+
+    <Window.DataContext>
+        <vm:MainWindowViewModel />
+    </Window.DataContext>
+
+    <StackPanel Margin="10">
+        <TextBlock Text="Select sets to update:" FontWeight="Bold" Margin="0,0,0,10"/>
+        
+        <ScrollViewer Height="450">
+            <ListBox ItemsSource="{Binding Sets}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <CheckBox Content="{Binding Name}" IsChecked="{Binding IsSelected, Mode=TwoWay}" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </ScrollViewer>
+        <Button Content="Run Scraper"
+                Command="{Binding RunCommand}"
+                Margin="0,10,0,0"
+                HorizontalAlignment="Center" />
+        <Button Content="Run All Sets"
+                Command="{Binding RunAllCommand}"
+                Margin="0,10,0,0"
+                HorizontalAlignment="Center" />
+
+    </StackPanel>
+</Window>

@@ -33,7 +33,7 @@
         /// <summary>
         /// The code of the set this card belongs to (e.g., "TDM").
         /// </summary>
-        public string SetCode { get; set; }
+        public required string SetCode { get; set; }
 
         /// <summary>
         /// Returns the unique item code in the format "SETCODE CollectorCode[F]".

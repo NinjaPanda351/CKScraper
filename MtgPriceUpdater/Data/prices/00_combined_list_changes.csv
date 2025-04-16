@@ -1,1738 +1,511 @@
-XLN 117,Revel in Riches,,0,0.0,0,0,0,21.00
-XLN 243,Primal Amulet,,0,0.0,0,0,0,9.50
-XLN 46,Arcane Adaptation,,0,0.0,0,0,0,5.50
-XLN 22,Legion's Landing,,0,0.0,0,0,0,5.50
-XLN 235,Dowsing Dagger,,0,0.0,0,0,0,7.50
-XLN 34,Settle the Wreckage,,0,0.0,0,0,0,4.00
-XLN 59,Herald of Secret Streams,,0,0.0,0,0,0,4.00
-XLN 251,Vanquisher's Banner,,0,0.0,0,0,0,5.00
-XLN 191,Growing Rites of Itlimoc,,0,0.0,0,0,0,5.50
-XLN 222,"Gishath, Sun's Avatar",,0,0.0,0,0,0,7.00
-XLN 57,Fleet Swallower,,0,0.0,0,0,0,2.00
-XLN 224,"Huatli, Warrior Poet",,0,0.0,0,0,0,5.00
-XLN 74,Search for Azcanta,,0,0.0,0,0,0,3.00
-XLN 179,Carnage Tyrant,,0,0.0,0,0,0,5.00
-XLN 252,Dragonskull Summit,,0,0.0,0,0,0,2.00
-XLN 82,Spell Swindle,,0,0.0,0,0,0,2.00
-XLN 249,Thaumatic Compass,,0,0.0,0,0,0,3.00
-XLN 13,Goring Ceratops,,0,0.0,0,0,0,1.50
-XLN 285,"Huatli, Dinosaur Knight",,0,0.0,0,0,0,5.00
-XLN 253,Drowned Catacomb,,0,0.0,0,0,0,2.00
-XLN 154,Rampaging Ferocidon,,0,0.0,0,0,0,2.00
-XLN 232,"Vraska, Relic Seeker",,0,0.0,0,0,0,2.00
-XLN 234,Conqueror's Galleon,,0,0.0,0,0,0,1.50
-XLN 227,Regisaur Alpha,,0,0.0,0,0,0,1.00
-XLN 203,Ripjaw Raptor,,0,0.0,0,0,0,1.50
-XLN 1,Vampire Token,,0,0.0,0,0,0,0.50
-XLN 116,Raiders' Wake,,0,0.0,0,0,0,1.00
-XLN 257,Sunpetal Grove,,0,0.0,0,0,0,2.00
-XLN 258,Unclaimed Territory,,0,0.0,0,0,0,0.50
-XLN 153,Otepec Huntmaster,,0,0.0,0,0,0,1.00
-XLN 256,Rootbound Crag,,0,0.0,0,0,0,2.00
-XLN 280,"Jace, Ingenious Mind-Mage",,0,0.0,0,0,0,3.00
-XLN 2,Ashes of the Abhorrent,,0,0.0,0,0,0,1.00
-XLN 161,Star of Extinction,,0,0.0,0,0,0,2.00
-XLN 71,River's Rebuke,,0,0.0,0,0,0,1.00
-XLN 206,Shapers' Sanctuary,,0,0.0,0,0,0,1.00
-XLN 174,Wily Goblin,,0,0.0,0,0,0,1.00
-XLN 86,Tempest Caller,,0,0.0,0,0,0,0.50
-XLN 79,Siren Stormtamer,,0,0.0,0,0,0,0.50
-XLN 255,Glacial Fortress,,0,0.0,0,0,0,1.00
-XLN 238,Fell Flagship,,0,0.0,0,0,0,1.00
-XLN 3,Axis of Mortality,,0,0.0,0,0,0,1.50
-XLN 213,Verdant Sun's Avatar,,0,0.0,0,0,0,1.00
-XLN 19,Kinjalli's Sunwing,,0,0.0,0,0,0,1.00
-XLN 60,"Jace, Cunning Castaway",,0,0.0,0,0,0,1.50
-XLN 80,Siren's Ruse,,0,0.0,0,0,0,0.25
-XLN 50,Deadeye Quartermaster,,0,0.0,0,0,0,0.50
-XLN 128,Vicious Conquistador,,0,0.0,0,0,0,0.50
-XLN 18,Kinjalli's Caller,,0,0.0,0,0,0,0.25
-XLN 81,Spell Pierce,,0,0.0,0,0,0,0.25
-XLN 250,Treasure Map,,0,0.0,0,0,0,1.00
-XLN 231,"Vona, Butcher of Magan",,0,0.0,0,0,0,1.00
-XLN 90,Arguel's Blood Fast,,0,0.0,0,0,0,0.50
-XLN 6,Plant Token,,0,0.0,0,0,0,0.50
-XLN 158,Rile,,0,0.0,0,0,0,0.25
-XLN 120,Sanctum Seeker,,0,0.0,0,0,0,0.50
-XLN 104,Dire Fleet Ravager,,0,0.0,0,0,0,1.00
-XLN 244,Prying Blade,,0,0.0,0,0,0,0.25
-XLN 96,Costly Plunder,,0,0.0,0,0,0,0.25
-XLN 48,Chart a Course,,0,0.0,0,0,0,0.50
-XLN 56,Favorable Winds,,0,0.0,0,0,0,0.50
-XLN 129,Vraska's Contempt,,0,0.0,0,0,0,0.50
-XLN 241,Pillar of Origins,,0,0.0,0,0,0,0.50
-XLN 217,Admiral Beckett Brass,,0,0.0,0,0,0,1.00
-XLN 201,Ranging Raptors,,0,0.0,0,0,0,0.50
-XLN 53,Dive Down,,0,0.0,0,0,0,0.25
-XLN 181,Commune with Dinosaurs,,0,0.0,0,0,0,0.25
-XLN 254,Field of Ruin,,0,0.0,0,0,0,0.50
-XLN 62,Lookout's Dispersal,,0,0.0,0,0,0,0.50
-XLN 265,Island,,0,0.0,0,0,0,0.50
-XLN 216,Wildgrowth Walker,,0,0.0,0,0,0,0.50
-XLN 223,Hostage Taker,,0,0.0,0,0,0,0.50
-XLN 110,Kitesail Freebooter,,0,0.0,0,0,0,0.50
-XLN 66,Overflowing Insight,,0,0.0,0,0,0,1.00
-XLN 148,Hijack,,0,0.0,0,0,0,0.25
-XLN 187,Drover of the Mighty,,0,0.0,0,0,0,0.50
-XLN 155,Raptor Hatchling,,0,0.0,0,0,0,0.50
-XLN 177,Blinding Fog,,0,0.0,0,0,0,0.25
-XLN 5,Dinosaur Token,,0,0.0,0,0,0,0.50
-XLN 279,Forest,,0,0.0,0,0,0,0.50
-XLN 136,Captain Lannery Storm,,0,0.0,0,0,0,0.50
-XLN 266,Island,,0,0.0,0,0,0,0.50
-XLN 112,March of the Drowned,,0,0.0,0,0,0,0.25
-XLN 68,Pirate's Prize,,0,0.0,0,0,0,0.25
-XLN 93,Bloodcrazed Paladin,,0,0.0,0,0,0,0.50
-XLN 278,Forest,,0,0.0,0,0,0,0.50
-XLN 240,Hierophant's Chalice,,0,0.0,0,0,0,0.25
-XLN 151,Makeshift Munitions,,0,0.0,0,0,0,0.50
-XLN 3,Merfolk Token,,0,0.0,0,0,0,0.50
-XLN 5,Bishop of Rebirth,,0,0.0,0,0,0,0.50
-XLN 99,Deadeye Tracker,,0,0.0,0,0,0,0.50
-XLN 24,"Mavren Fein, Dusk Apostle",,0,0.0,0,0,0,0.50
-XLN 130,Walk the Plank,,0,0.0,0,0,0,0.50
-XLN 165,Sunbird's Invocation,,0,0.0,0,0,0,0.50
-XLN 35,Sheltering Light,,0,0.0,0,0,0,0.50
-XLN 277,Forest,,0,0.0,0,0,0,0.50
-XLN 210,Thundering Spineback,,0,0.0,0,0,0,0.50
-XLN 132,Angrath's Marauders,,0,0.0,0,0,0,0.50
-XLN 140,Dinosaur Stampede,,0,0.0,0,0,0,0.50
-XLN 61,"Kopala, Warden of Waves",,0,0.0,0,0,0,0.50
-XLN 175,Ancient Brontodon,,0,0.0,0,0,0,0.25
-XLN 198,New Horizons,,0,0.0,0,0,0,0.25
-XLN 229,Sky Terror,,0,0.0,0,0,0,0.50
-XLN 272,Mountain,,0,0.0,0,0,0,0.50
-XLN 106,Fathom Fleet Captain,,0,0.0,0,0,0,0.50
-XLN 51,Deeproot Waters,,0,0.0,0,0,0,0.50
-XLN 259,Unknown Shores,,0,0.0,0,0,0,0.25
-XLN 44,Wakening Sun's Avatar,,0,0.0,0,0,0,1.00
-XLN 1,Adanto Vanguard,,0,0.0,0,0,0,0.50
-XLN 200,Pounce,,0,0.0,0,0,0,0.25
-XLN 212,Verdant Rebirth,,0,0.0,0,0,0,0.50
-XLN 55,Entrancing Melody,,0,0.0,0,0,0,0.50
-XLN 208,Snapping Sailback,,0,0.0,0,0,0,0.50
-XLN 230,"Tishana, Voice of Thunder",,0,0.0,0,0,0,1.00
-XLN 219,Call to the Feast,,0,0.0,0,0,0,0.50
-XLN 9,Duskborne Skymarcher,,0,0.0,0,0,0,0.50
-XLN 202,Ravenous Daggertooth,,0,0.0,0,0,0,0.25
-XLN 94,Boneyard Parley,,0,0.0,0,0,0,1.00
-XLN 42,Tocatli Honor Guard,,0,0.0,0,0,0,0.50
-XLN 221,Dire Fleet Captain,,0,0.0,0,0,0,0.50
-XLN 150,Lightning-Rig Crew,,0,0.0,0,0,0,0.50
-XLN 184,Deathgorge Scavenger,,0,0.0,0,0,0,0.50
-XLN 4,Pirate Token,,0,0.0,0,0,0,0.50
-XLN 205,Savage Stomp,,0,0.0,0,0,0,0.50
-XLN 6,Bishop's Soldier,,0,0.0,0,0,0,0.25
-XLN 245,Sentinel Totem,,0,0.0,0,0,0,0.50
-XLN 173,Vance's Blasting Cannons,,0,0.0,0,0,0,0.50
-XLN 102,Dire Fleet Hoarder,,0,0.0,0,0,0,0.25
-XLN 197,Merfolk Branchwalker,,0,0.0,0,0,0,0.50
-XLN 159,Rowdy Crew,,0,0.0,0,0,0,1.00
-XLN 135,Burning Sun's Avatar,,0,0.0,0,0,0,0.50
-XLN 137,Captivating Crew,,0,0.0,0,0,0,0.50
-XLN 27,Priest of the Wakening Sun,,0,0.0,0,0,0,0.50
-XLN 126,Sword-Point Diplomacy,,0,0.0,0,0,0,0.50
-XLN 180,Colossal Dreadmaw,,0,0.0,0,0,0,0.25
-XLN 119,Ruthless Knave,,0,0.0,0,0,0,0.50
-XLN 246,Shadowed Caravel,,0,0.0,0,0,0,0.50
-XLN 2,Illusion Token,,0,0.0,0,0,0,0.50
-XLN 69,Prosperous Pirates,,0,0.0,0,0,0,0.25
-XLN 65,Opt,,0,0.0,0,0,0,0.25
-XLN 157,Rigging Runner,,0,0.0,0,0,0,0.50
-XLN 118,Ruin Raider,,0,0.0,0,0,0,0.50
-XLN 33,Sanguine Sacrament,,0,0.0,0,0,0,0.50
-XLN 91,Bishop of the Bloodstained,,0,0.0,0,0,0,0.50
-XLN 138,Charging Monstrosaur,,0,0.0,0,0,0,0.50
-XLN 226,Raging Swordtooth,,0,0.0,0,0,0,0.50
-XLN 162,Storm Fleet Arsonist,,0,0.0,0,0,0,0.50
-XLN 41,Territorial Hammerskull,,0,0.0,0,0,0,0.25
-XLN 211,Tishana's Wayfinder,,0,0.0,0,0,0,0.25
-XLN 185,Deeproot Champion,,0,0.0,0,0,0,0.50
-XLN 218,Belligerent Brontodon,,0,0.0,0,0,0,0.50
-XLN 92,Blight Keeper,,0,0.0,0,0,0,0.25
-XLN 52,Depths of Desire,,0,0.0,0,0,0,0.25
-XLN 143,Fiery Cannonade,,0,0.0,0,0,0,0.50
-XLN 195,Jungle Delver,,0,0.0,0,0,0,0.25
-XLN 220,Deadeye Plunderers,,0,0.0,0,0,0,0.50
-XLN 204,River Heralds' Boon,,0,0.0,0,0,0,0.25
-XLN 228,Shapers of Nature,,0,0.0,0,0,0,0.50
-XLN 164,Sun-Crowned Hunters,,0,0.0,0,0,0,0.25
-XLN 236,Dusk Legion Dreadnought,,0,0.0,0,0,0,0.50
-XLN 267,Island,,0,0.0,0,0,0,0.50
-XLN 196,Kumena's Speaker,,0,0.0,0,0,0,0.50
-XLN 43,Vampire's Zeal,,0,0.0,0,0,0,0.25
-XLN 54,Dreamcaller Siren,,0,0.0,0,0,0,0.50
-XLN 288,Sun-Blessed Mount,,0,0.0,0,0,0,0.50
-XLN 178,Blossom Dryad,,0,0.0,0,0,0,0.25
-XLN 194,Jade Guardian,,0,0.0,0,0,0,0.25
-XLN 225,Marauding Looter,,0,0.0,0,0,0,0.50
-XLN 152,Nest Robber,,0,0.0,0,0,0,0.25
-XLN 260,Plains,,0,0.0,0,0,0,0.50
-XLN 31,Raptor Companion,,0,0.0,0,0,0,0.25
-XLN 209,Spike-Tailed Ceratops,,0,0.0,0,0,0,0.25
-XLN 269,Swamp,,0,0.0,0,0,0,0.50
-XLN 171,Trove of Temptation,,0,0.0,0,0,0,0.50
-XLN 23,Looming Altisaur,,0,0.0,0,0,0,0.25
-XLN 29,Queen's Commission,,0,0.0,0,0,0,0.25
-XLN 70,River Sneak,,0,0.0,0,0,0,0.50
-XLN 83,Storm Fleet Aerialist,,0,0.0,0,0,0,0.50
-XLN 146,Frenzied Raptor,,0,0.0,0,0,0,0.25
-XLN 16,Inspiring Cleric,,0,0.0,0,0,0,0.50
-XLN 63,Navigator's Ruin,,0,0.0,0,0,0,0.50
-XLN 64,One With the Wind,,0,0.0,0,0,0,0.25
-XLN 75,Shaper Apprentice,,0,0.0,0,0,0,0.25
-XLN 247,Sleek Schooner,,0,0.0,0,0,0,0.50
-XLN 85,Storm Sculptor,,0,0.0,0,0,0,0.25
-XLN 214,Vineshaper Mystic,,0,0.0,0,0,0,0.50
-XLN 189,Emperor's Vanguard,,0,0.0,0,0,0,0.50
-XLN 95,Contract Killing,,0,0.0,0,0,0,0.25
-XLN 98,Deadeye Tormentor,,0,0.0,0,0,0,0.25
-XLN 109,Heartless Pillage,,0,0.0,0,0,0,0.50
-XLN 78,Siren Lookout,,0,0.0,0,0,0,0.25
-XLN 87,Watertrap Weaver,,0,0.0,0,0,0,0.25
-XLN 4,Bellowing Aegisaur,,0,0.0,0,0,0,0.50
-XLN 186,Deeproot Warrior,,0,0.0,0,0,0,0.25
-XLN 105,Duress,,0,0.0,0,0,0,0.25
-XLN 11,Encampment Keeper,,0,0.0,0,0,0,0.25
-XLN 142,Fathom Fleet Firebrand,,0,0.0,0,0,0,0.25
-XLN 149,Lightning Strike,,0,0.0,0,0,0,0.50
-XLN 113,Mark of the Vampire,,0,0.0,0,0,0,0.25
-XLN 26,Pious Interdiction,,0,0.0,0,0,0,0.25
-XLN 242,Pirate's Cutlass,,0,0.0,0,0,0,0.25
-XLN 32,Ritual of Rejuvenation,,0,0.0,0,0,0,0.25
-XLN 76,Shipwreck Looter,,0,0.0,0,0,0,0.25
-XLN 168,Thrash of Raptors,,0,0.0,0,0,0,0.25
-XLN 49,Daring Saboteur,,0,0.0,0,0,0,0.50
-XLN 199,Old-Growth Dryads,,0,0.0,0,0,0,0.50
-XLN 156,Repeating Barrage,,0,0.0,0,0,0,0.50
-XLN 176,Atzocan Archer,,0,0.0,0,0,0,0.50
-XLN 144,Fire Shrine Keeper,,0,0.0,0,0,0,0.25
-XLN 147,Headstrong Brute,,0,0.0,0,0,0,0.25
-XLN 14,Imperial Aerosaur,,0,0.0,0,0,0,0.50
-XLN 15,Imperial Lancer,,0,0.0,0,0,0,0.50
-XLN 17,Ixalan's Binding,,0,0.0,0,0,0,0.50
-XLN 192,Ixalli's Diviner,,0,0.0,0,0,0,0.25
-XLN 25,Paladin of the Bloodstained,,0,0.0,0,0,0,0.25
-XLN 67,Perilous Voyage,,0,0.0,0,0,0,0.50
-XLN 37,Skyblade of the Legion,,0,0.0,0,0,0,0.25
-XLN 84,Storm Fleet Spy,,0,0.0,0,0,0,0.50
-XLN 166,Sure Strike,,0,0.0,0,0,0,0.25
-XLN 167,Swashbuckling,,0,0.0,0,0,0,0.25
-XLN 7,Bright Reprisal,,0,0.0,0,0,0,0.50
-XLN 281,Castaway's Despair,,0,0.0,0,0,0,0.25
-XLN 233,Cobbled Wings,,0,0.0,0,0,0,0.25
-XLN 182,Crash the Ramparts,,0,0.0,0,0,0,0.25
-XLN 145,Firecannon Blast,,0,0.0,0,0,0,0.25
-XLN 108,Grim Captain's Call,,0,0.0,0,0,0,0.50
-XLN 273,Mountain,,0,0.0,0,0,0,0.50
-XLN 262,Plains,,0,0.0,0,0,0,0.50
-XLN 114,Queen's Agent,,0,0.0,0,0,0,0.25
-XLN 125,Spreading Rot,,0,0.0,0,0,0,0.25
-XLN 169,Tilonalli's Knight,,0,0.0,0,0,0,0.25
-XLN 248,Sorcerous Spyglass,,0,0.0,0,0,0,0.50
-XLN 170,Tilonalli's Skinshifter,,0,0.0,0,0,0,0.50
-XLN 215,Waker of the Wilds,,0,0.0,0,0,0,0.50
-XLN 183,Crushing Canopy,,0,0.0,0,0,0,0.25
-XLN 101,Desperate Castaways,,0,0.0,0,0,0,0.25
-XLN 141,Dual Shot,,0,0.0,0,0,0,0.25
-XLN 188,Emergent Growth,,0,0.0,0,0,0,0.50
-XLN 286,Huatli's Snubhorn,,0,0.0,0,0,0,0.25
-XLN 20,Legion Conquistador,,0,0.0,0,0,0,0.25
-XLN 111,Lurking Chupacabra,,0,0.0,0,0,0,0.50
-XLN 261,Plains,,0,0.0,0,0,0,0.50
-XLN 263,Plains,,0,0.0,0,0,0,0.50
-XLN 28,Pterodon Knight,,0,0.0,0,0,0,0.25
-XLN 160,Rummaging Goblin,,0,0.0,0,0,0,0.25
-XLN 73,Sailor of Means,,0,0.0,0,0,0,0.25
-XLN 207,Slice in Twain,,0,0.0,0,0,0,0.50
-XLN 289,Stone Quarry,,0,0.0,0,0,0,0.25
-XLN 131,Wanted Scoundrels,,0,0.0,0,0,0,0.50
-XLN 284,Woodland Stream,,0,0.0,0,0,0,0.25
-XLN 282,Grasping Current,,0,0.0,0,0,0,0.50
-XLN 47,Cancel,,0,0.0,0,0,0,0.25
-XLN 276,Forest,,0,0.0,0,0,0,0.50
-XLN 58,Headwater Sentries,,0,0.0,0,0,0,0.25
-XLN 283,Jace's Sentinel,,0,0.0,0,0,0,0.50
-XLN 72,Run Aground,,0,0.0,0,0,0,0.25
-XLN 123,Skulduggery,,0,0.0,0,0,0,0.25
-XLN 39,Steadfast Armasaur,,0,0.0,0,0,0,0.50
-XLN 89,Anointed Deacon,,0,0.0,0,0,0,0.25
-XLN 133,Bonded Horncrest,,0,0.0,0,0,0,0.50
-XLN 134,Brazen Buccaneers,,0,0.0,0,0,0,0.25
-XLN 1,Checklist Card,,0,0.0,0,0,0,0.50
-XLN 100,Deathless Ancient,,0,0.0,0,0,0,0.50
-XLN 139,Demolish,,0,0.0,0,0,0,0.25
-XLN 103,Dire Fleet Interloper,,0,0.0,0,0,0,0.25
-XLN 12,Glorifier of Dusk,,0,0.0,0,0,0,0.50
-XLN 287,Huatli's Spurring,,0,0.0,0,0,0,0.50
-XLN 115,Queen's Bay Soldier,,0,0.0,0,0,0,0.25
-XLN 30,Rallying Roar,,0,0.0,0,0,0,0.50
-XLN 77,Shore Keeper,,0,0.0,0,0,0,0.25
-XLN 122,Skittering Heartstopper,,0,0.0,0,0,0,0.25
-XLN 270,Swamp,,0,0.0,0,0,0,0.50
-XLN 45,Air Elemental,,0,0.0,0,0,0,0.50
-XLN 237,Elaborate Firecannon,,0,0.0,0,0,0,0.50
-XLN 10,Emissary of Sunrise,,0,0.0,0,0,0,0.50
-XLN 107,Fathom Fleet Cutthroat,,0,0.0,0,0,0,0.25
-XLN 275,Mountain,,0,0.0,0,0,0,0.50
-XLN 121,Seekers' Squire,,0,0.0,0,0,0,0.50
-XLN 124,Skymarch Bloodletter,,0,0.0,0,0,0,0.25
-XLN 163,Storm Fleet Pyromancer,,0,0.0,0,0,0,0.25
-XLN 40,Sunrise Seeker,,0,0.0,0,0,0,0.25
-XLN 271,Swamp,,0,0.0,0,0,0,0.50
-XLN 172,Unfriendly Fire,,0,0.0,0,0,0,0.25
-XLN 127,Vanquish the Weak,,0,0.0,0,0,0,0.25
-XLN 239,Gilded Sentinel,,0,0.0,0,0,0,0.25
-XLN 274,Mountain,,0,0.0,0,0,0,0.50
-XLN 268,Swamp,,0,0.0,0,0,0,0.50
-XLN 97,Dark Nourishment,,0,0.0,0,0,0,0.50
-XLN 8,Demystify,,0,0.0,0,0,0,0.25
-XLN 190,Grazing Whiptail,,0,0.0,0,0,0,0.25
-XLN 264,Island,,0,0.0,0,0,0,0.50
-XLN 193,Ixalli's Keeper,,0,0.0,0,0,0,0.25
-XLN 21,Legion's Judgment,,0,0.0,0,0,0,0.25
-XLN 36,Shining Aerosaur,,0,0.0,0,0,0,0.25
-XLN 38,Slash of Talons,,0,0.0,0,0,0,0.25
-XLN 88,Wind Strider,,0,0.0,0,0,0,0.25
-XLN 59F,Herald of Secret Streams,,0,0.0,0,0,0,10.00
-XLN 117F,Revel in Riches,,0,0.0,0,0,0,28.00
-XLN 50F,Deadeye Quartermaster,,0,0.0,0,0,0,9.00
-XLN 235F,Dowsing Dagger,,0,0.0,0,0,0,9.00
-XLN 251F,Vanquisher's Banner,,0,0.0,0,0,0,14.00
-XLN 243F,Primal Amulet,,0,0.0,0,0,0,18.00
-XLN 224F,"Huatli, Warrior Poet",,0,0.0,0,0,0,6.50
-XLN 18F,Kinjalli's Caller,,0,0.0,0,0,0,5.00
-XLN 201F,Ranging Raptors,,0,0.0,0,0,0,5.50
-XLN 86F,Tempest Caller,,0,0.0,0,0,0,5.00
-XLN 34F,Settle the Wreckage,,0,0.0,0,0,0,7.00
-XLN 19F,Kinjalli's Sunwing,,0,0.0,0,0,0,4.00
-XLN 46F,Arcane Adaptation,,0,0.0,0,0,0,6.50
-XLN 249F,Thaumatic Compass,,0,0.0,0,0,0,5.00
-XLN 153F,Otepec Huntmaster,,0,0.0,0,0,0,3.00
-XLN 258F,Unclaimed Territory,,0,0.0,0,0,0,3.00
-XLN 227F,Regisaur Alpha,,0,0.0,0,0,0,3.00
-XLN 2F,Ashes of the Abhorrent,,0,0.0,0,0,0,2.50
-XLN 71F,River's Rebuke,,0,0.0,0,0,0,4.00
-XLN 79F,Siren Stormtamer,,0,0.0,0,0,0,4.00
-XLN 191F,Growing Rites of Itlimoc,,0,0.0,0,0,0,8.00
-XLN 22F,Legion's Landing,,0,0.0,0,0,0,8.00
-XLN 213F,Verdant Sun's Avatar,,0,0.0,0,0,0,5.00
-XLN 234F,Conqueror's Galleon,,0,0.0,0,0,0,4.00
-XLN 206F,Shapers' Sanctuary,,0,0.0,0,0,0,3.00
-XLN 257F,Sunpetal Grove,,0,0.0,0,0,0,4.00
-XLN 116F,Raiders' Wake,,0,0.0,0,0,0,3.50
-XLN 238F,Fell Flagship,,0,0.0,0,0,0,3.00
-XLN 256F,Rootbound Crag,,0,0.0,0,0,0,7.00
-XLN 179F,Carnage Tyrant,,0,0.0,0,0,0,6.50
-XLN 13F,Goring Ceratops,,0,0.0,0,0,0,6.50
-XLN 82F,Spell Swindle,,0,0.0,0,0,0,3.00
-XLN 244F,Prying Blade,,0,0.0,0,0,0,5.50
-XLN 203F,Ripjaw Raptor,,0,0.0,0,0,0,3.00
-XLN 120F,Sanctum Seeker,,0,0.0,0,0,0,5.00
-XLN 161F,Star of Extinction,,0,0.0,0,0,0,5.00
-XLN 3F,Axis of Mortality,,0,0.0,0,0,0,2.00
-XLN 80F,Siren's Ruse,,0,0.0,0,0,0,2.50
-XLN 53F,Dive Down,,0,0.0,0,0,0,1.50
-XLN 61F,"Kopala, Warden of Waves",,0,0.0,0,0,0,1.50
-XLN 56F,Favorable Winds,,0,0.0,0,0,0,3.00
-XLN 241F,Pillar of Origins,,0,0.0,0,0,0,3.00
-XLN 277F,Forest,,0,0.0,0,0,0,0.50
-XLN 278F,Forest,,0,0.0,0,0,0,0.50
-XLN 217F,Admiral Beckett Brass,,0,0.0,0,0,0,5.00
-XLN 132F,Angrath's Marauders,,0,0.0,0,0,0,5.00
-XLN 74F,Search for Azcanta,,0,0.0,0,0,0,5.00
-XLN 165F,Sunbird's Invocation,,0,0.0,0,0,0,3.00
-XLN 158F,Rile,,0,0.0,0,0,0,3.00
-XLN 255F,Glacial Fortress,,0,0.0,0,0,0,3.00
-XLN 51F,Deeproot Waters,,0,0.0,0,0,0,2.50
-XLN 48F,Chart a Course,,0,0.0,0,0,0,1.50
-XLN 104F,Dire Fleet Ravager,,0,0.0,0,0,0,1.50
-XLN 70F,River Sneak,,0,0.0,0,0,0,1.50
-XLN 129F,Vraska's Contempt,,0,0.0,0,0,0,1.00
-XLN 154F,Rampaging Ferocidon,,0,0.0,0,0,0,4.00
-XLN 4F,Bellowing Aegisaur,,0,0.0,0,0,0,2.00
-XLN 137F,Captivating Crew,,0,0.0,0,0,0,2.00
-XLN 119F,Ruthless Knave,,0,0.0,0,0,0,2.00
-XLN 231F,"Vona, Butcher of Magan",,0,0.0,0,0,0,2.00
-XLN 177F,Blinding Fog,,0,0.0,0,0,0,1.00
-XLN 5F,Bishop of Rebirth,,0,0.0,0,0,0,1.50
-XLN 151F,Makeshift Munitions,,0,0.0,0,0,0,1.00
-XLN 131F,Wanted Scoundrels,,0,0.0,0,0,0,0.50
-XLN 226F,Raging Swordtooth,,0,0.0,0,0,0,3.00
-XLN 128F,Vicious Conquistador,,0,0.0,0,0,0,3.00
-XLN 174F,Wily Goblin,,0,0.0,0,0,0,2.50
-XLN 44F,Wakening Sun's Avatar,,0,0.0,0,0,0,5.00
-XLN 254F,Field of Ruin,,0,0.0,0,0,0,1.00
-XLN 230F,"Tishana, Voice of Thunder",,0,0.0,0,0,0,4.00
-XLN 24F,"Mavren Fein, Dusk Apostle",,0,0.0,0,0,0,3.00
-XLN 143F,Fiery Cannonade,,0,0.0,0,0,0,1.50
-XLN 276F,Forest,,0,0.0,0,0,0,1.00
-XLN 250F,Treasure Map,,0,0.0,0,0,0,2.50
-XLN 175F,Ancient Brontodon,,0,0.0,0,0,0,1.00
-XLN 205F,Savage Stomp,,0,0.0,0,0,0,1.00
-XLN 90F,Arguel's Blood Fast,,0,0.0,0,0,0,1.00
-XLN 42F,Tocatli Honor Guard,,0,0.0,0,0,0,1.00
-XLN 223F,Hostage Taker,,0,0.0,0,0,0,2.00
-XLN 66F,Overflowing Insight,,0,0.0,0,0,0,2.00
-XLN 81F,Spell Pierce,,0,0.0,0,0,0,2.00
-XLN 245F,Sentinel Totem,,0,0.0,0,0,0,0.50
-XLN 215F,Waker of the Wilds,,0,0.0,0,0,0,0.50
-XLN 99F,Deadeye Tracker,,0,0.0,0,0,0,0.50
-XLN 102F,Dire Fleet Hoarder,,0,0.0,0,0,0,0.50
-XLN 148F,Hijack,,0,0.0,0,0,0,0.50
-XLN 210F,Thundering Spineback,,0,0.0,0,0,0,0.50
-XLN 130F,Walk the Plank,,0,0.0,0,0,0,0.50
-XLN 135F,Burning Sun's Avatar,,0,0.0,0,0,0,1.50
-XLN 181F,Commune with Dinosaurs,,0,0.0,0,0,0,1.50
-XLN 184F,Deathgorge Scavenger,,0,0.0,0,0,0,1.00
-XLN 55F,Entrancing Melody,,0,0.0,0,0,0,1.00
-XLN 106F,Fathom Fleet Captain,,0,0.0,0,0,0,1.00
-XLN 240F,Hierophant's Chalice,,0,0.0,0,0,0,0.50
-XLN 248F,Sorcerous Spyglass,,0,0.0,0,0,0,0.50
-XLN 126F,Sword-Point Diplomacy,,0,0.0,0,0,0,0.50
-XLN 170F,Tilonalli's Skinshifter,,0,0.0,0,0,0,0.50
-XLN 9F,Duskborne Skymarcher,,0,0.0,0,0,0,0.50
-XLN 266F,Island,,0,0.0,0,0,0,0.50
-XLN 136F,Captain Lannery Storm,,0,0.0,0,0,0,1.00
-XLN 68F,Pirate's Prize,,0,0.0,0,0,0,0.50
-XLN 96F,Costly Plunder,,0,0.0,0,0,0,1.00
-XLN 221F,Dire Fleet Captain,,0,0.0,0,0,0,1.00
-XLN 267F,Island,,0,0.0,0,0,0,1.00
-XLN 23F,Looming Altisaur,,0,0.0,0,0,0,0.50
-XLN 259F,Unknown Shores,,0,0.0,0,0,0,0.50
-XLN 197F,Merfolk Branchwalker,,0,0.0,0,0,0,1.00
-XLN 155F,Raptor Hatchling,,0,0.0,0,0,0,1.00
-XLN 218F,Belligerent Brontodon,,0,0.0,0,0,0,0.50
-XLN 138F,Charging Monstrosaur,,0,0.0,0,0,0,0.50
-XLN 100F,Deathless Ancient,,0,0.0,0,0,0,0.50
-XLN 185F,Deeproot Champion,,0,0.0,0,0,0,0.50
-XLN 52F,Depths of Desire,,0,0.0,0,0,0,0.50
-XLN 141F,Dual Shot,,0,0.0,0,0,0,0.50
-XLN 189F,Emperor's Vanguard,,0,0.0,0,0,0,0.50
-XLN 110F,Kitesail Freebooter,,0,0.0,0,0,0,0.50
-XLN 112F,March of the Drowned,,0,0.0,0,0,0,0.50
-XLN 274F,Mountain,,0,0.0,0,0,0,0.50
-XLN 275F,Mountain,,0,0.0,0,0,0,0.50
-XLN 64F,One With the Wind,,0,0.0,0,0,0,0.50
-XLN 261F,Plains,,0,0.0,0,0,0,0.50
-XLN 33F,Sanguine Sacrament,,0,0.0,0,0,0,0.50
-XLN 122F,Skittering Heartstopper,,0,0.0,0,0,0,0.50
-XLN 211F,Tishana's Wayfinder,,0,0.0,0,0,0,0.50
-XLN 1F,Adanto Vanguard,,0,0.0,0,0,0,1.00
-XLN 180F,Colossal Dreadmaw,,0,0.0,0,0,0,0.50
-XLN 220F,Deadeye Plunderers,,0,0.0,0,0,0,0.50
-XLN 229F,Sky Terror,,0,0.0,0,0,0,0.50
-XLN 89F,Anointed Deacon,,0,0.0,0,0,0,0.50
-XLN 233F,Cobbled Wings,,0,0.0,0,0,0,0.50
-XLN 95F,Contract Killing,,0,0.0,0,0,0,0.50
-XLN 98F,Deadeye Tormentor,,0,0.0,0,0,0,0.50
-XLN 140F,Dinosaur Stampede,,0,0.0,0,0,0,0.50
-XLN 54F,Dreamcaller Siren,,0,0.0,0,0,0,0.50
-XLN 187F,Drover of the Mighty,,0,0.0,0,0,0,0.50
-XLN 237F,Elaborate Firecannon,,0,0.0,0,0,0,0.50
-XLN 12F,Glorifier of Dusk,,0,0.0,0,0,0,0.50
-XLN 14F,Imperial Aerosaur,,0,0.0,0,0,0,0.50
-XLN 264F,Island,,0,0.0,0,0,0,0.50
-XLN 17F,Ixalan's Binding,,0,0.0,0,0,0,0.50
-XLN 192F,Ixalli's Diviner,,0,0.0,0,0,0,0.50
-XLN 196F,Kumena's Speaker,,0,0.0,0,0,0,0.50
-XLN 20F,Legion Conquistador,,0,0.0,0,0,0,0.50
-XLN 62F,Lookout's Dispersal,,0,0.0,0,0,0,0.50
-XLN 113F,Mark of the Vampire,,0,0.0,0,0,0,0.50
-XLN 198F,New Horizons,,0,0.0,0,0,0,0.50
-XLN 199F,Old-Growth Dryads,,0,0.0,0,0,0,0.50
-XLN 67F,Perilous Voyage,,0,0.0,0,0,0,0.50
-XLN 242F,Pirate's Cutlass,,0,0.0,0,0,0,0.50
-XLN 262F,Plains,,0,0.0,0,0,0,0.50
-XLN 200F,Pounce,,0,0.0,0,0,0,0.50
-XLN 27F,Priest of the Wakening Sun,,0,0.0,0,0,0,0.50
-XLN 69F,Prosperous Pirates,,0,0.0,0,0,0,0.50
-XLN 114F,Queen's Agent,,0,0.0,0,0,0,0.50
-XLN 115F,Queen's Bay Soldier,,0,0.0,0,0,0,0.50
-XLN 30F,Rallying Roar,,0,0.0,0,0,0,0.50
-XLN 31F,Raptor Companion,,0,0.0,0,0,0,0.50
-XLN 204F,River Heralds' Boon,,0,0.0,0,0,0,0.50
-XLN 160F,Rummaging Goblin,,0,0.0,0,0,0,0.50
-XLN 246F,Shadowed Caravel,,0,0.0,0,0,0,0.50
-XLN 75F,Shaper Apprentice,,0,0.0,0,0,0,0.50
-XLN 76F,Shipwreck Looter,,0,0.0,0,0,0,0.50
-XLN 37F,Skyblade of the Legion,,0,0.0,0,0,0,0.50
-XLN 39F,Steadfast Armasaur,,0,0.0,0,0,0,0.50
-XLN 83F,Storm Fleet Aerialist,,0,0.0,0,0,0,0.50
-XLN 164F,Sun-Crowned Hunters,,0,0.0,0,0,0,0.50
-XLN 268F,Swamp,,0,0.0,0,0,0,0.50
-XLN 269F,Swamp,,0,0.0,0,0,0,0.50
-XLN 270F,Swamp,,0,0.0,0,0,0,0.50
-XLN 271F,Swamp,,0,0.0,0,0,0,0.50
-XLN 41F,Territorial Hammerskull,,0,0.0,0,0,0,0.50
-XLN 168F,Thrash of Raptors,,0,0.0,0,0,0,0.50
-XLN 127F,Vanquish the Weak,,0,0.0,0,0,0,0.50
-XLN 87F,Watertrap Weaver,,0,0.0,0,0,0,0.50
-XLN 45F,Air Elemental,,0,0.0,0,0,0,0.50
-XLN 176F,Atzocan Archer,,0,0.0,0,0,0,0.50
-XLN 91F,Bishop of the Bloodstained,,0,0.0,0,0,0,0.50
-XLN 6F,Bishop's Soldier,,0,0.0,0,0,0,0.50
-XLN 92F,Blight Keeper,,0,0.0,0,0,0,0.50
-XLN 93F,Bloodcrazed Paladin,,0,0.0,0,0,0,2.00
-XLN 178F,Blossom Dryad,,0,0.0,0,0,0,0.50
-XLN 133F,Bonded Horncrest,,0,0.0,0,0,0,0.50
-XLN 94F,Boneyard Parley,,0,0.0,0,0,0,1.00
-XLN 134F,Brazen Buccaneers,,0,0.0,0,0,0,0.50
-XLN 7F,Bright Reprisal,,0,0.0,0,0,0,0.50
-XLN 219F,Call to the Feast,,0,0.0,0,0,0,0.50
-XLN 47F,Cancel,,0,0.0,0,0,0,0.50
-XLN 182F,Crash the Ramparts,,0,0.0,0,0,0,0.50
-XLN 183F,Crushing Canopy,,0,0.0,0,0,0,0.50
-XLN 49F,Daring Saboteur,,0,0.0,0,0,0,0.50
-XLN 97F,Dark Nourishment,,0,0.0,0,0,0,0.50
-XLN 186F,Deeproot Warrior,,0,0.0,0,0,0,0.50
-XLN 139F,Demolish,,0,0.0,0,0,0,0.50
-XLN 8F,Demystify,,0,0.0,0,0,0,0.50
-XLN 101F,Desperate Castaways,,0,0.0,0,0,0,0.50
-XLN 103F,Dire Fleet Interloper,,0,0.0,0,0,0,0.50
-XLN 252F,Dragonskull Summit,,0,0.0,0,0,0,5.50
-XLN 253F,Drowned Catacomb,,0,0.0,0,0,0,7.00
-XLN 105F,Duress,,0,0.0,0,0,0,0.50
-XLN 236F,Dusk Legion Dreadnought,,0,0.0,0,0,0,1.00
-XLN 188F,Emergent Growth,,0,0.0,0,0,0,0.50
-XLN 10F,Emissary of Sunrise,,0,0.0,0,0,0,0.50
-XLN 11F,Encampment Keeper,,0,0.0,0,0,0,0.50
-XLN 107F,Fathom Fleet Cutthroat,,0,0.0,0,0,0,0.50
-XLN 142F,Fathom Fleet Firebrand,,0,0.0,0,0,0,0.50
-XLN 144F,Fire Shrine Keeper,,0,0.0,0,0,0,0.50
-XLN 145F,Firecannon Blast,,0,0.0,0,0,0,0.50
-XLN 57F,Fleet Swallower,,0,0.0,0,0,0,5.50
-XLN 279F,Forest,,0,0.0,0,0,0,1.00
-XLN 146F,Frenzied Raptor,,0,0.0,0,0,0,0.50
-XLN 239F,Gilded Sentinel,,0,0.0,0,0,0,0.50
-XLN 190F,Grazing Whiptail,,0,0.0,0,0,0,0.50
-XLN 108F,Grim Captain's Call,,0,0.0,0,0,0,0.50
-XLN 147F,Headstrong Brute,,0,0.0,0,0,0,0.50
-XLN 58F,Headwater Sentries,,0,0.0,0,0,0,0.50
-XLN 109F,Heartless Pillage,,0,0.0,0,0,0,0.50
-XLN 15F,Imperial Lancer,,0,0.0,0,0,0,0.50
-XLN 16F,Inspiring Cleric,,0,0.0,0,0,0,0.50
-XLN 265F,Island,,0,0.0,0,0,0,1.50
-XLN 193F,Ixalli's Keeper,,0,0.0,0,0,0,0.50
-XLN 60F,"Jace, Cunning Castaway",,0,0.0,0,0,0,2.00
-XLN 194F,Jade Guardian,,0,0.0,0,0,0,0.50
-XLN 195F,Jungle Delver,,0,0.0,0,0,0,0.50
-XLN 21F,Legion's Judgment,,0,0.0,0,0,0,0.50
-XLN 222F,"Gishath, Sun's Avatar",,0,0.0,0,0,0,28.00
-XLN 149F,Lightning Strike,,0,0.0,0,0,0,0.50
-XLN 150F,Lightning-Rig Crew,,0,0.0,0,0,0,1.00
-XLN 111F,Lurking Chupacabra,,0,0.0,0,0,0,0.50
-XLN 225F,Marauding Looter,,0,0.0,0,0,0,0.50
-XLN 272F,Mountain,,0,0.0,0,0,0,0.50
-XLN 273F,Mountain,,0,0.0,0,0,0,0.50
-XLN 63F,Navigator's Ruin,,0,0.0,0,0,0,0.50
-XLN 152F,Nest Robber,,0,0.0,0,0,0,0.50
-XLN 65F,Opt,,0,0.0,0,0,0,1.00
-XLN 25F,Paladin of the Bloodstained,,0,0.0,0,0,0,0.50
-XLN 26F,Pious Interdiction,,0,0.0,0,0,0,0.50
-XLN 260F,Plains,,0,0.0,0,0,0,0.50
-XLN 263F,Plains,,0,0.0,0,0,0,0.50
-XLN 28F,Pterodon Knight,,0,0.0,0,0,0,0.50
-XLN 29F,Queen's Commission,,0,0.0,0,0,0,0.50
-XLN 202F,Ravenous Daggertooth,,0,0.0,0,0,0,0.50
-XLN 156F,Repeating Barrage,,0,0.0,0,0,0,0.50
-XLN 157F,Rigging Runner,,0,0.0,0,0,0,0.50
-XLN 32F,Ritual of Rejuvenation,,0,0.0,0,0,0,0.50
-XLN 159F,Rowdy Crew,,0,0.0,0,0,0,1.00
-XLN 118F,Ruin Raider,,0,0.0,0,0,0,0.50
-XLN 72F,Run Aground,,0,0.0,0,0,0,0.50
-XLN 73F,Sailor of Means,,0,0.0,0,0,0,0.50
-XLN 121F,Seekers' Squire,,0,0.0,0,0,0,0.50
-XLN 228F,Shapers of Nature,,0,0.0,0,0,0,0.50
-XLN 35F,Sheltering Light,,0,0.0,0,0,0,3.00
-XLN 36F,Shining Aerosaur,,0,0.0,0,0,0,0.50
-XLN 77F,Shore Keeper,,0,0.0,0,0,0,0.50
-XLN 78F,Siren Lookout,,0,0.0,0,0,0,0.50
-XLN 123F,Skulduggery,,0,0.0,0,0,0,0.50
-XLN 124F,Skymarch Bloodletter,,0,0.0,0,0,0,0.50
-XLN 38F,Slash of Talons,,0,0.0,0,0,0,0.50
-XLN 247F,Sleek Schooner,,0,0.0,0,0,0,0.50
-XLN 207F,Slice in Twain,,0,0.0,0,0,0,0.50
-XLN 208F,Snapping Sailback,,0,0.0,0,0,0,1.00
-XLN 209F,Spike-Tailed Ceratops,,0,0.0,0,0,0,0.50
-XLN 125F,Spreading Rot,,0,0.0,0,0,0,0.50
-XLN 162F,Storm Fleet Arsonist,,0,0.0,0,0,0,0.50
-XLN 163F,Storm Fleet Pyromancer,,0,0.0,0,0,0,0.50
-XLN 84F,Storm Fleet Spy,,0,0.0,0,0,0,0.50
-XLN 85F,Storm Sculptor,,0,0.0,0,0,0,0.50
-XLN 40F,Sunrise Seeker,,0,0.0,0,0,0,0.50
-XLN 166F,Sure Strike,,0,0.0,0,0,0,0.50
-XLN 167F,Swashbuckling,,0,0.0,0,0,0,0.50
-XLN 169F,Tilonalli's Knight,,0,0.0,0,0,0,0.50
-XLN 171F,Trove of Temptation,,0,0.0,0,0,0,0.50
-XLN 172F,Unfriendly Fire,,0,0.0,0,0,0,0.50
-XLN 43F,Vampire's Zeal,,0,0.0,0,0,0,0.50
-XLN 173F,Vance's Blasting Cannons,,0,0.0,0,0,0,2.00
-XLN 212F,Verdant Rebirth,,0,0.0,0,0,0,1.00
-XLN 214F,Vineshaper Mystic,,0,0.0,0,0,0,0.50
-XLN 232F,"Vraska, Relic Seeker",,0,0.0,0,0,0,5.00
-XLN 216F,Wildgrowth Walker,,0,0.0,0,0,0,7.00
-XLN 88F,Wind Strider,,0,0.0,0,0,0,0.50
-JOU 163,Mana Confluence,,0,0.0,0,0,0,34.00
-JOU 65,Dictate of Erebos,,0,0.0,0,0,0,17.00
-JOU 150,"Iroas, God of Victory",,0,0.0,0,0,0,15.00
-JOU 146,"Athreos, God of Passage",,0,0.0,0,0,0,18.00
-JOU 75,Master of the Feast,,0,0.0,0,0,0,5.00
-JOU 122,Eidolon of Blossoms,,0,0.0,0,0,0,2.00
-JOU 94,Eidolon of the Great Revel,,0,0.0,0,0,0,3.00
-JOU 93,Dictate of the Twin Gods,,0,0.0,0,0,0,2.00
-JOU 154,"Pharika, God of Affliction",,0,0.0,0,0,0,4.50
-JOU 1,Aegis of the Gods,,0,0.0,0,0,0,2.00
-JOU 50,Sage of Hours,,0,0.0,0,0,0,4.50
-JOU 37,Dictate of Kruphix,,0,0.0,0,0,0,2.50
-JOU 151,"Keranos, God of Storms",,0,0.0,0,0,0,4.00
-JOU 145,"Ajani, Mentor of Heroes",,0,0.0,0,0,0,4.50
-JOU 121,Dictate of Karametra,,0,0.0,0,0,0,1.50
-JOU 10,Eidolon of Rhetoric,,0,0.0,0,0,0,1.00
-JOU 73,Grim Guardian,,0,0.0,0,0,0,0.50
-JOU 12,Godsend,,0,0.0,0,0,0,4.00
-JOU 152,"Kruphix, God of Horizons",,0,0.0,0,0,0,3.50
-JOU 159,Chariot of Victory,,0,0.0,0,0,0,1.00
-JOU 51,Scourge of Fleets,,0,0.0,0,0,0,1.00
-JOU 141,Solidarity of Heroes,,0,0.0,0,0,0,1.00
-JOU 87,Worst Fears,,0,0.0,0,0,0,2.00
-JOU 140,Setessan Tactics,,0,0.0,0,0,0,1.00
-JOU 115,Twinflame,,0,0.0,0,0,0,5.50
-JOU 6,Snake Token,,0,0.0,0,0,0,2.00
-JOU 74,"King Macar, the Gold-Cursed",,0,0.0,0,0,0,1.00
-JOU 5,Banishing Light,,0,0.0,0,0,0,0.50
-JOU 18,Nyx-Fleece Ram,,0,0.0,0,0,0,0.50
-JOU 59,Agent of Erebos,,0,0.0,0,0,0,0.50
-JOU 123,Font of Fertility,,0,0.0,0,0,0,0.50
-JOU 15,Launch the Fleet,,0,0.0,0,0,0,0.50
-JOU 56,Triton Shorestalker,,0,0.0,0,0,0,0.50
-JOU 162,Hall of Triumph,,0,0.0,0,0,0,0.50
-JOU 85,Thoughtrender Lamia,,0,0.0,0,0,0,0.50
-JOU 106,Prophetic Flamespeaker,,0,0.0,0,0,0,1.00
-JOU 112,Spawn of Thraxes,,0,0.0,0,0,0,0.50
-JOU 165,Temple of Malady,,0,0.0,0,0,0,0.50
-JOU 153,Nyx Weaver,,0,0.0,0,0,0,0.50
-JOU 14,Lagonna-Band Trailblazer,,0,0.0,0,0,0,0.25
-JOU 78,Pharika's Chosen,,0,0.0,0,0,0,0.25
-JOU 128,Hydra Broodmaster,,0,0.0,0,0,0,0.50
-JOU 66,Doomwake Giant,,0,0.0,0,0,0,0.50
-JOU 25,Skybind,,0,0.0,0,0,0,0.50
-JOU 35,Dakra Mystic,,0,0.0,0,0,0,0.50
-JOU 157,Underworld Coinsmith,,0,0.0,0,0,0,0.50
-JOU 42,Hypnotic Siren,,0,0.0,0,0,0,0.50
-JOU 89,Bearer of the Heavens,,0,0.0,0,0,0,0.50
-JOU 158,Armory of Iroas,,0,0.0,0,0,0,0.50
-JOU 164,Temple of Epiphany,,0,0.0,0,0,0,1.00
-JOU 33,Countermand,,0,0.0,0,0,0,0.25
-JOU 8,Dictate of Heliod,,0,0.0,0,0,0,0.50
-JOU 3,Minotaur Token,,0,0.0,0,0,0,0.50
-JOU 36,Daring Thief,,0,0.0,0,0,0,0.50
-JOU 100,Harness by Force,,0,0.0,0,0,0,0.50
-JOU 95,Flamespeaker's Will,,0,0.0,0,0,0,0.25
-JOU 52,Sigiled Starfish,,0,0.0,0,0,0,0.25
-JOU 17,Mortal Obstinacy,,0,0.0,0,0,0,0.25
-JOU 4,Hydra Token,,0,0.0,0,0,0,0.50
-JOU 31,Battlefield Thaumaturge,,0,0.0,0,0,0,0.50
-JOU 117,Bassara Tower Archer,,0,0.0,0,0,0,0.50
-JOU 126,Heroes' Bane,,0,0.0,0,0,0,0.50
-JOU 98,Forgeborn Oreads,,0,0.0,0,0,0,0.50
-JOU 47,Pull from the Deep,,0,0.0,0,0,0,0.50
-JOU 60,Aspect of Gorgon,,0,0.0,0,0,0,0.25
-JOU 62,Brain Maggot,,0,0.0,0,0,0,0.50
-JOU 70,Felhide Petrifier,,0,0.0,0,0,0,0.50
-JOU 11,Font of Vigor,,0,0.0,0,0,0,0.25
-JOU 129,Kruphix's Insight,,0,0.0,0,0,0,0.25
-JOU 130,Market Festival,,0,0.0,0,0,0,0.25
-JOU 68,Extinguish All Hope,,0,0.0,0,0,0,0.50
-JOU 2,Ajani's Presence,,0,0.0,0,0,0,0.25
-JOU 97,Font of Ire,,0,0.0,0,0,0,0.25
-JOU 72,Gnarled Scarhide,,0,0.0,0,0,0,0.50
-JOU 135,Pheres-Band Warchief,,0,0.0,0,0,0,0.50
-JOU 148,Disciple of Deceit,,0,0.0,0,0,0,0.50
-JOU 13,Harvestguard Alseids,,0,0.0,0,0,0,0.25
-JOU 110,Satyr Hoplite,,0,0.0,0,0,0,0.25
-JOU 48,Riptide Chimera,,0,0.0,0,0,0,0.50
-JOU 79,Returned Reveler,,0,0.0,0,0,0,0.25
-JOU 138,Reviving Melody,,0,0.0,0,0,0,0.50
-JOU 54,Thassa's Ire,,0,0.0,0,0,0,0.50
-JOU 109,Rouse the Mob,,0,0.0,0,0,0,0.25
-JOU 113,Spite of Mogis,,0,0.0,0,0,0,0.50
-JOU 63,Cast into Darkness,,0,0.0,0,0,0,0.25
-JOU 92,Cyclops of Eternal Fury,,0,0.0,0,0,0,0.50
-JOU 19,Oppressive Rays,,0,0.0,0,0,0,0.25
-JOU 120,Desecration Plague,,0,0.0,0,0,0,0.25
-JOU 124,Golden Hind,,0,0.0,0,0,0,0.25
-JOU 144,Swarmborn Giant,,0,0.0,0,0,0,0.50
-JOU 58,Whitewater Naiads,,0,0.0,0,0,0,0.50
-JOU 127,Humbler of Mortals,,0,0.0,0,0,0,0.25
-JOU 143,Strength from the Fallen,,0,0.0,0,0,0,0.50
-JOU 29,Tethmos High Priest,,0,0.0,0,0,0,0.50
-JOU 116,Wildfire Cerberus,,0,0.0,0,0,0,0.50
-JOU 7,Deicide,,0,0.0,0,0,0,0.50
-JOU 46,Polymorphous Rush,,0,0.0,0,0,0,0.50
-JOU 91,Blinding Flare,,0,0.0,0,0,0,0.50
-JOU 44,Kiora's Dismissal,,0,0.0,0,0,0,0.50
-JOU 104,Mogis's Warhound,,0,0.0,0,0,0,0.50
-JOU 155,Revel of the Fallen God,,0,0.0,0,0,0,0.50
-JOU 139,Satyr Grovedancer,,0,0.0,0,0,0,0.25
-JOU 5,Spider Token,,0,0.0,0,0,0,0.50
-JOU 30,Aerial Formation,,0,0.0,0,0,0,0.25
-JOU 147,Desperate Stand,,0,0.0,0,0,0,0.50
-JOU 71,Font of Return,,0,0.0,0,0,0,0.25
-JOU 23,Reprisal,,0,0.0,0,0,0,0.50
-JOU 84,Squelching Leeches,,0,0.0,0,0,0,0.50
-JOU 53,Thassa's Devourer,,0,0.0,0,0,0,0.25
-JOU 4,Armament of Nyx,,0,0.0,0,0,0,0.25
-JOU 34,Crystalline Nautilus,,0,0.0,0,0,0,0.50
-JOU 69,Feast of Dreams,,0,0.0,0,0,0,0.25
-JOU 96,Flurry of Horns,,0,0.0,0,0,0,0.25
-JOU 161,Gold-Forged Sentinel,,0,0.0,0,0,0,0.50
-JOU 43,Interpret the Signs,,0,0.0,0,0,0,0.50
-JOU 132,Nessian Game Warden,,0,0.0,0,0,0,0.50
-JOU 137,Renowned Weaver,,0,0.0,0,0,0,0.25
-JOU 24,Sightless Brawler,,0,0.0,0,0,0,0.50
-JOU 111,Sigiled Skink,,0,0.0,0,0,0,0.25
-JOU 57,War-Wing Siren,,0,0.0,0,0,0,0.25
-JOU 82,Silence the Believers,,0,0.0,0,0,0,0.50
-JOU 3,Akroan Mastiff,,0,0.0,0,0,0,0.25
-JOU 61,Bloodcrazed Hoplite,,0,0.0,0,0,0,0.25
-JOU 64,Cruel Feeding,,0,0.0,0,0,0,0.25
-JOU 9,Eagle of the Watch,,0,0.0,0,0,0,0.25
-JOU 149,Fleetfeather Cockatrice,,0,0.0,0,0,0,0.50
-JOU 38,Font of Fortunes,,0,0.0,0,0,0,0.25
-JOU 41,Hubris,,0,0.0,0,0,0,0.25
-JOU 103,Magma Spray,,0,0.0,0,0,0,0.25
-JOU 49,Rise of Eagles,,0,0.0,0,0,0,0.25
-JOU 80,Ritual of the Returned,,0,0.0,0,0,0,0.50
-JOU 1,Sphinx Token,,0,0.0,0,0,0,0.50
-JOU 156,Stormchaser Chimera,,0,0.0,0,0,0,0.50
-JOU 118,Colossal Heroics,,0,0.0,0,0,0,0.50
-JOU 119,Consign to Dust,,0,0.0,0,0,0,0.50
-JOU 160,Deserter's Quarters,,0,0.0,0,0,0,0.50
-JOU 39,Godhunter Octopus,,0,0.0,0,0,0,0.25
-JOU 125,Goldenhide Ox,,0,0.0,0,0,0,0.50
-JOU 40,Hour of Need,,0,0.0,0,0,0,0.50
-JOU 101,Knowledge and Power,,0,0.0,0,0,0,0.50
-JOU 16,Leonin Iconoclast,,0,0.0,0,0,0,0.50
-JOU 133,Oakheart Dryads,,0,0.0,0,0,0,0.25
-JOU 105,Pensive Minotaur,,0,0.0,0,0,0,0.25
-JOU 21,Phalanx Formation,,0,0.0,0,0,0,0.50
-JOU 107,Riddle of Lightning,,0,0.0,0,0,0,0.50
-JOU 83,Spiteful Blow,,0,0.0,0,0,0,0.50
-JOU 55,Triton Cavalry,,0,0.0,0,0,0,0.50
-JOU 2,Zombie Token,,0,0.0,0,0,0,0.50
-JOU 32,Cloaked Siren,,0,0.0,0,0,0,0.25
-JOU 67,Dreadbringer Lampads,,0,0.0,0,0,0,0.25
-JOU 99,Gluttonous Cyclops,,0,0.0,0,0,0,0.25
-JOU 131,Nature's Panoply,,0,0.0,0,0,0,0.25
-JOU 76,Nightmarish End,,0,0.0,0,0,0,0.50
-JOU 22,Quarry Colossus,,0,0.0,0,0,0,0.50
-JOU 108,Rollick of Abandon,,0,0.0,0,0,0,0.50
-JOU 28,Supply-Line Cranes,,0,0.0,0,0,0,0.25
-JOU 6,Dawnbringer Charioteers,,0,0.0,0,0,0,0.50
-JOU 88,Akroan Line Breaker,,0,0.0,0,0,0,0.50
-JOU 90,Bladetusk Boar,,0,0.0,0,0,0,0.25
-JOU 102,Lightning Diadem,,0,0.0,0,0,0,0.25
-JOU 20,Oreskos Swiftclaw,,0,0.0,0,0,0,0.25
-JOU 134,Pheres-Band Thunderhoof,,0,0.0,0,0,0,0.25
-JOU 45,Pin to the Earth,,0,0.0,0,0,0,0.25
-JOU 136,Ravenous Leucrocota,,0,0.0,0,0,0,0.25
-JOU 26,Skyspear Cavalry,,0,0.0,0,0,0,0.50
-JOU 77,Nyx Infusion,,0,0.0,0,0,0,0.25
-JOU 81,Rotted Hulk,,0,0.0,0,0,0,0.25
-JOU 142,Spirespine,,0,0.0,0,0,0,0.50
-JOU 114,Starfall,,0,0.0,0,0,0,0.25
-JOU 27,Stonewise Fortifier,,0,0.0,0,0,0,0.25
-JOU 86,Tormented Thoughts,,0,0.0,0,0,0,0.50
-JOU 163F,Mana Confluence,,0,0.0,0,0,0,56.00
-JOU 65F,Dictate of Erebos,,0,0.0,0,0,0,24.00
-JOU 154F,"Pharika, God of Affliction",,0,0.0,0,0,0,9.00
-JOU 12F,Godsend,,0,0.0,0,0,0,22.00
-JOU 73F,Grim Guardian,,0,0.0,0,0,0,11.00
-JOU 50F,Sage of Hours,,0,0.0,0,0,0,16.00
-JOU 159F,Chariot of Victory,,0,0.0,0,0,0,8.00
-JOU 10F,Eidolon of Rhetoric,,0,0.0,0,0,0,9.00
-JOU 150F,"Iroas, God of Victory",,0,0.0,0,0,0,24.00
-JOU 145F,"Ajani, Mentor of Heroes",,0,0.0,0,0,0,14.00
-JOU 1F,Aegis of the Gods,,0,0.0,0,0,0,6.50
-JOU 85F,Thoughtrender Lamia,,0,0.0,0,0,0,4.00
-JOU 56F,Triton Shorestalker,,0,0.0,0,0,0,4.00
-JOU 87F,Worst Fears,,0,0.0,0,0,0,11.00
-JOU 89F,Bearer of the Heavens,,0,0.0,0,0,0,3.50
-JOU 37F,Dictate of Kruphix,,0,0.0,0,0,0,5.00
-JOU 115F,Twinflame,,0,0.0,0,0,0,8.00
-JOU 146F,"Athreos, God of Passage",,0,0.0,0,0,0,40.00
-JOU 94F,Eidolon of the Great Revel,,0,0.0,0,0,0,5.00
-JOU 153F,Nyx Weaver,,0,0.0,0,0,0,12.00
-JOU 75F,Master of the Feast,,0,0.0,0,0,0,11.00
-JOU 117F,Bassara Tower Archer,,0,0.0,0,0,0,2.00
-JOU 122F,Eidolon of Blossoms,,0,0.0,0,0,0,5.00
-JOU 141F,Solidarity of Heroes,,0,0.0,0,0,0,5.00
-JOU 152F,"Kruphix, God of Horizons",,0,0.0,0,0,0,14.00
-JOU 74F,"King Macar, the Gold-Cursed",,0,0.0,0,0,0,5.00
-JOU 18F,Nyx-Fleece Ram,,0,0.0,0,0,0,3.00
-JOU 165F,Temple of Malady,,0,0.0,0,0,0,2.50
-JOU 151F,"Keranos, God of Storms",,0,0.0,0,0,0,9.00
-JOU 51F,Scourge of Fleets,,0,0.0,0,0,0,1.00
-JOU 121F,Dictate of Karametra,,0,0.0,0,0,0,4.00
-JOU 123F,Font of Fertility,,0,0.0,0,0,0,1.50
-JOU 35F,Dakra Mystic,,0,0.0,0,0,0,2.00
-JOU 93F,Dictate of the Twin Gods,,0,0.0,0,0,0,5.50
-JOU 8F,Dictate of Heliod,,0,0.0,0,0,0,3.00
-JOU 70F,Felhide Petrifier,,0,0.0,0,0,0,2.50
-JOU 25F,Skybind,,0,0.0,0,0,0,2.50
-JOU 164F,Temple of Epiphany,,0,0.0,0,0,0,2.50
-JOU 140F,Setessan Tactics,,0,0.0,0,0,0,3.00
-JOU 148F,Disciple of Deceit,,0,0.0,0,0,0,1.50
-JOU 98F,Forgeborn Oreads,,0,0.0,0,0,0,1.50
-JOU 68F,Extinguish All Hope,,0,0.0,0,0,0,2.50
-JOU 158F,Armory of Iroas,,0,0.0,0,0,0,1.00
-JOU 48F,Riptide Chimera,,0,0.0,0,0,0,1.00
-JOU 128F,Hydra Broodmaster,,0,0.0,0,0,0,1.00
-JOU 60F,Aspect of Gorgon,,0,0.0,0,0,0,0.50
-JOU 77F,Nyx Infusion,,0,0.0,0,0,0,0.50
-JOU 130F,Market Festival,,0,0.0,0,0,0,1.50
-JOU 66F,Doomwake Giant,,0,0.0,0,0,0,3.00
-JOU 15F,Launch the Fleet,,0,0.0,0,0,0,1.00
-JOU 30F,Aerial Formation,,0,0.0,0,0,0,0.50
-JOU 119F,Consign to Dust,,0,0.0,0,0,0,0.50
-JOU 29F,Tethmos High Priest,,0,0.0,0,0,0,0.50
-JOU 95F,Flamespeaker's Will,,0,0.0,0,0,0,0.50
-JOU 17F,Mortal Obstinacy,,0,0.0,0,0,0,0.50
-JOU 112F,Spawn of Thraxes,,0,0.0,0,0,0,0.50
-JOU 72F,Gnarled Scarhide,,0,0.0,0,0,0,1.00
-JOU 162F,Hall of Triumph,,0,0.0,0,0,0,1.00
-JOU 14F,Lagonna-Band Trailblazer,,0,0.0,0,0,0,1.00
-JOU 78F,Pharika's Chosen,,0,0.0,0,0,0,1.00
-JOU 31F,Battlefield Thaumaturge,,0,0.0,0,0,0,0.50
-JOU 46F,Polymorphous Rush,,0,0.0,0,0,0,0.50
-JOU 107F,Riddle of Lightning,,0,0.0,0,0,0,0.50
-JOU 111F,Sigiled Skink,,0,0.0,0,0,0,0.50
-JOU 100F,Harness by Force,,0,0.0,0,0,0,1.00
-JOU 110F,Satyr Hoplite,,0,0.0,0,0,0,1.00
-JOU 54F,Thassa's Ire,,0,0.0,0,0,0,1.00
-JOU 3F,Akroan Mastiff,,0,0.0,0,0,0,0.50
-JOU 62F,Brain Maggot,,0,0.0,0,0,0,0.50
-JOU 120F,Desecration Plague,,0,0.0,0,0,0,0.50
-JOU 149F,Fleetfeather Cockatrice,,0,0.0,0,0,0,0.50
-JOU 11F,Font of Vigor,,0,0.0,0,0,0,0.50
-JOU 126F,Heroes' Bane,,0,0.0,0,0,0,0.50
-JOU 129F,Kruphix's Insight,,0,0.0,0,0,0,0.50
-JOU 137F,Renowned Weaver,,0,0.0,0,0,0,0.50
-JOU 138F,Reviving Melody,,0,0.0,0,0,0,0.50
-JOU 109F,Rouse the Mob,,0,0.0,0,0,0,0.50
-JOU 113F,Spite of Mogis,,0,0.0,0,0,0,0.50
-JOU 114F,Starfall,,0,0.0,0,0,0,0.50
-JOU 53F,Thassa's Devourer,,0,0.0,0,0,0,0.50
-JOU 135F,Pheres-Band Warchief,,0,0.0,0,0,0,0.50
-JOU 155F,Revel of the Fallen God,,0,0.0,0,0,0,0.50
-JOU 88F,Akroan Line Breaker,,0,0.0,0,0,0,0.50
-JOU 33F,Countermand,,0,0.0,0,0,0,0.50
-JOU 64F,Cruel Feeding,,0,0.0,0,0,0,0.50
-JOU 160F,Deserter's Quarters,,0,0.0,0,0,0,0.50
-JOU 67F,Dreadbringer Lampads,,0,0.0,0,0,0,0.50
-JOU 69F,Feast of Dreams,,0,0.0,0,0,0,0.50
-JOU 39F,Godhunter Octopus,,0,0.0,0,0,0,0.50
-JOU 13F,Harvestguard Alseids,,0,0.0,0,0,0,0.50
-JOU 41F,Hubris,,0,0.0,0,0,0,0.50
-JOU 132F,Nessian Game Warden,,0,0.0,0,0,0,0.50
-JOU 76F,Nightmarish End,,0,0.0,0,0,0,0.50
-JOU 133F,Oakheart Dryads,,0,0.0,0,0,0,0.50
-JOU 19F,Oppressive Rays,,0,0.0,0,0,0,0.50
-JOU 134F,Pheres-Band Thunderhoof,,0,0.0,0,0,0,0.50
-JOU 22F,Quarry Colossus,,0,0.0,0,0,0,0.50
-JOU 136F,Ravenous Leucrocota,,0,0.0,0,0,0,0.50
-JOU 23F,Reprisal,,0,0.0,0,0,0,0.50
-JOU 7F,Deicide,,0,0.0,0,0,0,0.50
-JOU 79F,Returned Reveler,,0,0.0,0,0,0,0.50
-JOU 49F,Rise of Eagles,,0,0.0,0,0,0,0.50
-JOU 81F,Rotted Hulk,,0,0.0,0,0,0,0.50
-JOU 24F,Sightless Brawler,,0,0.0,0,0,0,0.50
-JOU 52F,Sigiled Starfish,,0,0.0,0,0,0,0.50
-JOU 82F,Silence the Believers,,0,0.0,0,0,0,0.50
-JOU 83F,Spiteful Blow,,0,0.0,0,0,0,0.50
-JOU 143F,Strength from the Fallen,,0,0.0,0,0,0,0.50
-JOU 86F,Tormented Thoughts,,0,0.0,0,0,0,0.50
-JOU 55F,Triton Cavalry,,0,0.0,0,0,0,0.50
-JOU 58F,Whitewater Naiads,,0,0.0,0,0,0,0.50
-JOU 59F,Agent of Erebos,,0,0.0,0,0,0,4.00
-JOU 2F,Ajani's Presence,,0,0.0,0,0,0,1.00
-JOU 4F,Armament of Nyx,,0,0.0,0,0,0,0.50
-JOU 90F,Bladetusk Boar,,0,0.0,0,0,0,0.50
-JOU 91F,Blinding Flare,,0,0.0,0,0,0,0.50
-JOU 61F,Bloodcrazed Hoplite,,0,0.0,0,0,0,0.50
-JOU 63F,Cast into Darkness,,0,0.0,0,0,0,0.50
-JOU 32F,Cloaked Siren,,0,0.0,0,0,0,0.50
-JOU 118F,Colossal Heroics,,0,0.0,0,0,0,0.50
-JOU 34F,Crystalline Nautilus,,0,0.0,0,0,0,0.50
-JOU 92F,Cyclops of Eternal Fury,,0,0.0,0,0,0,0.50
-JOU 36F,Daring Thief,,0,0.0,0,0,0,2.50
-JOU 6F,Dawnbringer Charioteers,,0,0.0,0,0,0,0.50
-JOU 5F,Banishing Light,,0,0.0,0,0,0,1.00
-JOU 147F,Desperate Stand,,0,0.0,0,0,0,0.50
-JOU 9F,Eagle of the Watch,,0,0.0,0,0,0,0.50
-JOU 96F,Flurry of Horns,,0,0.0,0,0,0,0.50
-JOU 38F,Font of Fortunes,,0,0.0,0,0,0,0.50
-JOU 97F,Font of Ire,,0,0.0,0,0,0,0.50
-JOU 71F,Font of Return,,0,0.0,0,0,0,0.50
-JOU 99F,Gluttonous Cyclops,,0,0.0,0,0,0,0.50
-JOU 161F,Gold-Forged Sentinel,,0,0.0,0,0,0,0.50
-JOU 124F,Golden Hind,,0,0.0,0,0,0,0.50
-JOU 125F,Goldenhide Ox,,0,0.0,0,0,0,0.50
-JOU 40F,Hour of Need,,0,0.0,0,0,0,0.50
-JOU 127F,Humbler of Mortals,,0,0.0,0,0,0,0.50
-JOU 42F,Hypnotic Siren,,0,0.0,0,0,0,1.50
-JOU 43F,Interpret the Signs,,0,0.0,0,0,0,0.50
-JOU 44F,Kiora's Dismissal,,0,0.0,0,0,0,0.50
-JOU 101F,Knowledge and Power,,0,0.0,0,0,0,0.50
-JOU 16F,Leonin Iconoclast,,0,0.0,0,0,0,0.50
-JOU 102F,Lightning Diadem,,0,0.0,0,0,0,0.50
-JOU 103F,Magma Spray,,0,0.0,0,0,0,0.50
-JOU 104F,Mogis's Warhound,,0,0.0,0,0,0,0.50
-JOU 131F,Nature's Panoply,,0,0.0,0,0,0,0.50
-JOU 20F,Oreskos Swiftclaw,,0,0.0,0,0,0,0.50
-JOU 105F,Pensive Minotaur,,0,0.0,0,0,0,0.50
-JOU 21F,Phalanx Formation,,0,0.0,0,0,0,0.50
-JOU 45F,Pin to the Earth,,0,0.0,0,0,0,0.50
-JOU 106F,Prophetic Flamespeaker,,0,0.0,0,0,0,2.50
-JOU 47F,Pull from the Deep,,0,0.0,0,0,0,1.00
-JOU 80F,Ritual of the Returned,,0,0.0,0,0,0,0.50
-JOU 108F,Rollick of Abandon,,0,0.0,0,0,0,0.50
-JOU 139F,Satyr Grovedancer,,0,0.0,0,0,0,0.50
-JOU 26F,Skyspear Cavalry,,0,0.0,0,0,0,0.50
-JOU 142F,Spirespine,,0,0.0,0,0,0,0.50
-JOU 84F,Squelching Leeches,,0,0.0,0,0,0,0.50
-JOU 27F,Stonewise Fortifier,,0,0.0,0,0,0,0.50
-JOU 156F,Stormchaser Chimera,,0,0.0,0,0,0,0.50
-JOU 28F,Supply-Line Cranes,,0,0.0,0,0,0,0.50
-JOU 144F,Swarmborn Giant,,0,0.0,0,0,0,0.50
-JOU 157F,Underworld Coinsmith,,0,0.0,0,0,0,6.50
-JOU 57F,War-Wing Siren,,0,0.0,0,0,0,0.50
-JOU 116F,Wildfire Cerberus,,0,0.0,0,0,0,0.50
-JUD 46,Mental Note,,0,0.0,0,0,0,6.50
-JUD 62,Cabal Therapy,,0,0.0,0,0,0,9.00
-JUD 72,Stitch Together,,0,0.0,0,0,0,5.00
-JUD 18,Prismatic Strands,,0,0.0,0,0,0,3.00
-JUD 37,Cunning Wish,,0,0.0,0,0,0,7.50
-JUD 66,Filth,,0,0.0,0,0,0,7.00
-JUD 54,Wonder,,0,0.0,0,0,0,5.00
-JUD 89,Flaring Pain,,0,0.0,0,0,0,3.00
-JUD 139,Mirari's Wake,,0,0.0,0,0,0,8.00
-JUD 84,Dwarven Bloodboiler,,0,0.0,0,0,0,9.00
-JUD 130,Seedtime,,0,0.0,0,0,0,9.00
-JUD 43,Keep Watch,,0,0.0,0,0,0,3.00
-JUD 61,Balthor the Defiled,,0,0.0,0,0,0,11.00
-JUD 77,Anger,,0,0.0,0,0,0,3.50
-JUD 25,Soulcatchers' Aerie,,0,0.0,0,0,0,3.00
-JUD 112,Epic Struggle,,0,0.0,0,0,0,5.50
-JUD 133,Sylvan Safekeeper,,0,0.0,0,0,0,11.00
-JUD 83,Burning Wish,,0,0.0,0,0,0,6.00
-JUD 124,Living Wish,,0,0.0,0,0,0,5.00
-JUD 97,Planar Chaos,,0,0.0,0,0,0,3.00
-JUD 31,Unquestioned Authority,,0,0.0,0,0,0,2.00
-JUD 117,Genesis,,0,0.0,0,0,0,5.00
-JUD 9,Commander Eesha,,0,0.0,0,0,0,3.00
-JUD 143,Riftstone Portal,,0,0.0,0,0,0,2.00
-JUD 94,Lava Dart,,0,0.0,0,0,0,1.00
-JUD 70,Morality Shift,,0,0.0,0,0,0,5.00
-JUD 140,Phantom Nishoba,,0,0.0,0,0,0,4.50
-JUD 35,Cephalid Constable,,0,0.0,0,0,0,4.50
-JUD 5,Benevolent Bodyguard,,0,0.0,0,0,0,1.00
-JUD 110,Crush of Wurms,,0,0.0,0,0,0,2.00
-JUD 40,Flash of Insight,,0,0.0,0,0,0,1.00
-JUD 29,Test of Endurance,,0,0.0,0,0,0,4.50
-JUD 24,Solitary Confinement,,0,0.0,0,0,0,3.00
-JUD 51,Spelljack,,0,0.0,0,0,0,2.00
-JUD 103,Worldgorger Dragon,,0,0.0,0,0,0,1.00
-JUD 19,Pulsemage Advocate,,0,0.0,0,0,0,2.00
-JUD 3,Battle Screech,,0,0.0,0,0,0,1.00
-JUD 11,Glory,,0,0.0,0,0,0,2.00
-JUD 15,Nomad Mythmaker,,0,0.0,0,0,0,3.00
-JUD 107,Brawn,,0,0.0,0,0,0,1.00
-JUD 138,Hunting Grounds,,0,0.0,0,0,0,2.00
-JUD 93,"Jeska, Warrior Adept",,0,0.0,0,0,0,2.50
-JUD 137,Anurid Brushhopper,,0,0.0,0,0,0,1.50
-JUD 141,Krosan Verge,,0,0.0,0,0,0,1.00
-JUD 20,Ray of Revelation,,0,0.0,0,0,0,0.50
-JUD 119,Grizzly Fate,,0,0.0,0,0,0,1.00
-JUD 49,Quiet Speculation,,0,0.0,0,0,0,1.00
-JUD 85,Dwarven Driller,,0,0.0,0,0,0,1.00
-JUD 36,Cephalid Inkshrouder,,0,0.0,0,0,0,0.50
-JUD 39,Envelop,,0,0.0,0,0,0,0.25
-JUD 53,Web of Inertia,,0,0.0,0,0,0,1.00
-JUD 99,Soulgorger Orgg,,0,0.0,0,0,0,1.00
-JUD 95,Liberated Dwarf,,0,0.0,0,0,0,0.50
-JUD 86,Dwarven Scorcher,,0,0.0,0,0,0,0.50
-JUD 82,Browbeat,,0,0.0,0,0,0,1.00
-JUD 22,Shieldmage Advocate,,0,0.0,0,0,0,0.25
-JUD 122,Krosan Reclamation,,0,0.0,0,0,0,0.50
-JUD 27,Spurnmage Advocate,,0,0.0,0,0,0,0.50
-JUD 68,Guiltfeeder,,0,0.0,0,0,0,2.00
-JUD 123,Krosan Wayfarer,,0,0.0,0,0,0,0.25
-JUD 126,Nullmage Advocate,,0,0.0,0,0,0,0.25
-JUD 32,Valor,,0,0.0,0,0,0,0.50
-JUD 81,Breaking Point,,0,0.0,0,0,0,1.00
-JUD 114,Exoskeletal Armor,,0,0.0,0,0,0,0.50
-JUD 80,Book Burning,,0,0.0,0,0,0,0.25
-JUD 102,Swirling Sandstorm,,0,0.0,0,0,0,0.25
-JUD 88,Firecat Blitz,,0,0.0,0,0,0,0.50
-JUD 128,Phantom Nantuko,,0,0.0,0,0,0,0.50
-JUD 134,"Thriss, Nantuko Primus",,0,0.0,0,0,0,0.50
-JUD 23,Silver Seraph,,0,0.0,0,0,0,1.00
-JUD 90,Fledgling Dragon,,0,0.0,0,0,0,0.50
-JUD 38,Defy Gravity,,0,0.0,0,0,0,0.25
-JUD 10,Funeral Pyre,,0,0.0,0,0,0,0.25
-JUD 120,Harvester Druid,,0,0.0,0,0,0,0.25
-JUD 60,Wormfang Turtle,,0,0.0,0,0,0,0.50
-JUD 142,Nantuko Monastery,,0,0.0,0,0,0,0.50
-JUD 12,Golden Wish,,0,0.0,0,0,0,0.50
-JUD 48,Mist of Stagnation,,0,0.0,0,0,0,0.50
-JUD 73,Sutured Ghoul,,0,0.0,0,0,0,0.50
-JUD 64,Death Wish,,0,0.0,0,0,0,0.50
-JUD 105,Anurid Swarmsnapper,,0,0.0,0,0,0,0.50
-JUD 41,Grip of Amnesia,,0,0.0,0,0,0,0.25
-JUD 28,Suntail Hawk,,0,0.0,0,0,0,0.25
-JUD 1,Ancestor's Chosen,,0,0.0,0,0,0,0.50
-JUD 111,Elephant Guide,,0,0.0,0,0,0,0.50
-JUD 78,Arcane Teachings,,0,0.0,0,0,0,0.25
-JUD 116,Forcemage Advocate,,0,0.0,0,0,0,0.50
-JUD 108,Canopy Claws,,0,0.0,0,0,0,0.25
-JUD 65,Earsplitting Rats,,0,0.0,0,0,0,0.25
-JUD 135,Tunneler Wurm,,0,0.0,0,0,0,0.50
-JUD 44,Laquatus's Disdain,,0,0.0,0,0,0,0.50
-JUD 131,Serene Sunset,,0,0.0,0,0,0,0.50
-JUD 26,Spirit Cairn,,0,0.0,0,0,0,0.50
-JUD 30,Trained Pronghorn,,0,0.0,0,0,0,0.25
-JUD 98,Shaman's Trance,,0,0.0,0,0,0,0.50
-JUD 118,Giant Warthog,,0,0.0,0,0,0,0.25
-JUD 127,Phantom Centaur,,0,0.0,0,0,0,0.50
-JUD 56,Wormfang Crab,,0,0.0,0,0,0,0.50
-JUD 58,Wormfang Manta,,0,0.0,0,0,0,0.50
-JUD 109,Centaur Rootcaster,,0,0.0,0,0,0,0.25
-JUD 13,Guided Strike,,0,0.0,0,0,0,0.25
-JUD 17,Phantom Nomad,,0,0.0,0,0,0,0.25
-JUD 113,Erhnam Djinn,,0,0.0,0,0,0,0.50
-JUD 45,Lost in Thought,,0,0.0,0,0,0,0.25
-JUD 101,Swelter,,0,0.0,0,0,0,0.50
-JUD 42,Hapless Researcher,,0,0.0,0,0,0,0.25
-JUD 92,Infectious Rage,,0,0.0,0,0,0,0.50
-JUD 71,Rats' Feast,,0,0.0,0,0,0,0.25
-JUD 121,Ironshell Beetle,,0,0.0,0,0,0,0.25
-JUD 125,Nantuko Tracer,,0,0.0,0,0,0,0.25
-JUD 129,Phantom Tiger,,0,0.0,0,0,0,0.25
-JUD 96,Lightning Surge,,0,0.0,0,0,0,0.50
-JUD 104,Anurid Barkripper,,0,0.0,0,0,0,0.25
-JUD 8,Chastise,,0,0.0,0,0,0,0.50
-JUD 91,Goretusk Firebeast,,0,0.0,0,0,0,0.25
-JUD 67,Grave Consequences,,0,0.0,0,0,0,0.50
-JUD 47,Mirror Wall,,0,0.0,0,0,0,0.25
-JUD 16,Phantom Flock,,0,0.0,0,0,0,0.50
-JUD 132,Sudden Strength,,0,0.0,0,0,0,0.25
-JUD 75,Treacherous Vampire,,0,0.0,0,0,0,0.50
-JUD 136,Venomous Vines,,0,0.0,0,0,0,0.25
-JUD 34,Aven Fogbringer,,0,0.0,0,0,0,0.25
-JUD 79,Barbarian Bully,,0,0.0,0,0,0,0.25
-JUD 106,Battlefield Scrounger,,0,0.0,0,0,0,0.25
-JUD 6,Border Patrol,,0,0.0,0,0,0,0.25
-JUD 63,Cabal Trainee,,0,0.0,0,0,0,0.25
-JUD 57,Wormfang Drake,,0,0.0,0,0,0,0.25
-JUD 69,Masked Gorgon,,0,0.0,0,0,0,0.50
-JUD 52,Telekinetic Bonds,,0,0.0,0,0,0,0.50
-JUD 55,Wormfang Behemoth,,0,0.0,0,0,0,0.50
-JUD 2,Aven Warcraft,,0,0.0,0,0,0,0.50
-JUD 7,Cagemail,,0,0.0,0,0,0,0.25
-JUD 115,Folk Medicine,,0,0.0,0,0,0,0.25
-JUD 100,Spellgorger Barbarian,,0,0.0,0,0,0,0.25
-JUD 74,Toxic Stench,,0,0.0,0,0,0,0.25
-JUD 21,Selfless Exorcist,,0,0.0,0,0,0,0.50
-JUD 4,Battlewise Aven,,0,0.0,0,0,0,0.25
-JUD 14,Lead Astray,,0,0.0,0,0,0,0.25
-JUD 87,Ember Shot,,0,0.0,0,0,0,0.25
-JUD 50,Scalpelexis,,0,0.0,0,0,0,0.50
-JUD 76,Treacherous Werewolf,,0,0.0,0,0,0,0.25
-JUD 33,Vigilant Sentry,,0,0.0,0,0,0,0.25
-JUD 59,Wormfang Newt,,0,0.0,0,0,0,0.25
-JUD 133F,Sylvan Safekeeper,,0,0.0,0,0,0,224.00
-JUD 139F,Mirari's Wake,,0,0.0,0,0,0,60.00
-JUD 54F,Wonder,,0,0.0,0,0,0,44.00
-JUD 61F,Balthor the Defiled,,0,0.0,0,0,0,80.00
-JUD 66F,Filth,,0,0.0,0,0,0,40.00
-JUD 46F,Mental Note,,0,0.0,0,0,0,44.00
-JUD 19F,Pulsemage Advocate,,0,0.0,0,0,0,26.00
-JUD 9F,Commander Eesha,,0,0.0,0,0,0,52.00
-JUD 37F,Cunning Wish,,0,0.0,0,0,0,52.00
-JUD 84F,Dwarven Bloodboiler,,0,0.0,0,0,0,52.00
-JUD 83F,Burning Wish,,0,0.0,0,0,0,80.00
-JUD 77F,Anger,,0,0.0,0,0,0,40.00
-JUD 70F,Morality Shift,,0,0.0,0,0,0,22.00
-JUD 18F,Prismatic Strands,,0,0.0,0,0,0,22.00
-JUD 43F,Keep Watch,,0,0.0,0,0,0,14.00
-JUD 24F,Solitary Confinement,,0,0.0,0,0,0,52.00
-JUD 110F,Crush of Wurms,,0,0.0,0,0,0,10.00
-JUD 98F,Shaman's Trance,,0,0.0,0,0,0,18.00
-JUD 130F,Seedtime,,0,0.0,0,0,0,112.00
-JUD 62F,Cabal Therapy,,0,0.0,0,0,0,96.00
-JUD 117F,Genesis,,0,0.0,0,0,0,28.00
-JUD 140F,Phantom Nishoba,,0,0.0,0,0,0,48.00
-JUD 49F,Quiet Speculation,,0,0.0,0,0,0,7.00
-JUD 73F,Sutured Ghoul,,0,0.0,0,0,0,11.00
-JUD 107F,Brawn,,0,0.0,0,0,0,16.00
-JUD 20F,Ray of Revelation,,0,0.0,0,0,0,8.00
-JUD 95F,Liberated Dwarf,,0,0.0,0,0,0,6.50
-JUD 51F,Spelljack,,0,0.0,0,0,0,8.00
-JUD 86F,Dwarven Scorcher,,0,0.0,0,0,0,7.00
-JUD 72F,Stitch Together,,0,0.0,0,0,0,18.00
-JUD 119F,Grizzly Fate,,0,0.0,0,0,0,5.50
-JUD 143F,Riftstone Portal,,0,0.0,0,0,0,16.00
-JUD 23F,Silver Seraph,,0,0.0,0,0,0,16.00
-JUD 31F,Unquestioned Authority,,0,0.0,0,0,0,14.00
-JUD 55F,Wormfang Behemoth,,0,0.0,0,0,0,7.00
-JUD 5F,Benevolent Bodyguard,,0,0.0,0,0,0,14.00
-JUD 11F,Glory,,0,0.0,0,0,0,14.00
-JUD 97F,Planar Chaos,,0,0.0,0,0,0,14.00
-JUD 90F,Fledgling Dragon,,0,0.0,0,0,0,11.00
-JUD 85F,Dwarven Driller,,0,0.0,0,0,0,3.50
-JUD 15F,Nomad Mythmaker,,0,0.0,0,0,0,9.00
-JUD 134F,"Thriss, Nantuko Primus",,0,0.0,0,0,0,8.00
-JUD 80F,Book Burning,,0,0.0,0,0,0,1.50
-JUD 112F,Epic Struggle,,0,0.0,0,0,0,30.00
-JUD 40F,Flash of Insight,,0,0.0,0,0,0,8.00
-JUD 122F,Krosan Reclamation,,0,0.0,0,0,0,4.00
-JUD 29F,Test of Endurance,,0,0.0,0,0,0,14.00
-JUD 35F,Cephalid Constable,,0,0.0,0,0,0,13.00
-JUD 102F,Swirling Sandstorm,,0,0.0,0,0,0,3.00
-JUD 32F,Valor,,0,0.0,0,0,0,3.00
-JUD 69F,Masked Gorgon,,0,0.0,0,0,0,7.00
-JUD 127F,Phantom Centaur,,0,0.0,0,0,0,2.50
-JUD 53F,Web of Inertia,,0,0.0,0,0,0,6.50
-JUD 64F,Death Wish,,0,0.0,0,0,0,5.00
-JUD 48F,Mist of Stagnation,,0,0.0,0,0,0,5.00
-JUD 27F,Spurnmage Advocate,,0,0.0,0,0,0,2.50
-JUD 88F,Firecat Blitz,,0,0.0,0,0,0,4.00
-JUD 1F,Ancestor's Chosen,,0,0.0,0,0,0,2.00
-JUD 82F,Browbeat,,0,0.0,0,0,0,3.00
-JUD 22F,Shieldmage Advocate,,0,0.0,0,0,0,0.50
-JUD 114F,Exoskeletal Armor,,0,0.0,0,0,0,2.50
-JUD 116F,Forcemage Advocate,,0,0.0,0,0,0,2.50
-JUD 56F,Wormfang Crab,,0,0.0,0,0,0,1.00
-JUD 42F,Hapless Researcher,,0,0.0,0,0,0,1.50
-JUD 30F,Trained Pronghorn,,0,0.0,0,0,0,0.50
-JUD 65F,Earsplitting Rats,,0,0.0,0,0,0,1.00
-JUD 28F,Suntail Hawk,,0,0.0,0,0,0,1.00
-JUD 34F,Aven Fogbringer,,0,0.0,0,0,0,1.00
-JUD 109F,Centaur Rootcaster,,0,0.0,0,0,0,1.00
-JUD 52F,Telekinetic Bonds,,0,0.0,0,0,0,4.00
-JUD 36F,Cephalid Inkshrouder,,0,0.0,0,0,0,3.00
-JUD 57F,Wormfang Drake,,0,0.0,0,0,0,0.50
-JUD 39F,Envelop,,0,0.0,0,0,0,2.50
-JUD 126F,Nullmage Advocate,,0,0.0,0,0,0,1.00
-JUD 26F,Spirit Cairn,,0,0.0,0,0,0,1.00
-JUD 125F,Nantuko Tracer,,0,0.0,0,0,0,1.00
-JUD 78F,Arcane Teachings,,0,0.0,0,0,0,0.50
-JUD 106F,Battlefield Scrounger,,0,0.0,0,0,0,0.50
-JUD 76F,Treacherous Werewolf,,0,0.0,0,0,0,0.50
-JUD 118F,Giant Warthog,,0,0.0,0,0,0,0.50
-JUD 91F,Goretusk Firebeast,,0,0.0,0,0,0,0.50
-JUD 41F,Grip of Amnesia,,0,0.0,0,0,0,0.50
-JUD 92F,Infectious Rage,,0,0.0,0,0,0,0.50
-JUD 14F,Lead Astray,,0,0.0,0,0,0,0.50
-JUD 132F,Sudden Strength,,0,0.0,0,0,0,0.50
-JUD 135F,Tunneler Wurm,,0,0.0,0,0,0,0.50
-JUD 104F,Anurid Barkripper,,0,0.0,0,0,0,0.50
-JUD 137F,Anurid Brushhopper,,0,0.0,0,0,0,11.00
-JUD 105F,Anurid Swarmsnapper,,0,0.0,0,0,0,1.00
-JUD 2F,Aven Warcraft,,0,0.0,0,0,0,2.50
-JUD 79F,Barbarian Bully,,0,0.0,0,0,0,0.50
-JUD 3F,Battle Screech,,0,0.0,0,0,0,10.00
-JUD 4F,Battlewise Aven,,0,0.0,0,0,0,0.50
-JUD 6F,Border Patrol,,0,0.0,0,0,0,0.50
-JUD 81F,Breaking Point,,0,0.0,0,0,0,4.00
-JUD 63F,Cabal Trainee,,0,0.0,0,0,0,0.50
-JUD 7F,Cagemail,,0,0.0,0,0,0,0.50
-JUD 108F,Canopy Claws,,0,0.0,0,0,0,0.50
-JUD 8F,Chastise,,0,0.0,0,0,0,1.00
-JUD 13F,Guided Strike,,0,0.0,0,0,0,1.00
-JUD 38F,Defy Gravity,,0,0.0,0,0,0,2.00
-JUD 111F,Elephant Guide,,0,0.0,0,0,0,4.00
-JUD 87F,Ember Shot,,0,0.0,0,0,0,0.50
-JUD 113F,Erhnam Djinn,,0,0.0,0,0,0,5.50
-JUD 89F,Flaring Pain,,0,0.0,0,0,0,28.00
-JUD 115F,Folk Medicine,,0,0.0,0,0,0,1.00
-JUD 10F,Funeral Pyre,,0,0.0,0,0,0,2.00
-JUD 12F,Golden Wish,,0,0.0,0,0,0,5.00
-JUD 67F,Grave Consequences,,0,0.0,0,0,0,1.00
-JUD 68F,Guiltfeeder,,0,0.0,0,0,0,13.00
-JUD 120F,Harvester Druid,,0,0.0,0,0,0,1.50
-JUD 121F,Ironshell Beetle,,0,0.0,0,0,0,0.50
-JUD 123F,Krosan Wayfarer,,0,0.0,0,0,0,3.50
-JUD 44F,Laquatus's Disdain,,0,0.0,0,0,0,0.50
-JUD 94F,Lava Dart,,0,0.0,0,0,0,30.00
-JUD 96F,Lightning Surge,,0,0.0,0,0,0,3.00
-JUD 124F,Living Wish,,0,0.0,0,0,0,40.00
-JUD 45F,Lost in Thought,,0,0.0,0,0,0,0.50
-JUD 47F,Mirror Wall,,0,0.0,0,0,0,0.50
-JUD 16F,Phantom Flock,,0,0.0,0,0,0,1.00
-JUD 128F,Phantom Nantuko,,0,0.0,0,0,0,8.00
-JUD 138F,Hunting Grounds,,0,0.0,0,0,0,11.00
-JUD 93F,"Jeska, Warrior Adept",,0,0.0,0,0,0,56.00
-JUD 141F,Krosan Verge,,0,0.0,0,0,0,32.00
-JUD 142F,Nantuko Monastery,,0,0.0,0,0,0,3.50
-JUD 17F,Phantom Nomad,,0,0.0,0,0,0,1.50
-JUD 129F,Phantom Tiger,,0,0.0,0,0,0,0.50
-JUD 71F,Rats' Feast,,0,0.0,0,0,0,0.50
-JUD 50F,Scalpelexis,,0,0.0,0,0,0,4.00
-JUD 21F,Selfless Exorcist,,0,0.0,0,0,0,1.50
-JUD 131F,Serene Sunset,,0,0.0,0,0,0,2.50
-JUD 99F,Soulgorger Orgg,,0,0.0,0,0,0,5.00
-JUD 100F,Spellgorger Barbarian,,0,0.0,0,0,0,0.50
-JUD 101F,Swelter,,0,0.0,0,0,0,0.50
-JUD 74F,Toxic Stench,,0,0.0,0,0,0,0.50
-JUD 75F,Treacherous Vampire,,0,0.0,0,0,0,0.50
-JUD 136F,Venomous Vines,,0,0.0,0,0,0,0.50
-JUD 33F,Vigilant Sentry,,0,0.0,0,0,0,0.50
-JUD 103F,Worldgorger Dragon,,0,0.0,0,0,0,88.00
-JUD 58F,Wormfang Manta,,0,0.0,0,0,0,9.50
-JUD 59F,Wormfang Newt,,0,0.0,0,0,0,0.50
-JUD 60F,Wormfang Turtle,,0,0.0,0,0,0,0.50
-JUD 25F,Soulcatchers' Aerie,,0,0.0,0,0,0,12.00
-JMP 169,Rhystic Study,,0,0.0,0,0,0,59.00
-JMP 10,Bruvac the Grandiloquent,,0,0.0,0,0,0,32.00
-JMP 30,Neyith of the Dire Hunt,,0,0.0,0,0,0,16.00
-JMP 231,Exquisite Blood,,0,0.0,0,0,0,25.00
-JMP 28,Allosaurus Shepherd,,0,0.0,0,0,0,30.00
-JMP 119,"Linvala, Keeper of Silence",,0,0.0,0,0,0,21.00
-JMP 17,"Tinybones, Trinket Thief",,0,0.0,0,0,0,20.00
-JMP 385,Craterhoof Behemoth,,0,0.0,0,0,0,24.00
-JMP 493,Phyrexian Tower,,0,0.0,0,0,0,21.00
-JMP 278,"Sheoldred, Whispering One",,0,0.0,0,0,0,17.00
-JMP 270,Reanimate,,0,0.0,0,0,0,8.00
-JMP 187,Vedalken Archmage,,0,0.0,0,0,0,11.00
-JMP 328,Goblin Lore,,0,0.0,0,0,0,7.00
-JMP 24,"Muxus, Goblin Grandee",,0,0.0,0,0,0,7.00
-JMP 410,Lurking Predators,,0,0.0,0,0,0,11.00
-JMP 429,"Selvala, Heart of the Wilds",,0,0.0,0,0,0,6.00
-JMP 271,Rise of the Dark Realms,,0,0.0,0,0,0,5.00
-JMP 116,Kor Spiritdancer,,0,0.0,0,0,0,4.50
-JMP 31,Towering Titan,,0,0.0,0,0,0,6.00
-JMP 96,Celestial Mantle,,0,0.0,0,0,0,4.50
-JMP 154,"Kira, Great Glass-Spinner",,0,0.0,0,0,0,5.00
-JMP 29,Branching Evolution,,0,0.0,0,0,0,4.00
-JMP 324,Goblin Chieftain,,0,0.0,0,0,0,5.50
-JMP 1,Blessed Sanctuary,,0,0.0,0,0,0,2.00
-JMP 411,Momentous Fall,,0,0.0,0,0,0,4.00
-JMP 415,Oracle of Mul Daya,,0,0.0,0,0,0,7.50
-JMP 230,Exhume,,0,0.0,0,0,0,5.50
-JMP 267,Phyrexian Reclamation,,0,0.0,0,0,0,6.50
-JMP 3,Emiel the Blessed,,0,0.0,0,0,0,5.00
-JMP 27,"Zurzoth, Chaos Rider",,0,0.0,0,0,0,1.00
-JMP 20,Immolating Gyre,,0,0.0,0,0,0,2.00
-JMP 45,Plains,,0,0.0,0,0,0,2.50
-JMP 86,Angelic Arbiter,,0,0.0,0,0,0,5.00
-JMP 482,Scarecrone,,0,0.0,0,0,0,3.00
-JMP 422,Primordial Sage,,0,0.0,0,0,0,1.00
-JMP 101,Duelist's Heritage,,0,0.0,0,0,0,0.50
-JMP 204,Black Market,,0,0.0,0,0,0,3.50
-JMP 312,Dragonspeaker Shaman,,0,0.0,0,0,0,3.50
-JMP 432,Soul of the Harvest,,0,0.0,0,0,0,2.00
-JMP 130,Rhox Faithmender,,0,0.0,0,0,0,3.50
-JMP 383,Champion of Lambholt,,0,0.0,0,0,0,2.50
-JMP 494,Riptide Laboratory,,0,0.0,0,0,0,0.50
-JMP 361,Sarkhan's Unsealing,,0,0.0,0,0,0,1.50
-JMP 85,Angel of the Dire Hour,,0,0.0,0,0,0,2.00
-JMP 491,Buried Ruin,,0,0.0,0,0,0,1.00
-JMP 56,Swamp,,0,0.0,0,0,0,1.00
-JMP 193,Whelming Wave,,0,0.0,0,0,0,1.00
-JMP 340,"Lathliss, Dragon Queen",,0,0.0,0,0,0,3.00
-JMP 469,Herald's Horn,,0,0.0,0,0,0,5.00
-JMP 236,Ghoulcaller Gisa,,0,0.0,0,0,0,2.50
-JMP 448,Zendikar's Roil,,0,0.0,0,0,0,2.00
-JMP 113,"Isamaru, Hound of Konda",,0,0.0,0,0,0,1.50
-JMP 144,Coastal Piracy,,0,0.0,0,0,0,2.00
-JMP 233,Fell Specter,,0,0.0,0,0,0,0.50
-JMP 313,Dualcaster Mage,,0,0.0,0,0,0,2.00
-JMP 127,Path to Exile,,0,0.0,0,0,0,1.00
-JMP 95,Cathars' Crusade,,0,0.0,0,0,0,5.00
-JMP 334,Hellrider,,0,0.0,0,0,0,1.00
-JMP 272,Sangromancer,,0,0.0,0,0,0,1.00
-JMP 442,Wall of Blossoms,,0,0.0,0,0,0,0.50
-JMP 378,Assault Formation,,0,0.0,0,0,0,1.50
-JMP 181,"Talrand, Sky Summoner",,0,0.0,0,0,0,0.50
-JMP 97,Cloudshift,,0,0.0,0,0,0,2.00
-JMP 117,"Lena, Selfless Champion",,0,0.0,0,0,0,1.00
-JMP 18,Witch of the Moors,,0,0.0,0,0,0,1.00
-JMP 457,Alloy Myr,,0,0.0,0,0,0,0.50
-JMP 216,Cauldron Familiar,,0,0.0,0,0,0,2.00
-JMP 342,Lightning Bolt,,0,0.0,0,0,0,1.50
-JMP 229,Eternal Thirst,,0,0.0,0,0,0,0.50
-JMP 399,"Ghalta, Primal Hunger",,0,0.0,0,0,0,1.00
-JMP 167,Read the Runes,,0,0.0,0,0,0,0.50
-JMP 369,Volley Veteran,,0,0.0,0,0,0,0.50
-JMP 243,Harvester of Souls,,0,0.0,0,0,0,1.00
-JMP 98,Cradle of Vitality,,0,0.0,0,0,0,1.00
-JMP 261,Oona's Blackguard,,0,0.0,0,0,0,0.50
-JMP 274,Scourge of Nel Toth,,0,0.0,0,0,0,0.50
-JMP 454,Maelstrom Archangel,,0,0.0,0,0,0,1.00
-JMP 147,Curiosity,,0,0.0,0,0,0,0.50
-JMP 417,Overgrown Battlement,,0,0.0,0,0,0,1.00
-JMP 4,Release the Dogs,,0,0.0,0,0,0,0.50
-JMP 8,Trusty Retriever,,0,0.0,0,0,0,0.25
-JMP 239,Gifted Aetherborn,,0,0.0,0,0,0,0.50
-JMP 327,Goblin Instigator,,0,0.0,0,0,0,0.50
-JMP 291,Ball Lightning,,0,0.0,0,0,0,1.00
-JMP 269,Ravenous Chupacabra,,0,0.0,0,0,0,0.50
-JMP 5,Steel-Plume Marshal,,0,0.0,0,0,0,0.50
-JMP 393,Explore,,0,0.0,0,0,0,0.25
-JMP 225,"Drana, Liberator of Malakir",,0,0.0,0,0,0,1.00
-JMP 294,Beetleback Chief,,0,0.0,0,0,0,0.50
-JMP 70,Forest,,0,0.0,0,0,0,0.50
-JMP 402,Hunter's Insight,,0,0.0,0,0,0,1.00
-JMP 305,Collateral Damage,,0,0.0,0,0,0,0.25
-JMP 439,Ulvenwald Hydra,,0,0.0,0,0,0,1.00
-JMP 479,Rogue's Gloves,,0,0.0,0,0,0,0.50
-JMP 15,"Kels, Fight Fixer",,0,0.0,0,0,0,0.50
-JMP 456,Aether Spellbomb,,0,0.0,0,0,0,0.25
-JMP 466,Gingerbrute,,0,0.0,0,0,0,0.50
-JMP 212,Bone Picker,,0,0.0,0,0,0,0.50
-JMP 53,Island,,0,0.0,0,0,0,0.50
-JMP 162,Oneirophage,,0,0.0,0,0,0,0.50
-JMP 196,Winged Words,,0,0.0,0,0,0,0.25
-JMP 26,Spiteful Prankster,,0,0.0,0,0,0,0.50
-JMP 363,Sin Prodder,,0,0.0,0,0,0,0.50
-JMP 21,Lightning Phoenix,,0,0.0,0,0,0,0.50
-JMP 458,Ancestral Statue,,0,0.0,0,0,0,0.25
-JMP 65,Mountain,,0,0.0,0,0,0,0.50
-JMP 206,Blood Artist,,0,0.0,0,0,0,1.50
-JMP 14,Scholar of the Lost Trove,,0,0.0,0,0,0,0.50
-JMP 25,"Sethron, Hurloon General",,0,0.0,0,0,0,0.50
-JMP 372,Young Pyromancer,,0,0.0,0,0,0,0.50
-JMP 38,Plains,,0,0.0,0,0,0,0.50
-JMP 404,Inspiring Call,,0,0.0,0,0,0,0.50
-JMP 73,Forest,,0,0.0,0,0,0,0.50
-JMP 311,Dragonlord's Servant,,0,0.0,0,0,0,0.50
-JMP 421,Primeval Bounty,,0,0.0,0,0,0,1.00
-JMP 82,Ajani's Chosen,,0,0.0,0,0,0,0.50
-JMP 62,Mountain,,0,0.0,0,0,0,0.50
-JMP 12,"Inniaz, the Gale Force",,0,0.0,0,0,0,0.50
-JMP 302,Chain Lightning,,0,0.0,0,0,0,0.50
-JMP 51,Island,,0,0.0,0,0,0,0.50
-JMP 123,"Mikaeus, the Lunarch",,0,0.0,0,0,0,1.00
-JMP 326,Goblin Goon,,0,0.0,0,0,0,0.50
-JMP 13,"Ormos, Archive Keeper",,0,0.0,0,0,0,0.50
-JMP 19,Chained Brute,,0,0.0,0,0,0,0.50
-JMP 41,Plains,,0,0.0,0,0,0,0.50
-JMP 412,Nature's Way,,0,0.0,0,0,0,0.50
-JMP 423,Rampaging Brontodon,,0,0.0,0,0,0,0.50
-JMP 9,Archaeomender,,0,0.0,0,0,0,0.25
-JMP 16,Nocturnal Feeder,,0,0.0,0,0,0,0.25
-JMP 251,Liliana's Reaver,,0,0.0,0,0,0,1.00
-JMP 397,Feral Prowler,,0,0.0,0,0,0,0.25
-JMP 198,Wizard's Retort,,0,0.0,0,0,0,0.50
-JMP 424,Ravenous Baloth,,0,0.0,0,0,0,0.50
-JMP 77,Forest,,0,0.0,0,0,0,0.50
-JMP 467,Guardian Idol,,0,0.0,0,0,0,0.50
-JMP 246,Languish,,0,0.0,0,0,0,0.50
-JMP 387,Dawntreader Elk,,0,0.0,0,0,0,0.25
-JMP 433,Sporemound,,0,0.0,0,0,0,0.25
-JMP 47,Island,,0,0.0,0,0,0,0.50
-JMP 395,Feral Hydra,,0,0.0,0,0,0,0.50
-JMP 425,"Rishkar, Peema Renegade",,0,0.0,0,0,0,0.50
-JMP 339,"Krenko, Mob Boss",,0,0.0,0,0,0,1.50
-JMP 148,Curious Obsession,,0,0.0,0,0,0,0.50
-JMP 226,Dutiful Attendant,,0,0.0,0,0,0,0.25
-JMP 151,Essence Flux,,0,0.0,0,0,0,1.00
-JMP 391,Elvish Archdruid,,0,0.0,0,0,0,0.50
-JMP 314,"Etali, Primal Storm",,0,0.0,0,0,0,0.50
-JMP 184,Thought Collapse,,0,0.0,0,0,0,0.50
-JMP 292,Barrage of Expendables,,0,0.0,0,0,0,0.50
-JMP 142,Chart a Course,,0,0.0,0,0,0,0.50
-JMP 64,Mountain,,0,0.0,0,0,0,0.50
-JMP 483,Scroll of Avacyn,,0,0.0,0,0,0,0.25
-JMP 382,Carven Caryatid,,0,0.0,0,0,0,0.50
-JMP 259,Nyxathid,,0,0.0,0,0,0,0.50
-JMP 329,Goblin Rally,,0,0.0,0,0,0,0.50
-JMP 345,Lightning Shrieker,,0,0.0,0,0,0,0.25
-JMP 63,Mountain,,0,0.0,0,0,0,0.50
-JMP 7,Supply Runners,,0,0.0,0,0,0,0.50
-JMP 11,Corsair Captain,,0,0.0,0,0,0,0.50
-JMP 406,Irresistible Prey,,0,0.0,0,0,0,0.50
-JMP 22,Lightning Visionary,,0,0.0,0,0,0,0.25
-JMP 241,Gravewaker,,0,0.0,0,0,0,0.50
-JMP 260,Ogre Slumlord,,0,0.0,0,0,0,0.50
-JMP 441,Verdant Embrace,,0,0.0,0,0,0,0.50
-JMP 384,Commune with Dinosaurs,,0,0.0,0,0,0,0.25
-JMP 306,Dance with Devils,,0,0.0,0,0,0,0.50
-JMP 24,Minions Theme Card,,0,0.0,0,0,0,0.50
-JMP 414,New Horizons,,0,0.0,0,0,0,0.25
-JMP 354,Outnumber,,0,0.0,0,0,0,0.25
-JMP 178,Spectral Sailor,,0,0.0,0,0,0,0.50
-JMP 78,Terramorphic Expanse,,0,0.0,0,0,0,0.25
-JMP 36,Thriving Isle,,0,0.0,0,0,0,0.25
-JMP 213,Bone Splinters,,0,0.0,0,0,0,0.25
-JMP 380,Brindle Shoat,,0,0.0,0,0,0,0.50
-JMP 323,Furnace Whelp,,0,0.0,0,0,0,0.50
-JMP 331,Grim Lavamancer,,0,0.0,0,0,0,0.50
-JMP 166,Rattlechains,,0,0.0,0,0,0,0.50
-JMP 176,Sharding Sphinx,,0,0.0,0,0,0,0.50
-JMP 492,Mirrodin's Core,,0,0.0,0,0,0,0.50
-JMP 66,Mountain,,0,0.0,0,0,0,0.50
-JMP 258,Nightshade Stinger,,0,0.0,0,0,0,0.25
-JMP 133,Sky Tether,,0,0.0,0,0,0,0.50
-JMP 472,Mana Geode,,0,0.0,0,0,0,0.25
-JMP 377,Armorcraft Judge,,0,0.0,0,0,0,0.50
-JMP 141,Belltower Sphinx,,0,0.0,0,0,0,0.50
-JMP 207,Blood Divination,,0,0.0,0,0,0,0.50
-JMP 460,Bubbling Cauldron,,0,0.0,0,0,0,0.50
-JMP 217,Cemetery Recruitment,,0,0.0,0,0,0,0.25
-JMP 221,Crow of Dark Tidings,,0,0.0,0,0,0,0.25
-JMP 153,Exclusion Mage,,0,0.0,0,0,0,0.50
-JMP 15,Feathered Friends Theme Card,,0,0.0,0,0,0,0.50
-JMP 321,Flurry of Horns,,0,0.0,0,0,0,0.25
-JMP 401,Grave Bramble,,0,0.0,0,0,0,0.25
-JMP 46,Island,,0,0.0,0,0,0,0.50
-JMP 256,Miasmic Mummy,,0,0.0,0,0,0,0.25
-JMP 416,Orazca Frillback,,0,0.0,0,0,0,0.25
-JMP 420,Presence of Gond,,0,0.0,0,0,0,0.25
-JMP 455,Raging Regisaur,,0,0.0,0,0,0,0.50
-JMP 280,Soul Salvage,,0,0.0,0,0,0,0.25
-JMP 35,Thriving Heath,,0,0.0,0,0,0,0.25
-JMP 368,Volcanic Fallout,,0,0.0,0,0,0,0.50
-JMP 490,Warmonger's Chariot,,0,0.0,0,0,0,0.50
-JMP 287,Wight of Precinct Six,,0,0.0,0,0,0,0.25
-JMP 89,Archon of Justice,,0,0.0,0,0,0,0.50
-JMP 461,Chamber Sentry,,0,0.0,0,0,0,0.50
-JMP 332,Hamletback Goliath,,0,0.0,0,0,0,0.50
-JMP 126,Path of Bravery,,0,0.0,0,0,0,0.50
-JMP 357,Rageblood Shaman,,0,0.0,0,0,0,0.50
-JMP 175,Serendib Efreet,,0,0.0,0,0,0,0.50
-JMP 12,Dragons Theme Card,,0,0.0,0,0,0,0.50
-JMP 459,Arcane Encyclopedia,,0,0.0,0,0,0,0.50
-JMP 224,Drainpipe Vermin,,0,0.0,0,0,0,0.25
-JMP 320,Fling,,0,0.0,0,0,0,0.25
-JMP 74,Forest,,0,0.0,0,0,0,0.50
-JMP 325,Goblin Commando,,0,0.0,0,0,0,0.50
-JMP 407,Keeper of Fables,,0,0.0,0,0,0,0.50
-JMP 25,Minotaurs Theme Card,,0,0.0,0,0,0,0.50
-JMP 478,Prophetic Prism,,0,0.0,0,0,0,0.25
-JMP 358,Rapacious Dragon,,0,0.0,0,0,0,0.50
-JMP 54,Swamp,,0,0.0,0,0,0,0.50
-JMP 60,Swamp,,0,0.0,0,0,0,0.50
-JMP 61,Swamp,,0,0.0,0,0,0,0.50
-JMP 488,Terrarion,,0,0.0,0,0,0,0.25
-JMP 183,Thirst for Knowledge,,0,0.0,0,0,0,0.50
-JMP 33,Thriving Bluff,,0,0.0,0,0,0,0.25
-JMP 185,Thought Scour,,0,0.0,0,0,0,0.50
-JMP 90,Archon of Redemption,,0,0.0,0,0,0,0.50
-JMP 244,Innocent Blood,,0,0.0,0,0,0,0.50
-JMP 138,Aegis Turtle,,0,0.0,0,0,0,0.25
-JMP 80,Aerial Assault,,0,0.0,0,0,0,0.25
-JMP 81,Affa Guard Hound,,0,0.0,0,0,0,0.50
-JMP 374,Aggressive Urge,,0,0.0,0,0,0,0.25
-JMP 201,Bake into a Pie,,0,0.0,0,0,0,0.25
-JMP 202,Barter in Blood,,0,0.0,0,0,0,0.50
-JMP 92,Blessed Spirits,,0,0.0,0,0,0,0.50
-JMP 208,Blood Host,,0,0.0,0,0,0,0.50
-JMP 304,Cinder Elemental,,0,0.0,0,0,0,0.50
-JMP 228,Eternal Taskmaster,,0,0.0,0,0,0,0.50
-JMP 315,Fanatical Firebrand,,0,0.0,0,0,0,0.25
-JMP 396,Feral Invocation,,0,0.0,0,0,0,0.25
-JMP 76,Forest,,0,0.0,0,0,0,0.50
-JMP 337,Inferno Hellion,,0,0.0,0,0,0,0.50
-JMP 19,Lands Theme Card,,0,0.0,0,0,0,0.50
-JMP 453,Lawmage's Binding,,0,0.0,0,0,0,0.25
-JMP 32,Lightning-Core Excavator,,0,0.0,0,0,0,0.25
-JMP 257,Mire Triton,,0,0.0,0,0,0,0.50
-JMP 351,Molten Ravager,,0,0.0,0,0,0,0.25
-JMP 159,Narcolepsy,,0,0.0,0,0,0,0.25
-JMP 266,Phyrexian Rager,,0,0.0,0,0,0,0.25
-JMP 164,Prescient Chimera,,0,0.0,0,0,0,0.25
-JMP 356,Pyroclastic Elemental,,0,0.0,0,0,0,0.50
-JMP 427,Savage Stomp,,0,0.0,0,0,0,0.50
-JMP 428,Scrounging Bandar,,0,0.0,0,0,0,0.25
-JMP 484,Scuttlemutt,,0,0.0,0,0,0,0.50
-JMP 173,Sea Gate Oracle,,0,0.0,0,0,0,0.25
-JMP 177,Sigiled Starfish,,0,0.0,0,0,0,0.50
-JMP 487,Suspicious Bookcase,,0,0.0,0,0,0,0.50
-JMP 180,Sweep Away,,0,0.0,0,0,0,0.25
-JMP 37,Thriving Moor,,0,0.0,0,0,0,0.25
-JMP 437,Thundering Spineback,,0,0.0,0,0,0,0.50
-JMP 39,Tree-Hugging Theme Card,,0,0.0,0,0,0,0.50
-JMP 285,Vampire Neonate,,0,0.0,0,0,0,0.25
-JMP 286,Wailing Ghoul,,0,0.0,0,0,0,0.25
-JMP 443,Wall of Vines,,0,0.0,0,0,0,0.25
-JMP 192,Waterknot,,0,0.0,0,0,0,0.25
-JMP 1,Above the Clouds Theme Card,,0,0.0,0,0,0,0.50
-JMP 79,Aegis of the Heavens,,0,0.0,0,0,0,0.50
-JMP 373,Affectionate Indrik,,0,0.0,0,0,0,0.50
-JMP 200,Assassin's Strike,,0,0.0,0,0,0,0.50
-JMP 139,Battleground Geist,,0,0.0,0,0,0,0.50
-JMP 203,Black Cat,,0,0.0,0,0,0,0.25
-JMP 209,Bloodbond Vampire,,0,0.0,0,0,0,0.50
-JMP 296,Bloodrage Brawler,,0,0.0,0,0,0,0.50
-JMP 93,Bulwark Giant,,0,0.0,0,0,0,0.25
-JMP 220,Corpse Traders,,0,0.0,0,0,0,0.50
-JMP 222,Death's Approach,,0,0.0,0,0,0,0.25
-JMP 8,Dinosaurs Theme Card,,0,0.0,0,0,0,0.50
-JMP 1,Dogs Theme Card,,0,0.0,0,0,0,0.50
-JMP 308,Draconic Roar,,0,0.0,0,0,0,0.50
-JMP 464,Dreamstone Hedron,,0,0.0,0,0,0,0.50
-JMP 389,Dwynen's Elite,,0,0.0,0,0,0,0.50
-JMP 102,Emancipation Angel,,0,0.0,0,0,0,0.50
-JMP 330,Goblin Shortcutter,,0,0.0,0,0,0,0.25
-JMP 17,Goblins Theme Card,,0,0.0,0,0,0,0.50
-JMP 452,Ironroot Warlord,,0,0.0,0,0,0,0.50
-JMP 250,Liliana's Elite,,0,0.0,0,0,0,0.50
-JMP 120,Long Road Home,,0,0.0,0,0,0,0.50
-JMP 122,Mesa Unicorn,,0,0.0,0,0,0,0.25
-JMP 157,Murmuring Phantasm,,0,0.0,0,0,0,0.25
-JMP 475,Myr Sire,,0,0.0,0,0,0,0.25
-JMP 125,Pacifism,,0,0.0,0,0,0,0.25
-JMP 476,Perilous Myr,,0,0.0,0,0,0,0.25
-JMP 168,Reckless Scholar,,0,0.0,0,0,0,0.50
-JMP 32,Rogues Theme Card,,0,0.0,0,0,0,0.50
-JMP 174,Selhoff Occultist,,0,0.0,0,0,0,0.25
-JMP 486,Skittering Surveyor,,0,0.0,0,0,0,0.25
-JMP 55,Swamp,,0,0.0,0,0,0,0.50
-JMP 57,Swamp,,0,0.0,0,0,0,0.50
-JMP 59,Swamp,,0,0.0,0,0,0,0.50
-JMP 282,Swarm of Bloodflies,,0,0.0,0,0,0,0.50
-JMP 283,Tempting Witch,,0,0.0,0,0,0,0.50
-JMP 365,Thermo-Alchemist,,0,0.0,0,0,0,0.25
-JMP 191,Warden of Evos Isle,,0,0.0,0,0,0,0.50
-JMP 197,Wishful Merfolk,,0,0.0,0,0,0,0.25
-JMP 108,High Sentinels of Arashin,,0,0.0,0,0,0,0.50
-JMP 194,Windreader Sphinx,,0,0.0,0,0,0,0.50
-JMP 289,Act of Treason,,0,0.0,0,0,0,0.25
-JMP 379,Awakener Druid,,0,0.0,0,0,0,0.50
-JMP 205,Blighted Bat,,0,0.0,0,0,0,0.25
-JMP 210,Bloodhunter Bat,,0,0.0,0,0,0,0.25
-JMP 2,Brightmare,,0,0.0,0,0,0,0.50
-JMP 6,Chandra Theme Card,,0,0.0,0,0,0,0.50
-JMP 388,Drover of the Mighty,,0,0.0,0,0,0,0.50
-JMP 390,Elemental Uprising,,0,0.0,0,0,0,0.25
-JMP 232,Falkenrath Noble,,0,0.0,0,0,0,0.50
-JMP 318,Flames of the Raze-Boar,,0,0.0,0,0,0,0.50
-JMP 75,Forest,,0,0.0,0,0,0,0.50
-JMP 106,Gird for Battle,,0,0.0,0,0,0,0.50
-JMP 333,Heartfire,,0,0.0,0,0,0,0.25
-JMP 336,Hungry Flames,,0,0.0,0,0,0,0.25
-JMP 52,Island,,0,0.0,0,0,0,0.50
-JMP 470,Jousting Dummy,,0,0.0,0,0,0,0.25
-JMP 155,Kitesail Corsair,,0,0.0,0,0,0,0.25
-JMP 114,Knight of the Tusk,,0,0.0,0,0,0,0.25
-JMP 68,Mountain,,0,0.0,0,0,0,0.50
-JMP 409,Lifecrafter's Gift,,0,0.0,0,0,0,0.50
-JMP 344,Lightning Elemental,,0,0.0,0,0,0,0.25
-JMP 253,Malakir Familiar,,0,0.0,0,0,0,0.50
-JMP 355,Pillar of Flame,,0,0.0,0,0,0,0.25
-JMP 477,Pirate's Cutlass,,0,0.0,0,0,0,0.25
-JMP 31,Reanimated Theme Card,,0,0.0,0,0,0,0.50
-JMP 172,Sailor of Means,,0,0.0,0,0,0,0.25
-JMP 277,Shambling Goblin,,0,0.0,0,0,0,0.25
-JMP 431,Somberwald Stag,,0,0.0,0,0,0,0.50
-JMP 434,Sylvan Brushstrider,,0,0.0,0,0,0,0.25
-JMP 134,Take Heart,,0,0.0,0,0,0,0.25
-JMP 34,Thriving Grove,,0,0.0,0,0,0,0.25
-JMP 284,Tithebearer Giant,,0,0.0,0,0,0,0.25
-JMP 136,Valorous Stance,,0,0.0,0,0,0,0.50
-JMP 188,Vedalken Entrancer,,0,0.0,0,0,0,0.25
-JMP 189,Voyage's End,,0,0.0,0,0,0,0.25
-JMP 190,Wall of Lost Thoughts,,0,0.0,0,0,0,0.50
-JMP 370,Warfire Javelineer,,0,0.0,0,0,0,0.50
-JMP 371,Weaver of Lightning,,0,0.0,0,0,0,0.50
-JMP 445,Wildsize,,0,0.0,0,0,0,0.25
-JMP 211,Bogbrew Witch,,0,0.0,0,0,0,0.50
-JMP 303,Charmbreaker Devils,,0,0.0,0,0,0,0.50
-JMP 240,"Gonti, Lord of Luxury",,0,0.0,0,0,0,0.50
-JMP 347,Magmaquake,,0,0.0,0,0,0,0.50
-JMP 41,Unicorns Theme Card,,0,0.0,0,0,0,0.50
-JMP 88,Angelic Page,,0,0.0,0,0,0,0.25
-JMP 290,Ashmouth Hound,,0,0.0,0,0,0,0.25
-JMP 295,Blindblast,,0,0.0,0,0,0,0.25
-JMP 299,Boggart Brute,,0,0.0,0,0,0,0.25
-JMP 301,Borderland Minotaur,,0,0.0,0,0,0,0.25
-JMP 94,Cathar's Companion,,0,0.0,0,0,0,0.25
-JMP 450,Dinrova Horror,,0,0.0,0,0,0,0.50
-JMP 307,Doublecast,,0,0.0,0,0,0,0.50
-JMP 309,Dragon Fodder,,0,0.0,0,0,0,0.25
-JMP 310,Dragon Hatchling,,0,0.0,0,0,0,0.25
-JMP 227,Entomber Exarch,,0,0.0,0,0,0,0.50
-JMP 234,Festering Newt,,0,0.0,0,0,0,0.50
-JMP 71,Forest,,0,0.0,0,0,0,0.50
-JMP 238,Ghoulraiser,,0,0.0,0,0,0,0.25
-JMP 335,Homing Lightning,,0,0.0,0,0,0,0.50
-JMP 403,Initiate's Companion,,0,0.0,0,0,0,0.25
-JMP 20,Legion Theme Card,,0,0.0,0,0,0,0.50
-JMP 341,Lightning Axe,,0,0.0,0,0,0,0.50
-JMP 343,Lightning Diadem,,0,0.0,0,0,0,0.25
-JMP 22,Liliana Theme Card,,0,0.0,0,0,0,0.50
-JMP 346,Magma Jet,,0,0.0,0,0,0,0.50
-JMP 473,Marauder's Axe,,0,0.0,0,0,0,0.25
-JMP 255,Mausoleum Turnkey,,0,0.0,0,0,0,0.50
-JMP 349,Minotaur Skullcleaver,,0,0.0,0,0,0,0.25
-JMP 350,Minotaur Sureshot,,0,0.0,0,0,0,0.25
-JMP 67,Mountain,,0,0.0,0,0,0,0.50
-JMP 163,Peel from Reality,,0,0.0,0,0,0,0.25
-JMP 42,Plains,,0,0.0,0,0,0,0.50
-JMP 419,Pouncing Cheetah,,0,0.0,0,0,0,0.25
-JMP 30,Rainbow Theme Card,,0,0.0,0,0,0,0.50
-JMP 129,Raise the Alarm,,0,0.0,0,0,0,0.25
-JMP 426,Rumbling Baloth,,0,0.0,0,0,0,0.25
-JMP 362,Seismic Elemental,,0,0.0,0,0,0,0.50
-JMP 275,Sengir Vampire,,0,0.0,0,0,0,0.50
-JMP 276,Settle the Score,,0,0.0,0,0,0,0.50
-JMP 430,Silhana Wayfinder,,0,0.0,0,0,0,0.50
-JMP 279,Slate Street Ruffian,,0,0.0,0,0,0,0.25
-JMP 37,Spooky Theme Card,,0,0.0,0,0,0,0.50
-JMP 281,Stab Wound,,0,0.0,0,0,0,0.50
-JMP 179,Storm Sculptor,,0,0.0,0,0,0,0.25
-JMP 366,Tibalt's Rager,,0,0.0,0,0,0,0.50
-JMP 186,Towering-Wave Mystic,,0,0.0,0,0,0,0.25
-JMP 40,Under the Sea Theme Card,,0,0.0,0,0,0,0.50
-JMP 137,Voice of the Provinces,,0,0.0,0,0,0,0.25
-JMP 199,Agonizing Syphon,,0,0.0,0,0,0,0.25
-JMP 83,Alabaster Mage,,0,0.0,0,0,0,0.50
-JMP 375,Ambassador Oak,,0,0.0,0,0,0,0.25
-JMP 84,Angel of Mercy,,0,0.0,0,0,0,0.25
-JMP 87,Angelic Edict,,0,0.0,0,0,0,0.25
-JMP 2,Angels Theme Card,,0,0.0,0,0,0,0.50
-JMP 376,Arbor Armament,,0,0.0,0,0,0,0.25
-JMP 3,Archaeology Theme Card,,0,0.0,0,0,0,0.50
-JMP 449,Auger Spree,,0,0.0,0,0,0,0.25
-JMP 4,Basri Theme Card,,0,0.0,0,0,0,0.50
-JMP 293,Bathe in Dragonfire,,0,0.0,0,0,0,0.25
-JMP 91,Battlefield Promotion,,0,0.0,0,0,0,0.25
-JMP 140,Befuddle,,0,0.0,0,0,0,0.25
-JMP 297,Bloodrock Cyclops,,0,0.0,0,0,0,0.25
-JMP 298,Bloodshot Trainee,,0,0.0,0,0,0,0.50
-JMP 300,Borderland Marauder,,0,0.0,0,0,0,0.25
-JMP 381,Brushstrider,,0,0.0,0,0,0,0.50
-JMP 214,Burglar Rat,,0,0.0,0,0,0,0.25
-JMP 215,Cadaver Imp,,0,0.0,0,0,0,0.25
-JMP 5,Cats Theme Card,,0,0.0,0,0,0,0.50
-JMP 218,Child of Night,,0,0.0,0,0,0,0.25
-JMP 462,Chromatic Sphere,,0,0.0,0,0,0,0.50
-JMP 143,Cloudreader Sphinx,,0,0.0,0,0,0,0.25
-JMP 219,Corpse Hauler,,0,0.0,0,0,0,0.25
-JMP 145,Crookclaw Transmuter,,0,0.0,0,0,0,0.25
-JMP 386,Crushing Canopy,,0,0.0,0,0,0,0.25
-JMP 146,Cryptic Serpent,,0,0.0,0,0,0,0.50
-JMP 99,Dauntless Onslaught,,0,0.0,0,0,0,0.50
-JMP 149,Departed Deckhand,,0,0.0,0,0,0,0.50
-JMP 7,Devilish Theme Card,,0,0.0,0,0,0,0.50
-JMP 9,Discarding Theme Card,,0,0.0,0,0,0,0.50
-JMP 100,Divine Arrow,,0,0.0,0,0,0,0.25
-JMP 10,Doctor Theme Card,,0,0.0,0,0,0,0.50
-JMP 223,Douse in Gloom,,0,0.0,0,0,0,0.25
-JMP 463,Dragonloft Idol,,0,0.0,0,0,0,0.50
-JMP 13,Elves Theme Card,,0,0.0,0,0,0,0.50
-JMP 14,Enchanted Theme Card,,0,0.0,0,0,0,0.50
-JMP 392,Enlarge,,0,0.0,0,0,0,0.50
-JMP 150,Erratic Visionary,,0,0.0,0,0,0,0.25
-JMP 152,Exclude,,0,0.0,0,0,0,0.50
-JMP 394,Fa'adiyah Seer,,0,0.0,0,0,0,0.25
-JMP 103,Face of Divinity,,0,0.0,0,0,0,0.50
-JMP 398,Fertilid,,0,0.0,0,0,0,0.25
-JMP 316,Flame Lash,,0,0.0,0,0,0,0.25
-JMP 317,Flames of the Firebrand,,0,0.0,0,0,0,0.50
-JMP 319,Flametongue Kavu,,0,0.0,0,0,0,0.50
-JMP 104,Forced Worship,,0,0.0,0,0,0,0.25
-JMP 72,Forest,,0,0.0,0,0,0,0.50
-JMP 322,Forge Devil,,0,0.0,0,0,0,0.25
-JMP 105,Fortify,,0,0.0,0,0,0,0.25
-JMP 235,Funeral Rites,,0,0.0,0,0,0,0.25
-JMP 451,Fusion Elemental,,0,0.0,0,0,0,0.50
-JMP 465,Gargoyle Sentinel,,0,0.0,0,0,0,0.50
-JMP 16,Garruk Theme Card,,0,0.0,0,0,0,0.50
-JMP 400,Ghirapur Guide,,0,0.0,0,0,0,0.50
-JMP 237,Ghoulcaller's Accomplice,,0,0.0,0,0,0,0.25
-JMP 242,Gristle Grinner,,0,0.0,0,0,0,0.50
-JMP 107,Healer's Hawk,,0,0.0,0,0,0,0.25
-JMP 18,Heavily Armored Theme Card,,0,0.0,0,0,0,0.50
-JMP 468,Hedron Archive,,0,0.0,0,0,0,0.50
-JMP 109,Indomitable Will,,0,0.0,0,0,0,0.25
-JMP 110,Inspired Charge,,0,0.0,0,0,0,0.25
-JMP 111,Inspiring Captain,,0,0.0,0,0,0,0.25
-JMP 112,Inspiring Unicorn,,0,0.0,0,0,0,0.50
-JMP 405,Ironshell Beetle,,0,0.0,0,0,0,0.25
-JMP 48,Island,,0,0.0,0,0,0,0.50
-JMP 49,Island,,0,0.0,0,0,0,0.50
-JMP 50,Island,,0,0.0,0,0,0,0.50
-JMP 471,Juggernaut,,0,0.0,0,0,0,0.50
-JMP 245,Kalastria Nightwatch,,0,0.0,0,0,0,0.25
-JMP 338,Kiln Fiend,,0,0.0,0,0,0,0.25
-JMP 115,Knightly Valor,,0,0.0,0,0,0,0.25
-JMP 247,Last Gasp,,0,0.0,0,0,0,0.25
-JMP 248,Launch Party,,0,0.0,0,0,0,0.25
-JMP 249,Lawless Broker,,0,0.0,0,0,0,0.25
-JMP 408,Leaf Gilder,,0,0.0,0,0,0,0.25
-JMP 156,Leave in the Dust,,0,0.0,0,0,0,0.25
-JMP 21,Lightning Theme Card,,0,0.0,0,0,0,0.50
-JMP 118,Lightwalker,,0,0.0,0,0,0,0.25
-JMP 23,Living Lightning,,0,0.0,0,0,0,0.50
-JMP 252,Macabre Waltz,,0,0.0,0,0,0,0.25
-JMP 348,Makeshift Munitions,,0,0.0,0,0,0,0.50
-JMP 254,Mark of the Vampire,,0,0.0,0,0,0,0.25
-JMP 121,Mentor of the Meek,,0,0.0,0,0,0,0.50
-JMP 474,Meteor Golem,,0,0.0,0,0,0,0.50
-JMP 23,Milling Theme Card,,0,0.0,0,0,0,0.50
-JMP 124,Moment of Heroism,,0,0.0,0,0,0,0.25
-JMP 69,Mountain,,0,0.0,0,0,0,0.50
-JMP 352,Mugging,,0,0.0,0,0,0,0.25
-JMP 158,Mystic Archaeologist,,0,0.0,0,0,0,0.50
-JMP 160,Nebelgast Herald,,0,0.0,0,0,0,0.50
-JMP 413,Nessian Hornbeetle,,0,0.0,0,0,0,0.50
-JMP 161,Octoprophet,,0,0.0,0,0,0,0.25
-JMP 353,Ornery Goblin,,0,0.0,0,0,0,0.25
-JMP 262,Parasitic Implant,,0,0.0,0,0,0,0.25
-JMP 128,Patron of the Valiant,,0,0.0,0,0,0,0.50
-JMP 418,Penumbra Bobcat,,0,0.0,0,0,0,0.25
-JMP 263,Phyrexian Broodlings,,0,0.0,0,0,0,0.25
-JMP 264,Phyrexian Debaser,,0,0.0,0,0,0,0.25
-JMP 265,Phyrexian Gargantua,,0,0.0,0,0,0,0.50
-JMP 26,Phyrexian Theme Card,,0,0.0,0,0,0,0.50
-JMP 27,Pirates Theme Card,,0,0.0,0,0,0,0.50
-JMP 268,Plagued Rusalka,,0,0.0,0,0,0,0.25
-JMP 39,Plains,,0,0.0,0,0,0,0.50
-JMP 40,Plains,,0,0.0,0,0,0,0.50
-JMP 43,Plains,,0,0.0,0,0,0,0.50
-JMP 44,Plains,,0,0.0,0,0,0,0.50
-JMP 28,Plus One Theme Card,,0,0.0,0,0,0,0.50
-JMP 29,Predatory Theme Card,,0,0.0,0,0,0,0.50
-JMP 165,Prosperous Pirates,,0,0.0,0,0,0,0.25
-JMP 359,Riddle of Lightning,,0,0.0,0,0,0,0.50
-JMP 170,Rishadan Airship,,0,0.0,0,0,0,0.25
-JMP 131,Ronom Unicorn,,0,0.0,0,0,0,0.25
-JMP 480,Roving Keep,,0,0.0,0,0,0,0.25
-JMP 481,Runed Servitor,,0,0.0,0,0,0,0.25
-JMP 495,Rupture Spire,,0,0.0,0,0,0,0.25
-JMP 171,Sage's Row Savant,,0,0.0,0,0,0,0.25
-JMP 273,Sanitarium Skeleton,,0,0.0,0,0,0,0.25
-JMP 360,Sarkhan's Rage,,0,0.0,0,0,0,0.25
-JMP 33,Seismic Theme Card,,0,0.0,0,0,0,0.50
-JMP 132,Serra Angel,,0,0.0,0,0,0,0.50
-JMP 485,Signpost Scarecrow,,0,0.0,0,0,0,0.25
-JMP 34,Smashing Theme Card,,0,0.0,0,0,0,0.50
-JMP 35,Spellcasting Theme Card,,0,0.0,0,0,0,0.50
-JMP 36,Spirits Theme Card,,0,0.0,0,0,0,0.50
-JMP 364,Spitting Earth,,0,0.0,0,0,0,0.25
-JMP 6,Stone Haven Pilgrim,,0,0.0,0,0,0,0.50
-JMP 58,Swamp,,0,0.0,0,0,0,1.00
-JMP 435,Sylvan Ranger,,0,0.0,0,0,0,0.25
-JMP 182,Talrand's Invocation,,0,0.0,0,0,0,0.50
-JMP 135,Tandem Tactics,,0,0.0,0,0,0,0.25
-JMP 38,Teferi Theme Card,,0,0.0,0,0,0,0.50
-JMP 436,Thragtusk,,0,0.0,0,0,0,0.50
-JMP 438,Time to Feed,,0,0.0,0,0,0,0.25
-JMP 367,Torch Fiend,,0,0.0,0,0,0,0.25
-JMP 489,Unstable Obelisk,,0,0.0,0,0,0,0.50
-JMP 42,Vampires Theme Card,,0,0.0,0,0,0,0.50
-JMP 440,Vastwood Zendikon,,0,0.0,0,0,0,0.25
-JMP 43,Walls Theme Card,,0,0.0,0,0,0,0.50
-JMP 44,Well-Read Theme Card,,0,0.0,0,0,0,0.50
-JMP 444,Wildheart Invoker,,0,0.0,0,0,0,0.25
-JMP 195,Windstorm Drake,,0,0.0,0,0,0,0.50
-JMP 45,Witchcraft Theme Card,,0,0.0,0,0,0,0.50
-JMP 46,Wizards Theme Card,,0,0.0,0,0,0,0.50
-JMP 446,Woodborn Behemoth,,0,0.0,0,0,0,0.50
-JMP 447,Wren's Run Vanquisher,,0,0.0,0,0,0,0.50
-JMP 288,Zombie Infestation,,0,0.0,0,0,0,0.50
+DFT 350,Ketramose,,0,0.0,0,0,0,0
+DFT 374,Wastewood Verge,,0,0.0,0,0,0,7.00
+DFT 371,Bleachbone Verge,,0,0.0,0,0,0,7.50
+DFT 372,Riverpyre Verge,,0,0.0,0,0,0,5.50
+DFT 373,Sunbillow Verge,,0,0.0,0,0,0,5.00
+DFT 375,Willowrush Verge,,0,0.0,0,0,0,5.00
+DFT 353,Riptide Gearhulk,,0,0.0,0,0,0,8.00
+DFT 382,Unstoppable Plan,,0,0.0,0,0,0,3.00
+DFT 394,Monument to Endurance,,0,0.0,0,0,0,6.50
+DFT 386,Full Throttle,,0,0.0,0,0,0,2.50
+DFT 348,Brightglass Gearhulk,,0,0.0,0,0,0,7.00
+DFT 388,March of the World Ooze,,0,0.0,0,0,0,3.50
+DFT 395,Radiant Lotus,,0,0.0,0,0,0,5.00
+DFT 357,Gonti,,0,0.0,0,0,0,0
+DFT 295,Salvation Engine,,0,0.0,0,0,0,2.50
+DFT 351,Oildeep Gearhulk,,0,0.0,0,0,0,2.50
+DFT 343,Agonasaur Rex,,0,0.0,0,0,0,1.50
+DFT 337,Bloodghast,,0,0.0,0,0,0,1.50
+DFT 339,The Speed Demon,,0,0.0,0,0,0,2.00
+DFT 365,Mendicant Core,,0,0.0,0,0,0,0
+DFT 354,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 396,Muraganda Raceway,,0,0.0,0,0,0,1.00
+DFT 393,Marketback Walker,,0,0.0,0,0,0,1.00
+DFT 298,Valor's Flagship,,0,0.0,0,0,0,2.00
+DFT 342,Howlsquad Heavy,,0,0.0,0,0,0,0.50
+DFT 359,Oviya,,0,0.0,0,0,0,0
+DFT 349,Coalstoke Gearhulk,,0,0.0,0,0,0,1.00
+DFT 391,Loot,,0,0.0,0,0,0,0
+DFT 317,Thunderous Velocipede,,0,0.0,0,0,0,1.00
+DFT 389,Regal Imperiosaur,,0,0.0,0,0,0,0.50
+DFT 356,Vnwxt,,0,0.0,0,0,0,0
+DFT 383,Cursecloth Wrappings,,0,0.0,0,0,0,0.50
+DFT 361,Captain Howler,,0,0.0,0,0,0,0
+DFT 316,Lumbering Worldwagon,,0,0.0,0,0,0,0.50
+DFT 347,Hazoret,,0,0.0,0,0,0,0
+DFT 306,Cryptcaller Chariot,,0,0.0,0,0,0,0.50
+DFT 352,Pyrewood Gearhulk,,0,0.0,0,0,0,1.00
+DFT 308,The Last Ride,,0,0.0,0,0,0,1.00
+DFT 380,Repurposing Bay,,0,0.0,0,0,0,1.00
+DFT 379,Mu Yanling,,0,0.0,0,0,0,0
+DFT 335,Mindspring Merfolk,,0,0.0,0,0,0,0.50
+DFT 304,Thopter Fabricator,,0,0.0,0,0,0,0.50
+DFT 307,Demonic Junker,,0,0.0,0,0,0,0.50
+DFT 340,Burnout Bashtronaut,,0,0.0,0,0,0,0.50
+DFT 341,Draconautics Engineer,,0,0.0,0,0,0,0.50
+DFT 355,Basri,,0,0.0,0,0,0,0
+DFT 336,Waxen Shapethief,,0,0.0,0,0,0,0.50
+DFT 360,Aatchik,,0,0.0,0,0,0,0
+DFT 344,District Mascot,,0,0.0,0,0,0,0.50
+DFT 377,Perilous Snare,,0,0.0,0,0,0,0.50
+DFT 370,Zahur,,0,0.0,0,0,0,0
+DFT 385,Count on Luck,,0,0.0,0,0,0,0.50
+DFT 381,Riverchurn Monument,,0,0.0,0,0,0,0.50
+DFT 299,Voyager Glidecar,,0,0.0,0,0,0,0.50
+DFT 392,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 378,Spectacular Pileup,,0,0.0,0,0,0,0.50
+DFT 329,Lifecraft Engine,,0,0.0,0,0,0,0.50
+DFT 313,Gastal Thrillroller,,0,0.0,0,0,0,0.50
+DFT 334,Guardian Sunmare,,0,0.0,0,0,0,0.50
+DFT 338,Gas Guzzler,,0,0.0,0,0,0,0.50
+DFT 366,Redshift,,0,0.0,0,0,0,0
+DFT 322,Debris Beetle,,0,0.0,0,0,0,0.50
+DFT 333,Bulwark Ox,,0,0.0,0,0,0,0.50
+DFT 302,Possession Engine,,0,0.0,0,0,0,0.50
+DFT 358,Daretti,,0,0.0,0,0,0,0
+DFT 384,Quag Feast,,0,0.0,0,0,0,0.50
+DFT 362,Caradora,,0,0.0,0,0,0,0
+DFT 363,Far Fortune,,0,0.0,0,0,0,0
+DFT 368,Sita Varma,,0,0.0,0,0,0,0
+DFT 369,Winter,,0,0.0,0,0,0,0
+DFT 346,Fearless Swashbuckler,,0,0.0,0,0,0,0.50
+DFT 364,Kolodin,,0,0.0,0,0,0,0
+DFT 310,Boommobile,,0,0.0,0,0,0,0.50
+DFT 387,Afterburner Expert,,0,0.0,0,0,0,0.50
+DFT 320,Boosted Sloop,,0,0.0,0,0,0,0.50
+DFT 345,Webstrike Elite,,0,0.0,0,0,0,0.50
+DFT 324,Guidelight Pathmaker,,0,0.0,0,0,0,0.50
+DFT 367,Samut,,0,0.0,0,0,0,0
+DFT 300,Hulldrifter,,0,0.0,0,0,0,0.25
+DFT 296,Skyseer's Chariot,,0,0.0,0,0,0,0.50
+DFT 327,Rocketeer Boostbuggy,,0,0.0,0,0,0,0.50
+DFT 294,Detention Chariot,,0,0.0,0,0,0,0.50
+DFT 331,Rover Blades,,0,0.0,0,0,0,0.50
+DFT 303,Rangers' Refueler,,0,0.0,0,0,0,0.50
+DFT 305,Carrion Cruiser,,0,0.0,0,0,0,0.50
+DFT 311,Burner Rocket,,0,0.0,0,0,0,0.25
+DFT 312,Clamorous Ironclad,,0,0.0,0,0,0,0.25
+DFT 325,Haunted Hellride,,0,0.0,0,0,0,0.50
+DFT 314,Spire Mechcycle,,0,0.0,0,0,0,0.50
+DFT 390,Explosive Getaway,,0,0.0,0,0,0,0.50
+DFT 292,Air Response Unit,,0,0.0,0,0,0,0.50
+DFT 293,Broadcast Rambler,,0,0.0,0,0,0,0.25
+DFT 315,Earthrumbler,,0,0.0,0,0,0,0.50
+DFT 326,Rangers' Aetherhive,,0,0.0,0,0,0,0.50
+DFT 328,Thundering Broodwagon,,0,0.0,0,0,0,0.50
+DFT 318,Veloheart Bike,,0,0.0,0,0,0,0.25
+DFT 301,Midnight Mangler,,0,0.0,0,0,0,0.25
+DFT 297,Spotcycle Scouter,,0,0.0,0,0,0,0.25
+DFT 323,Dune Drifter,,0,0.0,0,0,0,0.50
+DFT 332,Skybox Ferry,,0,0.0,0,0,0,0.25
+DFT 319,Apocalypse Runner,,0,0.0,0,0,0,0.50
+DFT 321,Cloudspire Skycycle,,0,0.0,0,0,0,0.50
+DFT 309,Ripclaw Wrangler,,0,0.0,0,0,0,0.25
+DFT 330,Marshals' Pathcruiser,,0,0.0,0,0,0,0.50
+DFT 350F,Ketramose,,0,0.0,0,0,0,0
+DFT 416F,Radiant Lotus,,0,0.0,0,0,0,320.00
+DFT 510F,Mountain,,0,0.0,0,0,0,2.00
+DFT 406F,Radiant Lotus,,0,0.0,0,0,0,36.00
+DFT 549F,Ketramose,,0,0.0,0,0,0,0
+DFT 374F,Wastewood Verge,,0,0.0,0,0,0,9.50
+DFT 404F,Loot,,0,0.0,0,0,0,0
+DFT 496F,The Aetherspark,,0,0.0,0,0,0,112.00
+DFT 509F,Swamp,,0,0.0,0,0,0,1.50
+DFT 371F,Bleachbone Verge,,0,0.0,0,0,0,10.00
+DFT 401F,Chandra,,0,0.0,0,0,0,0
+DFT 511F,Forest,,0,0.0,0,0,0,1.00
+DFT 353F,Riptide Gearhulk,,0,0.0,0,0,0,16.00
+DFT 515F,Mountain,,0,0.0,0,0,0,8.00
+DFT 400F,Cursecloth Wrappings,,0,0.0,0,0,0,20.00
+DFT 507F,Plains,,0,0.0,0,0,0,1.00
+DFT 411F,Chandra,,0,0.0,0,0,0,0
+DFT 508F,Island,,0,0.0,0,0,0,1.00
+DFT 402F,March of the World Ooze,,0,0.0,0,0,0,12.00
+DFT 365F,Mendicant Core,,0,0.0,0,0,0,0
+DFT 516F,Forest,,0,0.0,0,0,0,3.00
+DFT 394F,Monument to Endurance,,0,0.0,0,0,0,9.50
+DFT 485F,Mendicant Core,,0,0.0,0,0,0,0
+DFT 372F,Riverpyre Verge,,0,0.0,0,0,0,7.00
+DFT 414F,Loot,,0,0.0,0,0,0,0
+DFT 513F,Island,,0,0.0,0,0,0,6.50
+DFT 351F,Oildeep Gearhulk,,0,0.0,0,0,0,5.50
+DFT 500F,Radiant Lotus,,0,0.0,0,0,0,56.00
+DFT 373F,Sunbillow Verge,,0,0.0,0,0,0,7.00
+DFT 410F,Cursecloth Wrappings,,0,0.0,0,0,0,76.00
+DFT 375F,Willowrush Verge,,0,0.0,0,0,0,5.50
+DFT 482F,Ketramose,,0,0.0,0,0,0,0
+DFT 348F,Brightglass Gearhulk,,0,0.0,0,0,0,16.00
+DFT 512F,Plains,,0,0.0,0,0,0,3.00
+DFT 503F,Riverpyre Verge,,0,0.0,0,0,0,12.00
+DFT 504F,Sunbillow Verge,,0,0.0,0,0,0,12.00
+DFT 499F,Monument to Endurance,,0,0.0,0,0,0,28.00
+DFT 386F,Full Throttle,,0,0.0,0,0,0,3.00
+DFT 501F,Bleachbone Verge,,0,0.0,0,0,0,13.00
+DFT 395F,Radiant Lotus,,0,0.0,0,0,0,11.00
+DFT 397F,Salvation Engine,,0,0.0,0,0,0,5.50
+DFT 474F,Brightglass Gearhulk,,0,0.0,0,0,0,32.00
+DFT 382F,Unstoppable Plan,,0,0.0,0,0,0,4.00
+DFT 399F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 295F,Salvation Engine,,0,0.0,0,0,0,3.50
+DFT 547F,Brightglass Gearhulk,,0,0.0,0,0,0,80.00
+DFT 550F,Oildeep Gearhulk,,0,0.0,0,0,0,40.00
+DFT 298F,Valor's Flagship,,0,0.0,0,0,0,3.00
+DFT 339F,The Speed Demon,,0,0.0,0,0,0,3.50
+DFT 357F,Gonti,,0,0.0,0,0,0,0
+DFT 456F,Chandra,,0,0.0,0,0,0,0
+DFT 460F,Full Throttle,,0,0.0,0,0,0,9.00
+DFT 536F,Bloodghast,,0,0.0,0,0,0,6.50
+DFT 531F,Lifecraft Engine,,0,0.0,0,0,0,5.50
+DFT 352F,Pyrewood Gearhulk,,0,0.0,0,0,0,2.50
+DFT 412F,March of the World Ooze,,0,0.0,0,0,0,64.00
+DFT 388F,March of the World Ooze,,0,0.0,0,0,0,3.00
+DFT 359F,Oviya,,0,0.0,0,0,0,0
+DFT 506F,Willowrush Verge,,0,0.0,0,0,0,9.00
+DFT 337F,Bloodghast,,0,0.0,0,0,0,1.00
+DFT 415F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 391F,Loot,,0,0.0,0,0,0,0
+DFT 389F,Regal Imperiosaur,,0,0.0,0,0,0,1.00
+DFT 442F,Unstoppable Plan,,0,0.0,0,0,0,9.50
+DFT 354F,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 473F,Aatchik,,0,0.0,0,0,0,0
+DFT 450F,Gonti,,0,0.0,0,0,0,0
+DFT 491F,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 361F,Captain Howler,,0,0.0,0,0,0,0
+DFT 467F,Lumbering Worldwagon,,0,0.0,0,0,0,1.50
+DFT 396F,Muraganda Raceway,,0,0.0,0,0,0,1.50
+DFT 356F,Vnwxt,,0,0.0,0,0,0,0
+DFT 317F,Thunderous Velocipede,,0,0.0,0,0,0,3.00
+DFT 349F,Coalstoke Gearhulk,,0,0.0,0,0,0,2.50
+DFT 477F,Coalstoke Gearhulk,,0,0.0,0,0,0,5.00
+DFT 342F,Howlsquad Heavy,,0,0.0,0,0,0,1.00
+DFT 407F,Salvation Engine,,0,0.0,0,0,0,36.00
+DFT 380F,Repurposing Bay,,0,0.0,0,0,0,2.00
+DFT 439F,Repurposing Bay,,0,0.0,0,0,0,11.00
+DFT 453F,The Speed Demon,,0,0.0,0,0,0,11.00
+DFT 405F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 534F,Mindspring Merfolk,,0,0.0,0,0,0,5.00
+DFT 514F,Swamp,,0,0.0,0,0,0,1.50
+DFT 440F,Riverchurn Monument,,0,0.0,0,0,0,3.50
+DFT 393F,Marketback Walker,,0,0.0,0,0,0,1.00
+DFT 502F,Muraganda Raceway,,0,0.0,0,0,0,8.00
+DFT 431F,Salvation Engine,,0,0.0,0,0,0,4.00
+DFT 475F,Captain Howler,,0,0.0,0,0,0,0
+DFT 505F,Wastewood Verge,,0,0.0,0,0,0,10.00
+DFT 413F,Explosive Getaway,,0,0.0,0,0,0,30.00
+DFT 469F,Oviya,,0,0.0,0,0,0,0
+DFT 470F,Regal Imperiosaur,,0,0.0,0,0,0,3.00
+DFT 347F,Hazoret,,0,0.0,0,0,0,0
+DFT 381F,Riverchurn Monument,,0,0.0,0,0,0,0.50
+DFT 553F,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 398F,Spectacular Pileup,,0,0.0,0,0,0,3.00
+DFT 307F,Demonic Junker,,0,0.0,0,0,0,1.00
+DFT 341F,Draconautics Engineer,,0,0.0,0,0,0,1.00
+DFT 433F,Spectacular Pileup,,0,0.0,0,0,0,1.50
+DFT 308F,The Last Ride,,0,0.0,0,0,0,1.50
+DFT 383F,Cursecloth Wrappings,,0,0.0,0,0,0,0.50
+DFT 316F,Lumbering Worldwagon,,0,0.0,0,0,0,0.50
+DFT 546F,Hazoret,,0,0.0,0,0,0,0
+DFT 466F,District Mascot,,0,0.0,0,0,0,3.00
+DFT 530F,Debris Beetle,,0,0.0,0,0,0,3.00
+DFT 489F,Redshift,,0,0.0,0,0,0,0
+DFT 443F,Vnwxt,,0,0.0,0,0,0,0
+DFT 449F,Gas Guzzler,,0,0.0,0,0,0,1.50
+DFT 306F,Cryptcaller Chariot,,0,0.0,0,0,0,0.50
+DFT 436F,Mindspring Merfolk,,0,0.0,0,0,0,1.00
+DFT 488F,Pyrewood Gearhulk,,0,0.0,0,0,0,4.00
+DFT 465F,Agonasaur Rex,,0,0.0,0,0,0,3.00
+DFT 490F,Riptide Gearhulk,,0,0.0,0,0,0,18.00
+DFT 542F,Agonasaur Rex,,0,0.0,0,0,0,9.00
+DFT 528F,Lumbering Worldwagon,,0,0.0,0,0,0,9.00
+DFT 522F,Thopter Fabricator,,0,0.0,0,0,0,5.50
+DFT 304F,Thopter Fabricator,,0,0.0,0,0,0,0.50
+DFT 340F,Burnout Bashtronaut,,0,0.0,0,0,0,0.50
+DFT 537F,Gas Guzzler,,0,0.0,0,0,0,4.00
+DFT 403F,Explosive Getaway,,0,0.0,0,0,0,2.00
+DFT 429F,Guardian Sunmare,,0,0.0,0,0,0,2.00
+DFT 343F,Agonasaur Rex,,0,0.0,0,0,0,1.00
+DFT 379F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 493F,Sita Varma,,0,0.0,0,0,0,0
+DFT 521F,Possession Engine,,0,0.0,0,0,0,2.00
+DFT 535F,Waxen Shapethief,,0,0.0,0,0,0,7.00
+DFT 445F,Bloodghast,,0,0.0,0,0,0,3.00
+DFT 517F,Salvation Engine,,0,0.0,0,0,0,14.00
+DFT 519F,Valor's Flagship,,0,0.0,0,0,0,14.00
+DFT 355F,Basri,,0,0.0,0,0,0,0
+DFT 468F,March of the World Ooze,,0,0.0,0,0,0,13.00
+DFT 335F,Mindspring Merfolk,,0,0.0,0,0,0,0.50
+DFT 447F,Cursecloth Wrappings,,0,0.0,0,0,0,4.00
+DFT 448F,Demonic Junker,,0,0.0,0,0,0,2.50
+DFT 333F,Bulwark Ox,,0,0.0,0,0,0,0.50
+DFT 370F,Zahur,,0,0.0,0,0,0,0
+DFT 480F,Far Fortune,,0,0.0,0,0,0,0
+DFT 368F,Sita Varma,,0,0.0,0,0,0,0
+DFT 541F,Howlsquad Heavy,,0,0.0,0,0,0,10.00
+DFT 327F,Rocketeer Boostbuggy,,0,0.0,0,0,0,0.50
+DFT 457F,Count on Luck,,0,0.0,0,0,0,2.00
+DFT 483F,Kolodin,,0,0.0,0,0,0,0
+DFT 322F,Debris Beetle,,0,0.0,0,0,0,0.50
+DFT 363F,Far Fortune,,0,0.0,0,0,0,0
+DFT 384F,Quag Feast,,0,0.0,0,0,0,0.50
+DFT 378F,Spectacular Pileup,,0,0.0,0,0,0,0.50
+DFT 299F,Voyager Glidecar,,0,0.0,0,0,0,0.50
+DFT 463F,Howlsquad Heavy,,0,0.0,0,0,0,2.50
+DFT 441F,Thopter Fabricator,,0,0.0,0,0,0,1.50
+DFT 481F,Fearless Swashbuckler,,0,0.0,0,0,0,1.50
+DFT 362F,Caradora,,0,0.0,0,0,0,0
+DFT 344F,District Mascot,,0,0.0,0,0,0,0.50
+DFT 336F,Waxen Shapethief,,0,0.0,0,0,0,0.50
+DFT 334F,Guardian Sunmare,,0,0.0,0,0,0,0.50
+DFT 367F,Samut,,0,0.0,0,0,0,0
+DFT 345F,Webstrike Elite,,0,0.0,0,0,0,0.50
+DFT 369F,Winter,,0,0.0,0,0,0,0
+DFT 427F,Basri,,0,0.0,0,0,0,0
+DFT 360F,Aatchik,,0,0.0,0,0,0,0
+DFT 385F,Count on Luck,,0,0.0,0,0,0,0.50
+DFT 296F,Skyseer's Chariot,,0,0.0,0,0,0,0.50
+DFT 390F,Explosive Getaway,,0,0.0,0,0,0,0.50
+DFT 338F,Gas Guzzler,,0,0.0,0,0,0,0.50
+DFT 329F,Lifecraft Engine,,0,0.0,0,0,0,0.50
+DFT 302F,Possession Engine,,0,0.0,0,0,0,0.50
+DFT 527F,Gastal Thrillroller,,0,0.0,0,0,0,1.50
+DFT 392F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 346F,Fearless Swashbuckler,,0,0.0,0,0,0,0.50
+DFT 313F,Gastal Thrillroller,,0,0.0,0,0,0,0.50
+DFT 478F,Debris Beetle,,0,0.0,0,0,0,0.50
+DFT 462F,Hazoret,,0,0.0,0,0,0,0
+DFT 358F,Daretti,,0,0.0,0,0,0,0
+DFT 364F,Kolodin,,0,0.0,0,0,0,0
+DFT 455F,Burnout Bashtronaut,,0,0.0,0,0,0,0.50
+DFT 524F,Demonic Junker,,0,0.0,0,0,0,4.00
+DFT 320F,Boosted Sloop,,0,0.0,0,0,0,0.50
+DFT 311F,Burner Rocket,,0,0.0,0,0,0,0.50
+DFT 545F,Fearless Swashbuckler,,0,0.0,0,0,0,2.00
+DFT 430F,Perilous Snare,,0,0.0,0,0,0,2.00
+DFT 518F,Skyseer's Chariot,,0,0.0,0,0,0,3.00
+DFT 444F,Waxen Shapethief,,0,0.0,0,0,0,1.00
+DFT 377F,Perilous Snare,,0,0.0,0,0,0,0.50
+DFT 366F,Redshift,,0,0.0,0,0,0,0
+DFT 324F,Guidelight Pathmaker,,0,0.0,0,0,0,0.50
+DFT 471F,Thunderous Velocipede,,0,0.0,0,0,0,5.00
+DFT 434F,Valor's Flagship,,0,0.0,0,0,0,5.00
+DFT 520F,Voyager Glidecar,,0,0.0,0,0,0,2.50
+DFT 476F,Caradora,,0,0.0,0,0,0,0
+DFT 495F,Zahur,,0,0.0,0,0,0,0
+DFT 310F,Boommobile,,0,0.0,0,0,0,0.50
+DFT 318F,Veloheart Bike,,0,0.0,0,0,0,0.50
+DFT 321F,Cloudspire Skycycle,,0,0.0,0,0,0,0.50
+DFT 328F,Thundering Broodwagon,,0,0.0,0,0,0,0.50
+DFT 543F,District Mascot,,0,0.0,0,0,0,4.00
+DFT 544F,Webstrike Elite,,0,0.0,0,0,0,4.00
+DFT 428F,Bulwark Ox,,0,0.0,0,0,0,1.00
+DFT 301F,Midnight Mangler,,0,0.0,0,0,0,0.50
+DFT 331F,Rover Blades,,0,0.0,0,0,0,0.50
+DFT 464F,Afterburner Expert,,0,0.0,0,0,0,3.00
+DFT 492F,Samut,,0,0.0,0,0,0,0
+DFT 387F,Afterburner Expert,,0,0.0,0,0,0,0.50
+DFT 294F,Detention Chariot,,0,0.0,0,0,0,0.50
+DFT 325F,Haunted Hellride,,0,0.0,0,0,0,0.50
+DFT 300F,Hulldrifter,,0,0.0,0,0,0,0.50
+DFT 303F,Rangers' Refueler,,0,0.0,0,0,0,0.50
+DFT 309F,Ripclaw Wrangler,,0,0.0,0,0,0,0.50
+DFT 312F,Clamorous Ironclad,,0,0.0,0,0,0,0.50
+DFT 297F,Spotcycle Scouter,,0,0.0,0,0,0,0.50
+DFT 459F,Draconautics Engineer,,0,0.0,0,0,0,2.50
+DFT 319F,Apocalypse Runner,,0,0.0,0,0,0,0.50
+DFT 293F,Broadcast Rambler,,0,0.0,0,0,0,0.50
+DFT 305F,Carrion Cruiser,,0,0.0,0,0,0,0.50
+DFT 315F,Earthrumbler,,0,0.0,0,0,0,0.50
+DFT 314F,Spire Mechcycle,,0,0.0,0,0,0,0.50
+DFT 458F,Daretti,,0,0.0,0,0,0,0
+DFT 452F,Quag Feast,,0,0.0,0,0,0,1.50
+DFT 494F,Winter,,0,0.0,0,0,0,0
+DFT 292F,Air Response Unit,,0,0.0,0,0,0,0.50
+DFT 323F,Dune Drifter,,0,0.0,0,0,0,0.50
+DFT 330F,Marshals' Pathcruiser,,0,0.0,0,0,0,0.50
+DFT 332F,Skybox Ferry,,0,0.0,0,0,0,0.50
+DFT 454F,Boommobile,,0,0.0,0,0,0,1.00
+DFT 326F,Rangers' Aetherhive,,0,0.0,0,0,0,0.50
+DFT 479F,Explosive Getaway,,0,0.0,0,0,0,1.00
+DFT 461F,Gastal Thrillroller,,0,0.0,0,0,0,1.00
+DFT 432F,Skyseer's Chariot,,0,0.0,0,0,0,1.00
+DFT 435F,Voyager Glidecar,,0,0.0,0,0,0,1.00
+DFT 472F,Webstrike Elite,,0,0.0,0,0,0,1.00
+DFT 526F,Boommobile,,0,0.0,0,0,0,2.50
+DFT 532F,Bulwark Ox,,0,0.0,0,0,0,2.00
+DFT 539F,Burnout Bashtronaut,,0,0.0,0,0,0,3.50
+DFT 548F,Coalstoke Gearhulk,,0,0.0,0,0,0,22.00
+DFT 446F,Cryptcaller Chariot,,0,0.0,0,0,0,3.00
+DFT 523F,Cryptcaller Chariot,,0,0.0,0,0,0,8.00
+DFT 540F,Draconautics Engineer,,0,0.0,0,0,0,11.00
+DFT 533F,Guardian Sunmare,,0,0.0,0,0,0,3.00
+DFT 497F,Lifecraft Engine,,0,0.0,0,0,0,2.00
+DFT 484F,Loot,,0,0.0,0,0,0,0
+DFT 498F,Marketback Walker,,0,0.0,0,0,0,7.00
+DFT 486F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 409F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 437F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 487F,Oildeep Gearhulk,,0,0.0,0,0,0,11.00
+DFT 438F,Possession Engine,,0,0.0,0,0,0,1.00
+DFT 551F,Pyrewood Gearhulk,,0,0.0,0,0,0,24.00
+DFT 552F,Riptide Gearhulk,,0,0.0,0,0,0,68.00
+DFT 408F,Spectacular Pileup,,0,0.0,0,0,0,44.00
+DFT 451F,The Last Ride,,0,0.0,0,0,0,5.50
+DFT 525F,The Last Ride,,0,0.0,0,0,0,16.00
+DFT 538F,The Speed Demon,,0,0.0,0,0,0,24.00
+DFT 529F,Thunderous Velocipede,,0,0.0,0,0,0,14.00
+DFT 350,Ketramose,,0,0.0,0,0,0,0
+DFT 357,Gonti,,0,0.0,0,0,0,0
+DFT 365,Mendicant Core,,0,0.0,0,0,0,0
+DFT 354,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 359,Oviya,,0,0.0,0,0,0,0
+DFT 391,Loot,,0,0.0,0,0,0,0
+DFT 356,Vnwxt,,0,0.0,0,0,0,0
+DFT 361,Captain Howler,,0,0.0,0,0,0,0
+DFT 347,Hazoret,,0,0.0,0,0,0,0
+DFT 379,Mu Yanling,,0,0.0,0,0,0,0
+DFT 355,Basri,,0,0.0,0,0,0,0
+DFT 360,Aatchik,,0,0.0,0,0,0,0
+DFT 370,Zahur,,0,0.0,0,0,0,0
+DFT 392,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 366,Redshift,,0,0.0,0,0,0,0
+DFT 358,Daretti,,0,0.0,0,0,0,0
+DFT 362,Caradora,,0,0.0,0,0,0,0
+DFT 363,Far Fortune,,0,0.0,0,0,0,0
+DFT 368,Sita Varma,,0,0.0,0,0,0,0
+DFT 369,Winter,,0,0.0,0,0,0,0
+DFT 364,Kolodin,,0,0.0,0,0,0,0
+DFT 367,Samut,,0,0.0,0,0,0,0
+DFT 350F,Ketramose,,0,0.0,0,0,0,0
+DFT 549F,Ketramose,,0,0.0,0,0,0,0
+DFT 404F,Loot,,0,0.0,0,0,0,0
+DFT 401F,Chandra,,0,0.0,0,0,0,0
+DFT 411F,Chandra,,0,0.0,0,0,0,0
+DFT 365F,Mendicant Core,,0,0.0,0,0,0,0
+DFT 485F,Mendicant Core,,0,0.0,0,0,0,0
+DFT 414F,Loot,,0,0.0,0,0,0,0
+DFT 482F,Ketramose,,0,0.0,0,0,0,0
+DFT 399F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 357F,Gonti,,0,0.0,0,0,0,0
+DFT 456F,Chandra,,0,0.0,0,0,0,0
+DFT 359F,Oviya,,0,0.0,0,0,0,0
+DFT 415F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 391F,Loot,,0,0.0,0,0,0,0
+DFT 354F,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 473F,Aatchik,,0,0.0,0,0,0,0
+DFT 450F,Gonti,,0,0.0,0,0,0,0
+DFT 491F,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 361F,Captain Howler,,0,0.0,0,0,0,0
+DFT 356F,Vnwxt,,0,0.0,0,0,0,0
+DFT 405F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 475F,Captain Howler,,0,0.0,0,0,0,0
+DFT 469F,Oviya,,0,0.0,0,0,0,0
+DFT 347F,Hazoret,,0,0.0,0,0,0,0
+DFT 553F,Sab-Sunen,,0,0.0,0,0,0,0
+DFT 546F,Hazoret,,0,0.0,0,0,0,0
+DFT 489F,Redshift,,0,0.0,0,0,0,0
+DFT 443F,Vnwxt,,0,0.0,0,0,0,0
+DFT 379F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 493F,Sita Varma,,0,0.0,0,0,0,0
+DFT 355F,Basri,,0,0.0,0,0,0,0
+DFT 370F,Zahur,,0,0.0,0,0,0,0
+DFT 480F,Far Fortune,,0,0.0,0,0,0,0
+DFT 368F,Sita Varma,,0,0.0,0,0,0,0
+DFT 483F,Kolodin,,0,0.0,0,0,0,0
+DFT 363F,Far Fortune,,0,0.0,0,0,0,0
+DFT 362F,Caradora,,0,0.0,0,0,0,0
+DFT 367F,Samut,,0,0.0,0,0,0,0
+DFT 369F,Winter,,0,0.0,0,0,0,0
+DFT 427F,Basri,,0,0.0,0,0,0,0
+DFT 360F,Aatchik,,0,0.0,0,0,0,0
+DFT 392F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 462F,Hazoret,,0,0.0,0,0,0,0
+DFT 358F,Daretti,,0,0.0,0,0,0,0
+DFT 364F,Kolodin,,0,0.0,0,0,0,0
+DFT 366F,Redshift,,0,0.0,0,0,0,0
+DFT 476F,Caradora,,0,0.0,0,0,0,0
+DFT 495F,Zahur,,0,0.0,0,0,0,0
+DFT 492F,Samut,,0,0.0,0,0,0,0
+DFT 458F,Daretti,,0,0.0,0,0,0,0
+DFT 494F,Winter,,0,0.0,0,0,0,0
+DFT 484F,Loot,,0,0.0,0,0,0,0
+DFT 486F,Mimeoplasm,,0,0.0,0,0,0,0
+DFT 409F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 437F,Mu Yanling,,0,0.0,0,0,0,0
+DFT 350,"Ketramose, the New Dawn",,0,0.0,0,0,0,24.00
+DFT 357,"Gonti, Night Minister",,0,0.0,0,0,0,1.00
+DFT 365,"Mendicant Core, Guidelight",,0,0.0,0,0,0,1.50
+DFT 354,"Sab-Sunen, Luxa Embodied",,0,0.0,0,0,0,2.00
+DFT 359,"Oviya, Automech Artisan",,0,0.0,0,0,0,0.50
+DFT 391,"Loot, the Pathfinder",,0,0.0,0,0,0,1.00
+DFT 356,"Vnwxt, Verbose Host",,0,0.0,0,0,0,0.50
+DFT 361,"Captain Howler, Sea Scourge",,0,0.0,0,0,0,0.50
+DFT 347,"Hazoret, Godseeker",,0,0.0,0,0,0,1.00
+DFT 379,"Mu Yanling, Wind Rider",,0,0.0,0,0,0,1.00
+DFT 355,"Basri, Tomorrow's Champion",,0,0.0,0,0,0,0.50
+DFT 360,"Aatchik, Emerald Radian",,0,0.0,0,0,0,0.50
+DFT 370,"Zahur, Glory's Past",,0,0.0,0,0,0,0.50
+DFT 392,"Mimeoplasm, Revered One",,0,0.0,0,0,0,1.00
+DFT 366,"Redshift, Rocketeer Chief",,0,0.0,0,0,0,0.50
+DFT 358,"Daretti, Rocketeer Engineer",,0,0.0,0,0,0,0.50
+DFT 362,"Caradora, Heart of Alacria",,0,0.0,0,0,0,0.50
+DFT 363,"Far Fortune, End Boss",,0,0.0,0,0,0,0.50
+DFT 368,"Sita Varma, Masked Racer",,0,0.0,0,0,0,0.50
+DFT 369,"Winter, Cursed Rider",,0,0.0,0,0,0,0.50
+DFT 364,"Kolodin, Triumph Caster",,0,0.0,0,0,0,0.50
+DFT 367,"Samut, the Driving Force",,0,0.0,0,0,0,0.50
+DFT 350F,"Ketramose, the New Dawn",,0,0.0,0,0,0,30.00
+DFT 549F,"Ketramose, the New Dawn",,0,0.0,0,0,0,120.00
+DFT 404F,"Loot, the Pathfinder",,0,0.0,0,0,0,30.00
+DFT 401F,"Chandra, Spark Hunter",,0,0.0,0,0,0,20.00
+DFT 411F,"Chandra, Spark Hunter",,0,0.0,0,0,0,144.00
+DFT 365F,"Mendicant Core, Guidelight",,0,0.0,0,0,0,5.00
+DFT 485F,"Mendicant Core, Guidelight",,0,0.0,0,0,0,16.00
+DFT 414F,"Loot, the Pathfinder",,0,0.0,0,0,0,200.00
+DFT 482F,"Ketramose, the New Dawn",,0,0.0,0,0,0,72.00
+DFT 399F,"Mu Yanling, Wind Rider",,0,0.0,0,0,0,14.00
+DFT 357F,"Gonti, Night Minister",,0,0.0,0,0,0,2.00
+DFT 456F,"Chandra, Spark Hunter",,0,0.0,0,0,0,24.00
+DFT 359F,"Oviya, Automech Artisan",,0,0.0,0,0,0,1.50
+DFT 415F,"Mimeoplasm, Revered One",,0,0.0,0,0,0,60.00
+DFT 391F,"Loot, the Pathfinder",,0,0.0,0,0,0,4.00
+DFT 354F,"Sab-Sunen, Luxa Embodied",,0,0.0,0,0,0,4.00
+DFT 473F,"Aatchik, Emerald Radian",,0,0.0,0,0,0,4.00
+DFT 450F,"Gonti, Night Minister",,0,0.0,0,0,0,6.50
+DFT 491F,"Sab-Sunen, Luxa Embodied",,0,0.0,0,0,0,16.00
+DFT 361F,"Captain Howler, Sea Scourge",,0,0.0,0,0,0,1.50
+DFT 356F,"Vnwxt, Verbose Host",,0,0.0,0,0,0,1.00
+DFT 405F,"Mimeoplasm, Revered One",,0,0.0,0,0,0,5.00
+DFT 475F,"Captain Howler, Sea Scourge",,0,0.0,0,0,0,10.00
+DFT 469F,"Oviya, Automech Artisan",,0,0.0,0,0,0,5.00
+DFT 347F,"Hazoret, Godseeker",,0,0.0,0,0,0,3.00
+DFT 553F,"Sab-Sunen, Luxa Embodied",,0,0.0,0,0,0,26.00
+DFT 546F,"Hazoret, Godseeker",,0,0.0,0,0,0,22.00
+DFT 489F,"Redshift, Rocketeer Chief",,0,0.0,0,0,0,3.00
+DFT 443F,"Vnwxt, Verbose Host",,0,0.0,0,0,0,3.00
+DFT 379F,"Mu Yanling, Wind Rider",,0,0.0,0,0,0,1.00
+DFT 493F,"Sita Varma, Masked Racer",,0,0.0,0,0,0,0.50
+DFT 355F,"Basri, Tomorrow's Champion",,0,0.0,0,0,0,0.50
+DFT 370F,"Zahur, Glory's Past",,0,0.0,0,0,0,0.50
+DFT 480F,"Far Fortune, End Boss",,0,0.0,0,0,0,1.00
+DFT 368F,"Sita Varma, Masked Racer",,0,0.0,0,0,0,0.50
+DFT 483F,"Kolodin, Triumph Caster",,0,0.0,0,0,0,2.00
+DFT 363F,"Far Fortune, End Boss",,0,0.0,0,0,0,0.50
+DFT 362F,"Caradora, Heart of Alacria",,0,0.0,0,0,0,0.50
+DFT 367F,"Samut, the Driving Force",,0,0.0,0,0,0,0.50
+DFT 369F,"Winter, Cursed Rider",,0,0.0,0,0,0,0.50
+DFT 427F,"Basri, Tomorrow's Champion",,0,0.0,0,0,0,1.00
+DFT 360F,"Aatchik, Emerald Radian",,0,0.0,0,0,0,0.50
+DFT 392F,"Mimeoplasm, Revered One",,0,0.0,0,0,0,1.00
+DFT 462F,"Hazoret, Godseeker",,0,0.0,0,0,0,7.00
+DFT 358F,"Daretti, Rocketeer Engineer",,0,0.0,0,0,0,0.50
+DFT 364F,"Kolodin, Triumph Caster",,0,0.0,0,0,0,0.50
+DFT 366F,"Redshift, Rocketeer Chief",,0,0.0,0,0,0,0.50
+DFT 476F,"Caradora, Heart of Alacria",,0,0.0,0,0,0,1.00
+DFT 495F,"Zahur, Glory's Past",,0,0.0,0,0,0,1.00
+DFT 492F,"Samut, the Driving Force",,0,0.0,0,0,0,1.50
+DFT 458F,"Daretti, Rocketeer Engineer",,0,0.0,0,0,0,1.50
+DFT 494F,"Winter, Cursed Rider",,0,0.0,0,0,0,1.50
+DFT 484F,"Loot, the Pathfinder",,0,0.0,0,0,0,22.00
+DFT 486F,"Mimeoplasm, Revered One",,0,0.0,0,0,0,6.50
+DFT 409F,"Mu Yanling, Wind Rider",,0,0.0,0,0,0,72.00
+DFT 437F,"Mu Yanling, Wind Rider",,0,0.0,0,0,0,11.00
