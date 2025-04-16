@@ -60,12 +60,14 @@ This is managed by the GUI.
 3. Build and run the project.
 4. Use the GUI to select desired sets or click **Run All Sets**.
 5. Click **Run Scraper** to start scraping.
+
 OPTIONAL: Publish to an Application to run from shortcut
 
 ---
 ## Sample Output
 
 Each `{SetName}.csv` will look like:
+
 3ED 290,Underground Sea,,0,0.0,0,0,0,1080.00
 
 3ED 288,Tropical Island,,0,0.0,0,0,0,630.00
@@ -96,8 +98,7 @@ The `00__combined_list_changes.csv` aggregates all updated cards across sets dur
 - Add support for proxy rotation.
 - Visual progress bar for scraper in GUI.
 - Export combined CSV as JSON or Excel.
-- Schedule recurring updates (e.g., weekly cron-like system).
-- Add sorting/filtering UI for card rarity, price delta, etc.
+- Create a Trade Management System that creates an invoice and price list.
 
 ---
 
