@@ -1,0 +1,614 @@
+WOE 242,Agatha's Soul Cauldron,,0,0.0,0,0,0,47.00
+WOE 195,Up the Beanstalk,,0,0.0,0,0,0,4.00
+WOE 142,Monstrous Rage,,0,0.0,0,0,0,3.50
+WOE 21,Moonshaker Cavalry,,0,0.0,0,0,0,19.00
+WOE 82,Beseech the Mirror,,0,0.0,0,0,0,18.00
+WOE 150,Song of Totentanz,,0,0.0,0,0,0,4.00
+WOE 115,Virtue of Persistence,,0,0.0,0,0,0,11.00
+WOE 314,Experimental Confectioner,,0,0.0,0,0,0,5.00
+WOE 153,Torch the Tower,,0,0.0,0,0,0,2.00
+WOE 95,Hopeless Nightmare,,0,0.0,0,0,0,2.00
+WOE 208,Likeness Looter,,0,0.0,0,0,0,4.00
+WOE 163,Blossoming Tortoise,,0,0.0,0,0,0,6.00
+WOE 197,Virtue of Strength,,0,0.0,0,0,0,5.50
+WOE 38,Virtue of Loyalty,,0,0.0,0,0,0,7.00
+WOE 263,Island,,0,0.0,0,0,0,1.50
+WOE 97,"Lord Skitter, Sewer King",,0,0.0,0,0,0,3.00
+WOE 215,"Talion, the Kindly Lord",,0,0.0,0,0,0,7.00
+WOE 101,Not Dead After All,,0,0.0,0,0,0,1.00
+WOE 76,Virtue of Knowledge,,0,0.0,0,0,0,5.50
+WOE 258,Restless Cottage,,0,0.0,0,0,0,3.00
+WOE 234,Questing Druid,,0,0.0,0,0,0,3.00
+WOE 266,Forest,,0,0.0,0,0,0,1.00
+WOE 230,"Kellan, the Fae-Blooded",,0,0.0,0,0,0,4.50
+WOE 25,Regal Bunnicorn,,0,0.0,0,0,0,2.00
+WOE 219,"Yenna, Redtooth Regent",,0,0.0,0,0,0,2.00
+WOE 264,Swamp,,0,0.0,0,0,0,1.00
+WOE 96,Lich-Knights' Conquest,,0,0.0,0,0,0,1.50
+WOE 252,"Syr Ginger, the Meal Ender",,0,0.0,0,0,0,1.50
+WOE 262,Plains,,0,0.0,0,0,0,0.50
+WOE 159,Witchstalker Frenzy,,0,0.0,0,0,0,0.50
+WOE 202,Eriette of the Charmed Apple,,0,0.0,0,0,0,2.50
+WOE 178,Night of the Sweets' Revenge,,0,0.0,0,0,0,0.50
+WOE 199,Agatha of the Vile Cauldron,,0,0.0,0,0,0,2.00
+WOE 231,Mosswood Dreadknight,,0,0.0,0,0,0,1.50
+WOE 244,Collector's Vault,,0,0.0,0,0,0,0.50
+WOE 223,Decadent Dragon,,0,0.0,0,0,0,1.50
+WOE 265,Mountain,,0,0.0,0,0,0,0.50
+WOE 206,Hylda of the Icy Crown,,0,0.0,0,0,0,2.00
+WOE 7,Rat Token,,0,0.0,0,0,0,0.50
+WOE 33,Stroke of Midnight,,0,0.0,0,0,0,0.50
+WOE 248,The Irencrag,,0,0.0,0,0,0,1.00
+WOE 64,Picklock Prankster,,0,0.0,0,0,0,0.50
+WOE 124,Charming Scoundrel,,0,0.0,0,0,0,1.00
+WOE 172,Gruff Triplets,,0,0.0,0,0,0,1.00
+WOE 39,Werefox Bodyguard,,0,0.0,0,0,0,1.00
+WOE 311,Faerie Slumber Party,,0,0.0,0,0,0,2.00
+WOE 56,Ingenious Prodigy,,0,0.0,0,0,0,0.50
+WOE 183,Royal Treatment,,0,0.0,0,0,0,0.50
+WOE 42,Asinine Antics,,0,0.0,0,0,0,1.00
+WOE 17,Wicked Role Token // Cursed Role Token,,0,0.0,0,0,0,0.50
+WOE 243,Candy Trail,,0,0.0,0,0,0,0.50
+WOE 164,Bramble Familiar,,0,0.0,0,0,0,0.50
+WOE 204,The Goose Mother,,0,0.0,0,0,0,0.50
+WOE 68,Snaremaster Sprite,,0,0.0,0,0,0,0.50
+WOE 154,Twisted Fealty,,0,0.0,0,0,0,0.50
+WOE 157,Virtue of Courage,,0,0.0,0,0,0,1.00
+WOE 65,Quick Study,,0,0.0,0,0,0,0.25
+WOE 259,Restless Fortress,,0,0.0,0,0,0,1.00
+WOE 246,Gingerbrute,,0,0.0,0,0,0,0.25
+WOE 67,Sleight of Hand,,0,0.0,0,0,0,0.25
+WOE 316,Old Flitterfang,,0,0.0,0,0,0,0.50
+WOE 102,Rankle's Prank,,0,0.0,0,0,0,0.50
+WOE 8,Beast Token,,0,0.0,0,0,0,0.50
+WOE 156,Unruly Catapult,,0,0.0,0,0,0,0.25
+WOE 257,Restless Bivouac,,0,0.0,0,0,0,0.50
+WOE 104,Rowan's Grim Search,,0,0.0,0,0,0,0.25
+WOE 113,Tangled Colony,,0,0.0,0,0,0,0.50
+WOE 16,Monster Role Token // Sorcerer Role Token,,0,0.0,0,0,0,0.50
+WOE 108,Spiteful Hexmage,,0,0.0,0,0,0,0.50
+WOE 194,Troublemaker Ouphe,,0,0.0,0,0,0,0.25
+WOE 270,Island,,0,0.0,0,0,0,0.50
+WOE 229,Imodane's Recruiter,,0,0.0,0,0,0,0.50
+WOE 89,Faerie Dreamthief,,0,0.0,0,0,0,0.50
+WOE 145,Realm-Scorcher Hellkite,,0,0.0,0,0,0,1.00
+WOE 271,Swamp,,0,0.0,0,0,0,0.50
+WOE 247,Hylda's Crown of Winter,,0,0.0,0,0,0,0.50
+WOE 35,Three Blind Mice,,0,0.0,0,0,0,0.50
+WOE 221,Callous Sell-Sword,,0,0.0,0,0,0,0.50
+WOE 9,Elemental Token,,0,0.0,0,0,0,0.50
+WOE 261,Restless Vinestalk,,0,0.0,0,0,0,0.50
+WOE 128,Flick a Coin,,0,0.0,0,0,0,0.25
+WOE 158,Witch's Mark,,0,0.0,0,0,0,0.25
+WOE 98,Lord Skitter's Blessing,,0,0.0,0,0,0,0.50
+WOE 181,Return from the Wilds,,0,0.0,0,0,0,0.25
+WOE 187,Stormkeld Vanguard,,0,0.0,0,0,0,0.50
+WOE 18,On an Adventure Token,,0,0.0,0,0,0,0.50
+WOE 260,Restless Spire,,0,0.0,0,0,0,0.50
+WOE 136,Hearth Elemental,,0,0.0,0,0,0,0.50
+WOE 99,Lord Skitter's Butcher,,0,0.0,0,0,0,0.50
+WOE 161,Beanstalk Wurm,,0,0.0,0,0,0,0.25
+WOE 225,Elusive Otter,,0,0.0,0,0,0,0.50
+WOE 186,Spider Food,,0,0.0,0,0,0,0.25
+WOE 233,Pollen-Shield Hare,,0,0.0,0,0,0,0.50
+WOE 226,Frolicking Familiar,,0,0.0,0,0,0,0.50
+WOE 211,"Rowan, Scion of War",,0,0.0,0,0,0,1.00
+WOE 7,Cheeky House-Mouse,,0,0.0,0,0,0,0.50
+WOE 205,"Greta, Sweettooth Scourge",,0,0.0,0,0,0,0.50
+WOE 268,Plains,,0,0.0,0,0,0,0.50
+WOE 193,Tough Cookie,,0,0.0,0,0,0,0.50
+WOE 53,Horned Loch-Whale,,0,0.0,0,0,0,0.50
+WOE 69,Spell Stutter,,0,0.0,0,0,0,0.25
+WOE 116,Voracious Vermin,,0,0.0,0,0,0,0.25
+WOE 235,Scalding Viper,,0,0.0,0,0,0,0.50
+WOE 198,Welcome to Sweettooth,,0,0.0,0,0,0,0.50
+WOE 3,Knight Token,,0,0.0,0,0,0,0.50
+WOE 210,"Obyra, Dreaming Duelist",,0,0.0,0,0,0,0.50
+WOE 79,Ashiok's Reaper,,0,0.0,0,0,0,0.50
+WOE 254,Crystal Grotto,,0,0.0,0,0,0,0.25
+WOE 217,"Troyan, Gutsy Explorer",,0,0.0,0,0,0,0.50
+WOE 13,Expel the Interlopers,,0,0.0,0,0,0,0.50
+WOE 137,"Imodane, the Pyrohammer",,0,0.0,0,0,0,0.50
+WOE 168,Elvish Archivist,,0,0.0,0,0,0,0.50
+WOE 245,Eriette's Tempting Apple,,0,0.0,0,0,0,0.50
+WOE 80,Back for Seconds,,0,0.0,0,0,0,0.50
+WOE 29,Slumbering Keepguard,,0,0.0,0,0,0,0.25
+WOE 143,Raging Battle Mouse,,0,0.0,0,0,0,0.50
+WOE 188,Tanglespan Lookout,,0,0.0,0,0,0,0.50
+WOE 218,"Will, Scion of Peace",,0,0.0,0,0,0,1.00
+WOE 1,Archon of the Wild Rose,,0,0.0,0,0,0,0.50
+WOE 119,The Witch's Vanity,,0,0.0,0,0,0,0.50
+WOE 66,Sleep-Cursed Faerie,,0,0.0,0,0,0,0.50
+WOE 213,Sharae of Numbing Depths,,0,0.0,0,0,0,0.50
+WOE 78,"Ashiok, Wicked Manipulator",,0,0.0,0,0,0,1.00
+WOE 5,Break the Spell,,0,0.0,0,0,0,0.25
+WOE 114,Twisted Sewer-Witch,,0,0.0,0,0,0,0.50
+WOE 90,Faerie Fencing,,0,0.0,0,0,0,0.50
+WOE 238,Tempest Hart,,0,0.0,0,0,0,0.50
+WOE 315,Malevolent Witchkite,,0,0.0,0,0,0,0.50
+WOE 73,Talion's Messenger,,0,0.0,0,0,0,0.50
+WOE 87,The End,,0,0.0,0,0,0,0.50
+WOE 176,The Huntsman's Redemption,,0,0.0,0,0,0,0.50
+WOE 30,Solitary Sanctuary,,0,0.0,0,0,0,0.50
+WOE 14,Treasure Token,,0,0.0,0,0,0,0.50
+WOE 31,Spellbook Vendor,,0,0.0,0,0,0,0.50
+WOE 131,Gnawing Crescendo,,0,0.0,0,0,0,0.25
+WOE 40,Aquatic Alchemist,,0,0.0,0,0,0,0.25
+WOE 62,Mocking Sprite,,0,0.0,0,0,0,0.25
+WOE 272,Swamp,,0,0.0,0,0,0,0.50
+WOE 5,Faerie Token,,0,0.0,0,0,0,0.50
+WOE 222,Cruel Somnophage,,0,0.0,0,0,0,0.50
+WOE 10,Discerning Financier,,0,0.0,0,0,0,0.50
+WOE 216,"Totentanz, Swarm Piper",,0,0.0,0,0,0,0.50
+WOE 255,Edgewall Inn,,0,0.0,0,0,0,0.50
+WOE 135,Harried Spearguard,,0,0.0,0,0,0,0.25
+WOE 103,Rat Out,,0,0.0,0,0,0,0.25
+WOE 209,"Neva, Stalked by Nightmares",,0,0.0,0,0,0,0.50
+WOE 319,Ogre Chitterlord,,0,0.0,0,0,0,0.50
+WOE 26,Return Triumphant,,0,0.0,0,0,0,0.25
+WOE 232,Picnic Ruiner,,0,0.0,0,0,0,0.50
+WOE 148,Rotisserie Elemental,,0,0.0,0,0,0,0.50
+WOE 269,Island,,0,0.0,0,0,0,0.50
+WOE 313,Storyteller Pixie,,0,0.0,0,0,0,0.50
+WOE 48,Extraordinary Journey,,0,0.0,0,0,0,0.50
+WOE 241,Woodland Acolyte,,0,0.0,0,0,0,0.50
+WOE 45,Chancellor of Tales,,0,0.0,0,0,0,0.50
+WOE 12,Eerie Interference,,0,0.0,0,0,0,0.50
+WOE 118,Wicked Visitor,,0,0.0,0,0,0,0.25
+WOE 228,Heartflame Duelist,,0,0.0,0,0,0,0.50
+WOE 321,Provisions Merchant,,0,0.0,0,0,0,0.50
+WOE 83,Candy Grapple,,0,0.0,0,0,0,0.25
+WOE 130,Frantic Firebolt,,0,0.0,0,0,0,0.25
+WOE 133,Grabby Giant,,0,0.0,0,0,0,0.25
+WOE 267,Plains,,0,0.0,0,0,0,0.50
+WOE 251,Soul-Guide Lantern,,0,0.0,0,0,0,0.50
+WOE 322,Wildwood Mentor,,0,0.0,0,0,0,0.50
+WOE 170,Ferocious Werefox,,0,0.0,0,0,0,0.25
+WOE 54,Ice Out,,0,0.0,0,0,0,0.25
+WOE 55,Icewrought Sentry,,0,0.0,0,0,0,0.50
+WOE 22,Plunge into Winter,,0,0.0,0,0,0,0.25
+WOE 144,Ratcatcher Trainee,,0,0.0,0,0,0,0.25
+WOE 8,Cooped Up,,0,0.0,0,0,0,0.25
+WOE 276,Forest,,0,0.0,0,0,0,0.50
+WOE 50,Freeze in Place,,0,0.0,0,0,0,0.25
+WOE 91,Feed the Cauldron,,0,0.0,0,0,0,0.25
+WOE 155,Two-Headed Hunter,,0,0.0,0,0,0,0.50
+WOE 4,Mouse Token,,0,0.0,0,0,0,0.50
+WOE 165,Brave the Wilds,,0,0.0,0,0,0,0.25
+WOE 184,Sentinel of Lost Lore,,0,0.0,0,0,0,0.50
+WOE 52,Galvanic Giant,,0,0.0,0,0,0,0.50
+WOE 77,Water Wings,,0,0.0,0,0,0,0.25
+WOE 169,Feral Encounter,,0,0.0,0,0,0,0.50
+WOE 41,Archive Dragon,,0,0.0,0,0,0,0.50
+WOE 47,Disdainful Stroke,,0,0.0,0,0,0,0.50
+WOE 320,Intrepid Trufflesnout,,0,0.0,0,0,0,0.50
+WOE 100,Mintstrosity,,0,0.0,0,0,0,0.25
+WOE 147,Redcap Thief,,0,0.0,0,0,0,0.25
+WOE 15,Royal Role Token // Young Role Token,,0,0.0,0,0,0,0.50
+WOE 220,Beluna Grandsquall,,0,0.0,0,0,0,1.00
+WOE 139,Korvold and the Noble Thief,,0,0.0,0,0,0,0.50
+WOE 237,Spellscorn Coven,,0,0.0,0,0,0,0.50
+WOE 174,Hollow Scavenger,,0,0.0,0,0,0,0.25
+WOE 207,"Johann, Apprentice Sorcerer",,0,0.0,0,0,0,0.50
+WOE 249,Prophetic Prism,,0,0.0,0,0,0,0.25
+WOE 105,Scream Puff,,0,0.0,0,0,0,0.25
+WOE 44,Bitter Chill,,0,0.0,0,0,0,0.50
+WOE 20,Moment of Valor,,0,0.0,0,0,0,0.25
+WOE 212,"Ruby, Daring Tracker",,0,0.0,0,0,0,0.50
+WOE 110,Sugar Rush,,0,0.0,0,0,0,0.25
+WOE 308,Food Coma,,0,0.0,0,0,0,0.50
+WOE 109,Stingblade Assassin,,0,0.0,0,0,0,0.25
+WOE 72,Succumb to the Cold,,0,0.0,0,0,0,0.50
+WOE 132,"Goddric, Cloaked Reveler",,0,0.0,0,0,0,0.50
+WOE 177,Leaping Ambush,,0,0.0,0,0,0,0.25
+WOE 111,Sweettooth Witch,,0,0.0,0,0,0,0.25
+WOE 23,The Princess Takes Flight,,0,0.0,0,0,0,0.50
+WOE 190,Thunderous Debut,,0,0.0,0,0,0,0.50
+WOE 200,The Apprentice's Folly,,0,0.0,0,0,0,0.50
+WOE 43,Beluna's Gatekeeper,,0,0.0,0,0,0,0.25
+WOE 151,Stonesplitter Bolt,,0,0.0,0,0,0,0.50
+WOE 239,Threadbind Clique,,0,0.0,0,0,0,0.50
+WOE 240,Twining Twins,,0,0.0,0,0,0,0.50
+WOE 19,Knight of Doves,,0,0.0,0,0,0,0.50
+WOE 160,Agatha's Champion,,0,0.0,0,0,0,0.50
+WOE 310,Pests of Honor,,0,0.0,0,0,0,0.50
+WOE 49,Farsight Ritual,,0,0.0,0,0,0,0.50
+WOE 4,Besotted Knight,,0,0.0,0,0,0,0.25
+WOE 227,Gingerbread Hunter,,0,0.0,0,0,0,0.50
+WOE 192,Toadstool Admirer,,0,0.0,0,0,0,0.25
+WOE 75,Vantress Transmuter,,0,0.0,0,0,0,0.25
+WOE 146,Redcap Gutter-Dweller,,0,0.0,0,0,0,0.50
+WOE 2,Archon's Glory,,0,0.0,0,0,0,0.25
+WOE 317,Become Brutes,,0,0.0,0,0,0,0.50
+WOE 12,Food Token,,0,0.0,0,0,0,0.50
+WOE 58,Johann's Stopgap,,0,0.0,0,0,0,0.25
+WOE 81,Barrow Naughty,,0,0.0,0,0,0,0.25
+WOE 224,Devouring Sugarmaw,,0,0.0,0,0,0,0.50
+WOE 92,Fell Horseman,,0,0.0,0,0,0,0.25
+WOE 182,Rootrider Faun,,0,0.0,0,0,0,0.25
+WOE 117,Warehouse Tabby,,0,0.0,0,0,0,0.25
+WOE 3,Armory Mice,,0,0.0,0,0,0,0.25
+WOE 201,"Ash, Party Crasher",,0,0.0,0,0,0,0.50
+WOE 84,Conceited Witch,,0,0.0,0,0,0,0.25
+WOE 167,Curse of the Werefox,,0,0.0,0,0,0,0.25
+WOE 13,Food Token,,0,0.0,0,0,0,0.50
+WOE 16,Glass Casket,,0,0.0,0,0,0,0.50
+WOE 250,Scarecrow Guide,,0,0.0,0,0,0,0.25
+WOE 253,Three Bowls of Porridge,,0,0.0,0,0,0,0.50
+WOE 93,Gumdrop Poisoner,,0,0.0,0,0,0,0.50
+WOE 134,Grand Ball Guest,,0,0.0,0,0,0,0.25
+WOE 57,Into the Fae Court,,0,0.0,0,0,0,0.25
+WOE 236,Shrouded Shepherd,,0,0.0,0,0,0,0.50
+WOE 34,A Tale for the Ages,,0,0.0,0,0,0,0.50
+WOE 309,Lady of Laughter,,0,0.0,0,0,0,0.50
+WOE 86,Ego Drain,,0,0.0,0,0,0,0.50
+WOE 275,Forest,,0,0.0,0,0,0,0.50
+WOE 141,Minecart Daredevil,,0,0.0,0,0,0,0.25
+WOE 6,Nightmare Token,,0,0.0,0,0,0,0.50
+WOE 152,Tattered Ratter,,0,0.0,0,0,0,0.50
+WOE 74,Tenacious Tomeseeker,,0,0.0,0,0,0,0.50
+WOE 121,Bellowing Bruiser,,0,0.0,0,0,0,0.25
+WOE 88,Eriette's Whisper,,0,0.0,0,0,0,0.25
+WOE 10,Food Token,,0,0.0,0,0,0,0.50
+WOE 171,Graceful Takedown,,0,0.0,0,0,0,0.50
+WOE 18,Kellan's Lightblades,,0,0.0,0,0,0,0.25
+WOE 63,Obyra's Attendants,,0,0.0,0,0,0,0.25
+WOE 166,Commune with Nature,,0,0.0,0,0,0,0.25
+WOE 11,Food Token,,0,0.0,0,0,0,0.50
+WOE 17,Hopeful Vigil,,0,0.0,0,0,0,0.25
+WOE 27,Rimefur Reindeer,,0,0.0,0,0,0,0.25
+WOE 185,Skybeast Tracker,,0,0.0,0,0,0,0.25
+WOE 173,Hamlet Glutton,,0,0.0,0,0,0,0.25
+WOE 274,Mountain,,0,0.0,0,0,0,0.50
+WOE 312,Rowdy Research,,0,0.0,0,0,0,0.50
+WOE 106,Shatter the Oath,,0,0.0,0,0,0,0.25
+WOE 149,Skewer Slinger,,0,0.0,0,0,0,0.25
+WOE 107,Specter of Mortality,,0,0.0,0,0,0,0.50
+WOE 126,Edgewall Pack,,0,0.0,0,0,0,0.25
+WOE 14,Frostbridge Guard,,0,0.0,0,0,0,0.25
+WOE 94,High Fae Negotiator,,0,0.0,0,0,0,0.50
+WOE 175,Howling Galefang,,0,0.0,0,0,0,0.50
+WOE 70,Splashy Spellcaster,,0,0.0,0,0,0,0.50
+WOE 32,Stockpiling Celebrant,,0,0.0,0,0,0,0.25
+WOE 214,"Syr Armont, the Redeemer",,0,0.0,0,0,0,0.50
+WOE 51,Gadwick's First Duel,,0,0.0,0,0,0,0.50
+WOE 179,Redtooth Genealogist,,0,0.0,0,0,0,0.25
+WOE 196,Verdant Outrider,,0,0.0,0,0,0,0.25
+WOE 123,Boundary Lands Ranger,,0,0.0,0,0,0,0.50
+WOE 6,Charmed Clothier,,0,0.0,0,0,0,0.25
+WOE 46,Diminisher Witch,,0,0.0,0,0,0,0.25
+WOE 2,Human Token,,0,0.0,0,0,0,0.50
+WOE 138,Kindled Heroism,,0,0.0,0,0,0,0.25
+WOE 180,Redtooth Vanguard,,0,0.0,0,0,0,0.50
+WOE 203,Faunsbane Troll,,0,0.0,0,0,0,0.50
+WOE 120,Belligerent of the Ball,,0,0.0,0,0,0,0.50
+WOE 162,Bestial Bloodline,,0,0.0,0,0,0,0.25
+WOE 11,Dutiful Griffin,,0,0.0,0,0,0,0.50
+WOE 127,Embereth Veteran,,0,0.0,0,0,0,0.50
+WOE 15,Gallant Pie-Wielder,,0,0.0,0,0,0,0.50
+WOE 60,Merfolk Coralsmith,,0,0.0,0,0,0,0.25
+WOE 24,Protective Parents,,0,0.0,0,0,0,0.25
+WOE 28,Savior of the Sleeping,,0,0.0,0,0,0,0.25
+WOE 112,Taken by Nightmares,,0,0.0,0,0,0,0.50
+WOE 191,Titanic Growth,,0,0.0,0,0,0,0.25
+WOE 37,Unassuming Sage,,0,0.0,0,0,0,0.25
+WOE 9,Cursed Courtier,,0,0.0,0,0,0,0.50
+WOE 256,Evolving Wilds,,0,0.0,0,0,0,0.25
+WOE 273,Mountain,,0,0.0,0,0,0,0.50
+WOE 71,Stormkeld Prowler,,0,0.0,0,0,0,0.25
+WOE 129,Food Fight,,0,0.0,0,0,0,0.50
+WOE 122,Bespoke Battlegarb,,0,0.0,0,0,0,0.25
+WOE 1,Bird Token,,0,0.0,0,0,0,0.50
+WOE 318,Charging Hooligan,,0,0.0,0,0,0,0.50
+WOE 85,Dream Spoilers,,0,0.0,0,0,0,0.50
+WOE 140,Merry Bards,,0,0.0,0,0,0,0.25
+WOE 125,Cut In,,0,0.0,0,0,0,0.25
+WOE 59,Living Lectern,,0,0.0,0,0,0,0.25
+WOE 61,Misleading Motes,,0,0.0,0,0,0,0.25
+WOE 189,Territorial Witchstalker,,0,0.0,0,0,0,0.25
+WOE 36,Tuinvale Guide,,0,0.0,0,0,0,0.25
+WOE 242F,Agatha's Soul Cauldron,,0,0.0,0,0,0,46.00
+WOE 21F,Moonshaker Cavalry,,0,0.0,0,0,0,18.00
+WOE 195F,Up the Beanstalk,,0,0.0,0,0,0,5.00
+WOE 142F,Monstrous Rage,,0,0.0,0,0,0,4.00
+WOE 115F,Virtue of Persistence,,0,0.0,0,0,0,13.00
+WOE 82F,Beseech the Mirror,,0,0.0,0,0,0,18.00
+WOE 202F,Eriette of the Charmed Apple,,0,0.0,0,0,0,7.00
+WOE 208F,Likeness Looter,,0,0.0,0,0,0,5.50
+WOE 95F,Hopeless Nightmare,,0,0.0,0,0,0,2.50
+WOE 163F,Blossoming Tortoise,,0,0.0,0,0,0,5.00
+WOE 314F,Experimental Confectioner,,0,0.0,0,0,0,5.00
+WOE 264F,Swamp,,0,0.0,0,0,0,1.00
+WOE 258F,Restless Cottage,,0,0.0,0,0,0,4.00
+WOE 97F,"Lord Skitter, Sewer King",,0,0.0,0,0,0,3.00
+WOE 153F,Torch the Tower,,0,0.0,0,0,0,2.00
+WOE 266F,Forest,,0,0.0,0,0,0,1.00
+WOE 150F,Song of Totentanz,,0,0.0,0,0,0,3.50
+WOE 215F,"Talion, the Kindly Lord",,0,0.0,0,0,0,6.50
+WOE 25F,Regal Bunnicorn,,0,0.0,0,0,0,2.50
+WOE 234F,Questing Druid,,0,0.0,0,0,0,3.00
+WOE 76F,Virtue of Knowledge,,0,0.0,0,0,0,5.50
+WOE 197F,Virtue of Strength,,0,0.0,0,0,0,5.00
+WOE 244F,Collector's Vault,,0,0.0,0,0,0,1.00
+WOE 206F,Hylda of the Icy Crown,,0,0.0,0,0,0,3.00
+WOE 101F,Not Dead After All,,0,0.0,0,0,0,2.00
+WOE 219F,"Yenna, Redtooth Regent",,0,0.0,0,0,0,1.50
+WOE 230F,"Kellan, the Fae-Blooded",,0,0.0,0,0,0,4.00
+WOE 38F,Virtue of Loyalty,,0,0.0,0,0,0,9.50
+WOE 183F,Royal Treatment,,0,0.0,0,0,0,1.00
+WOE 124F,Charming Scoundrel,,0,0.0,0,0,0,1.00
+WOE 263F,Island,,0,0.0,0,0,0,1.00
+WOE 178F,Night of the Sweets' Revenge,,0,0.0,0,0,0,0.50
+WOE 262F,Plains,,0,0.0,0,0,0,0.50
+WOE 252F,"Syr Ginger, the Meal Ender",,0,0.0,0,0,0,1.50
+WOE 223F,Decadent Dragon,,0,0.0,0,0,0,1.00
+WOE 64F,Picklock Prankster,,0,0.0,0,0,0,1.00
+WOE 243F,Candy Trail,,0,0.0,0,0,0,0.50
+WOE 194F,Troublemaker Ouphe,,0,0.0,0,0,0,0.50
+WOE 56F,Ingenious Prodigy,,0,0.0,0,0,0,0.50
+WOE 199F,Agatha of the Vile Cauldron,,0,0.0,0,0,0,2.50
+WOE 33F,Stroke of Midnight,,0,0.0,0,0,0,1.00
+WOE 161F,Beanstalk Wurm,,0,0.0,0,0,0,0.50
+WOE 108F,Spiteful Hexmage,,0,0.0,0,0,0,0.50
+WOE 272F,Swamp,,0,0.0,0,0,0,0.50
+WOE 128F,Flick a Coin,,0,0.0,0,0,0,0.50
+WOE 156F,Unruly Catapult,,0,0.0,0,0,0,0.50
+WOE 42F,Asinine Antics,,0,0.0,0,0,0,1.00
+WOE 50F,Freeze in Place,,0,0.0,0,0,0,0.50
+WOE 8F,Beast Token,,0,0.0,0,0,0,1.50
+WOE 248F,The Irencrag,,0,0.0,0,0,0,0.50
+WOE 96F,Lich-Knights' Conquest,,0,0.0,0,0,0,2.00
+WOE 221F,Callous Sell-Sword,,0,0.0,0,0,0,1.00
+WOE 89F,Faerie Dreamthief,,0,0.0,0,0,0,1.00
+WOE 247F,Hylda's Crown of Winter,,0,0.0,0,0,0,1.00
+WOE 316F,Old Flitterfang,,0,0.0,0,0,0,1.00
+WOE 210F,"Obyra, Dreaming Duelist",,0,0.0,0,0,0,0.50
+WOE 7F,Rat Token,,0,0.0,0,0,0,0.50
+WOE 265F,Mountain,,0,0.0,0,0,0,0.50
+WOE 68F,Snaremaster Sprite,,0,0.0,0,0,0,0.50
+WOE 259F,Restless Fortress,,0,0.0,0,0,0,1.00
+WOE 159F,Witchstalker Frenzy,,0,0.0,0,0,0,1.00
+WOE 5F,Faerie Token,,0,0.0,0,0,0,0.50
+WOE 7F,Cheeky House-Mouse,,0,0.0,0,0,0,0.50
+WOE 2F,Human Token,,0,0.0,0,0,0,0.50
+WOE 213F,Sharae of Numbing Depths,,0,0.0,0,0,0,0.50
+WOE 39F,Werefox Bodyguard,,0,0.0,0,0,0,1.00
+WOE 260F,Restless Spire,,0,0.0,0,0,0,0.50
+WOE 211F,"Rowan, Scion of War",,0,0.0,0,0,0,1.00
+WOE 14F,Treasure Token,,0,0.0,0,0,0,0.50
+WOE 269F,Island,,0,0.0,0,0,0,0.50
+WOE 251F,Soul-Guide Lantern,,0,0.0,0,0,0,0.50
+WOE 5F,Break the Spell,,0,0.0,0,0,0,0.50
+WOE 205F,"Greta, Sweettooth Scourge",,0,0.0,0,0,0,0.50
+WOE 104F,Rowan's Grim Search,,0,0.0,0,0,0,0.50
+WOE 116F,Voracious Vermin,,0,0.0,0,0,0,0.50
+WOE 246F,Gingerbrute,,0,0.0,0,0,0,0.50
+WOE 204F,The Goose Mother,,0,0.0,0,0,0,1.50
+WOE 157F,Virtue of Courage,,0,0.0,0,0,0,1.50
+WOE 9F,Elemental Token,,0,0.0,0,0,0,1.00
+WOE 137F,"Imodane, the Pyrohammer",,0,0.0,0,0,0,0.50
+WOE 271F,Swamp,,0,0.0,0,0,0,0.50
+WOE 193F,Tough Cookie,,0,0.0,0,0,0,0.50
+WOE 212F,"Ruby, Daring Tracker",,0,0.0,0,0,0,0.50
+WOE 187F,Stormkeld Vanguard,,0,0.0,0,0,0,0.50
+WOE 145F,Realm-Scorcher Hellkite,,0,0.0,0,0,0,1.00
+WOE 226F,Frolicking Familiar,,0,0.0,0,0,0,0.50
+WOE 136F,Hearth Elemental,,0,0.0,0,0,0,0.50
+WOE 274F,Mountain,,0,0.0,0,0,0,0.50
+WOE 249F,Prophetic Prism,,0,0.0,0,0,0,0.50
+WOE 30F,Solitary Sanctuary,,0,0.0,0,0,0,0.50
+WOE 319F,Ogre Chitterlord,,0,0.0,0,0,0,0.50
+WOE 69F,Spell Stutter,,0,0.0,0,0,0,0.50
+WOE 164F,Bramble Familiar,,0,0.0,0,0,0,0.50
+WOE 245F,Eriette's Tempting Apple,,0,0.0,0,0,0,0.50
+WOE 12F,Food Token,,0,0.0,0,0,0,0.50
+WOE 16F,Glass Casket,,0,0.0,0,0,0,0.50
+WOE 229F,Imodane's Recruiter,,0,0.0,0,0,0,0.50
+WOE 209F,"Neva, Stalked by Nightmares",,0,0.0,0,0,0,0.50
+WOE 220F,Beluna Grandsquall,,0,0.0,0,0,0,1.00
+WOE 235F,Scalding Viper,,0,0.0,0,0,0,0.50
+WOE 113F,Tangled Colony,,0,0.0,0,0,0,0.50
+WOE 154F,Twisted Fealty,,0,0.0,0,0,0,0.50
+WOE 254F,Crystal Grotto,,0,0.0,0,0,0,0.50
+WOE 55F,Icewrought Sentry,,0,0.0,0,0,0,0.50
+WOE 62F,Mocking Sprite,,0,0.0,0,0,0,0.50
+WOE 66F,Sleep-Cursed Faerie,,0,0.0,0,0,0,0.50
+WOE 72F,Succumb to the Cold,,0,0.0,0,0,0,0.50
+WOE 35F,Three Blind Mice,,0,0.0,0,0,0,0.50
+WOE 311F,Faerie Slumber Party,,0,0.0,0,0,0,3.00
+WOE 173F,Hamlet Glutton,,0,0.0,0,0,0,0.50
+WOE 3F,Knight Token,,0,0.0,0,0,0,0.50
+WOE 177F,Leaping Ambush,,0,0.0,0,0,0,0.50
+WOE 99F,Lord Skitter's Butcher,,0,0.0,0,0,0,0.50
+WOE 273F,Mountain,,0,0.0,0,0,0,0.50
+WOE 22F,Plunge into Winter,,0,0.0,0,0,0,0.50
+WOE 181F,Return from the Wilds,,0,0.0,0,0,0,0.50
+WOE 253F,Three Bowls of Porridge,,0,0.0,0,0,0,0.50
+WOE 172F,Gruff Triplets,,0,0.0,0,0,0,0.50
+WOE 309F,Lady of Laughter,,0,0.0,0,0,0,0.50
+WOE 102F,Rankle's Prank,,0,0.0,0,0,0,0.50
+WOE 158F,Witch's Mark,,0,0.0,0,0,0,0.50
+WOE 78F,"Ashiok, Wicked Manipulator",,0,0.0,0,0,0,1.00
+WOE 315F,Malevolent Witchkite,,0,0.0,0,0,0,1.00
+WOE 34F,A Tale for the Ages,,0,0.0,0,0,0,0.50
+WOE 120F,Belligerent of the Ball,,0,0.0,0,0,0,0.50
+WOE 222F,Cruel Somnophage,,0,0.0,0,0,0,0.50
+WOE 12F,Eerie Interference,,0,0.0,0,0,0,0.50
+WOE 256F,Evolving Wilds,,0,0.0,0,0,0,0.50
+WOE 13F,Expel the Interlopers,,0,0.0,0,0,0,0.50
+WOE 10F,Food Token,,0,0.0,0,0,0,0.50
+WOE 310F,Pests of Honor,,0,0.0,0,0,0,0.50
+WOE 65F,Quick Study,,0,0.0,0,0,0,0.50
+WOE 261F,Restless Vinestalk,,0,0.0,0,0,0,0.50
+WOE 32F,Stockpiling Celebrant,,0,0.0,0,0,0,0.50
+WOE 73F,Talion's Messenger,,0,0.0,0,0,0,0.50
+WOE 231F,Mosswood Dreadknight,,0,0.0,0,0,0,2.00
+WOE 2F,Archon's Glory,,0,0.0,0,0,0,0.50
+WOE 79F,Ashiok's Reaper,,0,0.0,0,0,0,0.50
+WOE 1F,Bird Token,,0,0.0,0,0,0,0.50
+WOE 8F,Cooped Up,,0,0.0,0,0,0,0.50
+WOE 86F,Ego Drain,,0,0.0,0,0,0,0.50
+WOE 225F,Elusive Otter,,0,0.0,0,0,0,0.50
+WOE 49F,Farsight Ritual,,0,0.0,0,0,0,0.50
+WOE 308F,Food Coma,,0,0.0,0,0,0,0.50
+WOE 15F,Gallant Pie-Wielder,,0,0.0,0,0,0,0.50
+WOE 52F,Galvanic Giant,,0,0.0,0,0,0,0.50
+WOE 270F,Island,,0,0.0,0,0,0,0.50
+WOE 18F,Kellan's Lightblades,,0,0.0,0,0,0,0.50
+WOE 103F,Rat Out,,0,0.0,0,0,0,0.50
+WOE 312F,Rowdy Research,,0,0.0,0,0,0,0.50
+WOE 67F,Sleight of Hand,,0,0.0,0,0,0,0.50
+WOE 176F,The Huntsman's Redemption,,0,0.0,0,0,0,0.50
+WOE 119F,The Witch's Vanity,,0,0.0,0,0,0,0.50
+WOE 80F,Back for Seconds,,0,0.0,0,0,0,0.50
+WOE 257F,Restless Bivouac,,0,0.0,0,0,0,1.00
+WOE 218F,"Will, Scion of Peace",,0,0.0,0,0,0,1.00
+WOE 41F,Archive Dragon,,0,0.0,0,0,0,0.50
+WOE 81F,Barrow Naughty,,0,0.0,0,0,0,0.50
+WOE 4F,Besotted Knight,,0,0.0,0,0,0,0.50
+WOE 165F,Brave the Wilds,,0,0.0,0,0,0,0.50
+WOE 84F,Conceited Witch,,0,0.0,0,0,0,0.50
+WOE 88F,Eriette's Whisper,,0,0.0,0,0,0,0.50
+WOE 90F,Faerie Fencing,,0,0.0,0,0,0,0.50
+WOE 91F,Feed the Cauldron,,0,0.0,0,0,0,0.50
+WOE 11F,Food Token,,0,0.0,0,0,0,0.50
+WOE 275F,Forest,,0,0.0,0,0,0,0.50
+WOE 14F,Frostbridge Guard,,0,0.0,0,0,0,0.50
+WOE 93F,Gumdrop Poisoner,,0,0.0,0,0,0,0.50
+WOE 17F,Hopeful Vigil,,0,0.0,0,0,0,0.50
+WOE 57F,Into the Fae Court,,0,0.0,0,0,0,0.50
+WOE 19F,Knight of Doves,,0,0.0,0,0,0,0.50
+WOE 100F,Mintstrosity,,0,0.0,0,0,0,0.50
+WOE 20F,Moment of Valor,,0,0.0,0,0,0,0.50
+WOE 4F,Mouse Token,,0,0.0,0,0,0,0.50
+WOE 6F,Nightmare Token,,0,0.0,0,0,0,0.50
+WOE 321F,Provisions Merchant,,0,0.0,0,0,0,0.50
+WOE 180F,Redtooth Vanguard,,0,0.0,0,0,0,0.50
+WOE 182F,Rootrider Faun,,0,0.0,0,0,0,0.50
+WOE 250F,Scarecrow Guide,,0,0.0,0,0,0,0.50
+WOE 192F,Toadstool Admirer,,0,0.0,0,0,0,0.50
+WOE 216F,"Totentanz, Swarm Piper",,0,0.0,0,0,0,0.50
+WOE 217F,"Troyan, Gutsy Explorer",,0,0.0,0,0,0,0.50
+WOE 114F,Twisted Sewer-Witch,,0,0.0,0,0,0,0.50
+WOE 155F,Two-Headed Hunter,,0,0.0,0,0,0,0.50
+WOE 196F,Verdant Outrider,,0,0.0,0,0,0,0.50
+WOE 198F,Welcome to Sweettooth,,0,0.0,0,0,0,0.50
+WOE 44F,Bitter Chill,,0,0.0,0,0,0,0.50
+WOE 9F,Cursed Courtier,,0,0.0,0,0,0,0.50
+WOE 127F,Embereth Veteran,,0,0.0,0,0,0,0.50
+WOE 92F,Fell Horseman,,0,0.0,0,0,0,0.50
+WOE 54F,Ice Out,,0,0.0,0,0,0,0.50
+WOE 207F,"Johann, Apprentice Sorcerer",,0,0.0,0,0,0,0.50
+WOE 98F,Lord Skitter's Blessing,,0,0.0,0,0,0,0.50
+WOE 141F,Minecart Daredevil,,0,0.0,0,0,0,0.50
+WOE 63F,Obyra's Attendants,,0,0.0,0,0,0,0.50
+WOE 27F,Rimefur Reindeer,,0,0.0,0,0,0,0.50
+WOE 236F,Shrouded Shepherd,,0,0.0,0,0,0,0.50
+WOE 186F,Spider Food,,0,0.0,0,0,0,0.50
+WOE 110F,Sugar Rush,,0,0.0,0,0,0,0.50
+WOE 188F,Tanglespan Lookout,,0,0.0,0,0,0,0.50
+WOE 74F,Tenacious Tomeseeker,,0,0.0,0,0,0,0.50
+WOE 200F,The Apprentice's Folly,,0,0.0,0,0,0,0.50
+WOE 239F,Threadbind Clique,,0,0.0,0,0,0,0.50
+WOE 77F,Water Wings,,0,0.0,0,0,0,0.50
+WOE 118F,Wicked Visitor,,0,0.0,0,0,0,0.50
+WOE 43F,Beluna's Gatekeeper,,0,0.0,0,0,0,0.50
+WOE 83F,Candy Grapple,,0,0.0,0,0,0,0.50
+WOE 167F,Curse of the Werefox,,0,0.0,0,0,0,0.50
+WOE 10F,Discerning Financier,,0,0.0,0,0,0,0.50
+WOE 168F,Elvish Archivist,,0,0.0,0,0,0,0.50
+WOE 170F,Ferocious Werefox,,0,0.0,0,0,0,0.50
+WOE 13F,Food Token,,0,0.0,0,0,0,0.50
+WOE 132F,"Goddric, Cloaked Reveler",,0,0.0,0,0,0,0.50
+WOE 133F,Grabby Giant,,0,0.0,0,0,0,0.50
+WOE 94F,High Fae Negotiator,,0,0.0,0,0,0,0.50
+WOE 53F,Horned Loch-Whale,,0,0.0,0,0,0,0.50
+WOE 138F,Kindled Heroism,,0,0.0,0,0,0,0.50
+WOE 61F,Misleading Motes,,0,0.0,0,0,0,0.50
+WOE 29F,Slumbering Keepguard,,0,0.0,0,0,0,0.50
+WOE 31F,Spellbook Vendor,,0,0.0,0,0,0,0.50
+WOE 237F,Spellscorn Coven,,0,0.0,0,0,0,0.50
+WOE 152F,Tattered Ratter,,0,0.0,0,0,0,0.50
+WOE 87F,The End,,0,0.0,0,0,0,0.50
+WOE 23F,The Princess Takes Flight,,0,0.0,0,0,0,0.50
+WOE 160F,Agatha's Champion,,0,0.0,0,0,0,0.50
+WOE 1F,Archon of the Wild Rose,,0,0.0,0,0,0,0.50
+WOE 201F,"Ash, Party Crasher",,0,0.0,0,0,0,0.50
+WOE 317F,Become Brutes,,0,0.0,0,0,0,0.50
+WOE 121F,Bellowing Bruiser,,0,0.0,0,0,0,0.50
+WOE 318F,Charging Hooligan,,0,0.0,0,0,0,0.50
+WOE 6F,Charmed Clothier,,0,0.0,0,0,0,0.50
+WOE 224F,Devouring Sugarmaw,,0,0.0,0,0,0,0.50
+WOE 85F,Dream Spoilers,,0,0.0,0,0,0,0.50
+WOE 126F,Edgewall Pack,,0,0.0,0,0,0,0.50
+WOE 48F,Extraordinary Journey,,0,0.0,0,0,0,0.50
+WOE 276F,Forest,,0,0.0,0,0,0,0.50
+WOE 51F,Gadwick's First Duel,,0,0.0,0,0,0,0.50
+WOE 135F,Harried Spearguard,,0,0.0,0,0,0,0.50
+WOE 228F,Heartflame Duelist,,0,0.0,0,0,0,0.50
+WOE 58F,Johann's Stopgap,,0,0.0,0,0,0,0.50
+WOE 59F,Living Lectern,,0,0.0,0,0,0,0.50
+WOE 140F,Merry Bards,,0,0.0,0,0,0,0.50
+WOE 233F,Pollen-Shield Hare,,0,0.0,0,0,0,0.50
+WOE 149F,Skewer Slinger,,0,0.0,0,0,0,0.50
+WOE 109F,Stingblade Assassin,,0,0.0,0,0,0,0.50
+WOE 214F,"Syr Armont, the Redeemer",,0,0.0,0,0,0,0.50
+WOE 189F,Territorial Witchstalker,,0,0.0,0,0,0,0.50
+WOE 190F,Thunderous Debut,,0,0.0,0,0,0,0.50
+WOE 191F,Titanic Growth,,0,0.0,0,0,0,0.50
+WOE 240F,Twining Twins,,0,0.0,0,0,0,0.50
+WOE 40F,Aquatic Alchemist,,0,0.0,0,0,0,0.50
+WOE 3F,Armory Mice,,0,0.0,0,0,0,0.50
+WOE 122F,Bespoke Battlegarb,,0,0.0,0,0,0,0.50
+WOE 162F,Bestial Bloodline,,0,0.0,0,0,0,0.50
+WOE 123F,Boundary Lands Ranger,,0,0.0,0,0,0,0.50
+WOE 45F,Chancellor of Tales,,0,0.0,0,0,0,0.50
+WOE 166F,Commune with Nature,,0,0.0,0,0,0,0.50
+WOE 125F,Cut In,,0,0.0,0,0,0,0.50
+WOE 46F,Diminisher Witch,,0,0.0,0,0,0,0.50
+WOE 47F,Disdainful Stroke,,0,0.0,0,0,0,0.50
+WOE 11F,Dutiful Griffin,,0,0.0,0,0,0,0.50
+WOE 255F,Edgewall Inn,,0,0.0,0,0,0,0.50
+WOE 203F,Faunsbane Troll,,0,0.0,0,0,0,0.50
+WOE 169F,Feral Encounter,,0,0.0,0,0,0,0.50
+WOE 129F,Food Fight,,0,0.0,0,0,0,0.50
+WOE 130F,Frantic Firebolt,,0,0.0,0,0,0,0.50
+WOE 227F,Gingerbread Hunter,,0,0.0,0,0,0,0.50
+WOE 131F,Gnawing Crescendo,,0,0.0,0,0,0,0.50
+WOE 171F,Graceful Takedown,,0,0.0,0,0,0,0.50
+WOE 134F,Grand Ball Guest,,0,0.0,0,0,0,0.50
+WOE 174F,Hollow Scavenger,,0,0.0,0,0,0,0.50
+WOE 175F,Howling Galefang,,0,0.0,0,0,0,0.50
+WOE 320F,Intrepid Trufflesnout,,0,0.0,0,0,0,0.50
+WOE 139F,Korvold and the Noble Thief,,0,0.0,0,0,0,0.50
+WOE 60F,Merfolk Coralsmith,,0,0.0,0,0,0,0.50
+WOE 232F,Picnic Ruiner,,0,0.0,0,0,0,0.50
+WOE 267F,Plains,,0,0.0,0,0,0,0.50
+WOE 268F,Plains,,0,0.0,0,0,0,0.50
+WOE 24F,Protective Parents,,0,0.0,0,0,0,0.50
+WOE 143F,Raging Battle Mouse,,0,0.0,0,0,0,0.50
+WOE 144F,Ratcatcher Trainee,,0,0.0,0,0,0,0.50
+WOE 146F,Redcap Gutter-Dweller,,0,0.0,0,0,0,0.50
+WOE 147F,Redcap Thief,,0,0.0,0,0,0,0.50
+WOE 179F,Redtooth Genealogist,,0,0.0,0,0,0,0.50
+WOE 26F,Return Triumphant,,0,0.0,0,0,0,0.50
+WOE 148F,Rotisserie Elemental,,0,0.0,0,0,0,0.50
+WOE 28F,Savior of the Sleeping,,0,0.0,0,0,0,0.50
+WOE 105F,Scream Puff,,0,0.0,0,0,0,0.50
+WOE 184F,Sentinel of Lost Lore,,0,0.0,0,0,0,0.50
+WOE 106F,Shatter the Oath,,0,0.0,0,0,0,0.50
+WOE 185F,Skybeast Tracker,,0,0.0,0,0,0,0.50
+WOE 107F,Specter of Mortality,,0,0.0,0,0,0,0.50
+WOE 70F,Splashy Spellcaster,,0,0.0,0,0,0,0.50
+WOE 151F,Stonesplitter Bolt,,0,0.0,0,0,0,0.50
+WOE 71F,Stormkeld Prowler,,0,0.0,0,0,0,0.50
+WOE 313F,Storyteller Pixie,,0,0.0,0,0,0,0.50
+WOE 111F,Sweettooth Witch,,0,0.0,0,0,0,0.50
+WOE 112F,Taken by Nightmares,,0,0.0,0,0,0,0.50
+WOE 238F,Tempest Hart,,0,0.0,0,0,0,0.50
+WOE 36F,Tuinvale Guide,,0,0.0,0,0,0,0.50
+WOE 37F,Unassuming Sage,,0,0.0,0,0,0,0.50
+WOE 75F,Vantress Transmuter,,0,0.0,0,0,0,0.50
+WOE 117F,Warehouse Tabby,,0,0.0,0,0,0,0.50
+WOE 322F,Wildwood Mentor,,0,0.0,0,0,0,0.50
+WOE 241F,Woodland Acolyte,,0,0.0,0,0,0,0.50

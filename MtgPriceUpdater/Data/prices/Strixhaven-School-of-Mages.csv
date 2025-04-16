@@ -1,0 +1,597 @@
+STX 97,Dragon's Approach,,0,0.0,0,0,0,3.50
+STX 6,Wandering Archaic,,0,0.0,0,0,0,8.00
+STX 37,Archmage Emeritus,,0,0.0,0,0,0,4.50
+STX 165,Blade Historian,,0,0.0,0,0,0,3.00
+STX 188,Fracture,,0,0.0,0,0,0,2.00
+STX 95,Crackle with Power,,0,0.0,0,0,0,6.00
+STX 54,Solve the Equation,,0,0.0,0,0,0,3.00
+STX 115,Storm-Kiln Artist,,0,0.0,0,0,0,2.00
+STX 189,Galazeth Prismari,,0,0.0,0,0,0,5.00
+STX 179,Double Major,,0,0.0,0,0,0,3.00
+STX 230,Shadrix Silverquill,,0,0.0,0,0,0,6.00
+STX 64,Baleful Mastery,,0,0.0,0,0,0,1.00
+STX 148,"Blex, Vexing Pest",,0,0.0,0,0,0,3.00
+STX 163,Beledros Witherbloom,,0,0.0,0,0,0,3.50
+STX 86,Sedgemoor Witch,,0,0.0,0,0,0,1.50
+STX 80,Oriq Loremage,,0,0.0,0,0,0,1.00
+STX 192,Hofri Ghostforge,,0,0.0,0,0,0,2.00
+STX 197,"Killian, Ink Duelist",,0,0.0,0,0,0,1.00
+STX 248,Witherbloom Command,,0,0.0,0,0,0,1.00
+STX 51,Resculpt,,0,0.0,0,0,0,0.50
+STX 203,Magma Opus,,0,0.0,0,0,0,2.00
+STX 186,Expressive Iteration,,0,0.0,0,0,0,1.00
+STX 26,Secret Rendezvous,,0,0.0,0,0,0,0.50
+STX 167,Blot Out the Sky,,0,0.0,0,0,0,2.00
+STX 94,Conspiracy Theorist,,0,0.0,0,0,0,1.00
+STX 83,Professor Onyx,,0,0.0,0,0,0,4.00
+STX 20,Leonin Lightscribe,,0,0.0,0,0,0,1.00
+STX 259,Strixhaven Stadium,,0,0.0,0,0,0,1.00
+STX 225,Rip Apart,,0,0.0,0,0,0,0.50
+STX 130,Exponential Growth,,0,0.0,0,0,0,1.00
+STX 207,Mortality Spear,,0,0.0,0,0,0,0.50
+STX 174,Daemogoth Titan,,0,0.0,0,0,0,0.50
+STX 228,Rushed Rebirth,,0,0.0,0,0,0,1.00
+STX 240,Tanazir Quandrix,,0,0.0,0,0,0,2.00
+STX 119,Accomplished Alchemist,,0,0.0,0,0,0,1.00
+STX 261,Zephyr Boots,,0,0.0,0,0,0,0.50
+STX 45,Kelpie Guide,,0,0.0,0,0,0,0.50
+STX 21,"Mavinda, Students' Advocate",,0,0.0,0,0,0,1.00
+STX 27,Semester's End,,0,0.0,0,0,0,0.50
+STX 153,"Mila, Crafty Companion",,0,0.0,0,0,0,2.00
+STX 247,Witherbloom Apprentice,,0,0.0,0,0,0,0.50
+STX 267,Hall of Oracles,,0,0.0,0,0,0,1.00
+STX 4,Inkling Token,,0,0.0,0,0,0,0.50
+STX 262,Access Tunnel,,0,0.0,0,0,0,0.50
+STX 124,Charge Through,,0,0.0,0,0,0,0.25
+STX 168,Body of Research,,0,0.0,0,0,0,1.00
+STX 33,Strict Proctor,,0,0.0,0,0,0,0.50
+STX 244,Vanishing Verse,,0,0.0,0,0,0,1.00
+STX 175,Daemogoth Woe-Eater,,0,0.0,0,0,0,0.50
+STX 172,Culling Ritual,,0,0.0,0,0,0,1.00
+STX 245,Velomachus Lorehold,,0,0.0,0,0,0,1.50
+STX 102,First Day of Class,,0,0.0,0,0,0,0.25
+STX 156,"Rowan, Scholar of Sparks",,0,0.0,0,0,0,2.50
+STX 116,Sudden Breakthrough,,0,0.0,0,0,0,0.50
+STX 3,Introduction to Annihilation,,0,0.0,0,0,0,0.25
+STX 268,Lorehold Campus,,0,0.0,0,0,0,0.25
+STX 161,"Valentin, Dean of the Vein",,0,0.0,0,0,0,0.50
+STX 5,Pest Token,,0,0.0,0,0,0,0.50
+STX 272,Shineshadow Snarl,,0,0.0,0,0,0,0.50
+STX 270,Prismari Campus,,0,0.0,0,0,0,0.25
+STX 242,Tend the Pests,,0,0.0,0,0,0,0.50
+STX 256,Letter of Acceptance,,0,0.0,0,0,0,0.25
+STX 263,Archway Commons,,0,0.0,0,0,0,0.25
+STX 66,Callous Bloodmage,,0,0.0,0,0,0,0.50
+STX 177,Decisive Denial,,0,0.0,0,0,0,0.50
+STX 214,Prismari Command,,0,0.0,0,0,0,1.00
+STX 250,"Zimone, Quandrix Prodigy",,0,0.0,0,0,0,0.50
+STX 194,Infuse with Vitality,,0,0.0,0,0,0,0.25
+STX 151,"Jadzi, Oracle of Arcavios",,0,0.0,0,0,0,1.00
+STX 84,Professor's Warning,,0,0.0,0,0,0,0.25
+STX 4,Introduction to Prophecy,,0,0.0,0,0,0,0.25
+STX 273,Silverquill Campus,,0,0.0,0,0,0,0.25
+STX 59,Test of Talents,,0,0.0,0,0,0,0.50
+STX 149,"Extus, Oriq Overlord",,0,0.0,0,0,0,1.00
+STX 28,Show of Confidence,,0,0.0,0,0,0,0.50
+STX 128,Ecological Appreciation,,0,0.0,0,0,0,1.00
+STX 2,Elemental Token,,0,0.0,0,0,0,0.50
+STX 3,Fractal Token,,0,0.0,0,0,0,0.50
+STX 121,Bayou Groff,,0,0.0,0,0,0,0.25
+STX 40,Curate,,0,0.0,0,0,0,0.25
+STX 196,"Kasmina, Enigma Sage",,0,0.0,0,0,0,1.00
+STX 275,Witherbloom Campus,,0,0.0,0,0,0,0.25
+STX 178,"Dina, Soul Steeper",,0,0.0,0,0,0,0.50
+STX 72,Go Blank,,0,0.0,0,0,0,0.50
+STX 105,Hall Monitor,,0,0.0,0,0,0,0.50
+STX 1,Avatar Token,,0,0.0,0,0,0,0.50
+STX 176,Deadly Brew,,0,0.0,0,0,0,0.50
+STX 216,Quandrix Apprentice,,0,0.0,0,0,0,0.50
+STX 147,Augmenter Pugilist,,0,0.0,0,0,0,0.50
+STX 70,Eyetwitch,,0,0.0,0,0,0,0.50
+STX 269,Necroblossom Snarl,,0,0.0,0,0,0,0.50
+STX 123,Bookwurm,,0,0.0,0,0,0,0.50
+STX 68,Crushing Disappointment,,0,0.0,0,0,0,0.25
+STX 129,Emergent Sequence,,0,0.0,0,0,0,0.50
+STX 158,"Shaile, Dean of Radiance",,0,0.0,0,0,0,0.50
+STX 171,Creative Outburst,,0,0.0,0,0,0,0.50
+STX 17,Elite Spellbinder,,0,0.0,0,0,0,0.50
+STX 44,Ingenious Mastery,,0,0.0,0,0,0,0.50
+STX 48,Multiple Choice,,0,0.0,0,0,0,0.50
+STX 370,Swamp,,0,0.0,0,0,0,0.50
+STX 218,Quandrix Cultivator,,0,0.0,0,0,0,0.50
+STX 241,Teach by Example,,0,0.0,0,0,0,0.25
+STX 7,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 1,Environmental Sciences,,0,0.0,0,0,0,0.25
+STX 255,Excavated Wall,,0,0.0,0,0,0,0.25
+STX 221,Radiant Scrollwielder,,0,0.0,0,0,0,0.50
+STX 184,Eureka Moment,,0,0.0,0,0,0,0.25
+STX 90,Unwilling Ingredient,,0,0.0,0,0,0,0.25
+STX 101,Fervent Mastery,,0,0.0,0,0,0,0.50
+STX 157,Selfless Glyphweaver,,0,0.0,0,0,0,0.50
+STX 91,Academic Dispute,,0,0.0,0,0,0,0.50
+STX 212,Practical Research,,0,0.0,0,0,0,0.50
+STX 6,Spirit Token,,0,0.0,0,0,0,0.50
+STX 88,Tenured Inkcaster,,0,0.0,0,0,0,0.50
+STX 166,Blood Researcher,,0,0.0,0,0,0,0.25
+STX 38,Burrog Befuddler,,0,0.0,0,0,0,0.25
+STX 140,Professor of Zoomancy,,0,0.0,0,0,0,0.25
+STX 173,Culmination of Studies,,0,0.0,0,0,0,0.50
+STX 96,Draconic Intervention,,0,0.0,0,0,0,0.50
+STX 199,Lorehold Command,,0,0.0,0,0,0,0.50
+STX 142,Scurrid Colony,,0,0.0,0,0,0,0.25
+STX 260,Team Pennant,,0,0.0,0,0,0,0.50
+STX 81,Plumb the Forbidden,,0,0.0,0,0,0,0.50
+STX 58,Tempted by the Oriq,,0,0.0,0,0,0,0.50
+STX 369,Island,,0,0.0,0,0,0,0.50
+STX 10,Clever Lumimancer,,0,0.0,0,0,0,0.50
+STX 180,Dramatic Finale,,0,0.0,0,0,0,0.50
+STX 98,Efreet Flamepainter,,0,0.0,0,0,0,0.50
+STX 368,Island,,0,0.0,0,0,0,0.50
+STX 155,"Plargg, Dean of Chaos",,0,0.0,0,0,0,0.50
+STX 41,Divide by Zero,,0,0.0,0,0,0,0.50
+STX 243,Thrilling Discovery,,0,0.0,0,0,0,0.25
+STX 9,Beaming Defiance,,0,0.0,0,0,0,0.25
+STX 182,Elemental Masterpiece,,0,0.0,0,0,0,0.25
+STX 47,Mercurial Transformation,,0,0.0,0,0,0,0.50
+STX 132,Fortifying Draught,,0,0.0,0,0,0,0.50
+STX 134,Honor Troll,,0,0.0,0,0,0,0.50
+STX 46,Mentor's Guidance,,0,0.0,0,0,0,0.50
+STX 191,Harness Infinity,,0,0.0,0,0,0,1.00
+STX 253,"Codie, Vociferous Codex",,0,0.0,0,0,0,0.50
+STX 266,Furycalm Snarl,,0,0.0,0,0,0,0.50
+STX 2,Expanded Anatomy,,0,0.0,0,0,0,0.25
+STX 190,Golden Ratio,,0,0.0,0,0,0,0.50
+STX 73,Hunt for Specimens,,0,0.0,0,0,0,0.25
+STX 3,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 274,Vineglimmer Snarl,,0,0.0,0,0,0,0.50
+STX 100,Explosive Welcome,,0,0.0,0,0,0,0.50
+STX 367,Plains,,0,0.0,0,0,0,0.50
+STX 31,Stonebinder's Familiar,,0,0.0,0,0,0,0.50
+STX 126,Devouring Tendrils,,0,0.0,0,0,0,0.50
+STX 265,Frostboil Snarl,,0,0.0,0,0,0,0.50
+STX 154,Pestilent Cauldron,,0,0.0,0,0,0,0.50
+STX 246,Venerable Warsinger,,0,0.0,0,0,0,0.50
+STX 43,Frost Trickster,,0,0.0,0,0,0,0.25
+STX 112,Pillardrop Warden,,0,0.0,0,0,0,0.25
+STX 258,Spell Satchel,,0,0.0,0,0,0,0.50
+STX 99,Enthusiastic Study,,0,0.0,0,0,0,0.25
+STX 206,Moldering Karok,,0,0.0,0,0,0,0.25
+STX 227,"Rootha, Mercurial Artist",,0,0.0,0,0,0,0.50
+STX 56,Symmetry Sage,,0,0.0,0,0,0,0.50
+STX 232,Silverquill Command,,0,0.0,0,0,0,0.50
+STX 29,Sparring Regimen,,0,0.0,0,0,0,0.50
+STX 146,Verdant Mastery,,0,0.0,0,0,0,0.50
+STX 251,Biblioplex Assistant,,0,0.0,0,0,0,0.25
+STX 252,Campus Guide,,0,0.0,0,0,0,0.25
+STX 139,Overgrown Arch,,0,0.0,0,0,0,0.50
+STX 219,Quandrix Pledgemage,,0,0.0,0,0,0,0.25
+STX 5,Mascot Exhibition,,0,0.0,0,0,0,1.00
+STX 217,Quandrix Command,,0,0.0,0,0,0,0.50
+STX 57,Teachings of the Archaics,,0,0.0,0,0,0,0.50
+STX 160,"Uvilda, Dean of Perfection",,0,0.0,0,0,0,0.50
+STX 131,Field Trip,,0,0.0,0,0,0,0.25
+STX 76,Mage Hunter,,0,0.0,0,0,0,0.50
+STX 211,Pest Summoning,,0,0.0,0,0,0,0.25
+STX 222,Reconstruct History,,0,0.0,0,0,0,0.50
+STX 7,Treasure Token,,0,0.0,0,0,0,0.50
+STX 249,Witherbloom Pledgemage,,0,0.0,0,0,0,0.25
+STX 170,Cram Session,,0,0.0,0,0,0,0.25
+STX 374,Forest,,0,0.0,0,0,0,0.50
+STX 193,Humiliate,,0,0.0,0,0,0,0.50
+STX 25,Reduce to Memory,,0,0.0,0,0,0,0.50
+STX 114,Start from Scratch,,0,0.0,0,0,0,0.50
+STX 150,Flamescroll Celebrant,,0,0.0,0,0,0,0.50
+STX 92,Ardent Dustspeaker,,0,0.0,0,0,0,0.50
+STX 11,Combat Professor,,0,0.0,0,0,0,0.25
+STX 104,Grinning Ignus,,0,0.0,0,0,0,0.50
+STX 198,Lorehold Apprentice,,0,0.0,0,0,0,0.50
+STX 204,Make Your Mark,,0,0.0,0,0,0,0.25
+STX 373,Mountain,,0,0.0,0,0,0,0.50
+STX 224,Returned Pastcaller,,0,0.0,0,0,0,0.50
+STX 53,Snow Day,,0,0.0,0,0,0,0.50
+STX 145,Tangletrap,,0,0.0,0,0,0,0.25
+STX 120,Basic Conjuration,,0,0.0,0,0,0,0.50
+STX 67,Confront the Past,,0,0.0,0,0,0,0.50
+STX 5,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 108,Illuminate History,,0,0.0,0,0,0,0.50
+STX 82,Poet's Quill,,0,0.0,0,0,0,0.50
+STX 103,Fuming Effigy,,0,0.0,0,0,0,0.25
+STX 74,Lash of Malice,,0,0.0,0,0,0,0.25
+STX 137,Mage Duel,,0,0.0,0,0,0,0.25
+STX 208,Needlethorn Drake,,0,0.0,0,0,0,0.25
+STX 24,Professor of Symbology,,0,0.0,0,0,0,0.50
+STX 52,Serpentine Curve,,0,0.0,0,0,0,0.25
+STX 62,Wormhole Serpent,,0,0.0,0,0,0,0.50
+STX 14,Devastating Mastery,,0,0.0,0,0,0,0.50
+STX 205,Manifestation Sage,,0,0.0,0,0,0,0.50
+STX 234,Silverquill Silencer,,0,0.0,0,0,0,0.50
+STX 8,Ageless Guardian,,0,0.0,0,0,0,0.25
+STX 65,Brackish Trudge,,0,0.0,0,0,0,0.50
+STX 12,Defend the Campus,,0,0.0,0,0,0,0.25
+STX 136,Leyline Invocation,,0,0.0,0,0,0,0.25
+STX 77,Mage Hunters' Onslaught,,0,0.0,0,0,0,0.25
+STX 213,Prismari Apprentice,,0,0.0,0,0,0,0.50
+STX 271,Quandrix Campus,,0,0.0,0,0,0,0.25
+STX 122,Big Play,,0,0.0,0,0,0,0.25
+STX 254,Cogwork Archivist,,0,0.0,0,0,0,0.25
+STX 125,Containment Breach,,0,0.0,0,0,0,0.50
+STX 13,Detention Vortex,,0,0.0,0,0,0,0.50
+STX 69,Essence Infusion,,0,0.0,0,0,0,0.25
+STX 135,Karok Wrangler,,0,0.0,0,0,0,0.50
+STX 202,Maelstrom Muse,,0,0.0,0,0,0,0.50
+STX 110,Mascot Interception,,0,0.0,0,0,0,0.50
+STX 79,Novice Dissector,,0,0.0,0,0,0,0.25
+STX 210,Owlin Shieldmage,,0,0.0,0,0,0,0.25
+STX 22,Pilgrim of the Ages,,0,0.0,0,0,0,0.25
+STX 220,"Quintorius, Field Historian",,0,0.0,0,0,0,0.50
+STX 257,Reflective Golem,,0,0.0,0,0,0,0.50
+STX 50,Reject,,0,0.0,0,0,0,0.25
+STX 229,Shadewing Laureate,,0,0.0,0,0,0,0.50
+STX 118,Twinscroll Shaman,,0,0.0,0,0,0,0.25
+STX 42,Dream Strix,,0,0.0,0,0,0,0.50
+STX 9,Emblem,,0,0.0,0,0,0,0.50
+STX 264,The Biblioplex,,0,0.0,0,0,0,0.50
+STX 164,Biomathematician,,0,0.0,0,0,0,0.25
+STX 169,Closing Statement,,0,0.0,0,0,0,0.50
+STX 18,Expel,,0,0.0,0,0,0,0.25
+STX 375,Forest,,0,0.0,0,0,0,0.50
+STX 106,Heated Debate,,0,0.0,0,0,0,0.25
+STX 200,Lorehold Excavation,,0,0.0,0,0,0,0.50
+STX 78,Necrotic Fumes,,0,0.0,0,0,0,0.50
+STX 143,Spined Karok,,0,0.0,0,0,0,0.25
+STX 236,Spirit Summoning,,0,0.0,0,0,0,0.25
+STX 237,Spiteful Squad,,0,0.0,0,0,0,0.25
+STX 30,Star Pupil,,0,0.0,0,0,0,0.25
+STX 35,Thunderous Orator,,0,0.0,0,0,0,0.50
+STX 89,Umbral Juke,,0,0.0,0,0,0,0.50
+STX 7,Academic Probation,,0,0.0,0,0,0,0.50
+STX 162,Aether Helix,,0,0.0,0,0,0,0.50
+STX 39,Bury in Books,,0,0.0,0,0,0,0.25
+STX 16,Eager First-Year,,0,0.0,0,0,0,0.25
+STX 71,Flunk,,0,0.0,0,0,0,0.50
+STX 107,Igneous Inspiration,,0,0.0,0,0,0,0.50
+STX 195,Inkling Summoning,,0,0.0,0,0,0,0.25
+STX 111,Pigment Storm,,0,0.0,0,0,0,0.25
+STX 223,Relic Sloth,,0,0.0,0,0,0,0.25
+STX 231,Silverquill Apprentice,,0,0.0,0,0,0,0.50
+STX 235,Spectacle Mage,,0,0.0,0,0,0,0.25
+STX 144,Springmane Cervin,,0,0.0,0,0,0,0.25
+STX 34,Study Break,,0,0.0,0,0,0,0.25
+STX 117,Tome Shredder,,0,0.0,0,0,0,0.25
+STX 60,Vortex Runner,,0,0.0,0,0,0,0.25
+STX 63,Arrogant Poet,,0,0.0,0,0,0,0.25
+STX 15,Dueling Coach,,0,0.0,0,0,0,0.50
+STX 183,Elemental Summoning,,0,0.0,0,0,0,0.25
+STX 19,Guiding Voice,,0,0.0,0,0,0,0.25
+STX 75,Leech Fanatic,,0,0.0,0,0,0,0.25
+STX 201,Lorehold Pledgemage,,0,0.0,0,0,0,0.25
+STX 138,Master Symmetrist,,0,0.0,0,0,0,0.50
+STX 372,Mountain,,0,0.0,0,0,0,0.50
+STX 209,Oggyar Battle-Seer,,0,0.0,0,0,0,0.25
+STX 23,Pillardrop Rescuer,,0,0.0,0,0,0,0.25
+STX 233,Silverquill Pledgemage,,0,0.0,0,0,0,0.25
+STX 55,Soothsayer Adept,,0,0.0,0,0,0,0.25
+STX 239,Stonebound Mentor,,0,0.0,0,0,0,0.25
+STX 127,Dragonsguard Elite,,0,0.0,0,0,0,0.50
+STX 181,Elemental Expressionist,,0,0.0,0,0,0,0.50
+STX 113,Retriever Phoenix,,0,0.0,0,0,0,0.50
+STX 36,Arcane Subtraction,,0,0.0,0,0,0,0.25
+STX 49,Pop Quiz,,0,0.0,0,0,0,0.25
+STX 141,Reckless Amplimancer,,0,0.0,0,0,0,0.25
+STX 32,Stonerise Spirit,,0,0.0,0,0,0,0.25
+STX 1,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 133,Gnarled Professor,,0,0.0,0,0,0,0.50
+STX 152,"Kianne, Dean of Substance",,0,0.0,0,0,0,0.50
+STX 93,Blood Age General,,0,0.0,0,0,0,0.25
+STX 185,Exhilarating Elocution,,0,0.0,0,0,0,0.25
+STX 187,Fractal Summoning,,0,0.0,0,0,0,0.25
+STX 366,Plains,,0,0.0,0,0,0,0.50
+STX 215,Prismari Pledgemage,,0,0.0,0,0,0,0.25
+STX 87,Specter of the Fens,,0,0.0,0,0,0,0.25
+STX 2,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 4,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 6,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 8,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 9,DFC Helper Card,,0,0.0,0,0,0,0.50
+STX 8,Emblem,,0,0.0,0,0,0,0.50
+STX 109,Illustrious Historian,,0,0.0,0,0,0,0.25
+STX 85,Promising Duskmage,,0,0.0,0,0,0,0.25
+STX 226,Rise of Extus,,0,0.0,0,0,0,0.25
+STX 238,Square Up,,0,0.0,0,0,0,0.25
+STX 371,Swamp,,0,0.0,0,0,0,0.50
+STX 159,Torrent Sculptor,,0,0.0,0,0,0,0.50
+STX 61,Waterfall Aerialist,,0,0.0,0,0,0,0.25
+STX 6F,Wandering Archaic,,0,0.0,0,0,0,9.00
+STX 97F,Dragon's Approach,,0,0.0,0,0,0,4.00
+STX 54F,Solve the Equation,,0,0.0,0,0,0,3.00
+STX 37F,Archmage Emeritus,,0,0.0,0,0,0,7.00
+STX 115F,Storm-Kiln Artist,,0,0.0,0,0,0,2.50
+STX 230F,Shadrix Silverquill,,0,0.0,0,0,0,7.00
+STX 172F,Culling Ritual,,0,0.0,0,0,0,3.00
+STX 188F,Fracture,,0,0.0,0,0,0,3.00
+STX 197F,"Killian, Ink Duelist",,0,0.0,0,0,0,1.50
+STX 64F,Baleful Mastery,,0,0.0,0,0,0,2.00
+STX 203F,Magma Opus,,0,0.0,0,0,0,2.50
+STX 262F,Access Tunnel,,0,0.0,0,0,0,1.00
+STX 86F,Sedgemoor Witch,,0,0.0,0,0,0,2.50
+STX 83F,Professor Onyx,,0,0.0,0,0,0,10.00
+STX 94F,Conspiracy Theorist,,0,0.0,0,0,0,1.50
+STX 366F,Plains,,0,0.0,0,0,0,0.50
+STX 51F,Resculpt,,0,0.0,0,0,0,1.00
+STX 179F,Double Major,,0,0.0,0,0,0,3.00
+STX 214F,Prismari Command,,0,0.0,0,0,0,2.50
+STX 81F,Plumb the Forbidden,,0,0.0,0,0,0,2.00
+STX 247F,Witherbloom Apprentice,,0,0.0,0,0,0,1.00
+STX 165F,Blade Historian,,0,0.0,0,0,0,3.00
+STX 95F,Crackle with Power,,0,0.0,0,0,0,6.50
+STX 163F,Beledros Witherbloom,,0,0.0,0,0,0,7.00
+STX 189F,Galazeth Prismari,,0,0.0,0,0,0,5.50
+STX 248F,Witherbloom Command,,0,0.0,0,0,0,1.00
+STX 272F,Shineshadow Snarl,,0,0.0,0,0,0,1.00
+STX 261F,Zephyr Boots,,0,0.0,0,0,0,1.00
+STX 148F,"Blex, Vexing Pest",,0,0.0,0,0,0,3.00
+STX 267F,Hall of Oracles,,0,0.0,0,0,0,1.00
+STX 4F,Inkling Token,,0,0.0,0,0,0,1.00
+STX 5F,Pest Token,,0,0.0,0,0,0,0.50
+STX 240F,Tanazir Quandrix,,0,0.0,0,0,0,1.50
+STX 45F,Kelpie Guide,,0,0.0,0,0,0,0.50
+STX 3F,Fractal Token,,0,0.0,0,0,0,0.50
+STX 7F,Treasure Token,,0,0.0,0,0,0,0.50
+STX 192F,Hofri Ghostforge,,0,0.0,0,0,0,2.00
+STX 26F,Secret Rendezvous,,0,0.0,0,0,0,0.50
+STX 245F,Velomachus Lorehold,,0,0.0,0,0,0,2.50
+STX 130F,Exponential Growth,,0,0.0,0,0,0,1.00
+STX 196F,"Kasmina, Enigma Sage",,0,0.0,0,0,0,1.00
+STX 66F,Callous Bloodmage,,0,0.0,0,0,0,0.50
+STX 149F,"Extus, Oriq Overlord",,0,0.0,0,0,0,1.00
+STX 161F,"Valentin, Dean of the Vein",,0,0.0,0,0,0,1.00
+STX 259F,Strixhaven Stadium,,0,0.0,0,0,0,1.00
+STX 207F,Mortality Spear,,0,0.0,0,0,0,0.50
+STX 156F,"Rowan, Scholar of Sparks",,0,0.0,0,0,0,2.00
+STX 174F,Daemogoth Titan,,0,0.0,0,0,0,1.50
+STX 167F,Blot Out the Sky,,0,0.0,0,0,0,1.50
+STX 265F,Frostboil Snarl,,0,0.0,0,0,0,1.00
+STX 243F,Thrilling Discovery,,0,0.0,0,0,0,0.50
+STX 1F,Avatar Token,,0,0.0,0,0,0,0.50
+STX 116F,Sudden Breakthrough,,0,0.0,0,0,0,0.50
+STX 241F,Teach by Example,,0,0.0,0,0,0,0.50
+STX 59F,Test of Talents,,0,0.0,0,0,0,0.50
+STX 40F,Curate,,0,0.0,0,0,0,0.50
+STX 102F,First Day of Class,,0,0.0,0,0,0,0.50
+STX 370F,Swamp,,0,0.0,0,0,0,0.50
+STX 242F,Tend the Pests,,0,0.0,0,0,0,0.50
+STX 269F,Necroblossom Snarl,,0,0.0,0,0,0,1.50
+STX 80F,Oriq Loremage,,0,0.0,0,0,0,1.50
+STX 186F,Expressive Iteration,,0,0.0,0,0,0,1.00
+STX 27F,Semester's End,,0,0.0,0,0,0,1.00
+STX 121F,Bayou Groff,,0,0.0,0,0,0,0.50
+STX 373F,Mountain,,0,0.0,0,0,0,0.50
+STX 29F,Sparring Regimen,,0,0.0,0,0,0,0.50
+STX 68F,Crushing Disappointment,,0,0.0,0,0,0,0.50
+STX 216F,Quandrix Apprentice,,0,0.0,0,0,0,0.50
+STX 158F,"Shaile, Dean of Radiance",,0,0.0,0,0,0,0.50
+STX 275F,Witherbloom Campus,,0,0.0,0,0,0,0.50
+STX 119F,Accomplished Alchemist,,0,0.0,0,0,0,0.50
+STX 244F,Vanishing Verse,,0,0.0,0,0,0,0.50
+STX 225F,Rip Apart,,0,0.0,0,0,0,0.50
+STX 228F,Rushed Rebirth,,0,0.0,0,0,0,0.50
+STX 266F,Furycalm Snarl,,0,0.0,0,0,0,0.50
+STX 274F,Vineglimmer Snarl,,0,0.0,0,0,0,0.50
+STX 20F,Leonin Lightscribe,,0,0.0,0,0,0,1.00
+STX 175F,Daemogoth Woe-Eater,,0,0.0,0,0,0,0.50
+STX 2F,Elemental Token,,0,0.0,0,0,0,0.50
+STX 129F,Emergent Sequence,,0,0.0,0,0,0,0.50
+STX 184F,Eureka Moment,,0,0.0,0,0,0,0.50
+STX 150F,Flamescroll Celebrant,,0,0.0,0,0,0,0.50
+STX 104F,Grinning Ignus,,0,0.0,0,0,0,0.50
+STX 221F,Radiant Scrollwielder,,0,0.0,0,0,0,0.50
+STX 35F,Thunderous Orator,,0,0.0,0,0,0,0.50
+STX 171F,Creative Outburst,,0,0.0,0,0,0,0.50
+STX 2F,Expanded Anatomy,,0,0.0,0,0,0,0.50
+STX 132F,Fortifying Draught,,0,0.0,0,0,0,0.50
+STX 194F,Infuse with Vitality,,0,0.0,0,0,0,0.50
+STX 369F,Island,,0,0.0,0,0,0,0.50
+STX 211F,Pest Summoning,,0,0.0,0,0,0,0.50
+STX 28F,Show of Confidence,,0,0.0,0,0,0,0.50
+STX 273F,Silverquill Campus,,0,0.0,0,0,0,0.50
+STX 250F,"Zimone, Quandrix Prodigy",,0,0.0,0,0,0,0.50
+STX 168F,Body of Research,,0,0.0,0,0,0,1.50
+STX 21F,"Mavinda, Students' Advocate",,0,0.0,0,0,0,1.50
+STX 128F,Ecological Appreciation,,0,0.0,0,0,0,1.00
+STX 191F,Harness Infinity,,0,0.0,0,0,0,1.00
+STX 162F,Aether Helix,,0,0.0,0,0,0,0.50
+STX 164F,Biomathematician,,0,0.0,0,0,0,0.50
+STX 124F,Charge Through,,0,0.0,0,0,0,0.50
+STX 173F,Culmination of Studies,,0,0.0,0,0,0,0.50
+STX 176F,Deadly Brew,,0,0.0,0,0,0,0.50
+STX 41F,Divide by Zero,,0,0.0,0,0,0,0.50
+STX 127F,Dragonsguard Elite,,0,0.0,0,0,0,0.50
+STX 182F,Elemental Masterpiece,,0,0.0,0,0,0,0.50
+STX 1F,Environmental Sciences,,0,0.0,0,0,0,0.50
+STX 131F,Field Trip,,0,0.0,0,0,0,0.50
+STX 71F,Flunk,,0,0.0,0,0,0,0.50
+STX 374F,Forest,,0,0.0,0,0,0,0.50
+STX 4F,Introduction to Prophecy,,0,0.0,0,0,0,0.50
+STX 256F,Letter of Acceptance,,0,0.0,0,0,0,0.50
+STX 199F,Lorehold Command,,0,0.0,0,0,0,0.50
+STX 205F,Manifestation Sage,,0,0.0,0,0,0,0.50
+STX 84F,Professor's Warning,,0,0.0,0,0,0,0.50
+STX 33F,Strict Proctor,,0,0.0,0,0,0,0.50
+STX 151F,"Jadzi, Oracle of Arcavios",,0,0.0,0,0,0,1.00
+STX 263F,Archway Commons,,0,0.0,0,0,0,0.50
+STX 166F,Blood Researcher,,0,0.0,0,0,0,0.50
+STX 177F,Decisive Denial,,0,0.0,0,0,0,0.50
+STX 13F,Detention Vortex,,0,0.0,0,0,0,0.50
+STX 126F,Devouring Tendrils,,0,0.0,0,0,0,0.50
+STX 178F,"Dina, Soul Steeper",,0,0.0,0,0,0,0.50
+STX 96F,Draconic Intervention,,0,0.0,0,0,0,0.50
+STX 17F,Elite Spellbinder,,0,0.0,0,0,0,0.50
+STX 9F,Emblem,,0,0.0,0,0,0,0.50
+STX 69F,Essence Infusion,,0,0.0,0,0,0,0.50
+STX 108F,Illuminate History,,0,0.0,0,0,0,0.50
+STX 3F,Introduction to Annihilation,,0,0.0,0,0,0,0.50
+STX 155F,"Plargg, Dean of Chaos",,0,0.0,0,0,0,0.50
+STX 82F,Poet's Quill,,0,0.0,0,0,0,0.50
+STX 140F,Professor of Zoomancy,,0,0.0,0,0,0,0.50
+STX 271F,Quandrix Campus,,0,0.0,0,0,0,0.50
+STX 218F,Quandrix Cultivator,,0,0.0,0,0,0,0.50
+STX 219F,Quandrix Pledgemage,,0,0.0,0,0,0,0.50
+STX 222F,Reconstruct History,,0,0.0,0,0,0,0.50
+STX 224F,Returned Pastcaller,,0,0.0,0,0,0,0.50
+STX 157F,Selfless Glyphweaver,,0,0.0,0,0,0,0.50
+STX 143F,Spined Karok,,0,0.0,0,0,0,0.50
+STX 371F,Swamp,,0,0.0,0,0,0,0.50
+STX 57F,Teachings of the Archaics,,0,0.0,0,0,0,0.50
+STX 260F,Team Pennant,,0,0.0,0,0,0,0.50
+STX 118F,Twinscroll Shaman,,0,0.0,0,0,0,0.50
+STX 246F,Venerable Warsinger,,0,0.0,0,0,0,0.50
+STX 146F,Verdant Mastery,,0,0.0,0,0,0,0.50
+STX 5F,Mascot Exhibition,,0,0.0,0,0,0,1.00
+STX 147F,Augmenter Pugilist,,0,0.0,0,0,0,0.50
+STX 123F,Bookwurm,,0,0.0,0,0,0,0.50
+STX 169F,Closing Statement,,0,0.0,0,0,0,0.50
+STX 253F,"Codie, Vociferous Codex",,0,0.0,0,0,0,0.50
+STX 67F,Confront the Past,,0,0.0,0,0,0,0.50
+STX 183F,Elemental Summoning,,0,0.0,0,0,0,0.50
+STX 185F,Exhilarating Elocution,,0,0.0,0,0,0,0.50
+STX 70F,Eyetwitch,,0,0.0,0,0,0,0.50
+STX 375F,Forest,,0,0.0,0,0,0,0.50
+STX 43F,Frost Trickster,,0,0.0,0,0,0,0.50
+STX 103F,Fuming Effigy,,0,0.0,0,0,0,0.50
+STX 134F,Honor Troll,,0,0.0,0,0,0,0.50
+STX 73F,Hunt for Specimens,,0,0.0,0,0,0,0.50
+STX 195F,Inkling Summoning,,0,0.0,0,0,0,0.50
+STX 136F,Leyline Invocation,,0,0.0,0,0,0,0.50
+STX 198F,Lorehold Apprentice,,0,0.0,0,0,0,0.50
+STX 268F,Lorehold Campus,,0,0.0,0,0,0,0.50
+STX 202F,Maelstrom Muse,,0,0.0,0,0,0,0.50
+STX 76F,Mage Hunter,,0,0.0,0,0,0,0.50
+STX 204F,Make Your Mark,,0,0.0,0,0,0,0.50
+STX 138F,Master Symmetrist,,0,0.0,0,0,0,0.50
+STX 48F,Multiple Choice,,0,0.0,0,0,0,0.50
+STX 139F,Overgrown Arch,,0,0.0,0,0,0,0.50
+STX 270F,Prismari Campus,,0,0.0,0,0,0,0.50
+STX 217F,Quandrix Command,,0,0.0,0,0,0,0.50
+STX 25F,Reduce to Memory,,0,0.0,0,0,0,0.50
+STX 227F,"Rootha, Mercurial Artist",,0,0.0,0,0,0,0.50
+STX 142F,Scurrid Colony,,0,0.0,0,0,0,0.50
+STX 87F,Specter of the Fens,,0,0.0,0,0,0,0.50
+STX 236F,Spirit Summoning,,0,0.0,0,0,0,0.50
+STX 30F,Star Pupil,,0,0.0,0,0,0,0.50
+STX 114F,Start from Scratch,,0,0.0,0,0,0,0.50
+STX 239F,Stonebound Mentor,,0,0.0,0,0,0,0.50
+STX 32F,Stonerise Spirit,,0,0.0,0,0,0,0.50
+STX 88F,Tenured Inkcaster,,0,0.0,0,0,0,0.50
+STX 90F,Unwilling Ingredient,,0,0.0,0,0,0,0.50
+STX 180F,Dramatic Finale,,0,0.0,0,0,0,0.50
+STX 72F,Go Blank,,0,0.0,0,0,0,0.50
+STX 91F,Academic Dispute,,0,0.0,0,0,0,0.50
+STX 7F,Academic Probation,,0,0.0,0,0,0,0.50
+STX 92F,Ardent Dustspeaker,,0,0.0,0,0,0,0.50
+STX 122F,Big Play,,0,0.0,0,0,0,0.50
+STX 10F,Clever Lumimancer,,0,0.0,0,0,0,0.50
+STX 254F,Cogwork Archivist,,0,0.0,0,0,0,0.50
+STX 11F,Combat Professor,,0,0.0,0,0,0,0.50
+STX 125F,Containment Breach,,0,0.0,0,0,0,0.50
+STX 14F,Devastating Mastery,,0,0.0,0,0,0,0.50
+STX 15F,Dueling Coach,,0,0.0,0,0,0,0.50
+STX 98F,Efreet Flamepainter,,0,0.0,0,0,0,0.50
+STX 181F,Elemental Expressionist,,0,0.0,0,0,0,0.50
+STX 8F,Emblem,,0,0.0,0,0,0,0.50
+STX 99F,Enthusiastic Study,,0,0.0,0,0,0,0.50
+STX 255F,Excavated Wall,,0,0.0,0,0,0,0.50
+STX 212F,Practical Research,,0,0.0,0,0,0,0.50
+STX 18F,Expel,,0,0.0,0,0,0,0.50
+STX 187F,Fractal Summoning,,0,0.0,0,0,0,0.50
+STX 190F,Golden Ratio,,0,0.0,0,0,0,0.50
+STX 19F,Guiding Voice,,0,0.0,0,0,0,0.50
+STX 193F,Humiliate,,0,0.0,0,0,0,0.50
+STX 44F,Ingenious Mastery,,0,0.0,0,0,0,0.50
+STX 368F,Island,,0,0.0,0,0,0,0.50
+STX 135F,Karok Wrangler,,0,0.0,0,0,0,0.50
+STX 74F,Lash of Malice,,0,0.0,0,0,0,0.50
+STX 77F,Mage Hunters' Onslaught,,0,0.0,0,0,0,0.50
+STX 110F,Mascot Interception,,0,0.0,0,0,0,0.50
+STX 46F,Mentor's Guidance,,0,0.0,0,0,0,0.50
+STX 47F,Mercurial Transformation,,0,0.0,0,0,0,0.50
+STX 206F,Moldering Karok,,0,0.0,0,0,0,0.50
+STX 78F,Necrotic Fumes,,0,0.0,0,0,0,0.50
+STX 208F,Needlethorn Drake,,0,0.0,0,0,0,0.50
+STX 210F,Owlin Shieldmage,,0,0.0,0,0,0,0.50
+STX 154F,Pestilent Cauldron,,0,0.0,0,0,0,0.50
+STX 23F,Pillardrop Rescuer,,0,0.0,0,0,0,0.50
+STX 112F,Pillardrop Warden,,0,0.0,0,0,0,0.50
+STX 213F,Prismari Apprentice,,0,0.0,0,0,0,0.50
+STX 141F,Reckless Amplimancer,,0,0.0,0,0,0,0.50
+STX 257F,Reflective Golem,,0,0.0,0,0,0,0.50
+STX 229F,Shadewing Laureate,,0,0.0,0,0,0,0.50
+STX 231F,Silverquill Apprentice,,0,0.0,0,0,0,0.50
+STX 233F,Silverquill Pledgemage,,0,0.0,0,0,0,0.50
+STX 53F,Snow Day,,0,0.0,0,0,0,0.50
+STX 235F,Spectacle Mage,,0,0.0,0,0,0,0.50
+STX 237F,Spiteful Squad,,0,0.0,0,0,0,0.50
+STX 144F,Springmane Cervin,,0,0.0,0,0,0,0.50
+STX 31F,Stonebinder's Familiar,,0,0.0,0,0,0,0.50
+STX 145F,Tangletrap,,0,0.0,0,0,0,0.50
+STX 264F,The Biblioplex,,0,0.0,0,0,0,0.50
+STX 89F,Umbral Juke,,0,0.0,0,0,0,0.50
+STX 160F,"Uvilda, Dean of Perfection",,0,0.0,0,0,0,0.50
+STX 60F,Vortex Runner,,0,0.0,0,0,0,0.50
+STX 8F,Ageless Guardian,,0,0.0,0,0,0,0.50
+STX 36F,Arcane Subtraction,,0,0.0,0,0,0,0.50
+STX 63F,Arrogant Poet,,0,0.0,0,0,0,0.50
+STX 120F,Basic Conjuration,,0,0.0,0,0,0,0.50
+STX 9F,Beaming Defiance,,0,0.0,0,0,0,0.50
+STX 251F,Biblioplex Assistant,,0,0.0,0,0,0,0.50
+STX 93F,Blood Age General,,0,0.0,0,0,0,0.50
+STX 65F,Brackish Trudge,,0,0.0,0,0,0,0.50
+STX 38F,Burrog Befuddler,,0,0.0,0,0,0,0.50
+STX 39F,Bury in Books,,0,0.0,0,0,0,0.50
+STX 252F,Campus Guide,,0,0.0,0,0,0,0.50
+STX 170F,Cram Session,,0,0.0,0,0,0,0.50
+STX 12F,Defend the Campus,,0,0.0,0,0,0,0.50
+STX 42F,Dream Strix,,0,0.0,0,0,0,0.50
+STX 16F,Eager First-Year,,0,0.0,0,0,0,0.50
+STX 100F,Explosive Welcome,,0,0.0,0,0,0,0.50
+STX 101F,Fervent Mastery,,0,0.0,0,0,0,0.50
+STX 133F,Gnarled Professor,,0,0.0,0,0,0,0.50
+STX 105F,Hall Monitor,,0,0.0,0,0,0,0.50
+STX 106F,Heated Debate,,0,0.0,0,0,0,0.50
+STX 107F,Igneous Inspiration,,0,0.0,0,0,0,0.50
+STX 109F,Illustrious Historian,,0,0.0,0,0,0,0.50
+STX 152F,"Kianne, Dean of Substance",,0,0.0,0,0,0,0.50
+STX 75F,Leech Fanatic,,0,0.0,0,0,0,0.50
+STX 200F,Lorehold Excavation,,0,0.0,0,0,0,0.50
+STX 201F,Lorehold Pledgemage,,0,0.0,0,0,0,0.50
+STX 137F,Mage Duel,,0,0.0,0,0,0,0.50
+STX 153F,"Mila, Crafty Companion",,0,0.0,0,0,0,2.50
+STX 372F,Mountain,,0,0.0,0,0,0,0.50
+STX 79F,Novice Dissector,,0,0.0,0,0,0,0.50
+STX 209F,Oggyar Battle-Seer,,0,0.0,0,0,0,0.50
+STX 111F,Pigment Storm,,0,0.0,0,0,0,0.50
+STX 22F,Pilgrim of the Ages,,0,0.0,0,0,0,0.50
+STX 367F,Plains,,0,0.0,0,0,0,0.50
+STX 49F,Pop Quiz,,0,0.0,0,0,0,0.50
+STX 215F,Prismari Pledgemage,,0,0.0,0,0,0,0.50
+STX 24F,Professor of Symbology,,0,0.0,0,0,0,0.50
+STX 85F,Promising Duskmage,,0,0.0,0,0,0,0.50
+STX 220F,"Quintorius, Field Historian",,0,0.0,0,0,0,0.50
+STX 50F,Reject,,0,0.0,0,0,0,0.50
+STX 223F,Relic Sloth,,0,0.0,0,0,0,0.50
+STX 113F,Retriever Phoenix,,0,0.0,0,0,0,0.50
+STX 226F,Rise of Extus,,0,0.0,0,0,0,0.50
+STX 52F,Serpentine Curve,,0,0.0,0,0,0,0.50
+STX 232F,Silverquill Command,,0,0.0,0,0,0,0.50
+STX 234F,Silverquill Silencer,,0,0.0,0,0,0,0.50
+STX 55F,Soothsayer Adept,,0,0.0,0,0,0,0.50
+STX 258F,Spell Satchel,,0,0.0,0,0,0,0.50
+STX 6F,Spirit Token,,0,0.0,0,0,0,0.50
+STX 238F,Square Up,,0,0.0,0,0,0,0.50
+STX 34F,Study Break,,0,0.0,0,0,0,0.50
+STX 56F,Symmetry Sage,,0,0.0,0,0,0,0.50
+STX 58F,Tempted by the Oriq,,0,0.0,0,0,0,0.50
+STX 117F,Tome Shredder,,0,0.0,0,0,0,0.50
+STX 159F,Torrent Sculptor,,0,0.0,0,0,0,0.50
+STX 61F,Waterfall Aerialist,,0,0.0,0,0,0,0.50
+STX 249F,Witherbloom Pledgemage,,0,0.0,0,0,0,0.50
+STX 62F,Wormhole Serpent,,0,0.0,0,0,0,0.50

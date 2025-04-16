@@ -1,0 +1,503 @@
+AVR 226,Cavern of Souls,,0,0.0,0,0,0,47.00
+AVR 102,Exquisite Blood,,0,0.0,0,0,0,28.00
+AVR 128,Battle Hymn,,0,0.0,0,0,0,3.00
+AVR 200,Ulvenwald Tracker,,0,0.0,0,0,0,7.50
+AVR 57,Ghostly Flicker,,0,0.0,0,0,0,2.00
+AVR 172,Craterhoof Behemoth,,0,0.0,0,0,0,28.00
+AVR 2,Angel of Jubilation,,0,0.0,0,0,0,14.00
+AVR 12,Cloudshift,,0,0.0,0,0,0,1.00
+AVR 228,Seraph Sanctuary,,0,0.0,0,0,0,1.50
+AVR 6,Avacyn,,0,0.0,0,0,0,0
+AVR 47,Deadeye Navigator,,0,0.0,0,0,0,5.00
+AVR 24,Herald of War,,0,0.0,0,0,0,3.50
+AVR 171,Champion of Lambholt,,0,0.0,0,0,0,3.00
+AVR 151,Reforge the Soul,,0,0.0,0,0,0,3.00
+AVR 189,Primal Surge,,0,0.0,0,0,0,6.00
+AVR 81,Temporal Mastery,,0,0.0,0,0,0,6.00
+AVR 214,Conjurer's Closet,,0,0.0,0,0,0,5.00
+AVR 173,Descendants' Path,,0,0.0,0,0,0,4.00
+AVR 219,Otherworld Atlas,,0,0.0,0,0,0,2.50
+AVR 10,Cathars' Crusade,,0,0.0,0,0,0,5.00
+AVR 195,Soul of the Harvest,,0,0.0,0,0,0,2.50
+AVR 86,Blood Artist,,0,0.0,0,0,0,2.00
+AVR 176,Druids' Repository,,0,0.0,0,0,0,3.00
+AVR 225,Alchemist's Refuge,,0,0.0,0,0,0,2.00
+AVR 79,Tamiyo,,0,0.0,0,0,0,0
+AVR 106,Griselbrand,,0,0.0,0,0,0,6.00
+AVR 148,Malignus,,0,0.0,0,0,0,5.00
+AVR 68,Misthollow Griffin,,0,0.0,0,0,0,2.50
+AVR 203,Wild Defiance,,0,0.0,0,0,0,2.00
+AVR 80,Tandem Lookout,,0,0.0,0,0,0,0.50
+AVR 170,Bower Passage,,0,0.0,0,0,0,0.50
+AVR 209,Gisela,,0,0.0,0,0,0,0
+AVR 107,Harvester of Souls,,0,0.0,0,0,0,1.00
+AVR 66,Mass Appeal,,0,0.0,0,0,0,0.50
+AVR 130,Burn at the Stake,,0,0.0,0,0,0,1.50
+AVR 129,Bonfire of the Damned,,0,0.0,0,0,0,2.00
+AVR 167,Abundant Growth,,0,0.0,0,0,0,0.50
+AVR 100,Essence Harvest,,0,0.0,0,0,0,0.50
+AVR 164,Vexing Devil,,0,0.0,0,0,0,1.00
+AVR 51,Favorable Winds,,0,0.0,0,0,0,0.50
+AVR 38,Terminus,,0,0.0,0,0,0,1.00
+AVR 83,Wingcrafter,,0,0.0,0,0,0,0.25
+AVR 22,Goldnight Commander,,0,0.0,0,0,0,0.50
+AVR 36,Silverblade Paladin,,0,0.0,0,0,0,0.50
+AVR 17,Devout Chaplain,,0,0.0,0,0,0,0.50
+AVR 4,Angelic Wall,,0,0.0,0,0,0,0.25
+AVR 32,Restoration Angel,,0,0.0,0,0,0,0.50
+AVR 20,Entreat the Angels,,0,0.0,0,0,0,1.00
+AVR 161,Tibalt,,0,0.0,0,0,0,0
+AVR 111,Killing Wave,,0,0.0,0,0,0,1.00
+AVR 126,Archwing Dragon,,0,0.0,0,0,0,0.50
+AVR 217,Moonsilver Spear,,0,0.0,0,0,0,0.50
+AVR 196,Terrifying Presence,,0,0.0,0,0,0,0.25
+AVR 191,Revenge of the Hunted,,0,0.0,0,0,0,0.50
+AVR 206,Wolfir Silverheart,,0,0.0,0,0,0,0.50
+AVR 48,Devastation Tide,,0,0.0,0,0,0,0.50
+AVR 227,Desolate Lighthouse,,0,0.0,0,0,0,0.50
+AVR 78,Stolen Goods,,0,0.0,0,0,0,0.50
+AVR 19,Emancipation Angel,,0,0.0,0,0,0,0.50
+AVR 192,Sheltering Word,,0,0.0,0,0,0,0.25
+AVR 175,Druid's Familiar,,0,0.0,0,0,0,0.50
+AVR 87,Bloodflow Connoisseur,,0,0.0,0,0,0,0.25
+AVR 133,Dual Casting,,0,0.0,0,0,0,0.50
+AVR 44,Arcane Melee,,0,0.0,0,0,0,0.50
+AVR 33,Riders of Gavony,,0,0.0,0,0,0,0.50
+AVR 210,Sigarda,,0,0.0,0,0,0,0
+AVR 208,Bruna,,0,0.0,0,0,0,0
+AVR 92,Dark Impostor,,0,0.0,0,0,0,0.50
+AVR 166,Zealous Conscripts,,0,0.0,0,0,0,0.50
+AVR 229,Slayers' Stronghold,,0,0.0,0,0,0,0.50
+AVR 121,Treacherous Pit-Dweller,,0,0.0,0,0,0,0.50
+AVR 16,Defy Death,,0,0.0,0,0,0,0.50
+AVR 54,Galvanic Alchemist,,0,0.0,0,0,0,0.25
+AVR 95,Demonic Taskmaster,,0,0.0,0,0,0,0.50
+AVR 244,Forest,,0,0.0,0,0,0,0.50
+AVR 230,Plains,,0,0.0,0,0,0,0.50
+AVR 35,Seraph of Dawn,,0,0.0,0,0,0,0.25
+AVR 237,Swamp,,0,0.0,0,0,0,0.50
+AVR 187,Nightshade Peddler,,0,0.0,0,0,0,0.25
+AVR 224,Vessel of Endless Rest,,0,0.0,0,0,0,0.50
+AVR 201,Vorstclaw,,0,0.0,0,0,0,0.50
+AVR 1,Angel Token,,0,0.0,0,0,0,0.50
+AVR 131,Dangerous Wager,,0,0.0,0,0,0,0.25
+AVR 61,Infinite Reflection,,0,0.0,0,0,0,0.50
+AVR 88,Bone Splinters,,0,0.0,0,0,0,0.25
+AVR 141,Hound of Griselbrand,,0,0.0,0,0,0,0.50
+AVR 116,Polluted Dead,,0,0.0,0,0,0,0.25
+AVR 89,Butcher Ghoul,,0,0.0,0,0,0,0.25
+AVR 96,Demonlord of Ashmouth,,0,0.0,0,0,0,0.50
+AVR 8,Builder's Blessing,,0,0.0,0,0,0,0.50
+AVR 134,Falkenrath Exterminator,,0,0.0,0,0,0,0.50
+AVR 154,Rush of Blood,,0,0.0,0,0,0,0.50
+AVR 220,Scroll of Avacyn,,0,0.0,0,0,0,0.25
+AVR 56,Ghostform,,0,0.0,0,0,0,0.25
+AVR 97,Descent into Madness,,0,0.0,0,0,0,1.00
+AVR 162,Tyrant of Discord,,0,0.0,0,0,0,0.50
+AVR 13,Commander's Authority,,0,0.0,0,0,0,0.50
+AVR 190,Rain of Thorns,,0,0.0,0,0,0,0.50
+AVR 82,Vanishment,,0,0.0,0,0,0,0.50
+AVR 98,Dread Slaver,,0,0.0,0,0,0,0.50
+AVR 212,Angelic Armaments,,0,0.0,0,0,0,0.50
+AVR 177,Eaten by Spiders,,0,0.0,0,0,0,0.50
+AVR 198,Triumph of Ferocity,,0,0.0,0,0,0,0.50
+AVR 18,Divine Deflection,,0,0.0,0,0,0,0.50
+AVR 9,Call to Serve,,0,0.0,0,0,0,0.25
+AVR 11,Cathedral Sanctifier,,0,0.0,0,0,0,0.25
+AVR 234,Island,,0,0.0,0,0,0,0.50
+AVR 124,Unhallowed Pact,,0,0.0,0,0,0,0.25
+AVR 223,Vanguard's Shield,,0,0.0,0,0,0,0.25
+AVR 168,Blessings of Nature,,0,0.0,0,0,0,0.50
+AVR 213,Bladed Bracers,,0,0.0,0,0,0,0.25
+AVR 194,Somberwald Sage,,0,0.0,0,0,0,0.50
+AVR 101,Evernight Shade,,0,0.0,0,0,0,0.50
+AVR 139,Havengul Vampire,,0,0.0,0,0,0,0.50
+AVR 108,Homicidal Seclusion,,0,0.0,0,0,0,0.50
+AVR 236,Swamp,,0,0.0,0,0,0,0.50
+AVR 6,Zombie Token,,0,0.0,0,0,0,0.50
+AVR 1,Angel of Glory's Rise,,0,0.0,0,0,0,0.50
+AVR 94,Demonic Rising,,0,0.0,0,0,0,0.50
+AVR 15,Defang,,0,0.0,0,0,0,0.25
+AVR 50,Elgaud Shieldmate,,0,0.0,0,0,0,0.25
+AVR 160,Thunderous Wrath,,0,0.0,0,0,0,0.50
+AVR 5,Demon Token,,0,0.0,0,0,0,0.50
+AVR 215,Gallows at Willow Hill,,0,0.0,0,0,0,0.50
+AVR 42,Alchemist's Apprentice,,0,0.0,0,0,0,0.25
+AVR 127,Banners Raised,,0,0.0,0,0,0,0.25
+AVR 58,Ghostly Touch,,0,0.0,0,0,0,0.50
+AVR 112,Maalfeld Twins,,0,0.0,0,0,0,0.50
+AVR 188,Pathbreaker Wurm,,0,0.0,0,0,0,0.25
+AVR 117,Predator's Gambit,,0,0.0,0,0,0,0.25
+AVR 120,Soulcage Fiend,,0,0.0,0,0,0,0.25
+AVR 205,Wolfir Avenger,,0,0.0,0,0,0,0.50
+AVR 65,Lunar Mystic,,0,0.0,0,0,0,0.50
+AVR 43,Amass the Components,,0,0.0,0,0,0,0.25
+AVR 5,Archangel,,0,0.0,0,0,0,0.50
+AVR 140,Heirs of Stromkirk,,0,0.0,0,0,0,0.25
+AVR 182,Howlgeist,,0,0.0,0,0,0,0.50
+AVR 142,Kessig Malcontents,,0,0.0,0,0,0,0.50
+AVR 63,Latch Seeker,,0,0.0,0,0,0,0.50
+AVR 145,Lightning Prowess,,0,0.0,0,0,0,0.50
+AVR 149,Pillar of Flame,,0,0.0,0,0,0,0.25
+AVR 39,Thraben Valiant,,0,0.0,0,0,0,0.25
+AVR 7,Banishing Stroke,,0,0.0,0,0,0,0.50
+AVR 69,Nephalia Smuggler,,0,0.0,0,0,0,0.50
+AVR 74,Second Guess,,0,0.0,0,0,0,0.50
+AVR 158,Thatcher Revolt,,0,0.0,0,0,0,0.25
+AVR 45,Captain of the Mists,,0,0.0,0,0,0,0.50
+AVR 211,Angel's Tomb,,0,0.0,0,0,0,0.50
+AVR 14,Cursebreak,,0,0.0,0,0,0,0.25
+AVR 93,Death Wind,,0,0.0,0,0,0,0.25
+AVR 243,Forest,,0,0.0,0,0,0,0.50
+AVR 183,Joint Assault,,0,0.0,0,0,0,0.25
+AVR 31,Nearheath Pilgrim,,0,0.0,0,0,0,0.50
+AVR 71,Peel from Reality,,0,0.0,0,0,0,0.25
+AVR 152,Riot Ringleader,,0,0.0,0,0,0,0.25
+AVR 159,Thunderbolt,,0,0.0,0,0,0,0.25
+AVR 199,Trusted Forcemage,,0,0.0,0,0,0,0.25
+AVR 202,Wandering Wolf,,0,0.0,0,0,0,0.25
+AVR 104,Gloom Surgeon,,0,0.0,0,0,0,0.50
+AVR 169,Borderland Ranger,,0,0.0,0,0,0,0.25
+AVR 174,Diregraf Escort,,0,0.0,0,0,0,0.25
+AVR 53,Fleeting Distraction,,0,0.0,0,0,0,0.25
+AVR 180,Gloomwidow,,0,0.0,0,0,0,0.50
+AVR 137,Guise of Fire,,0,0.0,0,0,0,0.25
+AVR 235,Island,,0,0.0,0,0,0,0.50
+AVR 67,Mist Raven,,0,0.0,0,0,0,0.25
+AVR 241,Mountain,,0,0.0,0,0,0,0.50
+AVR 185,Natural End,,0,0.0,0,0,0,0.25
+AVR 122,Triumph of Cruelty,,0,0.0,0,0,0,0.50
+AVR 123,Undead Executioner,,0,0.0,0,0,0,0.25
+AVR 207,Yew Spirit,,0,0.0,0,0,0,0.50
+AVR 125,Aggravate,,0,0.0,0,0,0,0.50
+AVR 3,Angel's Mercy,,0,0.0,0,0,0,0.25
+AVR 84,Appetite for Brains,,0,0.0,0,0,0,0.50
+AVR 21,Farbog Explorer,,0,0.0,0,0,0,0.25
+AVR 103,Ghoulflesh,,0,0.0,0,0,0,0.25
+AVR 105,Grave Exchange,,0,0.0,0,0,0,0.25
+AVR 216,Haunted Guardian,,0,0.0,0,0,0,0.50
+AVR 25,Holy Justiciar,,0,0.0,0,0,0,0.50
+AVR 144,Lightning Mauler,,0,0.0,0,0,0,0.50
+AVR 113,Marrow Bats,,0,0.0,0,0,0,0.50
+AVR 114,Mental Agony,,0,0.0,0,0,0,0.25
+AVR 29,Moonlight Geist,,0,0.0,0,0,0,0.25
+AVR 240,Mountain,,0,0.0,0,0,0,0.50
+AVR 70,Outwit,,0,0.0,0,0,0,0.25
+AVR 231,Plains,,0,0.0,0,0,0,0.50
+AVR 118,Renegade Demon,,0,0.0,0,0,0,0.25
+AVR 221,Scroll of Griselbrand,,0,0.0,0,0,0,0.25
+AVR 163,Uncanny Speed,,0,0.0,0,0,0,0.25
+AVR 76,Spirit Away,,0,0.0,0,0,0,0.50
+AVR 85,Barter in Blood,,0,0.0,0,0,0,0.50
+AVR 46,Crippling Chill,,0,0.0,0,0,0,0.25
+AVR 49,Dreadwaters,,0,0.0,0,0,0,0.25
+AVR 138,Hanweir Lancer,,0,0.0,0,0,0,0.25
+AVR 110,Hunted Ghoul,,0,0.0,0,0,0,0.25
+AVR 233,Island,,0,0.0,0,0,0,0.50
+AVR 184,Lair Delve,,0,0.0,0,0,0,0.25
+AVR 146,Mad Prophet,,0,0.0,0,0,0,0.25
+AVR 239,Mountain,,0,0.0,0,0,0,0.50
+AVR 186,Nettle Swine,,0,0.0,0,0,0,0.25
+AVR 155,Scalding Devil,,0,0.0,0,0,0,0.25
+AVR 77,Stern Mentor,,0,0.0,0,0,0,0.50
+AVR 157,Stonewright,,0,0.0,0,0,0,0.50
+AVR 238,Swamp,,0,0.0,0,0,0,0.50
+AVR 222,Tormentor's Trident,,0,0.0,0,0,0,0.50
+AVR 165,Vigilante Justice,,0,0.0,0,0,0,0.50
+AVR 64,Lone Revenant,,0,0.0,0,0,0,0.50
+AVR 99,Driver of the Dead,,0,0.0,0,0,0,0.25
+AVR 135,Fervent Cathar,,0,0.0,0,0,0,0.25
+AVR 55,Geist Snatch,,0,0.0,0,0,0,0.25
+AVR 23,Goldnight Redeemer,,0,0.0,0,0,0,0.50
+AVR 59,Gryff Vanguard,,0,0.0,0,0,0,0.25
+AVR 60,Havengul Skaab,,0,0.0,0,0,0,0.25
+AVR 115,Necrobite,,0,0.0,0,0,0,0.25
+AVR 232,Plains,,0,0.0,0,0,0,0.50
+AVR 34,Righteous Blow,,0,0.0,0,0,0,0.25
+AVR 37,Spectral Gateguards,,0,0.0,0,0,0,0.25
+AVR 90,Corpse Traders,,0,0.0,0,0,0,0.50
+AVR 91,Crypt Creeper,,0,0.0,0,0,0,0.25
+AVR 132,Demolish,,0,0.0,0,0,0,0.25
+AVR 52,Fettergeist,,0,0.0,0,0,0,0.50
+AVR 178,Flowering Lumberknot,,0,0.0,0,0,0,0.25
+AVR 242,Forest,,0,0.0,0,0,0,0.50
+AVR 136,Gang of Devils,,0,0.0,0,0,0,0.50
+AVR 179,Geist Trappers,,0,0.0,0,0,0,0.25
+AVR 181,Grounded,,0,0.0,0,0,0,0.25
+AVR 109,Human Frailty,,0,0.0,0,0,0,0.50
+AVR 62,Into the Void,,0,0.0,0,0,0,0.50
+AVR 143,Kruin Striker,,0,0.0,0,0,0,0.25
+AVR 26,Leap of Faith,,0,0.0,0,0,0,0.25
+AVR 147,Malicious Intent,,0,0.0,0,0,0,0.25
+AVR 27,Midnight Duelist,,0,0.0,0,0,0,0.25
+AVR 28,Midvast Protector,,0,0.0,0,0,0,0.25
+AVR 30,Moorland Inquisitor,,0,0.0,0,0,0,0.25
+AVR 218,Narstad Scrapper,,0,0.0,0,0,0,0.25
+AVR 150,Raging Poltergeist,,0,0.0,0,0,0,0.25
+AVR 153,Rite of Ruin,,0,0.0,0,0,0,0.50
+AVR 72,Rotcrown Ghoul,,0,0.0,0,0,0,0.25
+AVR 73,Scrapskin Drake,,0,0.0,0,0,0,0.25
+AVR 119,Searchlight Geist,,0,0.0,0,0,0,0.25
+AVR 193,Snare the Skies,,0,0.0,0,0,0,0.25
+AVR 156,Somberwald Vigilante,,0,0.0,0,0,0,0.25
+AVR 75,Spectral Prison,,0,0.0,0,0,0,0.25
+AVR 197,Timberland Guide,,0,0.0,0,0,0,0.25
+AVR 40,Voice of the Provinces,,0,0.0,0,0,0,0.25
+AVR 204,Wildwood Geist,,0,0.0,0,0,0,0.25
+AVR 41,Zealous Strike,,0,0.0,0,0,0,0.25
+AVR 226F,Cavern of Souls,,0,0.0,0,0,0,88.00
+AVR 189F,Primal Surge,,0,0.0,0,0,0,13.00
+AVR 208F,Bruna,,0,0.0,0,0,0,0
+AVR 38F,Terminus,,0,0.0,0,0,0,7.00
+AVR 194F,Somberwald Sage,,0,0.0,0,0,0,11.00
+AVR 66F,Mass Appeal,,0,0.0,0,0,0,7.00
+AVR 22F,Goldnight Commander,,0,0.0,0,0,0,4.00
+AVR 195F,Soul of the Harvest,,0,0.0,0,0,0,10.00
+AVR 79F,Tamiyo,,0,0.0,0,0,0,0
+AVR 225F,Alchemist's Refuge,,0,0.0,0,0,0,9.00
+AVR 164F,Vexing Devil,,0,0.0,0,0,0,3.00
+AVR 68F,Misthollow Griffin,,0,0.0,0,0,0,14.00
+AVR 210F,Sigarda,,0,0.0,0,0,0,0
+AVR 129F,Bonfire of the Damned,,0,0.0,0,0,0,7.00
+AVR 171F,Champion of Lambholt,,0,0.0,0,0,0,14.00
+AVR 173F,Descendants' Path,,0,0.0,0,0,0,13.00
+AVR 151F,Reforge the Soul,,0,0.0,0,0,0,13.00
+AVR 148F,Malignus,,0,0.0,0,0,0,12.00
+AVR 6F,Avacyn,,0,0.0,0,0,0,0
+AVR 2F,Angel of Jubilation,,0,0.0,0,0,0,40.00
+AVR 200F,Ulvenwald Tracker,,0,0.0,0,0,0,9.50
+AVR 128F,Battle Hymn,,0,0.0,0,0,0,14.00
+AVR 86F,Blood Artist,,0,0.0,0,0,0,8.00
+AVR 24F,Herald of War,,0,0.0,0,0,0,7.00
+AVR 228F,Seraph Sanctuary,,0,0.0,0,0,0,9.50
+AVR 130F,Burn at the Stake,,0,0.0,0,0,0,2.50
+AVR 176F,Druids' Repository,,0,0.0,0,0,0,11.00
+AVR 47F,Deadeye Navigator,,0,0.0,0,0,0,10.00
+AVR 57F,Ghostly Flicker,,0,0.0,0,0,0,10.00
+AVR 100F,Essence Harvest,,0,0.0,0,0,0,9.00
+AVR 32F,Restoration Angel,,0,0.0,0,0,0,8.00
+AVR 170F,Bower Passage,,0,0.0,0,0,0,7.00
+AVR 243F,Forest,,0,0.0,0,0,0,7.00
+AVR 80F,Tandem Lookout,,0,0.0,0,0,0,6.50
+AVR 16F,Defy Death,,0,0.0,0,0,0,2.00
+AVR 133F,Dual Casting,,0,0.0,0,0,0,2.00
+AVR 206F,Wolfir Silverheart,,0,0.0,0,0,0,0.50
+AVR 126F,Archwing Dragon,,0,0.0,0,0,0,3.00
+AVR 92F,Dark Impostor,,0,0.0,0,0,0,1.50
+AVR 234F,Island,,0,0.0,0,0,0,1.50
+AVR 177F,Eaten by Spiders,,0,0.0,0,0,0,0.50
+AVR 166F,Zealous Conscripts,,0,0.0,0,0,0,0.50
+AVR 219F,Otherworld Atlas,,0,0.0,0,0,0,4.00
+AVR 203F,Wild Defiance,,0,0.0,0,0,0,4.00
+AVR 51F,Favorable Winds,,0,0.0,0,0,0,2.00
+AVR 191F,Revenge of the Hunted,,0,0.0,0,0,0,2.00
+AVR 12F,Cloudshift,,0,0.0,0,0,0,10.00
+AVR 161F,Tibalt,,0,0.0,0,0,0,0
+AVR 107F,Harvester of Souls,,0,0.0,0,0,0,1.50
+AVR 217F,Moonsilver Spear,,0,0.0,0,0,0,2.00
+AVR 196F,Terrifying Presence,,0,0.0,0,0,0,2.00
+AVR 83F,Wingcrafter,,0,0.0,0,0,0,3.50
+AVR 48F,Devastation Tide,,0,0.0,0,0,0,3.00
+AVR 175F,Druid's Familiar,,0,0.0,0,0,0,1.50
+AVR 160F,Thunderous Wrath,,0,0.0,0,0,0,1.00
+AVR 9F,Call to Serve,,0,0.0,0,0,0,0.50
+AVR 136F,Gang of Devils,,0,0.0,0,0,0,0.50
+AVR 17F,Devout Chaplain,,0,0.0,0,0,0,2.50
+AVR 121F,Treacherous Pit-Dweller,,0,0.0,0,0,0,2.50
+AVR 1F,Angel of Glory's Rise,,0,0.0,0,0,0,2.00
+AVR 97F,Descent into Madness,,0,0.0,0,0,0,2.00
+AVR 167F,Abundant Growth,,0,0.0,0,0,0,1.50
+AVR 89F,Butcher Ghoul,,0,0.0,0,0,0,1.50
+AVR 95F,Demonic Taskmaster,,0,0.0,0,0,0,1.50
+AVR 19F,Emancipation Angel,,0,0.0,0,0,0,1.50
+AVR 240F,Mountain,,0,0.0,0,0,0,1.00
+AVR 33F,Riders of Gavony,,0,0.0,0,0,0,1.00
+AVR 120F,Soulcage Fiend,,0,0.0,0,0,0,0.50
+AVR 232F,Plains,,0,0.0,0,0,0,0.50
+AVR 154F,Rush of Blood,,0,0.0,0,0,0,0.50
+AVR 220F,Scroll of Avacyn,,0,0.0,0,0,0,0.50
+AVR 229F,Slayers' Stronghold,,0,0.0,0,0,0,3.50
+AVR 78F,Stolen Goods,,0,0.0,0,0,0,1.00
+AVR 61F,Infinite Reflection,,0,0.0,0,0,0,1.00
+AVR 96F,Demonlord of Ashmouth,,0,0.0,0,0,0,0.50
+AVR 162F,Tyrant of Discord,,0,0.0,0,0,0,0.50
+AVR 227F,Desolate Lighthouse,,0,0.0,0,0,0,1.00
+AVR 140F,Heirs of Stromkirk,,0,0.0,0,0,0,1.00
+AVR 3F,Angel's Mercy,,0,0.0,0,0,0,0.50
+AVR 85F,Barter in Blood,,0,0.0,0,0,0,0.50
+AVR 241F,Mountain,,0,0.0,0,0,0,0.50
+AVR 69F,Nephalia Smuggler,,0,0.0,0,0,0,0.50
+AVR 165F,Vigilante Justice,,0,0.0,0,0,0,0.50
+AVR 4F,Angelic Wall,,0,0.0,0,0,0,1.00
+AVR 101F,Evernight Shade,,0,0.0,0,0,0,1.00
+AVR 238F,Swamp,,0,0.0,0,0,0,1.00
+AVR 13F,Commander's Authority,,0,0.0,0,0,0,0.50
+AVR 93F,Death Wind,,0,0.0,0,0,0,0.50
+AVR 54F,Galvanic Alchemist,,0,0.0,0,0,0,0.50
+AVR 105F,Grave Exchange,,0,0.0,0,0,0,0.50
+AVR 144F,Lightning Mauler,,0,0.0,0,0,0,0.50
+AVR 112F,Maalfeld Twins,,0,0.0,0,0,0,0.50
+AVR 239F,Mountain,,0,0.0,0,0,0,0.50
+AVR 231F,Plains,,0,0.0,0,0,0,0.50
+AVR 153F,Rite of Ruin,,0,0.0,0,0,0,0.50
+AVR 76F,Spirit Away,,0,0.0,0,0,0,0.50
+AVR 87F,Bloodflow Connoisseur,,0,0.0,0,0,0,0.50
+AVR 88F,Bone Splinters,,0,0.0,0,0,0,0.50
+AVR 18F,Divine Deflection,,0,0.0,0,0,0,0.50
+AVR 139F,Havengul Vampire,,0,0.0,0,0,0,0.50
+AVR 42F,Alchemist's Apprentice,,0,0.0,0,0,0,0.50
+AVR 212F,Angelic Armaments,,0,0.0,0,0,0,0.50
+AVR 84F,Appetite for Brains,,0,0.0,0,0,0,0.50
+AVR 213F,Bladed Bracers,,0,0.0,0,0,0,0.50
+AVR 168F,Blessings of Nature,,0,0.0,0,0,0,0.50
+AVR 8F,Builder's Blessing,,0,0.0,0,0,0,0.50
+AVR 45F,Captain of the Mists,,0,0.0,0,0,0,0.50
+AVR 90F,Corpse Traders,,0,0.0,0,0,0,0.50
+AVR 131F,Dangerous Wager,,0,0.0,0,0,0,0.50
+AVR 15F,Defang,,0,0.0,0,0,0,0.50
+AVR 99F,Driver of the Dead,,0,0.0,0,0,0,0.50
+AVR 134F,Falkenrath Exterminator,,0,0.0,0,0,0,0.50
+AVR 53F,Fleeting Distraction,,0,0.0,0,0,0,0.50
+AVR 178F,Flowering Lumberknot,,0,0.0,0,0,0,0.50
+AVR 215F,Gallows at Willow Hill,,0,0.0,0,0,0,0.50
+AVR 56F,Ghostform,,0,0.0,0,0,0,0.50
+AVR 58F,Ghostly Touch,,0,0.0,0,0,0,0.50
+AVR 23F,Goldnight Redeemer,,0,0.0,0,0,0,0.50
+AVR 138F,Hanweir Lancer,,0,0.0,0,0,0,0.50
+AVR 182F,Howlgeist,,0,0.0,0,0,0,0.50
+AVR 109F,Human Frailty,,0,0.0,0,0,0,0.50
+AVR 62F,Into the Void,,0,0.0,0,0,0,0.50
+AVR 64F,Lone Revenant,,0,0.0,0,0,0,0.50
+AVR 113F,Marrow Bats,,0,0.0,0,0,0,0.50
+AVR 185F,Natural End,,0,0.0,0,0,0,0.50
+AVR 187F,Nightshade Peddler,,0,0.0,0,0,0,0.50
+AVR 188F,Pathbreaker Wurm,,0,0.0,0,0,0,0.50
+AVR 190F,Rain of Thorns,,0,0.0,0,0,0,0.50
+AVR 34F,Righteous Blow,,0,0.0,0,0,0,0.50
+AVR 152F,Riot Ringleader,,0,0.0,0,0,0,0.50
+AVR 72F,Rotcrown Ghoul,,0,0.0,0,0,0,0.50
+AVR 155F,Scalding Devil,,0,0.0,0,0,0,0.50
+AVR 221F,Scroll of Griselbrand,,0,0.0,0,0,0,0.50
+AVR 77F,Stern Mentor,,0,0.0,0,0,0,0.50
+AVR 39F,Thraben Valiant,,0,0.0,0,0,0,0.50
+AVR 223F,Vanguard's Shield,,0,0.0,0,0,0,0.50
+AVR 201F,Vorstclaw,,0,0.0,0,0,0,0.50
+AVR 202F,Wandering Wolf,,0,0.0,0,0,0,0.50
+AVR 205F,Wolfir Avenger,,0,0.0,0,0,0,0.50
+AVR 207F,Yew Spirit,,0,0.0,0,0,0,0.50
+AVR 125F,Aggravate,,0,0.0,0,0,0,0.50
+AVR 43F,Amass the Components,,0,0.0,0,0,0,0.50
+AVR 211F,Angel's Tomb,,0,0.0,0,0,0,0.50
+AVR 44F,Arcane Melee,,0,0.0,0,0,0,1.00
+AVR 5F,Archangel,,0,0.0,0,0,0,0.50
+AVR 7F,Banishing Stroke,,0,0.0,0,0,0,0.50
+AVR 127F,Banners Raised,,0,0.0,0,0,0,0.50
+AVR 169F,Borderland Ranger,,0,0.0,0,0,0,0.50
+AVR 10F,Cathars' Crusade,,0,0.0,0,0,0,28.00
+AVR 11F,Cathedral Sanctifier,,0,0.0,0,0,0,1.00
+AVR 214F,Conjurer's Closet,,0,0.0,0,0,0,14.00
+AVR 172F,Craterhoof Behemoth,,0,0.0,0,0,0,72.00
+AVR 46F,Crippling Chill,,0,0.0,0,0,0,0.50
+AVR 91F,Crypt Creeper,,0,0.0,0,0,0,0.50
+AVR 14F,Cursebreak,,0,0.0,0,0,0,0.50
+AVR 132F,Demolish,,0,0.0,0,0,0,0.50
+AVR 94F,Demonic Rising,,0,0.0,0,0,0,0.50
+AVR 174F,Diregraf Escort,,0,0.0,0,0,0,0.50
+AVR 98F,Dread Slaver,,0,0.0,0,0,0,0.50
+AVR 49F,Dreadwaters,,0,0.0,0,0,0,0.50
+AVR 50F,Elgaud Shieldmate,,0,0.0,0,0,0,0.50
+AVR 20F,Entreat the Angels,,0,0.0,0,0,0,4.00
+AVR 102F,Exquisite Blood,,0,0.0,0,0,0,56.00
+AVR 21F,Farbog Explorer,,0,0.0,0,0,0,0.50
+AVR 135F,Fervent Cathar,,0,0.0,0,0,0,0.50
+AVR 52F,Fettergeist,,0,0.0,0,0,0,0.50
+AVR 242F,Forest,,0,0.0,0,0,0,0.50
+AVR 244F,Forest,,0,0.0,0,0,0,3.00
+AVR 55F,Geist Snatch,,0,0.0,0,0,0,0.50
+AVR 179F,Geist Trappers,,0,0.0,0,0,0,0.50
+AVR 103F,Ghoulflesh,,0,0.0,0,0,0,0.50
+AVR 209F,Gisela,,0,0.0,0,0,0,0
+AVR 104F,Gloom Surgeon,,0,0.0,0,0,0,0.50
+AVR 180F,Gloomwidow,,0,0.0,0,0,0,0.50
+AVR 106F,Griselbrand,,0,0.0,0,0,0,32.00
+AVR 181F,Grounded,,0,0.0,0,0,0,0.50
+AVR 59F,Gryff Vanguard,,0,0.0,0,0,0,0.50
+AVR 137F,Guise of Fire,,0,0.0,0,0,0,0.50
+AVR 216F,Haunted Guardian,,0,0.0,0,0,0,0.50
+AVR 60F,Havengul Skaab,,0,0.0,0,0,0,0.50
+AVR 25F,Holy Justiciar,,0,0.0,0,0,0,0.50
+AVR 108F,Homicidal Seclusion,,0,0.0,0,0,0,0.50
+AVR 141F,Hound of Griselbrand,,0,0.0,0,0,0,1.00
+AVR 110F,Hunted Ghoul,,0,0.0,0,0,0,0.50
+AVR 233F,Island,,0,0.0,0,0,0,0.50
+AVR 235F,Island,,0,0.0,0,0,0,1.00
+AVR 183F,Joint Assault,,0,0.0,0,0,0,0.50
+AVR 142F,Kessig Malcontents,,0,0.0,0,0,0,0.50
+AVR 111F,Killing Wave,,0,0.0,0,0,0,4.00
+AVR 143F,Kruin Striker,,0,0.0,0,0,0,0.50
+AVR 184F,Lair Delve,,0,0.0,0,0,0,0.50
+AVR 63F,Latch Seeker,,0,0.0,0,0,0,0.50
+AVR 26F,Leap of Faith,,0,0.0,0,0,0,0.50
+AVR 145F,Lightning Prowess,,0,0.0,0,0,0,0.50
+AVR 65F,Lunar Mystic,,0,0.0,0,0,0,0.50
+AVR 146F,Mad Prophet,,0,0.0,0,0,0,0.50
+AVR 147F,Malicious Intent,,0,0.0,0,0,0,0.50
+AVR 114F,Mental Agony,,0,0.0,0,0,0,0.50
+AVR 27F,Midnight Duelist,,0,0.0,0,0,0,0.50
+AVR 28F,Midvast Protector,,0,0.0,0,0,0,0.50
+AVR 67F,Mist Raven,,0,0.0,0,0,0,1.00
+AVR 29F,Moonlight Geist,,0,0.0,0,0,0,0.50
+AVR 30F,Moorland Inquisitor,,0,0.0,0,0,0,0.50
+AVR 218F,Narstad Scrapper,,0,0.0,0,0,0,0.50
+AVR 31F,Nearheath Pilgrim,,0,0.0,0,0,0,0.50
+AVR 115F,Necrobite,,0,0.0,0,0,0,0.50
+AVR 186F,Nettle Swine,,0,0.0,0,0,0,0.50
+AVR 70F,Outwit,,0,0.0,0,0,0,0.50
+AVR 71F,Peel from Reality,,0,0.0,0,0,0,0.50
+AVR 149F,Pillar of Flame,,0,0.0,0,0,0,0.50
+AVR 230F,Plains,,0,0.0,0,0,0,0.50
+AVR 116F,Polluted Dead,,0,0.0,0,0,0,0.50
+AVR 117F,Predator's Gambit,,0,0.0,0,0,0,0.50
+AVR 150F,Raging Poltergeist,,0,0.0,0,0,0,0.50
+AVR 118F,Renegade Demon,,0,0.0,0,0,0,0.50
+AVR 73F,Scrapskin Drake,,0,0.0,0,0,0,0.50
+AVR 119F,Searchlight Geist,,0,0.0,0,0,0,0.50
+AVR 74F,Second Guess,,0,0.0,0,0,0,0.50
+AVR 192F,Sheltering Word,,0,0.0,0,0,0,1.00
+AVR 36F,Silverblade Paladin,,0,0.0,0,0,0,3.00
+AVR 193F,Snare the Skies,,0,0.0,0,0,0,0.50
+AVR 156F,Somberwald Vigilante,,0,0.0,0,0,0,0.50
+AVR 37F,Spectral Gateguards,,0,0.0,0,0,0,0.50
+AVR 75F,Spectral Prison,,0,0.0,0,0,0,0.50
+AVR 35F,Seraph of Dawn,,0,0.0,0,0,0,1.00
+AVR 157F,Stonewright,,0,0.0,0,0,0,0.50
+AVR 236F,Swamp,,0,0.0,0,0,0,0.50
+AVR 237F,Swamp,,0,0.0,0,0,0,1.00
+AVR 81F,Temporal Mastery,,0,0.0,0,0,0,30.00
+AVR 158F,Thatcher Revolt,,0,0.0,0,0,0,0.50
+AVR 159F,Thunderbolt,,0,0.0,0,0,0,0.50
+AVR 197F,Timberland Guide,,0,0.0,0,0,0,0.50
+AVR 222F,Tormentor's Trident,,0,0.0,0,0,0,0.50
+AVR 122F,Triumph of Cruelty,,0,0.0,0,0,0,0.50
+AVR 198F,Triumph of Ferocity,,0,0.0,0,0,0,0.50
+AVR 199F,Trusted Forcemage,,0,0.0,0,0,0,0.50
+AVR 163F,Uncanny Speed,,0,0.0,0,0,0,0.50
+AVR 123F,Undead Executioner,,0,0.0,0,0,0,0.50
+AVR 124F,Unhallowed Pact,,0,0.0,0,0,0,1.00
+AVR 82F,Vanishment,,0,0.0,0,0,0,1.00
+AVR 224F,Vessel of Endless Rest,,0,0.0,0,0,0,0.50
+AVR 40F,Voice of the Provinces,,0,0.0,0,0,0,0.50
+AVR 204F,Wildwood Geist,,0,0.0,0,0,0,0.50
+AVR 41F,Zealous Strike,,0,0.0,0,0,0,0.50
+AVR 6,"Avacyn, Angel of Hope",,0,0.0,0,0,0,34.00
+AVR 79,"Tamiyo, the Moon Sage",,0,0.0,0,0,0,7.00
+AVR 209,"Gisela, Blade of Goldnight",,0,0.0,0,0,0,2.50
+AVR 161,"Tibalt, the Fiend-Blooded",,0,0.0,0,0,0,1.00
+AVR 210,"Sigarda, Host of Herons",,0,0.0,0,0,0,3.00
+AVR 208,"Bruna, Light of Alabaster",,0,0.0,0,0,0,1.00
+AVR 208F,"Bruna, Light of Alabaster",,0,0.0,0,0,0,28.00
+AVR 79F,"Tamiyo, the Moon Sage",,0,0.0,0,0,0,20.00
+AVR 210F,"Sigarda, Host of Herons",,0,0.0,0,0,0,14.00
+AVR 6F,"Avacyn, Angel of Hope",,0,0.0,0,0,0,76.00
+AVR 161F,"Tibalt, the Fiend-Blooded",,0,0.0,0,0,0,8.00
+AVR 209F,"Gisela, Blade of Goldnight",,0,0.0,0,0,0,30.00

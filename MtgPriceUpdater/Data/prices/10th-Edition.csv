@@ -1,0 +1,832 @@
+XED 321,Doubling Cube,,0,0.0,0,0,0,20.00
+XED 208,Goblin Lore,,0,0.0,0,0,0,7.00
+XED 319,Crucible of Worlds,,0,0.0,0,0,0,32.00
+XED 155,Lord of the Undead,,0,0.0,0,0,0,19.00
+XED 316,Coat of Arms,,0,0.0,0,0,0,24.00
+XED 296,Seedborn Muse,,0,0.0,0,0,0,15.00
+XED 144,Grave Pact,,0,0.0,0,0,0,25.00
+XED 166,Phage the Untouchable,,0,0.0,0,0,0,9.50
+XED 343,Spellbook,,0,0.0,0,0,0,3.00
+XED 204,Furnace of Rath,,0,0.0,0,0,0,7.50
+XED 145,Graveborn Muse,,0,0.0,0,0,0,9.00
+XED 10,Beacon of Immortality,,0,0.0,0,0,0,9.00
+XED 4,Angelic Chorus,,0,0.0,0,0,0,7.00
+XED 218,Manabarbs,,0,0.0,0,0,0,6.00
+XED 344,Steel Golem,,0,0.0,0,0,0,3.00
+XED 120,Twincast,,0,0.0,0,0,0,5.00
+XED 15,Field Marshal,,0,0.0,0,0,0,7.00
+XED 292,Root Maze,,0,0.0,0,0,0,6.00
+XED 359,Sulfurous Springs,,0,0.0,0,0,0,6.00
+XED 286,Primal Rage,,0,0.0,0,0,0,4.00
+XED 94,Peek,,0,0.0,0,0,0,1.00
+XED 345,Whispersilk Cloak,,0,0.0,0,0,0,3.50
+XED 82,Dreamborn Muse,,0,0.0,0,0,0,5.00
+XED 207,Goblin King,,0,0.0,0,0,0,12.00
+XED 119,Traumatize,,0,0.0,0,0,0,4.00
+XED 252,Birds of Paradise,,0,0.0,0,0,0,10.00
+XED 6,Aura of Silence,,0,0.0,0,0,0,5.00
+XED 261,Elvish Champion,,0,0.0,0,0,0,18.00
+XED 72,Cephalid Constable,,0,0.0,0,0,0,6.00
+XED 262,Elvish Piper,,0,0.0,0,0,0,3.50
+XED 288,Rampant Growth,,0,0.0,0,0,0,1.00
+XED 225,Relentless Assault,,0,0.0,0,0,0,5.50
+XED 279,Mirri,,0,0.0,0,0,0,0
+XED 157,Megrim,,0,0.0,0,0,0,1.50
+XED 173,Relentless Rats,,0,0.0,0,0,0,3.00
+XED 354,Karplusan Forest,,0,0.0,0,0,0,7.00
+XED 297,Skyshroud Ranger,,0,0.0,0,0,0,1.50
+XED 135,Diabolic Tutor,,0,0.0,0,0,0,2.00
+XED 347,Adarkar Wastes,,0,0.0,0,0,0,6.50
+XED 30,Nomad Mythmaker,,0,0.0,0,0,0,4.50
+XED 349,Brushland,,0,0.0,0,0,0,5.00
+XED 127,Ascendant Evincar,,0,0.0,0,0,0,3.00
+XED 248,Warp World,,0,0.0,0,0,0,1.50
+XED 339,Platinum Angel,,0,0.0,0,0,0,7.00
+XED 44,Soul Warden,,0,0.0,0,0,0,3.50
+XED 169,Plague Wind,,0,0.0,0,0,0,4.00
+XED 118,Time Stretch,,0,0.0,0,0,0,4.50
+XED 148,Head Games,,0,0.0,0,0,0,2.50
+XED 53,True Believer,,0,0.0,0,0,0,3.00
+XED 21,Holy Day,,0,0.0,0,0,0,1.00
+XED 178,Sleeper Agent,,0,0.0,0,0,0,2.50
+XED 325,Howling Mine,,0,0.0,0,0,0,5.50
+XED 151,Hypnotic Specter,,0,0.0,0,0,0,3.00
+XED 160,Mortal Combat,,0,0.0,0,0,0,4.50
+XED 342,Sculpting Steel,,0,0.0,0,0,0,2.00
+XED 360,Terramorphic Expanse,,0,0.0,0,0,0,0.50
+XED 251,Avatar of Might,,0,0.0,0,0,0,2.50
+XED 274,Llanowar Elves,,0,0.0,0,0,0,1.00
+XED 61,Wrath of God,,0,0.0,0,0,0,5.50
+XED 232,Shock,,0,0.0,0,0,0,0.25
+XED 2,Zombie Token,,0,0.0,0,0,0,1.50
+XED 348,Battlefield Forge,,0,0.0,0,0,0,2.00
+XED 355,Llanowar Wastes,,0,0.0,0,0,0,2.00
+XED 184,Underworld Dreams,,0,0.0,0,0,0,3.50
+XED 362,Underground River,,0,0.0,0,0,0,6.50
+XED 306,Upwelling,,0,0.0,0,0,0,1.50
+XED 332,Loxodon Warhammer,,0,0.0,0,0,0,1.00
+XED 33,Pariah,,0,0.0,0,0,0,1.50
+XED 93,Mind Bend,,0,0.0,0,0,0,2.00
+XED 65,Ambassador Laquatus,,0,0.0,0,0,0,1.00
+XED 29,Mobilization,,0,0.0,0,0,0,1.50
+XED 352,Forbidding Watchtower,,0,0.0,0,0,0,1.00
+XED 335,Mind Stone,,0,0.0,0,0,0,1.00
+XED 315,Citanul Flute,,0,0.0,0,0,0,2.50
+XED 87,Horseshoe Crab,,0,0.0,0,0,0,0.50
+XED 35,Reya Dawnbringer,,0,0.0,0,0,0,4.50
+XED 283,Overgrowth,,0,0.0,0,0,0,0.50
+XED 122,Unsummon,,0,0.0,0,0,0,0.25
+XED 117,Time Stop,,0,0.0,0,0,0,0.50
+XED 5,Angelic Wall,,0,0.0,0,0,0,0.25
+XED 350,Caves of Koilos,,0,0.0,0,0,0,3.50
+XED 265,Gaea's Herald,,0,0.0,0,0,0,2.50
+XED 73,Clone,,0,0.0,0,0,0,1.00
+XED 336,Ornithopter,,0,0.0,0,0,0,1.00
+XED 197,Dragon Roost,,0,0.0,0,0,0,1.50
+XED 239,Squee,,0,0.0,0,0,0,0
+XED 97,Plagiarize,,0,0.0,0,0,0,1.00
+XED 240,Stun,,0,0.0,0,0,0,0.25
+XED 357,Shivan Reef,,0,0.0,0,0,0,2.00
+XED 3,Dragon Token,,0,0.0,0,0,0,1.00
+XED 268,Grizzly Bears,,0,0.0,0,0,0,0.25
+XED 271,Joiner Adept,,0,0.0,0,0,0,3.00
+XED 277,Might of Oaks,,0,0.0,0,0,0,1.00
+XED 152,Knight of Dusk,,0,0.0,0,0,0,0.50
+XED 17,Glorious Anthem,,0,0.0,0,0,0,2.00
+XED 88,Hurkyl's Recall,,0,0.0,0,0,0,2.00
+XED 79,Deluge,,0,0.0,0,0,0,0.50
+XED 113,Telepathy,,0,0.0,0,0,0,0.50
+XED 361,Treetop Village,,0,0.0,0,0,0,0.50
+XED 37,Rule of Law,,0,0.0,0,0,0,1.00
+XED 363,Yavimaya Coast,,0,0.0,0,0,0,2.50
+XED 66,Arcanis the Omnipotent,,0,0.0,0,0,0,1.00
+XED 351,Faerie Conclave,,0,0.0,0,0,0,1.00
+XED 233,Shunt,,0,0.0,0,0,0,1.00
+XED 282,Naturalize,,0,0.0,0,0,0,0.25
+XED 242,Threaten,,0,0.0,0,0,0,0.50
+XED 6,Wasp Token,,0,0.0,0,0,0,0.50
+XED 249,Abundance,,0,0.0,0,0,0,2.00
+XED 250,Aggressive Urge,,0,0.0,0,0,0,0.25
+XED 39,Serra Angel,,0,0.0,0,0,0,0.50
+XED 161,Mortivore,,0,0.0,0,0,0,0.50
+XED 255,Civic Wayfinder,,0,0.0,0,0,0,0.25
+XED 60,Windborn Muse,,0,0.0,0,0,0,1.00
+XED 92,Merfolk Looter,,0,0.0,0,0,0,0.25
+XED 284,Overrun,,0,0.0,0,0,0,0.50
+XED 302,Sylvan Scrying,,0,0.0,0,0,0,0.50
+XED 114,Telling Time,,0,0.0,0,0,0,0.50
+XED 331,Leonin Scimitar,,0,0.0,0,0,0,0.50
+XED 154,Lord of the Pit,,0,0.0,0,0,0,1.00
+XED 121,Twitch,,0,0.0,0,0,0,0.25
+XED 201,Fists of the Anvil,,0,0.0,0,0,0,0.25
+XED 323,Fountain of Youth,,0,0.0,0,0,0,0.50
+XED 165,No Rest for the Wicked,,0,0.0,0,0,0,0.50
+XED 237,Spark Elemental,,0,0.0,0,0,0,0.50
+XED 368,Island (368 A),,0,0.0,0,0,0,0.50
+XED 98,Puppeteer,,0,0.0,0,0,0,0.50
+XED 100,Remove Soul,,0,0.0,0,0,0,0.25
+XED 12,Cho-Manno,,0,0.0,0,0,0,0
+XED 158,Midnight Ritual,,0,0.0,0,0,0,0.50
+XED 129,Beacon of Unrest,,0,0.0,0,0,0,0.50
+XED 256,Commune with Nature,,0,0.0,0,0,0,0.25
+XED 31,Pacifism,,0,0.0,0,0,0,0.25
+XED 224,Raging Goblin,,0,0.0,0,0,0,0.25
+XED 111,Spiketail Hatchling,,0,0.0,0,0,0,0.50
+XED 370,Island (370 C),,0,0.0,0,0,0,0.50
+XED 371,Island (371 D),,0,0.0,0,0,0,0.50
+XED 372,Swamp (372 A),,0,0.0,0,0,0,0.50
+XED 91,March of the Machines,,0,0.0,0,0,0,0.50
+XED 49,Story Circle,,0,0.0,0,0,0,0.50
+XED 340,Razormane Masticore,,0,0.0,0,0,0,0.50
+XED 227,Scoria Wurm,,0,0.0,0,0,0,0.50
+XED 266,Giant Growth,,0,0.0,0,0,0,0.25
+XED 18,Hail of Arrows,,0,0.0,0,0,0,0.50
+XED 40,Serra's Embrace,,0,0.0,0,0,0,0.50
+XED 107,Shimmering Wings,,0,0.0,0,0,0,0.25
+XED 188,Arcane Teachings,,0,0.0,0,0,0,0.50
+XED 137,Doomed Necromancer,,0,0.0,0,0,0,1.00
+XED 330,Legacy Weapon,,0,0.0,0,0,0,1.00
+XED 133,Cruel Edict,,0,0.0,0,0,0,0.50
+XED 136,Distress,,0,0.0,0,0,0,0.25
+XED 56,Voice of All,,0,0.0,0,0,0,0.50
+XED 382,Forest (382 C),,0,0.0,0,0,0,0.50
+XED 209,Goblin Piker,,0,0.0,0,0,0,0.25
+XED 210,Goblin Sky Raider,,0,0.0,0,0,0,0.25
+XED 162,Nantuko Husk,,0,0.0,0,0,0,0.50
+XED 356,Quicksand,,0,0.0,0,0,0,0.50
+XED 101,Robe of Mirrors,,0,0.0,0,0,0,0.25
+XED 116,Tidings,,0,0.0,0,0,0,0.50
+XED 234,Siege-Gang Commander,,0,0.0,0,0,0,0.50
+XED 25,Kjeldoran Royal Guard,,0,0.0,0,0,0,0.50
+XED 125,Afflict,,0,0.0,0,0,0,0.25
+XED 9,Bandage,,0,0.0,0,0,0,0.25
+XED 132,Contaminated Bond,,0,0.0,0,0,0,0.25
+XED 142,Fear,,0,0.0,0,0,0,0.25
+XED 170,Rain of Tears,,0,0.0,0,0,0,0.50
+XED 99,Reminisce,,0,0.0,0,0,0,0.50
+XED 34,Reviving Dose,,0,0.0,0,0,0,0.25
+XED 229,Shatterstorm,,0,0.0,0,0,0,0.50
+XED 301,Sylvan Basilisk,,0,0.0,0,0,0,0.50
+XED 246,Viashino Sandscout,,0,0.0,0,0,0,0.25
+XED 124,Wall of Air,,0,0.0,0,0,0,0.50
+XED 314,Chromatic Star,,0,0.0,0,0,0,0.50
+XED 338,Pithing Needle,,0,0.0,0,0,0,1.00
+XED 253,Blanchwood Armor,,0,0.0,0,0,0,0.50
+XED 313,Chimeric Staff,,0,0.0,0,0,0,0.50
+XED 219,Mogg Fanatic,,0,0.0,0,0,0,0.50
+XED 222,Pyroclasm,,0,0.0,0,0,0,0.50
+XED 287,Quirion Dryad,,0,0.0,0,0,0,0.50
+XED 376,Mountain (376 A),,0,0.0,0,0,0,0.50
+XED 45,Spirit Link,,0,0.0,0,0,0,0.50
+XED 254,Canopy Spider,,0,0.0,0,0,0,0.25
+XED 258,Creeping Mold,,0,0.0,0,0,0,0.50
+XED 322,Dragon's Claw,,0,0.0,0,0,0,0.50
+XED 149,Hidden Horror,,0,0.0,0,0,0,0.50
+XED 20,High Ground,,0,0.0,0,0,0,0.50
+XED 326,Icy Manipulator,,0,0.0,0,0,0,0.50
+XED 213,Incinerate,,0,0.0,0,0,0,0.25
+XED 276,Lure,,0,0.0,0,0,0,0.50
+XED 377,Mountain (377 B),,0,0.0,0,0,0,0.50
+XED 378,Mountain (378 C),,0,0.0,0,0,0,0.50
+XED 167,Phyrexian Rager,,0,0.0,0,0,0,0.25
+XED 43,Skyhunter Skirmisher,,0,0.0,0,0,0,0.50
+XED 241,Sudden Impact,,0,0.0,0,0,0,0.50
+XED 115,Thieving Magpie,,0,0.0,0,0,0,0.50
+XED 52,Treasure Hunter,,0,0.0,0,0,0,0.50
+XED 304,Treetop Bracers,,0,0.0,0,0,0,0.25
+XED 57,Wall of Swords,,0,0.0,0,0,0,0.50
+XED 103,Rootwater Matriarch,,0,0.0,0,0,0,0.50
+XED 369,Island (369 B),,0,0.0,0,0,0,0.50
+XED 189,Beacon of Destruction,,0,0.0,0,0,0,0.50
+XED 216,Lavaborn Muse,,0,0.0,0,0,0,0.50
+XED 164,Nightmare,,0,0.0,0,0,0,0.50
+XED 1,Ancestor's Chosen,,0,0.0,0,0,0,0.50
+XED 2,Angel of Mercy,,0,0.0,0,0,0,0.50
+XED 190,Blaze,,0,0.0,0,0,0,0.50
+XED 70,Boomerang,,0,0.0,0,0,0,0.25
+XED 71,Cancel,,0,0.0,0,0,0,0.25
+XED 74,Cloud Elemental,,0,0.0,0,0,0,0.25
+XED 76,Counsel of the Soratami,,0,0.0,0,0,0,0.25
+XED 138,Dross Crocodile,,0,0.0,0,0,0,0.25
+XED 264,Femeref Archers,,0,0.0,0,0,0,0.50
+XED 381,Forest (381 B),,0,0.0,0,0,0,0.50
+XED 211,Guerrilla Tactics,,0,0.0,0,0,0,0.50
+XED 328,Juggernaut,,0,0.0,0,0,0,0.50
+XED 156,Mass of Ghouls,,0,0.0,0,0,0,0.25
+XED 285,Pincher Beetles,,0,0.0,0,0,0,0.25
+XED 365,Plains (365 B),,0,0.0,0,0,0,0.50
+XED 289,Recollect,,0,0.0,0,0,0,0.50
+XED 102,Rootwater Commando,,0,0.0,0,0,0,0.25
+XED 38,Samite Healer,,0,0.0,0,0,0,0.25
+XED 5,Saproling Token,,0,0.0,0,0,0,0.50
+XED 177,Severed Legion,,0,0.0,0,0,0,0.25
+XED 108,Sift,,0,0.0,0,0,0,0.25
+XED 42,Skyhunter Prowler,,0,0.0,0,0,0,0.25
+XED 179,Soul Feast,,0,0.0,0,0,0,0.50
+XED 346,Wurm's Tooth,,0,0.0,0,0,0,0.50
+XED 307,Verdant Force,,0,0.0,0,0,0,0.50
+XED 83,Evacuation,,0,0.0,0,0,0,1.00
+XED 174,Royal Assassin,,0,0.0,0,0,0,1.00
+XED 13,Condemn,,0,0.0,0,0,0,0.50
+XED 353,Ghitu Encampment,,0,0.0,0,0,0,0.50
+XED 126,Agonizing Memories,,0,0.0,0,0,0,0.50
+XED 3,Angelic Blessing,,0,0.0,0,0,0,0.25
+XED 7,Aven Cloudchaser,,0,0.0,0,0,0,0.25
+XED 68,Aven Fisher,,0,0.0,0,0,0,0.25
+XED 312,Bottle Gnomes,,0,0.0,0,0,0,0.50
+XED 131,Consume Spirit,,0,0.0,0,0,0,0.50
+XED 320,Demon's Horn,,0,0.0,0,0,0,0.50
+XED 14,Demystify,,0,0.0,0,0,0,0.25
+XED 81,Discombobulate,,0,0.0,0,0,0,0.50
+XED 259,Elven Riders,,0,0.0,0,0,0,0.50
+XED 141,Essence Drain,,0,0.0,0,0,0,0.25
+XED 202,Flamewave Invoker,,0,0.0,0,0,0,0.50
+XED 23,Honor Guard,,0,0.0,0,0,0,0.25
+XED 217,Lightning Elemental,,0,0.0,0,0,0,0.25
+XED 379,Mountain (379 D),,0,0.0,0,0,0,0.50
+XED 337,Phyrexian Vault,,0,0.0,0,0,0,0.50
+XED 366,Plains (366 C),,0,0.0,0,0,0,0.50
+XED 171,Ravenous Rats,,0,0.0,0,0,0,0.25
+XED 290,Regeneration,,0,0.0,0,0,0,0.50
+XED 175,Scathe Zombies,,0,0.0,0,0,0,0.25
+XED 235,Smash,,0,0.0,0,0,0,0.25
+XED 373,Swamp (373 B),,0,0.0,0,0,0,0.50
+XED 374,Swamp (374 C),,0,0.0,0,0,0,0.50
+XED 375,Swamp (375 D),,0,0.0,0,0,0,0.50
+XED 303,Tangle Spider,,0,0.0,0,0,0,0.50
+XED 182,Terror,,0,0.0,0,0,0,0.25
+XED 243,Thundering Giant,,0,0.0,0,0,0,0.50
+XED 54,Tundra Wolves,,0,0.0,0,0,0,0.25
+XED 186,Vampire Bats,,0,0.0,0,0,0,0.25
+XED 310,Yavimaya Enchantress,,0,0.0,0,0,0,0.50
+XED 80,Denizen of the Deep,,0,0.0,0,0,0,0.50
+XED 90,Mahamoti Djinn,,0,0.0,0,0,0,0.50
+XED 230,Shivan Dragon,,0,0.0,0,0,0,0.50
+XED 191,Bloodfire Colossus,,0,0.0,0,0,0,0.50
+XED 270,Hurricane,,0,0.0,0,0,0,0.50
+XED 236,Soulblast,,0,0.0,0,0,0,0.50
+XED 63,Academy Researchers,,0,0.0,0,0,0,0.50
+XED 64,Air Elemental,,0,0.0,0,0,0,0.50
+XED 187,Anaba Bodyguard,,0,0.0,0,0,0,0.25
+XED 311,Angel's Feather,,0,0.0,0,0,0,0.50
+XED 67,Aura Graft,,0,0.0,0,0,0,0.50
+XED 8,Ballista Squad,,0,0.0,0,0,0,0.50
+XED 11,Benalish Knight,,0,0.0,0,0,0,0.25
+XED 318,Composite Golem,,0,0.0,0,0,0,0.50
+XED 77,Crafty Pathmage,,0,0.0,0,0,0,0.25
+XED 257,Craw Wurm,,0,0.0,0,0,0,0.25
+XED 195,Cryoclasm,,0,0.0,0,0,0,0.50
+XED 134,Deathmark,,0,0.0,0,0,0,0.50
+XED 139,Drudge Skeletons,,0,0.0,0,0,0,0.50
+XED 263,Enormous Baloth,,0,0.0,0,0,0,0.50
+XED 143,Festering Goblin,,0,0.0,0,0,0,0.25
+XED 200,Firebreathing,,0,0.0,0,0,0,0.25
+XED 85,Fog Elemental,,0,0.0,0,0,0,0.50
+XED 206,Goblin Elite Infantry,,0,0.0,0,0,0,0.25
+XED 19,Heart of Light,,0,0.0,0,0,0,0.25
+XED 153,Looming Shade,,0,0.0,0,0,0,0.25
+XED 26,Loxodon Mystic,,0,0.0,0,0,0,0.25
+XED 89,Lumengrid Warden,,0,0.0,0,0,0,0.25
+XED 28,Luminesce,,0,0.0,0,0,0,0.50
+XED 333,Mantis Engine,,0,0.0,0,0,0,0.50
+XED 278,Might Weaver,,0,0.0,0,0,0,0.50
+XED 281,Natural Spring,,0,0.0,0,0,0,0.25
+XED 95,Persuasion,,0,0.0,0,0,0,0.50
+XED 168,Plague Beetle,,0,0.0,0,0,0,0.25
+XED 364,Plains (364 A),,0,0.0,0,0,0,0.50
+XED 221,Prodigal Pyromancer,,0,0.0,0,0,0,0.25
+XED 172,Recover,,0,0.0,0,0,0,0.25
+XED 106,Sea Monster,,0,0.0,0,0,0,0.25
+XED 41,Skyhunter Patrol,,0,0.0,0,0,0,0.25
+XED 358,Spawning Pool,,0,0.0,0,0,0,0.50
+XED 47,Starlight Invoker,,0,0.0,0,0,0,0.50
+XED 50,Suntail Hawk,,0,0.0,0,0,0,0.25
+XED 183,Thrull Surgeon,,0,0.0,0,0,0,0.50
+XED 203,Flowstone Slide,,0,0.0,0,0,0,0.50
+XED 214,Kamahl,,0,0.0,0,0,0,0
+XED 291,Rhox,,0,0.0,0,0,0,0.50
+XED 36,Righteousness,,0,0.0,0,0,0,0.50
+XED 105,Scalpelexis,,0,0.0,0,0,0,0.50
+XED 112,Sunken Hope,,0,0.0,0,0,0,0.50
+XED 324,The Hive,,0,0.0,0,0,0,0.50
+XED 69,Aven Windreader,,0,0.0,0,0,0,0.25
+XED 192,Bloodrock Cyclops,,0,0.0,0,0,0,0.25
+XED 130,Bog Wraith,,0,0.0,0,0,0,0.50
+XED 78,Dehydration,,0,0.0,0,0,0,0.25
+XED 196,Demolish,,0,0.0,0,0,0,0.25
+XED 198,Duct Crawler,,0,0.0,0,0,0,0.25
+XED 260,Elvish Berserker,,0,0.0,0,0,0,0.25
+XED 16,Ghost Warden,,0,0.0,0,0,0,0.25
+XED 269,Hunted Wumpus,,0,0.0,0,0,0,0.50
+XED 215,Lava Axe,,0,0.0,0,0,0,0.25
+XED 159,Mind Rot,,0,0.0,0,0,0,0.25
+XED 163,Nekrataal,,0,0.0,0,0,0,0.50
+XED 220,Orcish Artillery,,0,0.0,0,0,0,0.50
+XED 96,Phantom Warrior,,0,0.0,0,0,0,0.50
+XED 223,Rage Weaver,,0,0.0,0,0,0,0.50
+XED 226,Rock Badger,,0,0.0,0,0,0,0.25
+XED 294,Rushwood Dryad,,0,0.0,0,0,0,0.25
+XED 104,Sage Owl,,0,0.0,0,0,0,0.25
+XED 110,Snapping Drake,,0,0.0,0,0,0,0.25
+XED 181,Stronghold Discipline,,0,0.0,0,0,0,0.50
+XED 123,Vedalken Mastermind,,0,0.0,0,0,0,0.50
+XED 309,Wall of Wood,,0,0.0,0,0,0,0.25
+XED 128,Assassinate,,0,0.0,0,0,0,0.25
+XED 193,Bogardan Firefiend,,0,0.0,0,0,0,0.25
+XED 75,Cloud Sprite,,0,0.0,0,0,0,0.25
+XED 317,Colossus of Sardia,,0,0.0,0,0,0,0.50
+XED 194,Cone of Flame,,0,0.0,0,0,0,0.50
+XED 140,Dusk Imp,,0,0.0,0,0,0,0.25
+XED 199,Earth Elemental,,0,0.0,0,0,0,0.50
+XED 84,Flashfreeze,,0,0.0,0,0,0,0.50
+XED 380,Forest (380 A),,0,0.0,0,0,0,0.50
+XED 383,Forest (383 D),,0,0.0,0,0,0,0.50
+XED 86,Fugitive Wizard,,0,0.0,0,0,0,0.25
+XED 205,Furnace Whelp,,0,0.0,0,0,0,0.50
+XED 267,Giant Spider,,0,0.0,0,0,0,0.25
+XED 4,Goblin Token,,0,0.0,0,0,0,0.50
+XED 146,Gravedigger,,0,0.0,0,0,0,0.25
+XED 147,Hate Weaver,,0,0.0,0,0,0,0.50
+XED 150,Highway Robber,,0,0.0,0,0,0,0.25
+XED 212,Hill Giant,,0,0.0,0,0,0,0.25
+XED 22,Holy Strength,,0,0.0,0,0,0,0.25
+XED 24,Icatian Priest,,0,0.0,0,0,0,0.50
+XED 327,Jayemdae Tome,,0,0.0,0,0,0,0.50
+XED 272,Karplusan Strider,,0,0.0,0,0,0,0.50
+XED 273,Kavu Climber,,0,0.0,0,0,0,0.25
+XED 329,Kraken's Eye,,0,0.0,0,0,0,0.50
+XED 275,Llanowar Sentinel,,0,0.0,0,0,0,0.25
+XED 27,Loyal Sentry,,0,0.0,0,0,0,0.50
+XED 334,Millstone,,0,0.0,0,0,0,0.50
+XED 280,Molimo,,0,0.0,0,0,0,0
+XED 32,Paladin en-Vec,,0,0.0,0,0,0,0.50
+XED 367,Plains (367 D),,0,0.0,0,0,0,0.50
+XED 341,Rod of Ruin,,0,0.0,0,0,0,0.50
+XED 293,Rootwalla,,0,0.0,0,0,0,0.25
+XED 295,Scion of the Wild,,0,0.0,0,0,0,0.50
+XED 228,Seismic Assault,,0,0.0,0,0,0,1.00
+XED 176,Sengir Vampire,,0,0.0,0,0,0,0.50
+XED 231,Shivan Hellkite,,0,0.0,0,0,0,0.50
+XED 109,Sky Weaver,,0,0.0,0,0,0,0.50
+XED 1,Soldier Token,,0,0.0,0,0,0,0.50
+XED 298,Spined Wurm,,0,0.0,0,0,0,0.25
+XED 180,Spineless Thug,,0,0.0,0,0,0,0.25
+XED 46,Spirit Weaver,,0,0.0,0,0,0,0.50
+XED 238,Spitting Earth,,0,0.0,0,0,0,0.25
+XED 299,Stalking Tiger,,0,0.0,0,0,0,0.25
+XED 300,Stampeding Wildebeests,,0,0.0,0,0,0,0.50
+XED 48,Steadfast Guard,,0,0.0,0,0,0,0.25
+XED 51,Tempest of Light,,0,0.0,0,0,0,0.50
+XED 305,Troll Ascetic,,0,0.0,0,0,0,0.50
+XED 244,Uncontrollable Anger,,0,0.0,0,0,0,0.25
+XED 185,Unholy Strength,,0,0.0,0,0,0,0.25
+XED 55,Venerable Monk,,0,0.0,0,0,0,0.25
+XED 245,Viashino Runner,,0,0.0,0,0,0,0.25
+XED 308,Viridian Shaman,,0,0.0,0,0,0,0.50
+XED 247,Wall of Fire,,0,0.0,0,0,0,0.50
+XED 58,Warrior's Honor,,0,0.0,0,0,0,0.25
+XED 59,Wild Griffin,,0,0.0,0,0,0,0.25
+XED 62,Youthful Knight,,0,0.0,0,0,0,0.25
+XED 208F,Goblin Lore,,0,0.0,0,0,0,36.00
+XED 252F,Birds of Paradise,,0,0.0,0,0,0,30.00
+XED 117F,Time Stop,,0,0.0,0,0,0,72.00
+XED 319F,Crucible of Worlds,,0,0.0,0,0,0,36.00
+XED 345F,Whispersilk Cloak,,0,0.0,0,0,0,22.00
+XED 166F,Phage the Untouchable,,0,0.0,0,0,0,32.00
+XED 261F,Elvish Champion,,0,0.0,0,0,0,56.00
+XED 321F,Doubling Cube,,0,0.0,0,0,0,28.00
+XED 347F,Adarkar Wastes,,0,0.0,0,0,0,40.00
+XED 88F,Hurkyl's Recall,,0,0.0,0,0,0,40.00
+XED 362F,Underground River,,0,0.0,0,0,0,40.00
+XED 344F,Steel Golem,,0,0.0,0,0,0,20.00
+XED 30F,Nomad Mythmaker,,0,0.0,0,0,0,18.00
+XED 207F,Goblin King,,0,0.0,0,0,0,36.00
+XED 82F,Dreamborn Muse,,0,0.0,0,0,0,12.00
+XED 6F,Aura of Silence,,0,0.0,0,0,0,32.00
+XED 286F,Primal Rage,,0,0.0,0,0,0,32.00
+XED 297F,Skyshroud Ranger,,0,0.0,0,0,0,16.00
+XED 10F,Beacon of Immortality,,0,0.0,0,0,0,28.00
+XED 354F,Karplusan Forest,,0,0.0,0,0,0,28.00
+XED 137F,Doomed Necromancer,,0,0.0,0,0,0,4.00
+XED 155F,Lord of the Undead,,0,0.0,0,0,0,22.00
+XED 103F,Rootwater Matriarch,,0,0.0,0,0,0,5.50
+XED 302F,Sylvan Scrying,,0,0.0,0,0,0,11.00
+XED 12F,Cho-Manno,,0,0.0,0,0,0,0
+XED 29F,Mobilization,,0,0.0,0,0,0,7.00
+XED 204F,Furnace of Rath,,0,0.0,0,0,0,18.00
+XED 56F,Voice of All,,0,0.0,0,0,0,5.50
+XED 9F,Bandage,,0,0.0,0,0,0,4.00
+XED 265F,Gaea's Herald,,0,0.0,0,0,0,13.00
+XED 231F,Shivan Hellkite,,0,0.0,0,0,0,13.00
+XED 306F,Upwelling,,0,0.0,0,0,0,13.00
+XED 120F,Twincast,,0,0.0,0,0,0,12.00
+XED 170F,Rain of Tears,,0,0.0,0,0,0,2.00
+XED 35F,Reya Dawnbringer,,0,0.0,0,0,0,11.00
+XED 219F,Mogg Fanatic,,0,0.0,0,0,0,3.00
+XED 357F,Shivan Reef,,0,0.0,0,0,0,10.00
+XED 33F,Pariah,,0,0.0,0,0,0,9.50
+XED 5F,Angelic Wall,,0,0.0,0,0,0,3.00
+XED 280F,Molimo,,0,0.0,0,0,0,0
+XED 75F,Cloud Sprite,,0,0.0,0,0,0,1.50
+XED 152F,Knight of Dusk,,0,0.0,0,0,0,7.00
+XED 330F,Legacy Weapon,,0,0.0,0,0,0,7.00
+XED 342F,Sculpting Steel,,0,0.0,0,0,0,7.00
+XED 314F,Chromatic Star,,0,0.0,0,0,0,3.50
+XED 94F,Peek,,0,0.0,0,0,0,12.00
+XED 363F,Yavimaya Coast,,0,0.0,0,0,0,12.00
+XED 274F,Llanowar Elves,,0,0.0,0,0,0,5.00
+XED 87F,Horseshoe Crab,,0,0.0,0,0,0,2.00
+XED 52F,Treasure Hunter,,0,0.0,0,0,0,2.50
+XED 213F,Incinerate,,0,0.0,0,0,0,3.00
+XED 313F,Chimeric Staff,,0,0.0,0,0,0,1.50
+XED 268F,Grizzly Bears,,0,0.0,0,0,0,1.50
+XED 191F,Bloodfire Colossus,,0,0.0,0,0,0,2.00
+XED 97F,Plagiarize,,0,0.0,0,0,0,2.00
+XED 21F,Holy Day,,0,0.0,0,0,0,5.50
+XED 154F,Lord of the Pit,,0,0.0,0,0,0,5.50
+XED 121F,Twitch,,0,0.0,0,0,0,5.50
+XED 2F,Angel of Mercy,,0,0.0,0,0,0,3.00
+XED 98F,Puppeteer,,0,0.0,0,0,0,3.00
+XED 129F,Beacon of Unrest,,0,0.0,0,0,0,5.00
+XED 90F,Mahamoti Djinn,,0,0.0,0,0,0,1.50
+XED 92F,Merfolk Looter,,0,0.0,0,0,0,1.50
+XED 190F,Blaze,,0,0.0,0,0,0,1.00
+XED 133F,Cruel Edict,,0,0.0,0,0,0,1.00
+XED 310F,Yavimaya Enchantress,,0,0.0,0,0,0,1.00
+XED 135F,Diabolic Tutor,,0,0.0,0,0,0,4.00
+XED 353F,Ghitu Encampment,,0,0.0,0,0,0,4.00
+XED 288F,Rampant Growth,,0,0.0,0,0,0,4.00
+XED 291F,Rhox,,0,0.0,0,0,0,1.00
+XED 113F,Telepathy,,0,0.0,0,0,0,3.50
+XED 322F,Dragon's Claw,,0,0.0,0,0,0,3.00
+XED 101F,Robe of Mirrors,,0,0.0,0,0,0,3.00
+XED 383F,Forest (383 D),,0,0.0,0,0,0,1.00
+XED 361F,Treetop Village,,0,0.0,0,0,0,3.50
+XED 67F,Aura Graft,,0,0.0,0,0,0,0.50
+XED 115F,Thieving Magpie,,0,0.0,0,0,0,0.50
+XED 40F,Serra's Embrace,,0,0.0,0,0,0,3.00
+XED 1F,Ancestor's Chosen,,0,0.0,0,0,0,0.50
+XED 11F,Benalish Knight,,0,0.0,0,0,0,0.50
+XED 80F,Denizen of the Deep,,0,0.0,0,0,0,0.50
+XED 201F,Fists of the Anvil,,0,0.0,0,0,0,0.50
+XED 242F,Threaten,,0,0.0,0,0,0,0.50
+XED 287F,Quirion Dryad,,0,0.0,0,0,0,2.50
+XED 112F,Sunken Hope,,0,0.0,0,0,0,2.50
+XED 122F,Unsummon,,0,0.0,0,0,0,2.50
+XED 367F,Plains (367 D),,0,0.0,0,0,0,1.00
+XED 116F,Tidings,,0,0.0,0,0,0,1.00
+XED 13F,Condemn,,0,0.0,0,0,0,1.00
+XED 300F,Stampeding Wildebeests,,0,0.0,0,0,0,1.00
+XED 253F,Blanchwood Armor,,0,0.0,0,0,0,2.00
+XED 284F,Overrun,,0,0.0,0,0,0,2.00
+XED 258F,Creeping Mold,,0,0.0,0,0,0,0.50
+XED 131F,Consume Spirit,,0,0.0,0,0,0,1.50
+XED 27F,Loyal Sentry,,0,0.0,0,0,0,1.50
+XED 276F,Lure,,0,0.0,0,0,0,1.50
+XED 277F,Might of Oaks,,0,0.0,0,0,0,1.50
+XED 163F,Nekrataal,,0,0.0,0,0,0,1.50
+XED 240F,Stun,,0,0.0,0,0,0,1.50
+XED 123F,Vedalken Mastermind,,0,0.0,0,0,0,1.50
+XED 124F,Wall of Air,,0,0.0,0,0,0,1.50
+XED 64F,Air Elemental,,0,0.0,0,0,0,0.50
+XED 256F,Commune with Nature,,0,0.0,0,0,0,0.50
+XED 205F,Furnace Whelp,,0,0.0,0,0,0,0.50
+XED 95F,Persuasion,,0,0.0,0,0,0,0.50
+XED 337F,Phyrexian Vault,,0,0.0,0,0,0,0.50
+XED 48F,Steadfast Guard,,0,0.0,0,0,0,0.50
+XED 301F,Sylvan Basilisk,,0,0.0,0,0,0,0.50
+XED 346F,Wurm's Tooth,,0,0.0,0,0,0,0.50
+XED 311F,Angel's Feather,,0,0.0,0,0,0,0.50
+XED 373F,Swamp (373 B),,0,0.0,0,0,0,0.50
+XED 22F,Holy Strength,,0,0.0,0,0,0,1.00
+XED 269F,Hunted Wumpus,,0,0.0,0,0,0,1.00
+XED 376F,Mountain (376 A),,0,0.0,0,0,0,1.00
+XED 378F,Mountain (378 C),,0,0.0,0,0,0,1.00
+XED 167F,Phyrexian Rager,,0,0.0,0,0,0,1.00
+XED 309F,Wall of Wood,,0,0.0,0,0,0,1.00
+XED 255F,Civic Wayfinder,,0,0.0,0,0,0,0.50
+XED 134F,Deathmark,,0,0.0,0,0,0,0.50
+XED 327F,Jayemdae Tome,,0,0.0,0,0,0,0.50
+XED 275F,Llanowar Sentinel,,0,0.0,0,0,0,0.50
+XED 51F,Tempest of Light,,0,0.0,0,0,0,0.50
+XED 71F,Cancel,,0,0.0,0,0,0,1.00
+XED 202F,Flamewave Invoker,,0,0.0,0,0,0,1.00
+XED 290F,Regeneration,,0,0.0,0,0,0,1.00
+XED 266F,Giant Growth,,0,0.0,0,0,0,1.00
+XED 356F,Quicksand,,0,0.0,0,0,0,1.00
+XED 299F,Stalking Tiger,,0,0.0,0,0,0,1.00
+XED 84F,Flashfreeze,,0,0.0,0,0,0,0.50
+XED 326F,Icy Manipulator,,0,0.0,0,0,0,0.50
+XED 168F,Plague Beetle,,0,0.0,0,0,0,0.50
+XED 364F,Plains (364 A),,0,0.0,0,0,0,0.50
+XED 42F,Skyhunter Prowler,,0,0.0,0,0,0,0.50
+XED 63F,Academy Researchers,,0,0.0,0,0,0,0.50
+XED 379F,Mountain (379 D),,0,0.0,0,0,0,0.50
+XED 81F,Discombobulate,,0,0.0,0,0,0,0.50
+XED 138F,Dross Crocodile,,0,0.0,0,0,0,0.50
+XED 267F,Giant Spider,,0,0.0,0,0,0,0.50
+XED 18F,Hail of Arrows,,0,0.0,0,0,0,0.50
+XED 19F,Heart of Light,,0,0.0,0,0,0,0.50
+XED 215F,Lava Axe,,0,0.0,0,0,0,0.50
+XED 28F,Luminesce,,0,0.0,0,0,0,0.50
+XED 285F,Pincher Beetles,,0,0.0,0,0,0,0.50
+XED 365F,Plains (365 B),,0,0.0,0,0,0,0.50
+XED 238F,Spitting Earth,,0,0.0,0,0,0,0.50
+XED 241F,Sudden Impact,,0,0.0,0,0,0,0.50
+XED 304F,Treetop Bracers,,0,0.0,0,0,0,0.50
+XED 54F,Tundra Wolves,,0,0.0,0,0,0,0.50
+XED 366F,Plains (366 C),,0,0.0,0,0,0,1.00
+XED 372F,Swamp (372 A),,0,0.0,0,0,0,1.00
+XED 308F,Viridian Shaman,,0,0.0,0,0,0,0.50
+XED 249F,Abundance,,0,0.0,0,0,0,60.00
+XED 125F,Afflict,,0,0.0,0,0,0,0.50
+XED 250F,Aggressive Urge,,0,0.0,0,0,0,0.50
+XED 126F,Agonizing Memories,,0,0.0,0,0,0,0.50
+XED 65F,Ambassador Laquatus,,0,0.0,0,0,0,6.50
+XED 187F,Anaba Bodyguard,,0,0.0,0,0,0,0.50
+XED 3F,Angelic Blessing,,0,0.0,0,0,0,0.50
+XED 4F,Angelic Chorus,,0,0.0,0,0,0,9.00
+XED 66F,Arcanis the Omnipotent,,0,0.0,0,0,0,8.00
+XED 127F,Ascendant Evincar,,0,0.0,0,0,0,18.00
+XED 128F,Assassinate,,0,0.0,0,0,0,0.50
+XED 251F,Avatar of Might,,0,0.0,0,0,0,4.00
+XED 7F,Aven Cloudchaser,,0,0.0,0,0,0,0.50
+XED 68F,Aven Fisher,,0,0.0,0,0,0,0.50
+XED 69F,Aven Windreader,,0,0.0,0,0,0,0.50
+XED 8F,Ballista Squad,,0,0.0,0,0,0,0.50
+XED 348F,Battlefield Forge,,0,0.0,0,0,0,9.50
+XED 189F,Beacon of Destruction,,0,0.0,0,0,0,1.50
+XED 192F,Bloodrock Cyclops,,0,0.0,0,0,0,0.50
+XED 130F,Bog Wraith,,0,0.0,0,0,0,0.50
+XED 193F,Bogardan Firefiend,,0,0.0,0,0,0,0.50
+XED 70F,Boomerang,,0,0.0,0,0,0,1.50
+XED 312F,Bottle Gnomes,,0,0.0,0,0,0,1.00
+XED 188F,Arcane Teachings,,0,0.0,0,0,0,1.50
+XED 349F,Brushland,,0,0.0,0,0,0,26.00
+XED 254F,Canopy Spider,,0,0.0,0,0,0,0.50
+XED 350F,Caves of Koilos,,0,0.0,0,0,0,13.00
+XED 315F,Citanul Flute,,0,0.0,0,0,0,13.00
+XED 73F,Clone,,0,0.0,0,0,0,5.00
+XED 74F,Cloud Elemental,,0,0.0,0,0,0,0.50
+XED 316F,Coat of Arms,,0,0.0,0,0,0,52.00
+XED 318F,Composite Golem,,0,0.0,0,0,0,5.50
+XED 194F,Cone of Flame,,0,0.0,0,0,0,0.50
+XED 132F,Contaminated Bond,,0,0.0,0,0,0,0.50
+XED 76F,Counsel of the Soratami,,0,0.0,0,0,0,0.50
+XED 77F,Crafty Pathmage,,0,0.0,0,0,0,0.50
+XED 257F,Craw Wurm,,0,0.0,0,0,0,0.50
+XED 195F,Cryoclasm,,0,0.0,0,0,0,0.50
+XED 78F,Dehydration,,0,0.0,0,0,0,0.50
+XED 79F,Deluge,,0,0.0,0,0,0,2.50
+XED 196F,Demolish,,0,0.0,0,0,0,0.50
+XED 320F,Demon's Horn,,0,0.0,0,0,0,1.00
+XED 14F,Demystify,,0,0.0,0,0,0,0.50
+XED 136F,Distress,,0,0.0,0,0,0,0.50
+XED 197F,Dragon Roost,,0,0.0,0,0,0,5.50
+XED 139F,Drudge Skeletons,,0,0.0,0,0,0,1.00
+XED 198F,Duct Crawler,,0,0.0,0,0,0,0.50
+XED 72F,Cephalid Constable,,0,0.0,0,0,0,10.00
+XED 317F,Colossus of Sardia,,0,0.0,0,0,0,2.00
+XED 140F,Dusk Imp,,0,0.0,0,0,0,0.50
+XED 199F,Earth Elemental,,0,0.0,0,0,0,0.50
+XED 259F,Elven Riders,,0,0.0,0,0,0,0.50
+XED 260F,Elvish Berserker,,0,0.0,0,0,0,0.50
+XED 262F,Elvish Piper,,0,0.0,0,0,0,32.00
+XED 263F,Enormous Baloth,,0,0.0,0,0,0,0.50
+XED 141F,Essence Drain,,0,0.0,0,0,0,0.50
+XED 83F,Evacuation,,0,0.0,0,0,0,8.00
+XED 351F,Faerie Conclave,,0,0.0,0,0,0,4.00
+XED 142F,Fear,,0,0.0,0,0,0,0.50
+XED 264F,Femeref Archers,,0,0.0,0,0,0,1.50
+XED 143F,Festering Goblin,,0,0.0,0,0,0,0.50
+XED 15F,Field Marshal,,0,0.0,0,0,0,11.00
+XED 200F,Firebreathing,,0,0.0,0,0,0,0.50
+XED 203F,Flowstone Slide,,0,0.0,0,0,0,0.50
+XED 85F,Fog Elemental,,0,0.0,0,0,0,0.50
+XED 352F,Forbidding Watchtower,,0,0.0,0,0,0,9.00
+XED 380F,Forest (380 A),,0,0.0,0,0,0,0.50
+XED 381F,Forest (381 B),,0,0.0,0,0,0,1.00
+XED 382F,Forest (382 C),,0,0.0,0,0,0,1.00
+XED 323F,Fountain of Youth,,0,0.0,0,0,0,2.50
+XED 86F,Fugitive Wizard,,0,0.0,0,0,0,0.50
+XED 16F,Ghost Warden,,0,0.0,0,0,0,0.50
+XED 17F,Glorious Anthem,,0,0.0,0,0,0,3.50
+XED 206F,Goblin Elite Infantry,,0,0.0,0,0,0,0.50
+XED 209F,Goblin Piker,,0,0.0,0,0,0,0.50
+XED 210F,Goblin Sky Raider,,0,0.0,0,0,0,0.50
+XED 144F,Grave Pact,,0,0.0,0,0,0,48.00
+XED 145F,Graveborn Muse,,0,0.0,0,0,0,36.00
+XED 146F,Gravedigger,,0,0.0,0,0,0,0.50
+XED 211F,Guerrilla Tactics,,0,0.0,0,0,0,0.50
+XED 147F,Hate Weaver,,0,0.0,0,0,0,0.50
+XED 149F,Hidden Horror,,0,0.0,0,0,0,0.50
+XED 20F,High Ground,,0,0.0,0,0,0,0.50
+XED 150F,Highway Robber,,0,0.0,0,0,0,0.50
+XED 212F,Hill Giant,,0,0.0,0,0,0,0.50
+XED 23F,Honor Guard,,0,0.0,0,0,0,0.50
+XED 325F,Howling Mine,,0,0.0,0,0,0,22.00
+XED 270F,Hurricane,,0,0.0,0,0,0,8.00
+XED 151F,Hypnotic Specter,,0,0.0,0,0,0,8.00
+XED 24F,Icatian Priest,,0,0.0,0,0,0,0.50
+XED 368F,Island (368 A),,0,0.0,0,0,0,5.00
+XED 369F,Island (369 B),,0,0.0,0,0,0,1.50
+XED 370F,Island (370 C),,0,0.0,0,0,0,1.00
+XED 371F,Island (371 D),,0,0.0,0,0,0,0.50
+XED 271F,Joiner Adept,,0,0.0,0,0,0,10.00
+XED 328F,Juggernaut,,0,0.0,0,0,0,0.50
+XED 272F,Karplusan Strider,,0,0.0,0,0,0,0.50
+XED 148F,Head Games,,0,0.0,0,0,0,14.00
+XED 214F,Kamahl,,0,0.0,0,0,0,0
+XED 273F,Kavu Climber,,0,0.0,0,0,0,0.50
+XED 25F,Kjeldoran Royal Guard,,0,0.0,0,0,0,1.00
+XED 329F,Kraken's Eye,,0,0.0,0,0,0,0.50
+XED 216F,Lavaborn Muse,,0,0.0,0,0,0,2.00
+XED 331F,Leonin Scimitar,,0,0.0,0,0,0,2.50
+XED 217F,Lightning Elemental,,0,0.0,0,0,0,0.50
+XED 355F,Llanowar Wastes,,0,0.0,0,0,0,16.00
+XED 153F,Looming Shade,,0,0.0,0,0,0,0.50
+XED 26F,Loxodon Mystic,,0,0.0,0,0,0,0.50
+XED 89F,Lumengrid Warden,,0,0.0,0,0,0,0.50
+XED 218F,Manabarbs,,0,0.0,0,0,0,40.00
+XED 333F,Mantis Engine,,0,0.0,0,0,0,0.50
+XED 91F,March of the Machines,,0,0.0,0,0,0,9.00
+XED 156F,Mass of Ghouls,,0,0.0,0,0,0,0.50
+XED 157F,Megrim,,0,0.0,0,0,0,7.00
+XED 158F,Midnight Ritual,,0,0.0,0,0,0,2.00
+XED 278F,Might Weaver,,0,0.0,0,0,0,0.50
+XED 334F,Millstone,,0,0.0,0,0,0,1.50
+XED 93F,Mind Bend,,0,0.0,0,0,0,10.00
+XED 159F,Mind Rot,,0,0.0,0,0,0,0.50
+XED 335F,Mind Stone,,0,0.0,0,0,0,14.00
+XED 279F,Mirri,,0,0.0,0,0,0,0
+XED 160F,Mortal Combat,,0,0.0,0,0,0,14.00
+XED 161F,Mortivore,,0,0.0,0,0,0,14.00
+XED 332F,Loxodon Warhammer,,0,0.0,0,0,0,14.00
+XED 377F,Mountain (377 B),,0,0.0,0,0,0,0.50
+XED 162F,Nantuko Husk,,0,0.0,0,0,0,1.00
+XED 281F,Natural Spring,,0,0.0,0,0,0,0.50
+XED 282F,Naturalize,,0,0.0,0,0,0,0.50
+XED 164F,Nightmare,,0,0.0,0,0,0,4.00
+XED 165F,No Rest for the Wicked,,0,0.0,0,0,0,6.50
+XED 220F,Orcish Artillery,,0,0.0,0,0,0,0.50
+XED 336F,Ornithopter,,0,0.0,0,0,0,7.00
+XED 283F,Overgrowth,,0,0.0,0,0,0,12.00
+XED 31F,Pacifism,,0,0.0,0,0,0,1.50
+XED 32F,Paladin en-Vec,,0,0.0,0,0,0,5.50
+XED 96F,Phantom Warrior,,0,0.0,0,0,0,1.00
+XED 338F,Pithing Needle,,0,0.0,0,0,0,9.00
+XED 169F,Plague Wind,,0,0.0,0,0,0,5.00
+XED 339F,Platinum Angel,,0,0.0,0,0,0,17.00
+XED 221F,Prodigal Pyromancer,,0,0.0,0,0,0,0.50
+XED 222F,Pyroclasm,,0,0.0,0,0,0,3.50
+XED 223F,Rage Weaver,,0,0.0,0,0,0,0.50
+XED 224F,Raging Goblin,,0,0.0,0,0,0,1.50
+XED 171F,Ravenous Rats,,0,0.0,0,0,0,0.50
+XED 340F,Razormane Masticore,,0,0.0,0,0,0,2.00
+XED 289F,Recollect,,0,0.0,0,0,0,0.50
+XED 172F,Recover,,0,0.0,0,0,0,0.50
+XED 225F,Relentless Assault,,0,0.0,0,0,0,20.00
+XED 173F,Relentless Rats,,0,0.0,0,0,0,8.00
+XED 99F,Reminisce,,0,0.0,0,0,0,0.50
+XED 100F,Remove Soul,,0,0.0,0,0,0,0.50
+XED 34F,Reviving Dose,,0,0.0,0,0,0,0.50
+XED 36F,Righteousness,,0,0.0,0,0,0,2.50
+XED 226F,Rock Badger,,0,0.0,0,0,0,0.50
+XED 341F,Rod of Ruin,,0,0.0,0,0,0,0.50
+XED 292F,Root Maze,,0,0.0,0,0,0,48.00
+XED 293F,Rootwalla,,0,0.0,0,0,0,0.50
+XED 102F,Rootwater Commando,,0,0.0,0,0,0,0.50
+XED 174F,Royal Assassin,,0,0.0,0,0,0,10.00
+XED 37F,Rule of Law,,0,0.0,0,0,0,18.00
+XED 294F,Rushwood Dryad,,0,0.0,0,0,0,0.50
+XED 104F,Sage Owl,,0,0.0,0,0,0,0.50
+XED 38F,Samite Healer,,0,0.0,0,0,0,0.50
+XED 105F,Scalpelexis,,0,0.0,0,0,0,0.50
+XED 175F,Scathe Zombies,,0,0.0,0,0,0,0.50
+XED 295F,Scion of the Wild,,0,0.0,0,0,0,0.50
+XED 227F,Scoria Wurm,,0,0.0,0,0,0,2.50
+XED 106F,Sea Monster,,0,0.0,0,0,0,0.50
+XED 296F,Seedborn Muse,,0,0.0,0,0,0,68.00
+XED 176F,Sengir Vampire,,0,0.0,0,0,0,3.00
+XED 39F,Serra Angel,,0,0.0,0,0,0,16.00
+XED 177F,Severed Legion,,0,0.0,0,0,0,0.50
+XED 229F,Shatterstorm,,0,0.0,0,0,0,2.50
+XED 228F,Seismic Assault,,0,0.0,0,0,0,8.00
+XED 107F,Shimmering Wings,,0,0.0,0,0,0,2.00
+XED 230F,Shivan Dragon,,0,0.0,0,0,0,5.50
+XED 232F,Shock,,0,0.0,0,0,0,2.00
+XED 233F,Shunt,,0,0.0,0,0,0,5.50
+XED 234F,Siege-Gang Commander,,0,0.0,0,0,0,5.00
+XED 108F,Sift,,0,0.0,0,0,0,0.50
+XED 109F,Sky Weaver,,0,0.0,0,0,0,0.50
+XED 41F,Skyhunter Patrol,,0,0.0,0,0,0,0.50
+XED 43F,Skyhunter Skirmisher,,0,0.0,0,0,0,3.00
+XED 178F,Sleeper Agent,,0,0.0,0,0,0,15.00
+XED 235F,Smash,,0,0.0,0,0,0,0.50
+XED 110F,Snapping Drake,,0,0.0,0,0,0,0.50
+XED 179F,Soul Feast,,0,0.0,0,0,0,0.50
+XED 44F,Soul Warden,,0,0.0,0,0,0,12.00
+XED 236F,Soulblast,,0,0.0,0,0,0,3.00
+XED 237F,Spark Elemental,,0,0.0,0,0,0,2.50
+XED 358F,Spawning Pool,,0,0.0,0,0,0,5.50
+XED 343F,Spellbook,,0,0.0,0,0,0,9.50
+XED 111F,Spiketail Hatchling,,0,0.0,0,0,0,1.00
+XED 298F,Spined Wurm,,0,0.0,0,0,0,0.50
+XED 180F,Spineless Thug,,0,0.0,0,0,0,0.50
+XED 45F,Spirit Link,,0,0.0,0,0,0,4.00
+XED 46F,Spirit Weaver,,0,0.0,0,0,0,0.50
+XED 239F,Squee,,0,0.0,0,0,0,0
+XED 47F,Starlight Invoker,,0,0.0,0,0,0,0.50
+XED 49F,Story Circle,,0,0.0,0,0,0,2.50
+XED 181F,Stronghold Discipline,,0,0.0,0,0,0,0.50
+XED 359F,Sulfurous Springs,,0,0.0,0,0,0,22.00
+XED 50F,Suntail Hawk,,0,0.0,0,0,0,0.50
+XED 374F,Swamp (374 C),,0,0.0,0,0,0,0.50
+XED 375F,Swamp (375 D),,0,0.0,0,0,0,1.00
+XED 303F,Tangle Spider,,0,0.0,0,0,0,0.50
+XED 114F,Telling Time,,0,0.0,0,0,0,4.00
+XED 360F,Terramorphic Expanse,,0,0.0,0,0,0,3.00
+XED 182F,Terror,,0,0.0,0,0,0,1.00
+XED 324F,The Hive,,0,0.0,0,0,0,1.00
+XED 183F,Thrull Surgeon,,0,0.0,0,0,0,0.50
+XED 243F,Thundering Giant,,0,0.0,0,0,0,0.50
+XED 118F,Time Stretch,,0,0.0,0,0,0,9.50
+XED 119F,Traumatize,,0,0.0,0,0,0,12.00
+XED 305F,Troll Ascetic,,0,0.0,0,0,0,1.50
+XED 53F,True Believer,,0,0.0,0,0,0,13.00
+XED 244F,Uncontrollable Anger,,0,0.0,0,0,0,0.50
+XED 184F,Underworld Dreams,,0,0.0,0,0,0,15.00
+XED 185F,Unholy Strength,,0,0.0,0,0,0,2.00
+XED 186F,Vampire Bats,,0,0.0,0,0,0,1.00
+XED 55F,Venerable Monk,,0,0.0,0,0,0,0.50
+XED 307F,Verdant Force,,0,0.0,0,0,0,3.50
+XED 245F,Viashino Runner,,0,0.0,0,0,0,0.50
+XED 246F,Viashino Sandscout,,0,0.0,0,0,0,0.50
+XED 247F,Wall of Fire,,0,0.0,0,0,0,0.50
+XED 57F,Wall of Swords,,0,0.0,0,0,0,0.50
+XED 248F,Warp World,,0,0.0,0,0,0,8.00
+XED 58F,Warrior's Honor,,0,0.0,0,0,0,0.50
+XED 59F,Wild Griffin,,0,0.0,0,0,0,0.50
+XED 60F,Windborn Muse,,0,0.0,0,0,0,9.50
+XED 61F,Wrath of God,,0,0.0,0,0,0,14.00
+XED 62F,Youthful Knight,,0,0.0,0,0,0,1.00
+XED 279,Mirri,,0,0.0,0,0,0,0
+XED 239,Squee,,0,0.0,0,0,0,0
+XED 368,Island,,0,0.0,0,0,0,0.50
+XED 12,Cho-Manno,,0,0.0,0,0,0,0
+XED 370,Island,,0,0.0,0,0,0,0.50
+XED 371,Island,,0,0.0,0,0,0,0.50
+XED 372,Swamp,,0,0.0,0,0,0,0.50
+XED 382,Forest,,0,0.0,0,0,0,0.50
+XED 376,Mountain,,0,0.0,0,0,0,0.50
+XED 377,Mountain,,0,0.0,0,0,0,0.50
+XED 378,Mountain,,0,0.0,0,0,0,0.50
+XED 369,Island,,0,0.0,0,0,0,0.50
+XED 381,Forest,,0,0.0,0,0,0,0.50
+XED 365,Plains,,0,0.0,0,0,0,0.50
+XED 379,Mountain,,0,0.0,0,0,0,0.50
+XED 366,Plains,,0,0.0,0,0,0,0.50
+XED 373,Swamp,,0,0.0,0,0,0,0.50
+XED 374,Swamp,,0,0.0,0,0,0,0.50
+XED 375,Swamp,,0,0.0,0,0,0,0.50
+XED 364,Plains,,0,0.0,0,0,0,0.50
+XED 214,Kamahl,,0,0.0,0,0,0,0
+XED 380,Forest,,0,0.0,0,0,0,0.50
+XED 383,Forest,,0,0.0,0,0,0,0.50
+XED 280,Molimo,,0,0.0,0,0,0,0
+XED 367,Plains,,0,0.0,0,0,0,0.50
+XED 12F,Cho-Manno,,0,0.0,0,0,0,0
+XED 280F,Molimo,,0,0.0,0,0,0,0
+XED 383F,Forest,,0,0.0,0,0,0,1.00
+XED 367F,Plains,,0,0.0,0,0,0,1.00
+XED 373F,Swamp,,0,0.0,0,0,0,0.50
+XED 376F,Mountain,,0,0.0,0,0,0,1.00
+XED 378F,Mountain,,0,0.0,0,0,0,1.00
+XED 364F,Plains,,0,0.0,0,0,0,0.50
+XED 379F,Mountain,,0,0.0,0,0,0,0.50
+XED 365F,Plains,,0,0.0,0,0,0,0.50
+XED 366F,Plains,,0,0.0,0,0,0,1.00
+XED 372F,Swamp,,0,0.0,0,0,0,1.00
+XED 380F,Forest,,0,0.0,0,0,0,0.50
+XED 381F,Forest,,0,0.0,0,0,0,1.00
+XED 382F,Forest,,0,0.0,0,0,0,1.00
+XED 368F,Island,,0,0.0,0,0,0,5.00
+XED 369F,Island,,0,0.0,0,0,0,1.50
+XED 370F,Island,,0,0.0,0,0,0,1.00
+XED 371F,Island,,0,0.0,0,0,0,0.50
+XED 214F,Kamahl,,0,0.0,0,0,0,0
+XED 279F,Mirri,,0,0.0,0,0,0,0
+XED 377F,Mountain,,0,0.0,0,0,0,0.50
+XED 239F,Squee,,0,0.0,0,0,0,0
+XED 374F,Swamp,,0,0.0,0,0,0,0.50
+XED 375F,Swamp,,0,0.0,0,0,0,1.00
+XED 279,"Mirri, Cat Warrior",,0,0.0,0,0,0,3.00
+XED 239,"Squee, Goblin Nabob",,0,0.0,0,0,0,1.50
+XED 12,"Cho-Manno, Revolutionary",,0,0.0,0,0,0,0.50
+XED 214,"Kamahl, Pit Fighter",,0,0.0,0,0,0,0.50
+XED 280,"Molimo, Maro-Sorcerer",,0,0.0,0,0,0,0.50
+XED 12F,"Cho-Manno, Revolutionary",,0,0.0,0,0,0,7.50
+XED 280F,"Molimo, Maro-Sorcerer",,0,0.0,0,0,0,2.50
+XED 214F,"Kamahl, Pit Fighter",,0,0.0,0,0,0,1.00
+XED 279F,"Mirri, Cat Warrior",,0,0.0,0,0,0,32.00
+XED 239F,"Squee, Goblin Nabob",,0,0.0,0,0,0,9.50

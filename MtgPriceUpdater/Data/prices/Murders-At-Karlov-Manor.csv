@@ -1,0 +1,614 @@
+MKM 270,Undercity Sewers,,0,0.0,0,0,0,32.00
+MKM 268,Shadowy Backstreet,,0,0.0,0,0,0,30.00
+MKM 264,Meticulous Archive,,0,0.0,0,0,0,25.00
+MKM 271,Underground Mortuary,,0,0.0,0,0,0,24.00
+MKM 12,"Delney, Streetwise Lookout",,0,0.0,0,0,0,32.00
+MKM 262,Hedge Maze,,0,0.0,0,0,0,20.00
+MKM 242,Warleader's Call,,0,0.0,0,0,0,10.00
+MKM 269,Thundering Falls,,0,0.0,0,0,0,18.00
+MKM 177,Slime Against Humanity,,0,0.0,0,0,0,2.00
+MKM 266,Raucous Theater,,0,0.0,0,0,0,14.00
+MKM 259,Commercial District,,0,0.0,0,0,0,12.00
+MKM 148,Aftermath Analyst,,0,0.0,0,0,0,4.00
+MKM 260,Elegant Parlor,,0,0.0,0,0,0,11.00
+MKM 263,Lush Portico,,0,0.0,0,0,0,10.00
+MKM 151,Archdruid's Charm,,0,0.0,0,0,0,7.00
+MKM 208,Insidious Roots,,0,0.0,0,0,0,3.00
+MKM 155,Case of the Locked Hothouse,,0,0.0,0,0,0,5.00
+MKM 110,Vein Ripper,,0,0.0,0,0,0,15.00
+MKM 187,Assassin's Trophy,,0,0.0,0,0,0,4.50
+MKM 94,"Massacre Girl, Known Killer",,0,0.0,0,0,0,7.50
+MKM 217,Leyline of the Guildpact,,0,0.0,0,0,0,6.00
+MKM 224,"Rakdos, Patron of Chaos",,0,0.0,0,0,0,7.00
+MKM 67,Proft's Eidetic Memory,,0,0.0,0,0,0,4.00
+MKM 186,"Anzrag, the Quake-Mole",,0,0.0,0,0,0,5.00
+MKM 57,Forensic Gadgeteer,,0,0.0,0,0,0,3.00
+MKM 188,"Aurelia, the Law Above",,0,0.0,0,0,0,2.50
+MKM 13,Doorkeeper Thrull,,0,0.0,0,0,0,2.50
+MKM 181,Undergrowth Recon,,0,0.0,0,0,0,3.00
+MKM 172,The Pride of Hull Clade,,0,0.0,0,0,0,3.00
+MKM 272,Plains,,0,0.0,0,0,0,0.50
+MKM 121,Crime Novelist,,0,0.0,0,0,0,1.00
+MKM 198,Doppelgang,,0,0.0,0,0,0,1.50
+MKM 273,Island,,0,0.0,0,0,0,0.50
+MKM 274,Swamp,,0,0.0,0,0,0,0.50
+MKM 221,No More Lies,,0,0.0,0,0,0,1.00
+MKM 45,Case of the Ransacked Lab,,0,0.0,0,0,0,1.00
+MKM 275,Mountain,,0,0.0,0,0,0,0.50
+MKM 227,Repulsive Mutation,,0,0.0,0,0,0,0.50
+MKM 122,Demand Answers,,0,0.0,0,0,0,0.50
+MKM 9,Plant Token,,0,0.0,0,0,0,1.50
+MKM 276,Forest,,0,0.0,0,0,0,0.50
+MKM 29,Novice Inspector,,0,0.0,0,0,0,0.25
+MKM 97,Outrageous Robbery,,0,0.0,0,0,0,1.00
+MKM 83,Deadly Cover-Up,,0,0.0,0,0,0,1.00
+MKM 261,Escape Tunnel,,0,0.0,0,0,0,0.25
+MKM 267,Scene of the Crime,,0,0.0,0,0,0,0.50
+MKM 132,Incinerator of the Guilty,,0,0.0,0,0,0,1.50
+MKM 241,"Vannifar, Evolved Enigma",,0,0.0,0,0,0,2.00
+MKM 114,Case of the Crimson Pulse,,0,0.0,0,0,0,1.00
+MKM 170,Pick Your Poison,,0,0.0,0,0,0,0.50
+MKM 8,Ooze Token,,0,0.0,0,0,0,0.50
+MKM 1,Dog Token,,0,0.0,0,0,0,0.50
+MKM 10,Case of the Uneaten Feast,,0,0.0,0,0,0,0.50
+MKM 84,Extract a Confession,,0,0.0,0,0,0,0.25
+MKM 150,Analyze the Pollen,,0,0.0,0,0,0,0.50
+MKM 207,Ill-Timed Explosion,,0,0.0,0,0,0,0.50
+MKM 105,Snarling Gorehound,,0,0.0,0,0,0,0.25
+MKM 212,"Kellan, Inquisitive Prodigy",,0,0.0,0,0,0,0.50
+MKM 71,Steamcore Scholar,,0,0.0,0,0,0,0.50
+MKM 8,Case of the Gateway Express,,0,0.0,0,0,0,0.50
+MKM 244,Worldsoul's Rage,,0,0.0,0,0,0,0.50
+MKM 107,Toxin Analysis,,0,0.0,0,0,0,0.25
+MKM 21,A Mysterious Creature Token,,0,0.0,0,0,0,0.50
+MKM 200,"Etrata, Deadly Fugitive",,0,0.0,0,0,0,1.00
+MKM 77,Barbed Servitor,,0,0.0,0,0,0,0.50
+MKM 7,Imp Token,,0,0.0,0,0,0,1.00
+MKM 11,Spider Token,,0,0.0,0,0,0,1.00
+MKM 15,Essence of Antiquity,,0,0.0,0,0,0,0.50
+MKM 238,"Trostani, Three Whispers",,0,0.0,0,0,0,1.00
+MKM 80,Case of the Stashed Skeleton,,0,0.0,0,0,0,0.50
+MKM 87,Hunted Bonebrute,,0,0.0,0,0,0,0.50
+MKM 246,Cease // Desist,,0,0.0,0,0,0,0.50
+MKM 52,Deduce,,0,0.0,0,0,0,0.25
+MKM 184,"Agrus Kos, Spirit of Justice",,0,0.0,0,0,0,1.00
+MKM 3,Assemble the Players,,0,0.0,0,0,0,0.50
+MKM 161,Get a Leg Up,,0,0.0,0,0,0,0.50
+MKM 64,Lost in the Maze,,0,0.0,0,0,0,0.50
+MKM 218,Lightning Helix,,0,0.0,0,0,0,0.50
+MKM 210,"Judith, Carnage Connoisseur",,0,0.0,0,0,0,0.50
+MKM 3,Merfolk Token,,0,0.0,0,0,0,0.50
+MKM 10,Detective Token,,0,0.0,0,0,0,0.50
+MKM 4,Aurelia's Vindicator,,0,0.0,0,0,0,1.00
+MKM 185,"Alquist Proft, Master Sleuth",,0,0.0,0,0,0,1.00
+MKM 211,"Kaya, Spirits' Justice",,0,0.0,0,0,0,1.00
+MKM 164,Hard-Hitting Question,,0,0.0,0,0,0,0.50
+MKM 58,Forensic Researcher,,0,0.0,0,0,0,0.50
+MKM 174,Rubblebelt Maverick,,0,0.0,0,0,0,0.25
+MKM 135,"Krenko, Baron of Tin Street",,0,0.0,0,0,0,0.50
+MKM 125,Felonious Rage,,0,0.0,0,0,0,0.25
+MKM 50,Cryptic Coat,,0,0.0,0,0,0,0.50
+MKM 22,Make Your Move,,0,0.0,0,0,0,0.25
+MKM 88,Illicit Masquerade,,0,0.0,0,0,0,0.50
+MKM 166,Hide in Plain Sight,,0,0.0,0,0,0,0.50
+MKM 92,Long Goodbye,,0,0.0,0,0,0,0.50
+MKM 222,Officious Interrogation,,0,0.0,0,0,0,0.50
+MKM 5,Skeleton Token,,0,0.0,0,0,0,0.50
+MKM 234,"Teysa, Opulent Oligarch",,0,0.0,0,0,0,0.50
+MKM 243,Wispdrinker Vampire,,0,0.0,0,0,0,0.50
+MKM 140,Pyrotechnic Performer,,0,0.0,0,0,0,0.50
+MKM 36,Wojek Investigator,,0,0.0,0,0,0,0.50
+MKM 61,Intrude on the Mind,,0,0.0,0,0,0,1.00
+MKM 111,Anzrag's Rampage,,0,0.0,0,0,0,0.50
+MKM 157,Chalk Outline,,0,0.0,0,0,0,0.50
+MKM 129,Gearbane Orangutan,,0,0.0,0,0,0,0.25
+MKM 220,"Niv-Mizzet, Guildpact",,0,0.0,0,0,0,0.50
+MKM 27,No Witnesses,,0,0.0,0,0,0,0.50
+MKM 258,Branch of Vitu-Ghazi,,0,0.0,0,0,0,0.50
+MKM 48,Coveted Falcon,,0,0.0,0,0,0,0.50
+MKM 284,Mountain,,0,0.0,0,0,0,0.50
+MKM 160,Flourishing Bloom-Kin,,0,0.0,0,0,0,0.50
+MKM 100,Presumed Dead,,0,0.0,0,0,0,0.50
+MKM 70,Reenact the Crime,,0,0.0,0,0,0,0.50
+MKM 35,Unyielding Gatekeeper,,0,0.0,0,0,0,0.50
+MKM 265,Public Thoroughfare,,0,0.0,0,0,0,0.25
+MKM 106,Soul Enervation,,0,0.0,0,0,0,0.50
+MKM 152,Audience with Trostani,,0,0.0,0,0,0,0.50
+MKM 153,Axebane Ferox,,0,0.0,0,0,0,0.50
+MKM 56,Fae Flight,,0,0.0,0,0,0,0.50
+MKM 237,Treacherous Greed,,0,0.0,0,0,0,0.50
+MKM 156,Case of the Trampled Garden,,0,0.0,0,0,0,0.50
+MKM 183,Vitu-Ghazi Inspector,,0,0.0,0,0,0,0.25
+MKM 209,"Izoni, Center of the Web",,0,0.0,0,0,0,0.50
+MKM 126,Frantic Scapegoat,,0,0.0,0,0,0,0.50
+MKM 247,Flotsam // Jetsam,,0,0.0,0,0,0,0.50
+MKM 118,Connecting the Dots,,0,0.0,0,0,0,0.50
+MKM 162,Glint Weaver,,0,0.0,0,0,0,0.50
+MKM 255,Magnifying Glass,,0,0.0,0,0,0,0.25
+MKM 240,Urgent Necropsy,,0,0.0,0,0,0,1.00
+MKM 245,"Yarus, Roar of the Old Gods",,0,0.0,0,0,0,0.50
+MKM 66,Out Cold,,0,0.0,0,0,0,0.25
+MKM 127,Fugitive Codebreaker,,0,0.0,0,0,0,0.50
+MKM 236,"Tolsimir, Midnight's Light",,0,0.0,0,0,0,0.50
+MKM 47,Conspiracy Unraveler,,0,0.0,0,0,0,1.00
+MKM 123,Expedited Inheritance,,0,0.0,0,0,0,1.00
+MKM 191,Buried in the Garden,,0,0.0,0,0,0,0.50
+MKM 169,Nervous Gardener,,0,0.0,0,0,0,0.25
+MKM 28,Not on My Watch,,0,0.0,0,0,0,0.50
+MKM 216,"Lazav, Wearer of Faces",,0,0.0,0,0,0,0.50
+MKM 190,Break Out,,0,0.0,0,0,0,0.50
+MKM 134,Knife,,0,0.0,0,0,0,0.50
+MKM 65,Mistway Spy,,0,0.0,0,0,0,0.50
+MKM 144,Shock,,0,0.0,0,0,0,0.25
+MKM 178,They Went This Way,,0,0.0,0,0,0,0.25
+MKM 86,Homicide Investigator,,0,0.0,0,0,0,0.50
+MKM 163,Greenbelt Radical,,0,0.0,0,0,0,0.50
+MKM 131,Harried Dronesmith,,0,0.0,0,0,0,0.50
+MKM 179,Topiary Panther,,0,0.0,0,0,0,0.25
+MKM 4,Bat Token,,0,0.0,0,0,0,0.50
+MKM 51,Curious Inquiry,,0,0.0,0,0,0,0.50
+MKM 95,Murder,,0,0.0,0,0,0,0.25
+MKM 98,Persuasive Interrogators,,0,0.0,0,0,0,0.50
+MKM 202,"Ezrim, Agency Chief",,0,0.0,0,0,0,0.50
+MKM 285,Forest,,0,0.0,0,0,0,0.50
+MKM 250,Push // Pull,,0,0.0,0,0,0,0.50
+MKM 182,Vengeful Creeper,,0,0.0,0,0,0,0.25
+MKM 205,Gleaming Geardrake,,0,0.0,0,0,0,0.50
+MKM 103,Slice from the Shadows,,0,0.0,0,0,0,0.25
+MKM 43,Candlestick,,0,0.0,0,0,0,0.50
+MKM 1,Case of the Shattered Pact,,0,0.0,0,0,0,0.50
+MKM 196,Detective's Satchel,,0,0.0,0,0,0,0.50
+MKM 13,Voja Fenstalker Token,,0,0.0,0,0,0,0.50
+MKM 74,Unauthorized Exit,,0,0.0,0,0,0,0.25
+MKM 6,Call a Surprise Witness,,0,0.0,0,0,0,0.50
+MKM 197,Dog Walker,,0,0.0,0,0,0,0.25
+MKM 278,Plains,,0,0.0,0,0,0,0.50
+MKM 282,Swamp,,0,0.0,0,0,0,0.50
+MKM 180,Tunnel Tipster,,0,0.0,0,0,0,0.25
+MKM 147,Vengeful Tracker,,0,0.0,0,0,0,0.50
+MKM 44,Case of the Filched Falcon,,0,0.0,0,0,0,0.50
+MKM 115,Caught Red-Handed,,0,0.0,0,0,0,0.50
+MKM 146,Torch the Witness,,0,0.0,0,0,0,0.50
+MKM 136,Krenko's Buzzcrusher,,0,0.0,0,0,0,0.50
+MKM 18,Clue Token,,0,0.0,0,0,0,0.50
+MKM 124,Expose the Culprit,,0,0.0,0,0,0,0.50
+MKM 85,Festerleech,,0,0.0,0,0,0,0.50
+MKM 20,Karlov Watchdog,,0,0.0,0,0,0,0.50
+MKM 21,Krovod Haunch,,0,0.0,0,0,0,0.50
+MKM 1,Murders at Karlov Manor Punch Card,,0,0.0,0,0,0,0.50
+MKM 32,Sanctuary Wall,,0,0.0,0,0,0,0.50
+MKM 108,Undercity Eliminator,,0,0.0,0,0,0,0.50
+MKM 176,Sharp-Eyed Rookie,,0,0.0,0,0,0,0.50
+MKM 248,Fuss // Bother,,0,0.0,0,0,0,0.50
+MKM 283,Mountain,,0,0.0,0,0,0,0.50
+MKM 139,Person of Interest,,0,0.0,0,0,0,0.25
+MKM 232,Soul Search,,0,0.0,0,0,0,0.50
+MKM 281,Swamp,,0,0.0,0,0,0,0.50
+MKM 41,Bubble Smuggler,,0,0.0,0,0,0,0.25
+MKM 14,Clue Token,,0,0.0,0,0,0,0.50
+MKM 15,Clue Token,,0,0.0,0,0,0,0.50
+MKM 55,Exit Specialist,,0,0.0,0,0,0,0.50
+MKM 286,Forest,,0,0.0,0,0,0,0.50
+MKM 128,Galvanize,,0,0.0,0,0,0,0.25
+MKM 173,Rope,,0,0.0,0,0,0,0.50
+MKM 81,Cerebral Confiscation,,0,0.0,0,0,0,0.25
+MKM 192,Coerced to Kill,,0,0.0,0,0,0,0.50
+MKM 54,Eliminate the Impossible,,0,0.0,0,0,0,0.50
+MKM 223,Private Eye,,0,0.0,0,0,0,0.50
+MKM 142,Red Herring,,0,0.0,0,0,0,0.25
+MKM 5,Auspicious Arrival,,0,0.0,0,0,0,0.25
+MKM 68,Projektor Inspector,,0,0.0,0,0,0,0.25
+MKM 69,Reasonable Doubt,,0,0.0,0,0,0,0.25
+MKM 214,"Kylox, Visionary Inventor",,0,0.0,0,0,0,0.50
+MKM 112,Bolrac-Clan Basher,,0,0.0,0,0,0,0.50
+MKM 119,Convenient Target,,0,0.0,0,0,0,0.50
+MKM 219,Meddling Youths,,0,0.0,0,0,0,0.50
+MKM 141,Reckless Detective,,0,0.0,0,0,0,0.50
+MKM 230,Sanguine Savior,,0,0.0,0,0,0,0.25
+MKM 215,Kylox's Voltstrider,,0,0.0,0,0,0,1.00
+MKM 199,Drag the Canal,,0,0.0,0,0,0,0.50
+MKM 167,A Killer Among Us,,0,0.0,0,0,0,0.50
+MKM 154,Bite Down on Crime,,0,0.0,0,0,0,0.25
+MKM 79,Case of the Gorgon's Kiss,,0,0.0,0,0,0,0.50
+MKM 46,Cold Case Cracker,,0,0.0,0,0,0,0.25
+MKM 159,Fanatical Strength,,0,0.0,0,0,0,0.25
+MKM 280,Island,,0,0.0,0,0,0,0.50
+MKM 62,Jaded Analyst,,0,0.0,0,0,0,0.25
+MKM 93,Macabre Reconstruction,,0,0.0,0,0,0,0.25
+MKM 257,Thinking Cap,,0,0.0,0,0,0,0.25
+MKM 109,Unscrupulous Agent,,0,0.0,0,0,0,0.25
+MKM 251,Cryptex,,0,0.0,0,0,0,0.50
+MKM 39,Behind the Mask,,0,0.0,0,0,0,0.25
+MKM 9,Case of the Pilfered Proof,,0,0.0,0,0,0,0.50
+MKM 49,Crimestopper Sprite,,0,0.0,0,0,0,0.25
+MKM 16,Forum Familiar,,0,0.0,0,0,0,0.50
+MKM 6,Goblin Token,,0,0.0,0,0,0,0.50
+MKM 2,Human Token,,0,0.0,0,0,0,0.50
+MKM 91,Leering Onlooker,,0,0.0,0,0,0,0.50
+MKM 23,Makeshift Binding,,0,0.0,0,0,0,0.25
+MKM 228,Riftburst Hellion,,0,0.0,0,0,0,0.25
+MKM 239,Undercover Crocodelf,,0,0.0,0,0,0,0.25
+MKM 149,Airtight Alibi,,0,0.0,0,0,0,0.25
+MKM 42,Burden of Proof,,0,0.0,0,0,0,0.50
+MKM 120,Cornered Crook,,0,0.0,0,0,0,0.50
+MKM 204,Gadget Technician,,0,0.0,0,0,0,0.25
+MKM 249,Hustle // Bustle,,0,0.0,0,0,0,0.50
+MKM 99,Polygraph Orb,,0,0.0,0,0,0,0.50
+MKM 116,The Chase Is On,,0,0.0,0,0,0,0.25
+MKM 235,Tin Street Gossip,,0,0.0,0,0,0,0.50
+MKM 137,Lamplight Phoenix,,0,0.0,0,0,0,0.50
+MKM 34,Tenth District Hero,,0,0.0,0,0,0,0.50
+MKM 78,Basilica Stalker,,0,0.0,0,0,0,0.25
+MKM 40,Benthic Criminologists,,0,0.0,0,0,0,0.25
+MKM 158,Culvert Ambusher,,0,0.0,0,0,0,0.50
+MKM 195,Deadly Complication,,0,0.0,0,0,0,0.50
+MKM 53,Dramatic Accusation,,0,0.0,0,0,0,0.25
+MKM 60,Hotshot Investigators,,0,0.0,0,0,0,0.25
+MKM 213,Kraul Whipcracker,,0,0.0,0,0,0,0.50
+MKM 254,Magnetic Snuffler,,0,0.0,0,0,0,0.50
+MKM 31,Perimeter Enforcer,,0,0.0,0,0,0,0.50
+MKM 33,Seasoned Consultant,,0,0.0,0,0,0,0.25
+MKM 233,Sumala Sentry,,0,0.0,0,0,0,0.50
+MKM 145,Suspicious Detonation,,0,0.0,0,0,0,0.25
+MKM 20,Thopter Token,,0,0.0,0,0,0,0.50
+MKM 113,Case of the Burning Masks,,0,0.0,0,0,0,0.50
+MKM 201,Evidence Examiner,,0,0.0,0,0,0,0.50
+MKM 59,Furtive Courier,,0,0.0,0,0,0,0.50
+MKM 18,Haazda Vigilante,,0,0.0,0,0,0,0.25
+MKM 133,Innocent Bystander,,0,0.0,0,0,0,0.25
+MKM 138,Offender at Large,,0,0.0,0,0,0,0.25
+MKM 225,Rakish Scoundrel,,0,0.0,0,0,0,0.25
+MKM 19,Thopter Token,,0,0.0,0,0,0,0.50
+MKM 37,Wrench,,0,0.0,0,0,0,0.50
+MKM 7,Case File Auditor,,0,0.0,0,0,0,0.50
+MKM 82,Clandestine Meddler,,0,0.0,0,0,0,0.50
+MKM 17,Clue Token,,0,0.0,0,0,0,0.50
+MKM 117,Concealed Weapon,,0,0.0,0,0,0,0.50
+MKM 203,Faerie Snoop,,0,0.0,0,0,0,0.25
+MKM 130,Goblin Maskmaker,,0,0.0,0,0,0,0.25
+MKM 165,Hedge Whisperer,,0,0.0,0,0,0,0.50
+MKM 19,Inside Source,,0,0.0,0,0,0,0.25
+MKM 168,Loxodon Eavesdropper,,0,0.0,0,0,0,0.25
+MKM 253,Lumbering Laundry,,0,0.0,0,0,0,0.50
+MKM 24,Marketwatch Phantom,,0,0.0,0,0,0,0.25
+MKM 25,Museum Nightwatch,,0,0.0,0,0,0,0.25
+MKM 26,Neighborhood Guardian,,0,0.0,0,0,0,0.50
+MKM 30,On the Job,,0,0.0,0,0,0,0.25
+MKM 175,Sample Collector,,0,0.0,0,0,0,0.50
+MKM 256,Sanitation Automaton,,0,0.0,0,0,0,0.25
+MKM 226,Relive the Past,,0,0.0,0,0,0,0.50
+MKM 2,Absolving Lammasu,,0,0.0,0,0,0,0.50
+MKM 76,Alley Assailant,,0,0.0,0,0,0,0.25
+MKM 193,Crowd-Control Warden,,0,0.0,0,0,0,0.25
+MKM 206,Granite Witness,,0,0.0,0,0,0,0.25
+MKM 252,Gravestone Strider,,0,0.0,0,0,0,0.25
+MKM 17,Griffnaut Tracker,,0,0.0,0,0,0,0.25
+MKM 279,Island,,0,0.0,0,0,0,0.50
+MKM 63,Living Conundrum,,0,0.0,0,0,0,0.50
+MKM 96,Nightdrinker Moroii,,0,0.0,0,0,0,0.50
+MKM 277,Plains,,0,0.0,0,0,0,0.50
+MKM 143,Rubblebelt Braggart,,0,0.0,0,0,0,0.25
+MKM 104,Slimy Dualleech,,0,0.0,0,0,0,0.50
+MKM 12,Spirit Token,,0,0.0,0,0,0,0.50
+MKM 72,Sudden Setback,,0,0.0,0,0,0,0.50
+MKM 73,Surveillance Monitor,,0,0.0,0,0,0,0.50
+MKM 16,Clue Token,,0,0.0,0,0,0,0.50
+MKM 11,Defenestrated Phantom,,0,0.0,0,0,0,0.25
+MKM 14,Due Diligence,,0,0.0,0,0,0,0.25
+MKM 90,Lead Pipe,,0,0.0,0,0,0,0.50
+MKM 101,Repeat Offender,,0,0.0,0,0,0,0.25
+MKM 102,Rot Farm Mortipede,,0,0.0,0,0,0,0.25
+MKM 231,Shady Informant,,0,0.0,0,0,0,0.25
+MKM 75,Agency Coroner,,0,0.0,0,0,0,0.25
+MKM 38,Agency Outfitter,,0,0.0,0,0,0,0.50
+MKM 189,Blood Spatter Analysis,,0,0.0,0,0,0,0.50
+MKM 194,Curious Cadaver,,0,0.0,0,0,0,0.50
+MKM 89,It Doesn't Add Up,,0,0.0,0,0,0,0.50
+MKM 171,Pompous Gadabout,,0,0.0,0,0,0,0.50
+MKM 229,Rune-Brand Juggler,,0,0.0,0,0,0,0.50
+MKM 264F,Meticulous Archive,,0,0.0,0,0,0,24.00
+MKM 12F,"Delney, Streetwise Lookout",,0,0.0,0,0,0,36.00
+MKM 268F,Shadowy Backstreet,,0,0.0,0,0,0,26.00
+MKM 271F,Underground Mortuary,,0,0.0,0,0,0,24.00
+MKM 270F,Undercity Sewers,,0,0.0,0,0,0,28.00
+MKM 177F,Slime Against Humanity,,0,0.0,0,0,0,3.00
+MKM 242F,Warleader's Call,,0,0.0,0,0,0,10.00
+MKM 262F,Hedge Maze,,0,0.0,0,0,0,19.00
+MKM 269F,Thundering Falls,,0,0.0,0,0,0,17.00
+MKM 263F,Lush Portico,,0,0.0,0,0,0,12.00
+MKM 148F,Aftermath Analyst,,0,0.0,0,0,0,5.00
+MKM 259F,Commercial District,,0,0.0,0,0,0,13.00
+MKM 260F,Elegant Parlor,,0,0.0,0,0,0,12.00
+MKM 110F,Vein Ripper,,0,0.0,0,0,0,16.00
+MKM 266F,Raucous Theater,,0,0.0,0,0,0,14.00
+MKM 151F,Archdruid's Charm,,0,0.0,0,0,0,9.00
+MKM 187F,Assassin's Trophy,,0,0.0,0,0,0,5.00
+MKM 217F,Leyline of the Guildpact,,0,0.0,0,0,0,5.50
+MKM 94F,"Massacre Girl, Known Killer",,0,0.0,0,0,0,9.00
+MKM 272F,Plains,,0,0.0,0,0,0,1.00
+MKM 155F,Case of the Locked Hothouse,,0,0.0,0,0,0,5.50
+MKM 224F,"Rakdos, Patron of Chaos",,0,0.0,0,0,0,9.00
+MKM 57F,Forensic Gadgeteer,,0,0.0,0,0,0,3.50
+MKM 67F,Proft's Eidetic Memory,,0,0.0,0,0,0,4.00
+MKM 208F,Insidious Roots,,0,0.0,0,0,0,2.50
+MKM 186F,"Anzrag, the Quake-Mole",,0,0.0,0,0,0,5.00
+MKM 274F,Swamp,,0,0.0,0,0,0,1.00
+MKM 181F,Undergrowth Recon,,0,0.0,0,0,0,3.50
+MKM 273F,Island,,0,0.0,0,0,0,1.00
+MKM 188F,"Aurelia, the Law Above",,0,0.0,0,0,0,2.50
+MKM 276F,Forest,,0,0.0,0,0,0,1.00
+MKM 132F,Incinerator of the Guilty,,0,0.0,0,0,0,1.50
+MKM 83F,Deadly Cover-Up,,0,0.0,0,0,0,1.00
+MKM 172F,The Pride of Hull Clade,,0,0.0,0,0,0,3.00
+MKM 267F,Scene of the Crime,,0,0.0,0,0,0,1.00
+MKM 198F,Doppelgang,,0,0.0,0,0,0,1.50
+MKM 107F,Toxin Analysis,,0,0.0,0,0,0,0.50
+MKM 8F,Ooze Token,,0,0.0,0,0,0,0.50
+MKM 121F,Crime Novelist,,0,0.0,0,0,0,1.50
+MKM 221F,No More Lies,,0,0.0,0,0,0,1.00
+MKM 29F,Novice Inspector,,0,0.0,0,0,0,0.50
+MKM 170F,Pick Your Poison,,0,0.0,0,0,0,1.00
+MKM 80F,Case of the Stashed Skeleton,,0,0.0,0,0,0,1.00
+MKM 45F,Case of the Ransacked Lab,,0,0.0,0,0,0,1.50
+MKM 261F,Escape Tunnel,,0,0.0,0,0,0,0.50
+MKM 114F,Case of the Crimson Pulse,,0,0.0,0,0,0,1.00
+MKM 84F,Extract a Confession,,0,0.0,0,0,0,0.50
+MKM 275F,Mountain,,0,0.0,0,0,0,0.50
+MKM 246F,Cease // Desist,,0,0.0,0,0,0,0.50
+MKM 13F,Doorkeeper Thrull,,0,0.0,0,0,0,2.50
+MKM 10F,Case of the Uneaten Feast,,0,0.0,0,0,0,1.00
+MKM 92F,Long Goodbye,,0,0.0,0,0,0,0.50
+MKM 150F,Analyze the Pollen,,0,0.0,0,0,0,1.00
+MKM 227F,Repulsive Mutation,,0,0.0,0,0,0,1.00
+MKM 97F,Outrageous Robbery,,0,0.0,0,0,0,1.00
+MKM 71F,Steamcore Scholar,,0,0.0,0,0,0,0.50
+MKM 241F,"Vannifar, Evolved Enigma",,0,0.0,0,0,0,2.00
+MKM 105F,Snarling Gorehound,,0,0.0,0,0,0,0.50
+MKM 10F,Detective Token,,0,0.0,0,0,0,0.50
+MKM 200F,"Etrata, Deadly Fugitive",,0,0.0,0,0,0,1.50
+MKM 11F,Spider Token,,0,0.0,0,0,0,0.50
+MKM 8F,Case of the Gateway Express,,0,0.0,0,0,0,0.50
+MKM 14F,Clue Token,,0,0.0,0,0,0,0.50
+MKM 100F,Presumed Dead,,0,0.0,0,0,0,0.50
+MKM 243F,Wispdrinker Vampire,,0,0.0,0,0,0,0.50
+MKM 3F,Assemble the Players,,0,0.0,0,0,0,0.50
+MKM 70F,Reenact the Crime,,0,0.0,0,0,0,0.50
+MKM 15F,Essence of Antiquity,,0,0.0,0,0,0,0.50
+MKM 88F,Illicit Masquerade,,0,0.0,0,0,0,0.50
+MKM 144F,Shock,,0,0.0,0,0,0,0.50
+MKM 127F,Fugitive Codebreaker,,0,0.0,0,0,0,0.50
+MKM 210F,"Judith, Carnage Connoisseur",,0,0.0,0,0,0,0.50
+MKM 212F,"Kellan, Inquisitive Prodigy",,0,0.0,0,0,0,0.50
+MKM 164F,Hard-Hitting Question,,0,0.0,0,0,0,0.50
+MKM 1F,Dog Token,,0,0.0,0,0,0,1.00
+MKM 218F,Lightning Helix,,0,0.0,0,0,0,0.50
+MKM 284F,Mountain,,0,0.0,0,0,0,0.50
+MKM 282F,Swamp,,0,0.0,0,0,0,0.50
+MKM 184F,"Agrus Kos, Spirit of Justice",,0,0.0,0,0,0,1.00
+MKM 47F,Conspiracy Unraveler,,0,0.0,0,0,0,1.00
+MKM 160F,Flourishing Bloom-Kin,,0,0.0,0,0,0,0.50
+MKM 36F,Wojek Investigator,,0,0.0,0,0,0,0.50
+MKM 157F,Chalk Outline,,0,0.0,0,0,0,0.50
+MKM 66F,Out Cold,,0,0.0,0,0,0,0.50
+MKM 232F,Soul Search,,0,0.0,0,0,0,0.50
+MKM 185F,"Alquist Proft, Master Sleuth",,0,0.0,0,0,0,1.00
+MKM 123F,Expedited Inheritance,,0,0.0,0,0,0,1.00
+MKM 238F,"Trostani, Three Whispers",,0,0.0,0,0,0,1.00
+MKM 244F,Worldsoul's Rage,,0,0.0,0,0,0,1.00
+MKM 111F,Anzrag's Rampage,,0,0.0,0,0,0,0.50
+MKM 207F,Ill-Timed Explosion,,0,0.0,0,0,0,0.50
+MKM 220F,"Niv-Mizzet, Guildpact",,0,0.0,0,0,0,0.50
+MKM 50F,Cryptic Coat,,0,0.0,0,0,0,0.50
+MKM 58F,Forensic Researcher,,0,0.0,0,0,0,0.50
+MKM 279F,Island,,0,0.0,0,0,0,0.50
+MKM 135F,"Krenko, Baron of Tin Street",,0,0.0,0,0,0,0.50
+MKM 26F,Neighborhood Guardian,,0,0.0,0,0,0,0.50
+MKM 20F,Thopter Token,,0,0.0,0,0,0,0.50
+MKM 245F,"Yarus, Roar of the Old Gods",,0,0.0,0,0,0,0.50
+MKM 7F,Imp Token,,0,0.0,0,0,0,1.00
+MKM 9F,Plant Token,,0,0.0,0,0,0,1.00
+MKM 129F,Gearbane Orangutan,,0,0.0,0,0,0,0.50
+MKM 6F,Goblin Token,,0,0.0,0,0,0,0.50
+MKM 87F,Hunted Bonebrute,,0,0.0,0,0,0,0.50
+MKM 236F,"Tolsimir, Midnight's Light",,0,0.0,0,0,0,0.50
+MKM 77F,Barbed Servitor,,0,0.0,0,0,0,0.50
+MKM 4F,Bat Token,,0,0.0,0,0,0,0.50
+MKM 258F,Branch of Vitu-Ghazi,,0,0.0,0,0,0,0.50
+MKM 156F,Case of the Trampled Garden,,0,0.0,0,0,0,0.50
+MKM 15F,Clue Token,,0,0.0,0,0,0,0.50
+MKM 18F,Clue Token,,0,0.0,0,0,0,0.50
+MKM 2F,Human Token,,0,0.0,0,0,0,0.50
+MKM 91F,Leering Onlooker,,0,0.0,0,0,0,0.50
+MKM 22F,Make Your Move,,0,0.0,0,0,0,0.50
+MKM 169F,Nervous Gardener,,0,0.0,0,0,0,0.50
+MKM 96F,Nightdrinker Moroii,,0,0.0,0,0,0,0.50
+MKM 250F,Push // Pull,,0,0.0,0,0,0,0.50
+MKM 140F,Pyrotechnic Performer,,0,0.0,0,0,0,0.50
+MKM 174F,Rubblebelt Maverick,,0,0.0,0,0,0,0.50
+MKM 230F,Sanguine Savior,,0,0.0,0,0,0,0.50
+MKM 176F,Sharp-Eyed Rookie,,0,0.0,0,0,0,0.50
+MKM 146F,Torch the Witness,,0,0.0,0,0,0,0.50
+MKM 4F,Aurelia's Vindicator,,0,0.0,0,0,0,1.00
+MKM 76F,Alley Assailant,,0,0.0,0,0,0,0.50
+MKM 78F,Basilica Stalker,,0,0.0,0,0,0,0.50
+MKM 190F,Break Out,,0,0.0,0,0,0,0.50
+MKM 191F,Buried in the Garden,,0,0.0,0,0,0,0.50
+MKM 6F,Call a Surprise Witness,,0,0.0,0,0,0,0.50
+MKM 82F,Clandestine Meddler,,0,0.0,0,0,0,0.50
+MKM 16F,Clue Token,,0,0.0,0,0,0,0.50
+MKM 17F,Clue Token,,0,0.0,0,0,0,0.50
+MKM 55F,Exit Specialist,,0,0.0,0,0,0,0.50
+MKM 56F,Fae Flight,,0,0.0,0,0,0,0.50
+MKM 125F,Felonious Rage,,0,0.0,0,0,0,0.50
+MKM 247F,Flotsam // Jetsam,,0,0.0,0,0,0,0.50
+MKM 163F,Greenbelt Radical,,0,0.0,0,0,0,0.50
+MKM 19F,Inside Source,,0,0.0,0,0,0,0.50
+MKM 20F,Karlov Watchdog,,0,0.0,0,0,0,0.50
+MKM 3F,Merfolk Token,,0,0.0,0,0,0,0.50
+MKM 65F,Mistway Spy,,0,0.0,0,0,0,0.50
+MKM 265F,Public Thoroughfare,,0,0.0,0,0,0,0.50
+MKM 106F,Soul Enervation,,0,0.0,0,0,0,0.50
+MKM 12F,Spirit Token,,0,0.0,0,0,0,0.50
+MKM 257F,Thinking Cap,,0,0.0,0,0,0,0.50
+MKM 183F,Vitu-Ghazi Inspector,,0,0.0,0,0,0,0.50
+MKM 43F,Candlestick,,0,0.0,0,0,0,0.50
+MKM 7F,Case File Auditor,,0,0.0,0,0,0,0.50
+MKM 44F,Case of the Filched Falcon,,0,0.0,0,0,0,0.50
+MKM 52F,Deduce,,0,0.0,0,0,0,0.50
+MKM 196F,Detective's Satchel,,0,0.0,0,0,0,0.50
+MKM 285F,Forest,,0,0.0,0,0,0,0.50
+MKM 286F,Forest,,0,0.0,0,0,0,0.50
+MKM 161F,Get a Leg Up,,0,0.0,0,0,0,0.50
+MKM 131F,Harried Dronesmith,,0,0.0,0,0,0,0.50
+MKM 209F,"Izoni, Center of the Web",,0,0.0,0,0,0,0.50
+MKM 213F,Kraul Whipcracker,,0,0.0,0,0,0,0.50
+MKM 64F,Lost in the Maze,,0,0.0,0,0,0,0.50
+MKM 142F,Red Herring,,0,0.0,0,0,0,0.50
+MKM 32F,Sanctuary Wall,,0,0.0,0,0,0,0.50
+MKM 5F,Skeleton Token,,0,0.0,0,0,0,0.50
+MKM 103F,Slice from the Shadows,,0,0.0,0,0,0,0.50
+MKM 234F,"Teysa, Opulent Oligarch",,0,0.0,0,0,0,0.50
+MKM 179F,Topiary Panther,,0,0.0,0,0,0,0.50
+MKM 180F,Tunnel Tipster,,0,0.0,0,0,0,0.50
+MKM 147F,Vengeful Tracker,,0,0.0,0,0,0,0.50
+MKM 61F,Intrude on the Mind,,0,0.0,0,0,0,1.00
+MKM 153F,Axebane Ferox,,0,0.0,0,0,0,0.50
+MKM 39F,Behind the Mask,,0,0.0,0,0,0,0.50
+MKM 1F,Case of the Shattered Pact,,0,0.0,0,0,0,0.50
+MKM 54F,Eliminate the Impossible,,0,0.0,0,0,0,0.50
+MKM 202F,"Ezrim, Agency Chief",,0,0.0,0,0,0,0.50
+MKM 16F,Forum Familiar,,0,0.0,0,0,0,0.50
+MKM 126F,Frantic Scapegoat,,0,0.0,0,0,0,0.50
+MKM 205F,Gleaming Geardrake,,0,0.0,0,0,0,0.50
+MKM 162F,Glint Weaver,,0,0.0,0,0,0,0.50
+MKM 252F,Gravestone Strider,,0,0.0,0,0,0,0.50
+MKM 134F,Knife,,0,0.0,0,0,0,0.50
+MKM 136F,Krenko's Buzzcrusher,,0,0.0,0,0,0,0.50
+MKM 214F,"Kylox, Visionary Inventor",,0,0.0,0,0,0,0.50
+MKM 63F,Living Conundrum,,0,0.0,0,0,0,0.50
+MKM 93F,Macabre Reconstruction,,0,0.0,0,0,0,0.50
+MKM 255F,Magnifying Glass,,0,0.0,0,0,0,0.50
+MKM 98F,Persuasive Interrogators,,0,0.0,0,0,0,0.50
+MKM 99F,Polygraph Orb,,0,0.0,0,0,0,0.50
+MKM 173F,Rope,,0,0.0,0,0,0,0.50
+MKM 178F,They Went This Way,,0,0.0,0,0,0,0.50
+MKM 108F,Undercity Eliminator,,0,0.0,0,0,0,0.50
+MKM 182F,Vengeful Creeper,,0,0.0,0,0,0,0.50
+MKM 13F,Voja Fenstalker Token,,0,0.0,0,0,0,0.50
+MKM 37F,Wrench,,0,0.0,0,0,0,0.50
+MKM 167F,A Killer Among Us,,0,0.0,0,0,0,0.50
+MKM 2F,Absolving Lammasu,,0,0.0,0,0,0,0.50
+MKM 38F,Agency Outfitter,,0,0.0,0,0,0,0.50
+MKM 149F,Airtight Alibi,,0,0.0,0,0,0,0.50
+MKM 152F,Audience with Trostani,,0,0.0,0,0,0,0.50
+MKM 5F,Auspicious Arrival,,0,0.0,0,0,0,0.50
+MKM 40F,Benthic Criminologists,,0,0.0,0,0,0,0.50
+MKM 154F,Bite Down on Crime,,0,0.0,0,0,0,0.50
+MKM 189F,Blood Spatter Analysis,,0,0.0,0,0,0,0.50
+MKM 112F,Bolrac-Clan Basher,,0,0.0,0,0,0,0.50
+MKM 41F,Bubble Smuggler,,0,0.0,0,0,0,0.50
+MKM 115F,Caught Red-Handed,,0,0.0,0,0,0,0.50
+MKM 46F,Cold Case Cracker,,0,0.0,0,0,0,0.50
+MKM 117F,Concealed Weapon,,0,0.0,0,0,0,0.50
+MKM 119F,Convenient Target,,0,0.0,0,0,0,0.50
+MKM 49F,Crimestopper Sprite,,0,0.0,0,0,0,0.50
+MKM 193F,Crowd-Control Warden,,0,0.0,0,0,0,0.50
+MKM 51F,Curious Inquiry,,0,0.0,0,0,0,0.50
+MKM 53F,Dramatic Accusation,,0,0.0,0,0,0,0.50
+MKM 201F,Evidence Examiner,,0,0.0,0,0,0,0.50
+MKM 124F,Expose the Culprit,,0,0.0,0,0,0,0.50
+MKM 59F,Furtive Courier,,0,0.0,0,0,0,0.50
+MKM 248F,Fuss // Bother,,0,0.0,0,0,0,0.50
+MKM 204F,Gadget Technician,,0,0.0,0,0,0,0.50
+MKM 130F,Goblin Maskmaker,,0,0.0,0,0,0,0.50
+MKM 18F,Haazda Vigilante,,0,0.0,0,0,0,0.50
+MKM 166F,Hide in Plain Sight,,0,0.0,0,0,0,0.50
+MKM 86F,Homicide Investigator,,0,0.0,0,0,0,0.50
+MKM 249F,Hustle // Bustle,,0,0.0,0,0,0,0.50
+MKM 133F,Innocent Bystander,,0,0.0,0,0,0,0.50
+MKM 89F,It Doesn't Add Up,,0,0.0,0,0,0,0.50
+MKM 21F,Krovod Haunch,,0,0.0,0,0,0,0.50
+MKM 137F,Lamplight Phoenix,,0,0.0,0,0,0,0.50
+MKM 90F,Lead Pipe,,0,0.0,0,0,0,0.50
+MKM 168F,Loxodon Eavesdropper,,0,0.0,0,0,0,0.50
+MKM 254F,Magnetic Snuffler,,0,0.0,0,0,0,0.50
+MKM 95F,Murder,,0,0.0,0,0,0,0.50
+MKM 25F,Museum Nightwatch,,0,0.0,0,0,0,0.50
+MKM 27F,No Witnesses,,0,0.0,0,0,0,0.50
+MKM 28F,Not on My Watch,,0,0.0,0,0,0,0.50
+MKM 30F,On the Job,,0,0.0,0,0,0,0.50
+MKM 31F,Perimeter Enforcer,,0,0.0,0,0,0,0.50
+MKM 139F,Person of Interest,,0,0.0,0,0,0,0.50
+MKM 278F,Plains,,0,0.0,0,0,0,0.50
+MKM 68F,Projektor Inspector,,0,0.0,0,0,0,0.50
+MKM 225F,Rakish Scoundrel,,0,0.0,0,0,0,0.50
+MKM 141F,Reckless Detective,,0,0.0,0,0,0,0.50
+MKM 101F,Repeat Offender,,0,0.0,0,0,0,0.50
+MKM 228F,Riftburst Hellion,,0,0.0,0,0,0,0.50
+MKM 102F,Rot Farm Mortipede,,0,0.0,0,0,0,0.50
+MKM 175F,Sample Collector,,0,0.0,0,0,0,0.50
+MKM 104F,Slimy Dualleech,,0,0.0,0,0,0,0.50
+MKM 72F,Sudden Setback,,0,0.0,0,0,0,0.50
+MKM 73F,Surveillance Monitor,,0,0.0,0,0,0,0.50
+MKM 281F,Swamp,,0,0.0,0,0,0,0.50
+MKM 235F,Tin Street Gossip,,0,0.0,0,0,0,0.50
+MKM 74F,Unauthorized Exit,,0,0.0,0,0,0,0.50
+MKM 109F,Unscrupulous Agent,,0,0.0,0,0,0,0.50
+MKM 75F,Agency Coroner,,0,0.0,0,0,0,0.50
+MKM 42F,Burden of Proof,,0,0.0,0,0,0,0.50
+MKM 113F,Case of the Burning Masks,,0,0.0,0,0,0,0.50
+MKM 79F,Case of the Gorgon's Kiss,,0,0.0,0,0,0,0.50
+MKM 9F,Case of the Pilfered Proof,,0,0.0,0,0,0,0.50
+MKM 81F,Cerebral Confiscation,,0,0.0,0,0,0,0.50
+MKM 192F,Coerced to Kill,,0,0.0,0,0,0,0.50
+MKM 118F,Connecting the Dots,,0,0.0,0,0,0,0.50
+MKM 120F,Cornered Crook,,0,0.0,0,0,0,0.50
+MKM 48F,Coveted Falcon,,0,0.0,0,0,0,0.50
+MKM 251F,Cryptex,,0,0.0,0,0,0,0.50
+MKM 158F,Culvert Ambusher,,0,0.0,0,0,0,0.50
+MKM 194F,Curious Cadaver,,0,0.0,0,0,0,0.50
+MKM 195F,Deadly Complication,,0,0.0,0,0,0,0.50
+MKM 11F,Defenestrated Phantom,,0,0.0,0,0,0,0.50
+MKM 122F,Demand Answers,,0,0.0,0,0,0,1.00
+MKM 197F,Dog Walker,,0,0.0,0,0,0,0.50
+MKM 199F,Drag the Canal,,0,0.0,0,0,0,0.50
+MKM 14F,Due Diligence,,0,0.0,0,0,0,0.50
+MKM 203F,Faerie Snoop,,0,0.0,0,0,0,0.50
+MKM 159F,Fanatical Strength,,0,0.0,0,0,0,0.50
+MKM 85F,Festerleech,,0,0.0,0,0,0,0.50
+MKM 128F,Galvanize,,0,0.0,0,0,0,0.50
+MKM 206F,Granite Witness,,0,0.0,0,0,0,0.50
+MKM 17F,Griffnaut Tracker,,0,0.0,0,0,0,0.50
+MKM 165F,Hedge Whisperer,,0,0.0,0,0,0,0.50
+MKM 60F,Hotshot Investigators,,0,0.0,0,0,0,0.50
+MKM 280F,Island,,0,0.0,0,0,0,0.50
+MKM 62F,Jaded Analyst,,0,0.0,0,0,0,0.50
+MKM 211F,"Kaya, Spirits' Justice",,0,0.0,0,0,0,1.00
+MKM 215F,Kylox's Voltstrider,,0,0.0,0,0,0,1.00
+MKM 216F,"Lazav, Wearer of Faces",,0,0.0,0,0,0,0.50
+MKM 253F,Lumbering Laundry,,0,0.0,0,0,0,0.50
+MKM 23F,Makeshift Binding,,0,0.0,0,0,0,0.50
+MKM 24F,Marketwatch Phantom,,0,0.0,0,0,0,0.50
+MKM 219F,Meddling Youths,,0,0.0,0,0,0,0.50
+MKM 283F,Mountain,,0,0.0,0,0,0,0.50
+MKM 138F,Offender at Large,,0,0.0,0,0,0,0.50
+MKM 222F,Officious Interrogation,,0,0.0,0,0,0,0.50
+MKM 277F,Plains,,0,0.0,0,0,0,0.50
+MKM 171F,Pompous Gadabout,,0,0.0,0,0,0,0.50
+MKM 223F,Private Eye,,0,0.0,0,0,0,0.50
+MKM 69F,Reasonable Doubt,,0,0.0,0,0,0,0.50
+MKM 226F,Relive the Past,,0,0.0,0,0,0,0.50
+MKM 143F,Rubblebelt Braggart,,0,0.0,0,0,0,0.50
+MKM 229F,Rune-Brand Juggler,,0,0.0,0,0,0,0.50
+MKM 256F,Sanitation Automaton,,0,0.0,0,0,0,0.50
+MKM 33F,Seasoned Consultant,,0,0.0,0,0,0,0.50
+MKM 231F,Shady Informant,,0,0.0,0,0,0,0.50
+MKM 233F,Sumala Sentry,,0,0.0,0,0,0,0.50
+MKM 145F,Suspicious Detonation,,0,0.0,0,0,0,0.50
+MKM 34F,Tenth District Hero,,0,0.0,0,0,0,0.50
+MKM 116F,The Chase Is On,,0,0.0,0,0,0,0.50
+MKM 19F,Thopter Token,,0,0.0,0,0,0,0.50
+MKM 237F,Treacherous Greed,,0,0.0,0,0,0,0.50
+MKM 239F,Undercover Crocodelf,,0,0.0,0,0,0,0.50
+MKM 35F,Unyielding Gatekeeper,,0,0.0,0,0,0,0.50
+MKM 240F,Urgent Necropsy,,0,0.0,0,0,0,1.00

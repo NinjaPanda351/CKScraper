@@ -1,0 +1,596 @@
+AKH 2,Anointed Procession,,0,0.0,0,0,0,64.00
+AKH 237,Throne of the God-Pharaoh,,0,0.0,0,0,0,9.50
+AKH 233,Oketra's Monument,,0,0.0,0,0,0,6.00
+AKH 4,Approach of the Second Sun,,0,0.0,0,0,0,4.50
+AKH 225,Bontu's Monument,,0,0.0,0,0,0,4.50
+AKH 229,Hazoret's Monument,,0,0.0,0,0,0,2.00
+AKH 236,Rhonas's Monument,,0,0.0,0,0,0,2.00
+AKH 112,Trespasser's Curse,,0,0.0,0,0,0,1.00
+AKH 275,Liliana,,0,0.0,0,0,0,0
+AKH 175,Manglehorn,,0,0.0,0,0,0,1.50
+AKH 24,Regal Caracal,,0,0.0,0,0,0,2.00
+AKH 180,Prowling Serpopard,,0,0.0,0,0,0,3.00
+AKH 182,Rhonas the Indomitable,,0,0.0,0,0,0,5.00
+AKH 170,Harvest Season,,0,0.0,0,0,0,2.50
+AKH 205,Samut,,0,0.0,0,0,0,0
+AKH 82,Bontu the Glorified,,0,0.0,0,0,0,3.00
+AKH 148,Soul-Scar Mage,,0,0.0,0,0,0,1.00
+AKH 249,Sunscorched Desert,,0,0.0,0,0,0,0.50
+AKH 84,Cruel Reality,,0,0.0,0,0,0,2.00
+AKH 187,Sixth Sense,,0,0.0,0,0,0,1.00
+AKH 101,Nest of Scarabs,,0,0.0,0,0,0,1.00
+AKH 21,Oketra the True,,0,0.0,0,0,0,3.00
+AKH 192,Vizier of the Menagerie,,0,0.0,0,0,0,3.00
+AKH 111,Supernatural Stamina,,0,0.0,0,0,0,0.25
+AKH 131,Flameblade Adept,,0,0.0,0,0,0,0.50
+AKH 199,Hapatra,,0,0.0,0,0,0,0
+AKH 14,Gideon of the Trials,,0,0.0,0,0,0,2.00
+AKH 240,Cascading Cataracts,,0,0.0,0,0,0,1.50
+AKH 27,Sacred Cat,,0,0.0,0,0,0,0.50
+AKH 231,Kefnet's Monument,,0,0.0,0,0,0,0.50
+AKH 107,Shadow of the Grave,,0,0.0,0,0,0,1.00
+AKH 23,Snake Token,,0,0.0,0,0,0,2.00
+AKH 71,Slither Blade,,0,0.0,0,0,0,0.50
+AKH 5,Aven Mindcensor,,0,0.0,0,0,0,1.00
+AKH 48,Cryptic Serpent,,0,0.0,0,0,0,0.50
+AKH 213,Insult // Injury,,0,0.0,0,0,0,1.00
+AKH 223,Cut // Ribbons,,0,0.0,0,0,0,1.00
+AKH 123,By Force,,0,0.0,0,0,0,0.50
+AKH 133,Glorious End,,0,0.0,0,0,0,1.00
+AKH 250,Plains,,0,0.0,0,0,0,0.50
+AKH 252,Swamp,,0,0.0,0,0,0,0.50
+AKH 135,Harsh Mentor,,0,0.0,0,0,0,0.50
+AKH 245,Irrigated Farmland,,0,0.0,0,0,0,0.50
+AKH 7,Cartouche of Solidarity,,0,0.0,0,0,0,0.25
+AKH 78,Archfiend of Ifnir,,0,0.0,0,0,0,2.50
+AKH 134,Glorybringer,,0,0.0,0,0,0,0.50
+AKH 251,Island,,0,0.0,0,0,0,0.50
+AKH 244,Grasping Dunes,,0,0.0,0,0,0,0.50
+AKH 104,Plague Belcher,,0,0.0,0,0,0,2.00
+AKH 97,Liliana,,0,0.0,0,0,0,0
+AKH 136,Hazoret the Fervent,,0,0.0,0,0,0,1.00
+AKH 227,Embalmer's Tools,,0,0.0,0,0,0,0.50
+AKH 210,Dusk // Dawn,,0,0.0,0,0,0,0.50
+AKH 59,Kefnet the Mindful,,0,0.0,0,0,0,1.00
+AKH 119,Blazing Volley,,0,0.0,0,0,0,0.25
+AKH 75,Vizier of Tumbling Sands,,0,0.0,0,0,0,0.50
+AKH 159,Champion of Rhonas,,0,0.0,0,0,0,0.50
+AKH 74,Vizier of Many Faces,,0,0.0,0,0,0,0.50
+AKH 253,Mountain,,0,0.0,0,0,0,0.50
+AKH 204,Nissa,,0,0.0,0,0,0,0
+AKH 88,Dread Wanderer,,0,0.0,0,0,0,0.50
+AKH 241,Cradle of the Accursed,,0,0.0,0,0,0,0.25
+AKH 98,Liliana's Mastery,,0,0.0,0,0,0,0.50
+AKH 195,Aven Wind Guide,,0,0.0,0,0,0,0.50
+AKH 243,Fetid Pools,,0,0.0,0,0,0,0.50
+AKH 17,Warrior Token,,0,0.0,0,0,0,0.50
+AKH 235,Pyramid of the Pantheon,,0,0.0,0,0,0,0.50
+AKH 64,Open into Wonder,,0,0.0,0,0,0,0.50
+AKH 42,As Foretold,,0,0.0,0,0,0,1.00
+AKH 248,Sheltered Thicket,,0,0.0,0,0,0,0.50
+AKH 52,Essence Scatter,,0,0.0,0,0,0,0.25
+AKH 91,Festering Mummy,,0,0.0,0,0,0,0.25
+AKH 13,Forsake the Worldly,,0,0.0,0,0,0,0.25
+AKH 158,Cartouche of Strength,,0,0.0,0,0,0,0.25
+AKH 254,Forest,,0,0.0,0,0,0,0.50
+AKH 90,Faith of the Devoted,,0,0.0,0,0,0,0.50
+AKH 76,Winds of Rebuke,,0,0.0,0,0,0,0.25
+AKH 247,Scattered Groves,,0,0.0,0,0,0,0.50
+AKH 65,Pull from Tomorrow,,0,0.0,0,0,0,0.50
+AKH 38,Vizier of Remedies,,0,0.0,0,0,0,0.50
+AKH 19,Insect Token,,0,0.0,0,0,0,0.50
+AKH 125,Combat Celebrant,,0,0.0,0,0,0,1.00
+AKH 270,Gideon,,0,0.0,0,0,0,0
+AKH 1,Angel of Sanctions,,0,0.0,0,0,0,1.00
+AKH 239,Canyon Slough,,0,0.0,0,0,0,0.50
+AKH 167,Gift of Paradise,,0,0.0,0,0,0,0.25
+AKH 278,Tattered Mummy,,0,0.0,0,0,0,0.25
+AKH 172,Honored Hydra,,0,0.0,0,0,0,0.50
+AKH 211,Commit // Memory,,0,0.0,0,0,0,0.50
+AKH 212,Never // Return,,0,0.0,0,0,0,0.50
+AKH 200,Honored Crop-Captain,,0,0.0,0,0,0,0.50
+AKH 49,Curator of Mysteries,,0,0.0,0,0,0,0.50
+AKH 16,Cat Token,,0,0.0,0,0,0,0.50
+AKH 95,Horror of the Broken Lands,,0,0.0,0,0,0,0.25
+AKH 46,Censor,,0,0.0,0,0,0,0.50
+AKH 63,New Perspectives,,0,0.0,0,0,0,0.50
+AKH 222,Rags // Riches,,0,0.0,0,0,0,0.50
+AKH 3,Anointer Priest,,0,0.0,0,0,0,0.25
+AKH 171,Haze of Pollen,,0,0.0,0,0,0,0.25
+AKH 47,Compelling Argument,,0,0.0,0,0,0,0.25
+AKH 132,Fling,,0,0.0,0,0,0,0.25
+AKH 228,Gate to the Afterlife,,0,0.0,0,0,0,0.50
+AKH 45,Cartouche of Knowledge,,0,0.0,0,0,0,0.25
+AKH 279,Foul Orchard,,0,0.0,0,0,0,0.25
+AKH 186,Shefet Monitor,,0,0.0,0,0,0,0.50
+AKH 100,Miasmic Mummy,,0,0.0,0,0,0,0.25
+AKH 219,Spring // Mind,,0,0.0,0,0,0,0.50
+AKH 208,Wayward Servant,,0,0.0,0,0,0,0.50
+AKH 183,Sandwurm Convergence,,0,0.0,0,0,0,0.50
+AKH 277,Liliana's Influence,,0,0.0,0,0,0,1.00
+AKH 11,Djeru's Resolve,,0,0.0,0,0,0,0.25
+AKH 57,Hieroglyphic Illumination,,0,0.0,0,0,0,0.25
+AKH 214,Mouth // Feed,,0,0.0,0,0,0,0.50
+AKH 83,Cartouche of Ambition,,0,0.0,0,0,0,0.25
+AKH 149,Sweltering Suns,,0,0.0,0,0,0,0.50
+AKH 81,Bone Picker,,0,0.0,0,0,0,0.50
+AKH 99,Lord of the Accursed,,0,0.0,0,0,0,0.50
+AKH 51,Drake Haven,,0,0.0,0,0,0,0.50
+AKH 256,Plains,,0,0.0,0,0,0,0.50
+AKH 18,Drake Token,,0,0.0,0,0,0,0.50
+AKH 261,Swamp,,0,0.0,0,0,0,0.50
+AKH 201,Khenra Charioteer,,0,0.0,0,0,0,0.50
+AKH 176,Naga Vitalist,,0,0.0,0,0,0,0.25
+AKH 287,Woodland Stream,,0,0.0,0,0,0,0.25
+AKH 10,Sacred Cat Token,,0,0.0,0,0,0,0.50
+AKH 121,Bloodrage Brawler,,0,0.0,0,0,0,0.50
+AKH 44,Cancel,,0,0.0,0,0,0,0.25
+AKH 124,Cartouche of Zeal,,0,0.0,0,0,0,0.25
+AKH 109,Splendid Agony,,0,0.0,0,0,0,0.25
+AKH 169,Hapatra's Mark,,0,0.0,0,0,0,0.50
+AKH 203,Neheb,,0,0.0,0,0,0,0
+AKH 234,Oracle's Vault,,0,0.0,0,0,0,0.50
+AKH 24,Wurm Token,,0,0.0,0,0,0,0.50
+AKH 115,Wander in Death,,0,0.0,0,0,0,0.25
+AKH 198,Enigma Drake,,0,0.0,0,0,0,0.50
+AKH 255,Plains,,0,0.0,0,0,0,0.50
+AKH 220,Prepare // Fight,,0,0.0,0,0,0,0.50
+AKH 207,Temmet,,0,0.0,0,0,0,0
+AKH 217,Destined // Lead,,0,0.0,0,0,0,0.50
+AKH 143,Minotaur Sureshot,,0,0.0,0,0,0,0.25
+AKH 258,Island,,0,0.0,0,0,0,0.50
+AKH 140,Limits of Solidarity,,0,0.0,0,0,0,0.50
+AKH 4,Aven Wind Guide Token,,0,0.0,0,0,0,0.50
+AKH 164,Dissenter's Deliverance,,0,0.0,0,0,0,0.25
+AKH 281,Forsaken Sanctuary,,0,0.0,0,0,0,0.25
+AKH 106,Scarab Feast,,0,0.0,0,0,0,0.25
+AKH 20,Zombie Token,,0,0.0,0,0,0,0.50
+AKH 160,Channeler Initiate,,0,0.0,0,0,0,0.50
+AKH 66,River Serpent,,0,0.0,0,0,0,0.25
+AKH 105,Ruthless Sniper,,0,0.0,0,0,0,0.50
+AKH 40,Ancient Crab,,0,0.0,0,0,0,0.25
+AKH 146,Pathmaker Initiate,,0,0.0,0,0,0,0.25
+AKH 154,Violent Impact,,0,0.0,0,0,0,0.25
+AKH 26,Amonkhet Punch Card,,0,0.0,0,0,0,0.50
+AKH 242,Evolving Wilds,,0,0.0,0,0,0,0.25
+AKH 168,Greater Sandwurm,,0,0.0,0,0,0,0.25
+AKH 189,Stinging Shot,,0,0.0,0,0,0,0.25
+AKH 22,Hippo Token,,0,0.0,0,0,0,0.50
+AKH 93,Gravedigger,,0,0.0,0,0,0,0.50
+AKH 262,Swamp,,0,0.0,0,0,0,0.50
+AKH 196,Bounty of the Luxa,,0,0.0,0,0,0,0.50
+AKH 137,Hazoret's Favor,,0,0.0,0,0,0,0.50
+AKH 6,Binding Mummy,,0,0.0,0,0,0,0.25
+AKH 161,Colossapede,,0,0.0,0,0,0,0.25
+AKH 128,Desert Cerodon,,0,0.0,0,0,0,0.25
+AKH 92,Final Reward,,0,0.0,0,0,0,0.25
+AKH 273,Graceful Cat,,0,0.0,0,0,0,0.25
+AKH 174,Initiate's Companion,,0,0.0,0,0,0,0.25
+AKH 238,Watchers of the Dead,,0,0.0,0,0,0,0.50
+AKH 209,Weaver of Currents,,0,0.0,0,0,0,0.50
+AKH 156,Benefaction of Rhonas,,0,0.0,0,0,0,0.25
+AKH 9,Compulsory Rest,,0,0.0,0,0,0,0.25
+AKH 85,Cursed Minotaur,,0,0.0,0,0,0,0.25
+AKH 282,Highland Lake,,0,0.0,0,0,0,0.25
+AKH 139,Hyena Pack,,0,0.0,0,0,0,0.25
+AKH 259,Island,,0,0.0,0,0,0,0.50
+AKH 232,Luxa River Shrine,,0,0.0,0,0,0,0.25
+AKH 22,Oketra's Attendant,,0,0.0,0,0,0,0.50
+AKH 257,Plains,,0,0.0,0,0,0,0.50
+AKH 16,Glory-Bound Initiate,,0,0.0,0,0,0,0.50
+AKH 55,Glyph Keeper,,0,0.0,0,0,0,0.50
+AKH 138,Heart-Piercer Manticore,,0,0.0,0,0,0,0.50
+AKH 130,Emberhorn Minotaur,,0,0.0,0,0,0,0.25
+AKH 12,Fan Bearer,,0,0.0,0,0,0,0.25
+AKH 25,Renewed Faith,,0,0.0,0,0,0,0.50
+AKH 70,Shimmerscale Drake,,0,0.0,0,0,0,0.25
+AKH 29,Sparring Mummy,,0,0.0,0,0,0,0.25
+AKH 263,Swamp,,0,0.0,0,0,0,0.50
+AKH 37,Vizier of Deferment,,0,0.0,0,0,0,0.50
+AKH 116,Wasteland Scorpion,,0,0.0,0,0,0,0.25
+AKH 284,Submerged Boneyard,,0,0.0,0,0,0,0.25
+AKH 117,Ahn-Crop Crasher,,0,0.0,0,0,0,0.50
+AKH 41,Angler Drake,,0,0.0,0,0,0,0.50
+AKH 8,Cast Out,,0,0.0,0,0,0,0.50
+AKH 280,Cinder Barrens,,0,0.0,0,0,0,0.25
+AKH 165,Exemplar of Strength,,0,0.0,0,0,0,0.50
+AKH 53,Floodwaters,,0,0.0,0,0,0,0.25
+AKH 267,Forest,,0,0.0,0,0,0,0.50
+AKH 268,Forest,,0,0.0,0,0,0,0.50
+AKH 269,Forest,,0,0.0,0,0,0,0.50
+AKH 17,Gust Walker,,0,0.0,0,0,0,0.25
+AKH 230,Honed Khopesh,,0,0.0,0,0,0,0.25
+AKH 19,In Oketra's Name,,0,0.0,0,0,0,0.25
+AKH 264,Mountain,,0,0.0,0,0,0,0.50
+AKH 265,Mountain,,0,0.0,0,0,0,0.50
+AKH 145,Nimble-Blade Khenra,,0,0.0,0,0,0,0.25
+AKH 218,Onward // Victory,,0,0.0,0,0,0,0.50
+AKH 67,Sacred Excavation,,0,0.0,0,0,0,0.50
+AKH 28,Seraph of the Suns,,0,0.0,0,0,0,0.50
+AKH 151,Tormenting Voice,,0,0.0,0,0,0,0.25
+AKH 77,Zenith Seeker,,0,0.0,0,0,0,0.50
+AKH 15,Gideon's Intervention,,0,0.0,0,0,0,0.50
+AKH 272,Gideon's Resolve,,0,0.0,0,0,0,0.50
+AKH 1,Angel of Sanctions Token,,0,0.0,0,0,0,0.50
+AKH 157,Bitterblade Warrior,,0,0.0,0,0,0,0.25
+AKH 80,Blighted Bat,,0,0.0,0,0,0,0.25
+AKH 89,Dune Beetle,,0,0.0,0,0,0,0.25
+AKH 260,Island,,0,0.0,0,0,0,0.50
+AKH 96,Lay Bare the Heart,,0,0.0,0,0,0,0.50
+AKH 141,Magma Spray,,0,0.0,0,0,0,0.25
+AKH 202,Merciless Javelineer,,0,0.0,0,0,0,0.50
+AKH 266,Mountain,,0,0.0,0,0,0,0.50
+AKH 103,Pitiless Vizier,,0,0.0,0,0,0,0.25
+AKH 108,Soulstinger,,0,0.0,0,0,0,0.25
+AKH 33,Time to Reflect,,0,0.0,0,0,0,0.50
+AKH 194,Ahn-Crop Champion,,0,0.0,0,0,0,0.50
+AKH 79,Baleful Ammit,,0,0.0,0,0,0,0.50
+AKH 21,Beast Token,,0,0.0,0,0,0,0.50
+AKH 6,Heart-Piercer Manticore Token,,0,0.0,0,0,0,0.50
+AKH 56,Hekma Sentinels,,0,0.0,0,0,0,0.25
+AKH 144,Nef-Crop Entangler,,0,0.0,0,0,0,0.25
+AKH 246,Painted Bluffs,,0,0.0,0,0,0,0.25
+AKH 23,Protection of the Hekma,,0,0.0,0,0,0,0.50
+AKH 215,Start // Finish,,0,0.0,0,0,0,0.50
+AKH 110,Stir the Sands,,0,0.0,0,0,0,0.50
+AKH 155,Warfire Javelineer,,0,0.0,0,0,0,0.50
+AKH 224,Heaven // Earth,,0,0.0,0,0,0,0.50
+AKH 2,Anointer Priest Token,,0,0.0,0,0,0,0.50
+AKH 118,Battlefield Scavenger,,0,0.0,0,0,0,0.50
+AKH 162,Crocodile of the Crossing,,0,0.0,0,0,0,0.50
+AKH 197,Decimator Beetle,,0,0.0,0,0,0,0.50
+AKH 127,Deem Worthy,,0,0.0,0,0,0,0.50
+AKH 10,Devoted Crop-Mate,,0,0.0,0,0,0,0.50
+AKH 5,Glyph Keeper Token,,0,0.0,0,0,0,0.50
+AKH 60,Labyrinth Guardian,,0,0.0,0,0,0,0.50
+AKH 61,Lay Claim,,0,0.0,0,0,0,0.50
+AKH 283,Meandering River,,0,0.0,0,0,0,0.25
+AKH 177,Oashra Cultivator,,0,0.0,0,0,0,0.25
+AKH 9,Oketra's Attendant Token,,0,0.0,0,0,0,0.50
+AKH 147,Pursue Glory,,0,0.0,0,0,0,0.25
+AKH 68,Scribe of the Mindful,,0,0.0,0,0,0,0.25
+AKH 188,Spidery Grasp,,0,0.0,0,0,0,0.25
+AKH 190,Synchronized Strike,,0,0.0,0,0,0,0.50
+AKH 72,Tah-Crop Skirmisher,,0,0.0,0,0,0,0.25
+AKH 73,Trial of Knowledge,,0,0.0,0,0,0,0.50
+AKH 153,Trueheart Twins,,0,0.0,0,0,0,0.50
+AKH 221,Failure // Comply,,0,0.0,0,0,0,0.50
+AKH 3,Aven Initiate Token,,0,0.0,0,0,0,0.50
+AKH 122,Brute Strength,,0,0.0,0,0,0,0.25
+AKH 226,Edifice of Authority,,0,0.0,0,0,0,0.50
+AKH 54,Galestrike,,0,0.0,0,0,0,0.50
+AKH 166,Giant Spider,,0,0.0,0,0,0,0.25
+AKH 173,Hooded Brawler,,0,0.0,0,0,0,0.25
+AKH 58,Illusory Wrappings,,0,0.0,0,0,0,0.25
+AKH 178,Ornery Kudu,,0,0.0,0,0,0,0.25
+AKH 206,Shadowstorm Vizier,,0,0.0,0,0,0,0.50
+AKH 31,Tah-Crop Elite,,0,0.0,0,0,0,0.25
+AKH 11,Tah-Crop Skirmisher Token,,0,0.0,0,0,0,0.50
+AKH 36,Unwavering Initiate,,0,0.0,0,0,0,0.25
+AKH 120,Bloodlust Inciter,,0,0.0,0,0,0,0.25
+AKH 271,Companion of the Trials,,0,0.0,0,0,0,0.50
+AKH 126,Consuming Fervor,,0,0.0,0,0,0,0.50
+AKH 163,Defiant Greatmaw,,0,0.0,0,0,0,0.50
+AKH 12,Temmet,,0,0.0,0,0,0,0
+AKH 276,Desiccated Naga,,0,0.0,0,0,0,0.50
+AKH 87,Doomed Dissenter,,0,0.0,0,0,0,0.25
+AKH 129,Electrify,,0,0.0,0,0,0,0.25
+AKH 8,Labyrinth Guardian Token,,0,0.0,0,0,0,0.50
+AKH 142,Manticore of the Gauntlet,,0,0.0,0,0,0,0.25
+AKH 20,Mighty Leap,,0,0.0,0,0,0,0.25
+AKH 62,Naga Oracle,,0,0.0,0,0,0,0.25
+AKH 102,Painful Lesson,,0,0.0,0,0,0,0.25
+AKH 179,Pouncing Cheetah,,0,0.0,0,0,0,0.25
+AKH 181,Quarry Hauler,,0,0.0,0,0,0,0.25
+AKH 216,Reduce // Rubble,,0,0.0,0,0,0,0.50
+AKH 184,Scaled Behemoth,,0,0.0,0,0,0,0.50
+AKH 185,Shed Weakness,,0,0.0,0,0,0,0.25
+AKH 30,Supply Caravan,,0,0.0,0,0,0,0.25
+AKH 32,Those Who Serve,,0,0.0,0,0,0,0.25
+AKH 150,Thresher Lizard,,0,0.0,0,0,0,0.25
+AKH 152,Trial of Zeal,,0,0.0,0,0,0,0.50
+AKH 13,Trueheart Duelist Token,,0,0.0,0,0,0,0.50
+AKH 193,Watchful Naga,,0,0.0,0,0,0,0.50
+AKH 39,Winged Shepherd,,0,0.0,0,0,0,0.25
+AKH 94,Grim Strider,,0,0.0,0,0,0,0.50
+AKH 26,Rhet-Crop Spearmaster,,0,0.0,0,0,0,0.25
+AKH 274,Stone Quarry,,0,0.0,0,0,0,0.25
+AKH 286,Tranquil Expanse,,0,0.0,0,0,0,0.25
+AKH 113,Trial of Ambition,,0,0.0,0,0,0,0.50
+AKH 191,Trial of Strength,,0,0.0,0,0,0,0.50
+AKH 35,Trueheart Duelist,,0,0.0,0,0,0,0.50
+AKH 14,Unwavering Initiate Token,,0,0.0,0,0,0,0.50
+AKH 43,Aven Initiate,,0,0.0,0,0,0,0.25
+AKH 50,Decision Paralysis,,0,0.0,0,0,0,0.25
+AKH 18,Impeccable Timing,,0,0.0,0,0,0,0.25
+AKH 114,Unburden,,0,0.0,0,0,0,0.25
+AKH 15,Vizier of Many Faces Token,,0,0.0,0,0,0,0.50
+AKH 86,Dispossess,,0,0.0,0,0,0,0.50
+AKH 7,Honored Hydra Token,,0,0.0,0,0,0,0.50
+AKH 69,Seeker of Insight,,0,0.0,0,0,0,0.25
+AKH 285,Timber Gorge,,0,0.0,0,0,0,0.25
+AKH 34,Trial of Solidarity,,0,0.0,0,0,0,0.50
+AKH 225F,Bontu's Monument,,0,0.0,0,0,0,16.00
+AKH 237F,Throne of the God-Pharaoh,,0,0.0,0,0,0,10.00
+AKH 135F,Harsh Mentor,,0,0.0,0,0,0,8.00
+AKH 4F,Approach of the Second Sun,,0,0.0,0,0,0,5.50
+AKH 175F,Manglehorn,,0,0.0,0,0,0,9.50
+AKH 24F,Regal Caracal,,0,0.0,0,0,0,5.00
+AKH 231F,Kefnet's Monument,,0,0.0,0,0,0,4.00
+AKH 229F,Hazoret's Monument,,0,0.0,0,0,0,11.00
+AKH 233F,Oketra's Monument,,0,0.0,0,0,0,11.00
+AKH 240F,Cascading Cataracts,,0,0.0,0,0,0,3.50
+AKH 249F,Sunscorched Desert,,0,0.0,0,0,0,8.00
+AKH 27F,Sacred Cat,,0,0.0,0,0,0,9.50
+AKH 112F,Trespasser's Curse,,0,0.0,0,0,0,9.50
+AKH 205F,Samut,,0,0.0,0,0,0,0
+AKH 125F,Combat Celebrant,,0,0.0,0,0,0,14.00
+AKH 187F,Sixth Sense,,0,0.0,0,0,0,5.00
+AKH 101F,Nest of Scarabs,,0,0.0,0,0,0,7.00
+AKH 182F,Rhonas the Indomitable,,0,0.0,0,0,0,10.00
+AKH 104F,Plague Belcher,,0,0.0,0,0,0,4.00
+AKH 148F,Soul-Scar Mage,,0,0.0,0,0,0,7.00
+AKH 199F,Hapatra,,0,0.0,0,0,0,0
+AKH 78F,Archfiend of Ifnir,,0,0.0,0,0,0,6.50
+AKH 2F,Anointed Procession,,0,0.0,0,0,0,88.00
+AKH 210F,Dusk // Dawn,,0,0.0,0,0,0,4.00
+AKH 48F,Cryptic Serpent,,0,0.0,0,0,0,3.00
+AKH 71F,Slither Blade,,0,0.0,0,0,0,6.50
+AKH 84F,Cruel Reality,,0,0.0,0,0,0,3.00
+AKH 136F,Hazoret the Fervent,,0,0.0,0,0,0,5.00
+AKH 21F,Oketra the True,,0,0.0,0,0,0,5.00
+AKH 244F,Grasping Dunes,,0,0.0,0,0,0,2.50
+AKH 5F,Aven Mindcensor,,0,0.0,0,0,0,3.00
+AKH 211F,Commit // Memory,,0,0.0,0,0,0,3.00
+AKH 236F,Rhonas's Monument,,0,0.0,0,0,0,4.00
+AKH 45F,Cartouche of Knowledge,,0,0.0,0,0,0,1.50
+AKH 82F,Bontu the Glorified,,0,0.0,0,0,0,6.50
+AKH 180F,Prowling Serpopard,,0,0.0,0,0,0,6.50
+AKH 14F,Gideon of the Trials,,0,0.0,0,0,0,3.00
+AKH 183F,Sandwurm Convergence,,0,0.0,0,0,0,3.00
+AKH 252F,Swamp,,0,0.0,0,0,0,1.50
+AKH 208F,Wayward Servant,,0,0.0,0,0,0,2.00
+AKH 123F,By Force,,0,0.0,0,0,0,1.00
+AKH 192F,Vizier of the Menagerie,,0,0.0,0,0,0,5.50
+AKH 12F,Fan Bearer,,0,0.0,0,0,0,0.50
+AKH 7F,Cartouche of Solidarity,,0,0.0,0,0,0,5.00
+AKH 59F,Kefnet the Mindful,,0,0.0,0,0,0,2.50
+AKH 131F,Flameblade Adept,,0,0.0,0,0,0,3.00
+AKH 204F,Nissa,,0,0.0,0,0,0,0
+AKH 245F,Irrigated Farmland,,0,0.0,0,0,0,1.50
+AKH 91F,Festering Mummy,,0,0.0,0,0,0,1.00
+AKH 227F,Embalmer's Tools,,0,0.0,0,0,0,2.00
+AKH 99F,Lord of the Accursed,,0,0.0,0,0,0,2.00
+AKH 120F,Bloodlust Inciter,,0,0.0,0,0,0,1.00
+AKH 159F,Champion of Rhonas,,0,0.0,0,0,0,1.00
+AKH 134F,Glorybringer,,0,0.0,0,0,0,1.00
+AKH 128F,Desert Cerodon,,0,0.0,0,0,0,0.50
+AKH 171F,Haze of Pollen,,0,0.0,0,0,0,0.50
+AKH 46F,Censor,,0,0.0,0,0,0,1.00
+AKH 119F,Blazing Volley,,0,0.0,0,0,0,1.50
+AKH 223F,Cut // Ribbons,,0,0.0,0,0,0,1.50
+AKH 98F,Liliana's Mastery,,0,0.0,0,0,0,1.50
+AKH 247F,Scattered Groves,,0,0.0,0,0,0,1.00
+AKH 80F,Blighted Bat,,0,0.0,0,0,0,0.50
+AKH 242F,Evolving Wilds,,0,0.0,0,0,0,0.50
+AKH 92F,Final Reward,,0,0.0,0,0,0,0.50
+AKH 39F,Winged Shepherd,,0,0.0,0,0,0,0.50
+AKH 139F,Hyena Pack,,0,0.0,0,0,0,0.50
+AKH 42F,As Foretold,,0,0.0,0,0,0,3.00
+AKH 40F,Ancient Crab,,0,0.0,0,0,0,0.50
+AKH 168F,Greater Sandwurm,,0,0.0,0,0,0,0.50
+AKH 57F,Hieroglyphic Illumination,,0,0.0,0,0,0,0.50
+AKH 212F,Never // Return,,0,0.0,0,0,0,0.50
+AKH 243F,Fetid Pools,,0,0.0,0,0,0,2.50
+AKH 213F,Insult // Injury,,0,0.0,0,0,0,2.50
+AKH 241F,Cradle of the Accursed,,0,0.0,0,0,0,1.50
+AKH 107F,Shadow of the Grave,,0,0.0,0,0,0,3.00
+AKH 64F,Open into Wonder,,0,0.0,0,0,0,2.50
+AKH 6F,Binding Mummy,,0,0.0,0,0,0,1.00
+AKH 132F,Fling,,0,0.0,0,0,0,1.00
+AKH 251F,Island,,0,0.0,0,0,0,1.00
+AKH 111F,Supernatural Stamina,,0,0.0,0,0,0,1.00
+AKH 38F,Vizier of Remedies,,0,0.0,0,0,0,1.00
+AKH 1F,Angel of Sanctions,,0,0.0,0,0,0,2.00
+AKH 137F,Hazoret's Favor,,0,0.0,0,0,0,0.50
+AKH 239F,Canyon Slough,,0,0.0,0,0,0,0.50
+AKH 124F,Cartouche of Zeal,,0,0.0,0,0,0,0.50
+AKH 117F,Ahn-Crop Crasher,,0,0.0,0,0,0,1.50
+AKH 90F,Faith of the Devoted,,0,0.0,0,0,0,1.50
+AKH 133F,Glorious End,,0,0.0,0,0,0,1.50
+AKH 65F,Pull from Tomorrow,,0,0.0,0,0,0,1.50
+AKH 235F,Pyramid of the Pantheon,,0,0.0,0,0,0,1.50
+AKH 262F,Swamp,,0,0.0,0,0,0,1.50
+AKH 74F,Vizier of Many Faces,,0,0.0,0,0,0,1.50
+AKH 88F,Dread Wanderer,,0,0.0,0,0,0,1.00
+AKH 149F,Sweltering Suns,,0,0.0,0,0,0,1.00
+AKH 122F,Brute Strength,,0,0.0,0,0,0,0.50
+AKH 55F,Glyph Keeper,,0,0.0,0,0,0,0.50
+AKH 58F,Illusory Wrappings,,0,0.0,0,0,0,0.50
+AKH 232F,Luxa River Shrine,,0,0.0,0,0,0,0.50
+AKH 20F,Mighty Leap,,0,0.0,0,0,0,0.50
+AKH 116F,Wasteland Scorpion,,0,0.0,0,0,0,0.50
+AKH 195F,Aven Wind Guide,,0,0.0,0,0,0,1.00
+AKH 51F,Drake Haven,,0,0.0,0,0,0,1.00
+AKH 95F,Horror of the Broken Lands,,0,0.0,0,0,0,1.00
+AKH 258F,Island,,0,0.0,0,0,0,1.00
+AKH 256F,Plains,,0,0.0,0,0,0,1.00
+AKH 156F,Benefaction of Rhonas,,0,0.0,0,0,0,0.50
+AKH 81F,Bone Picker,,0,0.0,0,0,0,0.50
+AKH 87F,Doomed Dissenter,,0,0.0,0,0,0,0.50
+AKH 228F,Gate to the Afterlife,,0,0.0,0,0,0,0.50
+AKH 172F,Honored Hydra,,0,0.0,0,0,0,0.50
+AKH 142F,Manticore of the Gauntlet,,0,0.0,0,0,0,0.50
+AKH 100F,Miasmic Mummy,,0,0.0,0,0,0,0.50
+AKH 255F,Plains,,0,0.0,0,0,0,0.50
+AKH 207F,Temmet,,0,0.0,0,0,0,0
+AKH 33F,Time to Reflect,,0,0.0,0,0,0,0.50
+AKH 3F,Anointer Priest,,0,0.0,0,0,0,1.00
+AKH 169F,Hapatra's Mark,,0,0.0,0,0,0,1.00
+AKH 176F,Naga Vitalist,,0,0.0,0,0,0,1.00
+AKH 248F,Sheltered Thicket,,0,0.0,0,0,0,1.00
+AKH 219F,Spring // Mind,,0,0.0,0,0,0,1.00
+AKH 194F,Ahn-Crop Champion,,0,0.0,0,0,0,0.50
+AKH 121F,Bloodrage Brawler,,0,0.0,0,0,0,0.50
+AKH 44F,Cancel,,0,0.0,0,0,0,0.50
+AKH 83F,Cartouche of Ambition,,0,0.0,0,0,0,0.50
+AKH 246F,Painted Bluffs,,0,0.0,0,0,0,1.00
+AKH 85F,Cursed Minotaur,,0,0.0,0,0,0,0.50
+AKH 130F,Emberhorn Minotaur,,0,0.0,0,0,0,0.50
+AKH 221F,Failure // Comply,,0,0.0,0,0,0,0.50
+AKH 254F,Forest,,0,0.0,0,0,0,0.50
+AKH 94F,Grim Strider,,0,0.0,0,0,0,0.50
+AKH 224F,Heaven // Earth,,0,0.0,0,0,0,0.50
+AKH 230F,Honed Khopesh,,0,0.0,0,0,0,0.50
+AKH 260F,Island,,0,0.0,0,0,0,0.50
+AKH 201F,Khenra Charioteer,,0,0.0,0,0,0,0.50
+AKH 22F,Oketra's Attendant,,0,0.0,0,0,0,0.50
+AKH 179F,Pouncing Cheetah,,0,0.0,0,0,0,0.50
+AKH 151F,Tormenting Voice,,0,0.0,0,0,0,0.50
+AKH 113F,Trial of Ambition,,0,0.0,0,0,0,0.50
+AKH 197F,Decimator Beetle,,0,0.0,0,0,0,0.50
+AKH 11F,Djeru's Resolve,,0,0.0,0,0,0,0.50
+AKH 174F,Initiate's Companion,,0,0.0,0,0,0,0.50
+AKH 264F,Mountain,,0,0.0,0,0,0,0.50
+AKH 222F,Rags // Riches,,0,0.0,0,0,0,0.50
+AKH 41F,Angler Drake,,0,0.0,0,0,0,0.50
+AKH 79F,Baleful Ammit,,0,0.0,0,0,0,0.50
+AKH 157F,Bitterblade Warrior,,0,0.0,0,0,0,0.50
+AKH 160F,Channeler Initiate,,0,0.0,0,0,0,0.50
+AKH 47F,Compelling Argument,,0,0.0,0,0,0,0.50
+AKH 217F,Destined // Lead,,0,0.0,0,0,0,0.50
+AKH 89F,Dune Beetle,,0,0.0,0,0,0,0.50
+AKH 52F,Essence Scatter,,0,0.0,0,0,0,0.50
+AKH 54F,Galestrike,,0,0.0,0,0,0,0.50
+AKH 15F,Gideon's Intervention,,0,0.0,0,0,0,0.50
+AKH 19F,In Oketra's Name,,0,0.0,0,0,0,0.50
+AKH 60F,Labyrinth Guardian,,0,0.0,0,0,0,0.50
+AKH 96F,Lay Bare the Heart,,0,0.0,0,0,0,0.50
+AKH 202F,Merciless Javelineer,,0,0.0,0,0,0,0.50
+AKH 214F,Mouth // Feed,,0,0.0,0,0,0,0.50
+AKH 203F,Neheb,,0,0.0,0,0,0,0
+AKH 177F,Oashra Cultivator,,0,0.0,0,0,0,0.50
+AKH 218F,Onward // Victory,,0,0.0,0,0,0,0.50
+AKH 178F,Ornery Kudu,,0,0.0,0,0,0,0.50
+AKH 146F,Pathmaker Initiate,,0,0.0,0,0,0,0.50
+AKH 103F,Pitiless Vizier,,0,0.0,0,0,0,0.50
+AKH 250F,Plains,,0,0.0,0,0,0,0.50
+AKH 147F,Pursue Glory,,0,0.0,0,0,0,0.50
+AKH 181F,Quarry Hauler,,0,0.0,0,0,0,0.50
+AKH 25F,Renewed Faith,,0,0.0,0,0,0,0.50
+AKH 26F,Rhet-Crop Spearmaster,,0,0.0,0,0,0,0.50
+AKH 66F,River Serpent,,0,0.0,0,0,0,0.50
+AKH 106F,Scarab Feast,,0,0.0,0,0,0,0.50
+AKH 28F,Seraph of the Suns,,0,0.0,0,0,0,0.50
+AKH 108F,Soulstinger,,0,0.0,0,0,0,0.50
+AKH 29F,Sparring Mummy,,0,0.0,0,0,0,0.50
+AKH 109F,Splendid Agony,,0,0.0,0,0,0,0.50
+AKH 30F,Supply Caravan,,0,0.0,0,0,0,0.50
+AKH 190F,Synchronized Strike,,0,0.0,0,0,0,0.50
+AKH 31F,Tah-Crop Elite,,0,0.0,0,0,0,0.50
+AKH 32F,Those Who Serve,,0,0.0,0,0,0,0.50
+AKH 73F,Trial of Knowledge,,0,0.0,0,0,0,0.50
+AKH 35F,Trueheart Duelist,,0,0.0,0,0,0,0.50
+AKH 153F,Trueheart Twins,,0,0.0,0,0,0,0.50
+AKH 36F,Unwavering Initiate,,0,0.0,0,0,0,0.50
+AKH 154F,Violent Impact,,0,0.0,0,0,0,0.50
+AKH 37F,Vizier of Deferment,,0,0.0,0,0,0,0.50
+AKH 115F,Wander in Death,,0,0.0,0,0,0,0.50
+AKH 238F,Watchers of the Dead,,0,0.0,0,0,0,0.50
+AKH 77F,Zenith Seeker,,0,0.0,0,0,0,0.50
+AKH 43F,Aven Initiate,,0,0.0,0,0,0,0.50
+AKH 118F,Battlefield Scavenger,,0,0.0,0,0,0,0.50
+AKH 196F,Bounty of the Luxa,,0,0.0,0,0,0,0.50
+AKH 158F,Cartouche of Strength,,0,0.0,0,0,0,2.50
+AKH 8F,Cast Out,,0,0.0,0,0,0,1.00
+AKH 161F,Colossapede,,0,0.0,0,0,0,0.50
+AKH 9F,Compulsory Rest,,0,0.0,0,0,0,0.50
+AKH 126F,Consuming Fervor,,0,0.0,0,0,0,0.50
+AKH 162F,Crocodile of the Crossing,,0,0.0,0,0,0,0.50
+AKH 49F,Curator of Mysteries,,0,0.0,0,0,0,1.00
+AKH 50F,Decision Paralysis,,0,0.0,0,0,0,0.50
+AKH 127F,Deem Worthy,,0,0.0,0,0,0,0.50
+AKH 163F,Defiant Greatmaw,,0,0.0,0,0,0,0.50
+AKH 10F,Devoted Crop-Mate,,0,0.0,0,0,0,0.50
+AKH 86F,Dispossess,,0,0.0,0,0,0,0.50
+AKH 164F,Dissenter's Deliverance,,0,0.0,0,0,0,0.50
+AKH 226F,Edifice of Authority,,0,0.0,0,0,0,0.50
+AKH 129F,Electrify,,0,0.0,0,0,0,0.50
+AKH 198F,Enigma Drake,,0,0.0,0,0,0,0.50
+AKH 165F,Exemplar of Strength,,0,0.0,0,0,0,0.50
+AKH 53F,Floodwaters,,0,0.0,0,0,0,0.50
+AKH 267F,Forest,,0,0.0,0,0,0,0.50
+AKH 268F,Forest,,0,0.0,0,0,0,0.50
+AKH 13F,Forsake the Worldly,,0,0.0,0,0,0,1.50
+AKH 166F,Giant Spider,,0,0.0,0,0,0,0.50
+AKH 167F,Gift of Paradise,,0,0.0,0,0,0,1.00
+AKH 16F,Glory-Bound Initiate,,0,0.0,0,0,0,0.50
+AKH 93F,Gravedigger,,0,0.0,0,0,0,0.50
+AKH 17F,Gust Walker,,0,0.0,0,0,0,0.50
+AKH 170F,Harvest Season,,0,0.0,0,0,0,5.00
+AKH 138F,Heart-Piercer Manticore,,0,0.0,0,0,0,0.50
+AKH 56F,Hekma Sentinels,,0,0.0,0,0,0,0.50
+AKH 200F,Honored Crop-Captain,,0,0.0,0,0,0,1.00
+AKH 173F,Hooded Brawler,,0,0.0,0,0,0,0.50
+AKH 18F,Impeccable Timing,,0,0.0,0,0,0,0.50
+AKH 259F,Island,,0,0.0,0,0,0,0.50
+AKH 269F,Forest,,0,0.0,0,0,0,1.00
+AKH 61F,Lay Claim,,0,0.0,0,0,0,0.50
+AKH 140F,Limits of Solidarity,,0,0.0,0,0,0,0.50
+AKH 141F,Magma Spray,,0,0.0,0,0,0,0.50
+AKH 143F,Minotaur Sureshot,,0,0.0,0,0,0,0.50
+AKH 253F,Mountain,,0,0.0,0,0,0,0.50
+AKH 265F,Mountain,,0,0.0,0,0,0,0.50
+AKH 266F,Mountain,,0,0.0,0,0,0,0.50
+AKH 62F,Naga Oracle,,0,0.0,0,0,0,0.50
+AKH 144F,Nef-Crop Entangler,,0,0.0,0,0,0,0.50
+AKH 145F,Nimble-Blade Khenra,,0,0.0,0,0,0,0.50
+AKH 234F,Oracle's Vault,,0,0.0,0,0,0,0.50
+AKH 102F,Painful Lesson,,0,0.0,0,0,0,0.50
+AKH 257F,Plains,,0,0.0,0,0,0,0.50
+AKH 220F,Prepare // Fight,,0,0.0,0,0,0,0.50
+AKH 23F,Protection of the Hekma,,0,0.0,0,0,0,0.50
+AKH 216F,Reduce // Rubble,,0,0.0,0,0,0,0.50
+AKH 105F,Ruthless Sniper,,0,0.0,0,0,0,0.50
+AKH 67F,Sacred Excavation,,0,0.0,0,0,0,0.50
+AKH 184F,Scaled Behemoth,,0,0.0,0,0,0,0.50
+AKH 68F,Scribe of the Mindful,,0,0.0,0,0,0,0.50
+AKH 69F,Seeker of Insight,,0,0.0,0,0,0,0.50
+AKH 206F,Shadowstorm Vizier,,0,0.0,0,0,0,0.50
+AKH 185F,Shed Weakness,,0,0.0,0,0,0,0.50
+AKH 97F,Liliana,,0,0.0,0,0,0,0
+AKH 63F,New Perspectives,,0,0.0,0,0,0,1.00
+AKH 186F,Shefet Monitor,,0,0.0,0,0,0,1.00
+AKH 70F,Shimmerscale Drake,,0,0.0,0,0,0,0.50
+AKH 188F,Spidery Grasp,,0,0.0,0,0,0,0.50
+AKH 215F,Start // Finish,,0,0.0,0,0,0,0.50
+AKH 189F,Stinging Shot,,0,0.0,0,0,0,0.50
+AKH 110F,Stir the Sands,,0,0.0,0,0,0,0.50
+AKH 261F,Swamp,,0,0.0,0,0,0,0.50
+AKH 263F,Swamp,,0,0.0,0,0,0,1.00
+AKH 72F,Tah-Crop Skirmisher,,0,0.0,0,0,0,0.50
+AKH 150F,Thresher Lizard,,0,0.0,0,0,0,0.50
+AKH 34F,Trial of Solidarity,,0,0.0,0,0,0,0.50
+AKH 191F,Trial of Strength,,0,0.0,0,0,0,0.50
+AKH 152F,Trial of Zeal,,0,0.0,0,0,0,0.50
+AKH 114F,Unburden,,0,0.0,0,0,0,0.50
+AKH 75F,Vizier of Tumbling Sands,,0,0.0,0,0,0,3.50
+AKH 155F,Warfire Javelineer,,0,0.0,0,0,0,0.50
+AKH 193F,Watchful Naga,,0,0.0,0,0,0,0.50
+AKH 209F,Weaver of Currents,,0,0.0,0,0,0,0.50
+AKH 76F,Winds of Rebuke,,0,0.0,0,0,0,2.00
+AKH 275,"Liliana, Death Wielder",,0,0.0,0,0,0,11.00
+AKH 205,"Samut, Voice of Dissent",,0,0.0,0,0,0,3.00
+AKH 199,"Hapatra, Vizier of Poisons",,0,0.0,0,0,0,1.00
+AKH 97,"Liliana, Death's Majesty",,0,0.0,0,0,0,1.00
+AKH 204,"Nissa, Steward of Elements",,0,0.0,0,0,0,1.00
+AKH 270,"Gideon, Martial Paragon",,0,0.0,0,0,0,1.00
+AKH 203,"Neheb, the Worthy",,0,0.0,0,0,0,0.50
+AKH 207,"Temmet, Vizier of Naktamun",,0,0.0,0,0,0,0.50
+AKH 12,"Temmet, Vizier of Naktamun Token",,0,0.0,0,0,0,0.50
+AKH 205F,"Samut, Voice of Dissent",,0,0.0,0,0,0,5.00
+AKH 199F,"Hapatra, Vizier of Poisons",,0,0.0,0,0,0,5.00
+AKH 204F,"Nissa, Steward of Elements",,0,0.0,0,0,0,1.00
+AKH 207F,"Temmet, Vizier of Naktamun",,0,0.0,0,0,0,0.50
+AKH 203F,"Neheb, the Worthy",,0,0.0,0,0,0,0.50
+AKH 97F,"Liliana, Death's Majesty",,0,0.0,0,0,0,6.50

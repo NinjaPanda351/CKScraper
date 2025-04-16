@@ -1,0 +1,339 @@
+CMD 253,Lightning Greaves,,0,0.0,0,0,0,7.00
+CMD 85,Grave Pact,,0,0.0,0,0,0,24.00
+CMD 59,Riddlekeeper,,0,0.0,0,0,0,17.00
+CMD 277,Homeward Path,,0,0.0,0,0,0,16.00
+CMD 147,Collective Voyage,,0,0.0,0,0,0,7.50
+CMD 72,Attrition,,0,0.0,0,0,0,21.00
+CMD 46,Flusterstorm,,0,0.0,0,0,0,9.00
+CMD 182,Aura Shards,,0,0.0,0,0,0,16.00
+CMD 126,Insurrection,,0,0.0,0,0,0,10.00
+CMD 4,Alliance of Arms,,0,0.0,0,0,0,12.00
+CMD 40,Brainstorm,,0,0.0,0,0,0,3.00
+CMD 181,Animar,,0,0.0,0,0,0,0
+CMD 50,Memory Erosion,,0,0.0,0,0,0,7.00
+CMD 14,Ghostly Prison,,0,0.0,0,0,0,6.50
+CMD 260,Skullclamp,,0,0.0,0,0,0,9.00
+CMD 44,Dreamborn Muse,,0,0.0,0,0,0,4.50
+CMD 21,Mother of Runes,,0,0.0,0,0,0,7.50
+CMD 79,Dread Cacodemon,,0,0.0,0,0,0,5.00
+CMD 132,Pyrohemia,,0,0.0,0,0,0,11.00
+CMD 251,Howling Mine,,0,0.0,0,0,0,6.00
+CMD 220,Riku of Two Reflections,,0,0.0,0,0,0,1.00
+CMD 241,Acorn Catapult,,0,0.0,0,0,0,6.50
+CMD 206,Kaalia of the Vast,,0,0.0,0,0,0,3.00
+CMD 191,Damia,,0,0.0,0,0,0,0
+CMD 136,Stranglehold,,0,0.0,0,0,0,6.50
+CMD 55,Propaganda,,0,0.0,0,0,0,5.50
+CMD 157,Garruk Wildspeaker,,0,0.0,0,0,0,4.00
+CMD 166,Magus of the Vineyard,,0,0.0,0,0,0,4.50
+CMD 65,Trench Gorger,,0,0.0,0,0,0,4.00
+CMD 174,Symbiotic Wurm,,0,0.0,0,0,0,3.50
+CMD 102,Stitch Together,,0,0.0,0,0,0,5.00
+CMD 267,Bojuka Bog,,0,0.0,0,0,0,2.00
+CMD 240,Zedruu the Greathearted,,0,0.0,0,0,0,1.00
+CMD 5,Angelic Arbiter,,0,0.0,0,0,0,5.00
+CMD 70,Windfall,,0,0.0,0,0,0,5.00
+CMD 57,Reins of Power,,0,0.0,0,0,0,2.00
+CMD 185,Bladewing the Risen,,0,0.0,0,0,0,2.00
+CMD 77,Diabolic Tutor,,0,0.0,0,0,0,2.00
+CMD 109,Anger,,0,0.0,0,0,0,4.00
+CMD 134,Ruination,,0,0.0,0,0,0,4.00
+CMD 71,Wonder,,0,0.0,0,0,0,3.00
+CMD 261,Sol Ring,,0,0.0,0,0,0,2.00
+CMD 73,Avatar of Woe,,0,0.0,0,0,0,4.50
+CMD 12,Crescendo of War,,0,0.0,0,0,0,2.50
+CMD 221,Ruhan of the Fomori,,0,0.0,0,0,0,1.00
+CMD 203,Hull Breach,,0,0.0,0,0,0,2.00
+CMD 129,Mana-Charged Dragon,,0,0.0,0,0,0,2.00
+CMD 244,Champion's Helm,,0,0.0,0,0,0,4.50
+CMD 148,Cultivate,,0,0.0,0,0,0,1.00
+CMD 22,Oblation,,0,0.0,0,0,0,1.50
+CMD 125,Goblin Cadets,,0,0.0,0,0,0,1.50
+CMD 163,Kodama's Reach,,0,0.0,0,0,0,3.00
+CMD 117,Comet Storm,,0,0.0,0,0,0,2.00
+CMD 184,Basandra,,0,0.0,0,0,0,0
+CMD 142,Awakening Zone,,0,0.0,0,0,0,1.00
+CMD 88,Living Death,,0,0.0,0,0,0,5.00
+CMD 152,Eternal Witness,,0,0.0,0,0,0,2.50
+CMD 153,Explosive Vegetation,,0,0.0,0,0,0,1.00
+CMD 114,Chaos Warp,,0,0.0,0,0,0,2.00
+CMD 250,Gruul Signet,,0,0.0,0,0,0,1.50
+CMD 248,Fellwar Stone,,0,0.0,0,0,0,2.50
+CMD 95,Reiver Demon,,0,0.0,0,0,0,2.00
+CMD 239,Wrexial,,0,0.0,0,0,0,0
+CMD 209,Master Warcraft,,0,0.0,0,0,0,1.00
+CMD 249,Golgari Signet,,0,0.0,0,0,0,1.00
+CMD 269,Command Tower,,0,0.0,0,0,0,0.50
+CMD 227,Skullbriar,,0,0.0,0,0,0,0
+CMD 66,Vedalken Plotter,,0,0.0,0,0,0,1.50
+CMD 33,Spurnmage Advocate,,0,0.0,0,0,0,0.50
+CMD 25,Path to Exile,,0,0.0,0,0,0,2.50
+CMD 229,Tariel,,0,0.0,0,0,0,0
+CMD 7,Archangel of Strife,,0,0.0,0,0,0,1.00
+CMD 169,Sakura-Tribe Elder,,0,0.0,0,0,0,1.50
+CMD 231,Terminate,,0,0.0,0,0,0,1.00
+CMD 187,Brion Stoutarm,,0,0.0,0,0,0,1.00
+CMD 255,Orzhov Signet,,0,0.0,0,0,0,1.00
+CMD 272,Evolving Wilds,,0,0.0,0,0,0,0.50
+CMD 305,Island,,0,0.0,0,0,0,0.50
+CMD 213,Nin,,0,0.0,0,0,0,0
+CMD 200,Ghave,,0,0.0,0,0,0,0
+CMD 230,Teneb,,0,0.0,0,0,0,0
+CMD 63,Spell Crumple,,0,0.0,0,0,0,0.50
+CMD 38,Windborn Muse,,0,0.0,0,0,0,1.00
+CMD 266,Barren Moor,,0,0.0,0,0,0,0.50
+CMD 252,Izzet Signet,,0,0.0,0,0,0,1.50
+CMD 258,Selesnya Signet,,0,0.0,0,0,0,1.50
+CMD 52,Mulldrifter,,0,0.0,0,0,0,0.50
+CMD 208,Malfegor,,0,0.0,0,0,0,1.00
+CMD 172,Spike Feeder,,0,0.0,0,0,0,1.00
+CMD 10,Celestial Force,,0,0.0,0,0,0,1.00
+CMD 268,Boros Garrison,,0,0.0,0,0,0,0.50
+CMD 278,Izzet Boilerworks,,0,0.0,0,0,0,0.50
+CMD 210,The Mimeoplasm,,0,0.0,0,0,0,1.00
+CMD 243,Boros Signet,,0,0.0,0,0,0,2.00
+CMD 215,Numot,,0,0.0,0,0,0,0
+CMD 159,Hornet Queen,,0,0.0,0,0,0,1.00
+CMD 51,Minds Aglow,,0,0.0,0,0,0,1.00
+CMD 31,Shattered Angel,,0,0.0,0,0,0,1.00
+CMD 108,Akroma,,0,0.0,0,0,0,0
+CMD 54,Perilous Research,,0,0.0,0,0,0,0.50
+CMD 257,Rakdos Signet,,0,0.0,0,0,0,1.50
+CMD 194,Dominus of Fealty,,0,0.0,0,0,0,1.00
+CMD 101,Sign in Blood,,0,0.0,0,0,0,1.00
+CMD 34,Storm Herd,,0,0.0,0,0,0,1.00
+CMD 308,Swamp,,0,0.0,0,0,0,0.50
+CMD 74,Buried Alive,,0,0.0,0,0,0,2.00
+CMD 110,Avatar of Fury,,0,0.0,0,0,0,0.50
+CMD 316,Forest,,0,0.0,0,0,0,0.50
+CMD 225,Sigil Captain,,0,0.0,0,0,0,0.50
+CMD 204,Intet,,0,0.0,0,0,0,0
+CMD 216,Oros,,0,0.0,0,0,0,0
+CMD 13,False Prophet,,0,0.0,0,0,0,1.00
+CMD 93,Patron of the Nezumi,,0,0.0,0,0,0,0.50
+CMD 139,Wild Ricochet,,0,0.0,0,0,0,0.50
+CMD 64,Trade Secrets,,0,0.0,0,0,0,0.50
+CMD 6,Arbiter of Knollridge,,0,0.0,0,0,0,0.50
+CMD 259,Simic Signet,,0,0.0,0,0,0,0.50
+CMD 178,Vow of Wildness,,0,0.0,0,0,0,0.50
+CMD 283,Orzhov Basilica,,0,0.0,0,0,0,0.50
+CMD 19,Martyr's Bond,,0,0.0,0,0,0,0.50
+CMD 177,Veteran Explorer,,0,0.0,0,0,0,0.50
+CMD 111,Avatar of Slaughter,,0,0.0,0,0,0,0.50
+CMD 289,Svogthos,,0,0.0,0,0,0,0
+CMD 8,Austere Command,,0,0.0,0,0,0,1.00
+CMD 296,Vivid Marsh,,0,0.0,0,0,0,0.50
+CMD 84,Footbottom Feast,,0,0.0,0,0,0,0.50
+CMD 133,Rapacious One,,0,0.0,0,0,0,0.50
+CMD 196,Edric,,0,0.0,0,0,0,0
+CMD 212,Necrogenesis,,0,0.0,0,0,0,0.50
+CMD 118,Death by Dragons,,0,0.0,0,0,0,0.50
+CMD 103,Syphon Flesh,,0,0.0,0,0,0,0.50
+CMD 226,Simic Sky Swallower,,0,0.0,0,0,0,0.50
+CMD 188,Call the Skybreaker,,0,0.0,0,0,0,0.50
+CMD 271,Dreadship Reef,,0,0.0,0,0,0,0.50
+CMD 68,Vow of Flight,,0,0.0,0,0,0,0.50
+CMD 128,Magmatic Force,,0,0.0,0,0,0,0.50
+CMD 293,Vivid Crag,,0,0.0,0,0,0,0.50
+CMD 297,Vivid Meadow,,0,0.0,0,0,0,0.50
+CMD 107,Vow of Malice,,0,0.0,0,0,0,0.50
+CMD 301,Plains,,0,0.0,0,0,0,0.50
+CMD 246,Dimir Signet,,0,0.0,0,0,0,1.00
+CMD 1,Artisan of Kozilek,,0,0.0,0,0,0,1.00
+CMD 207,Karador,,0,0.0,0,0,0,0
+CMD 49,Guard Gomazoa,,0,0.0,0,0,0,0.50
+CMD 41,Chromeshell Crab,,0,0.0,0,0,0,0.50
+CMD 318,Forest,,0,0.0,0,0,0,0.50
+CMD 256,Prophetic Prism,,0,0.0,0,0,0,0.25
+CMD 262,Solemn Simulacrum,,0,0.0,0,0,0,1.00
+CMD 235,Vorosh,,0,0.0,0,0,0,0
+CMD 219,Prophetic Bolt,,0,0.0,0,0,0,0.50
+CMD 263,Triskelavus,,0,0.0,0,0,0,0.50
+CMD 124,Furnace Whelp,,0,0.0,0,0,0,0.50
+CMD 167,Penumbra Spider,,0,0.0,0,0,0,0.25
+CMD 285,Rupture Spire,,0,0.0,0,0,0,0.25
+CMD 286,Secluded Steppe,,0,0.0,0,0,0,0.25
+CMD 175,Tribute to the Wild,,0,0.0,0,0,0,0.50
+CMD 106,Vampire Nighthawk,,0,0.0,0,0,0,0.50
+CMD 3,Akroma's Vengeance,,0,0.0,0,0,0,0.50
+CMD 113,Chain Reaction,,0,0.0,0,0,0,0.50
+CMD 199,Firespout,,0,0.0,0,0,0,0.50
+CMD 171,Spawnwrithe,,0,0.0,0,0,0,0.50
+CMD 104,Syphon Mind,,0,0.0,0,0,0,0.50
+CMD 234,Vish Kal,,0,0.0,0,0,0,0
+CMD 67,Vision Skeins,,0,0.0,0,0,0,0.50
+CMD 165,Lhurgoyf,,0,0.0,0,0,0,0.50
+CMD 245,Darksteel Ingot,,0,0.0,0,0,0,0.50
+CMD 281,Lonely Sandbar,,0,0.0,0,0,0,0.50
+CMD 149,Deadly Recluse,,0,0.0,0,0,0,0.25
+CMD 131,Punishing Fire,,0,0.0,0,0,0,0.50
+CMD 138,Vow of Lightning,,0,0.0,0,0,0,0.50
+CMD 161,Hydra Omnivore,,0,0.0,0,0,0,2.00
+CMD 154,Fertilid,,0,0.0,0,0,0,0.25
+CMD 198,Fire // Ice,,0,0.0,0,0,0,0.50
+CMD 91,Nemesis Trap,,0,0.0,0,0,0,0.50
+CMD 26,Pollen Lullaby,,0,0.0,0,0,0,0.50
+CMD 97,Scythe Specter,,0,0.0,0,0,0,0.50
+CMD 254,Oblivion Stone,,0,0.0,0,0,0,1.00
+CMD 264,Akoum Refuge,,0,0.0,0,0,0,0.50
+CMD 189,Chorus of the Conclave,,0,0.0,0,0,0,0.50
+CMD 290,Temple of the False God,,0,0.0,0,0,0,0.50
+CMD 56,Ray of Command,,0,0.0,0,0,0,0.25
+CMD 291,Terramorphic Expanse,,0,0.0,0,0,0,0.25
+CMD 294,Vivid Creek,,0,0.0,0,0,0,0.50
+CMD 295,Vivid Grove,,0,0.0,0,0,0,0.50
+CMD 141,Aquastrand Spider,,0,0.0,0,0,0,0.25
+CMD 112,Breath of Darigaaz,,0,0.0,0,0,0,0.50
+CMD 317,Forest,,0,0.0,0,0,0,0.50
+CMD 201,Golgari Guildmage,,0,0.0,0,0,0,0.50
+CMD 280,Kazandu Refuge,,0,0.0,0,0,0,0.50
+CMD 218,Plumeveil,,0,0.0,0,0,0,0.50
+CMD 94,Razorjaw Oni,,0,0.0,0,0,0,0.50
+CMD 75,Butcher of Malakir,,0,0.0,0,0,0,0.50
+CMD 276,Gruul Turf,,0,0.0,0,0,0,0.50
+CMD 37,Wall of Omens,,0,0.0,0,0,0,0.50
+CMD 279,Jwar Isle Refuge,,0,0.0,0,0,0,0.50
+CMD 237,Wall of Denial,,0,0.0,0,0,0,1.00
+CMD 155,Fierce Empath,,0,0.0,0,0,0,0.50
+CMD 87,Hex,,0,0.0,0,0,0,0.50
+CMD 28,Return to Dust,,0,0.0,0,0,0,0.50
+CMD 228,Szadek,,0,0.0,0,0,0,0
+CMD 35,Voice of All,,0,0.0,0,0,0,0.50
+CMD 236,Vulturous Zombie,,0,0.0,0,0,0,0.50
+CMD 2,Afterlife,,0,0.0,0,0,0,0.50
+CMD 202,Gwyllion Hedge-Mage,,0,0.0,0,0,0,0.50
+CMD 127,Lash Out,,0,0.0,0,0,0,0.25
+CMD 53,Murmurs from Beyond,,0,0.0,0,0,0,0.25
+CMD 90,Nantuko Husk,,0,0.0,0,0,0,0.50
+CMD 32,Soul Snare,,0,0.0,0,0,0,0.50
+CMD 135,Spitebellows,,0,0.0,0,0,0,0.50
+CMD 292,Tranquil Thicket,,0,0.0,0,0,0,0.25
+CMD 36,Vow of Duty,,0,0.0,0,0,0,0.50
+CMD 179,Yavimaya Elder,,0,0.0,0,0,0,0.25
+CMD 170,Scavenging Ooze,,0,0.0,0,0,0,0.50
+CMD 287,Selesnya Sanctuary,,0,0.0,0,0,0,0.50
+CMD 99,Shared Trauma,,0,0.0,0,0,0,0.50
+CMD 146,Cobra Trap,,0,0.0,0,0,0,0.50
+CMD 247,Dreamstone Hedron,,0,0.0,0,0,0,0.50
+CMD 197,Electrolyze,,0,0.0,0,0,0,0.50
+CMD 123,Flametongue Kavu,,0,0.0,0,0,0,0.50
+CMD 315,Forest,,0,0.0,0,0,0,0.50
+CMD 24,Orim's Thunder,,0,0.0,0,0,0,0.25
+CMD 224,Selesnya Guildmage,,0,0.0,0,0,0,0.50
+CMD 30,Serra Angel,,0,0.0,0,0,0,0.50
+CMD 137,Sulfurous Blast,,0,0.0,0,0,0,0.50
+CMD 69,Whirlpool Whelm,,0,0.0,0,0,0,0.25
+CMD 47,Fog Bank,,0,0.0,0,0,0,1.00
+CMD 15,Hour of Reckoning,,0,0.0,0,0,0,1.00
+CMD 284,Rakdos Carnarium,,0,0.0,0,0,0,1.00
+CMD 98,Sewer Nemesis,,0,0.0,0,0,0,1.00
+CMD 288,Simic Growth Chamber,,0,0.0,0,0,0,1.00
+CMD 42,Conundrum Sphinx,,0,0.0,0,0,0,0.50
+CMD 119,Disaster Radius,,0,0.0,0,0,0,0.50
+CMD 81,Extractor Demon,,0,0.0,0,0,0,0.50
+CMD 89,Mortivore,,0,0.0,0,0,0,0.50
+CMD 92,Nezumi Graverobber,,0,0.0,0,0,0,0.50
+CMD 29,Righteous Cause,,0,0.0,0,0,0,0.50
+CMD 61,Skyscribing,,0,0.0,0,0,0,0.50
+CMD 23,Oblivion Ring,,0,0.0,0,0,0,0.25
+CMD 242,Armillary Sphere,,0,0.0,0,0,0,0.25
+CMD 183,Azorius Guildmage,,0,0.0,0,0,0,0.50
+CMD 143,Baloth Woodcrasher,,0,0.0,0,0,0,0.50
+CMD 144,Bestial Menace,,0,0.0,0,0,0,0.50
+CMD 186,Boros Guildmage,,0,0.0,0,0,0,0.50
+CMD 11,Congregate,,0,0.0,0,0,0,0.25
+CMD 205,Izzet Chronarch,,0,0.0,0,0,0,0.25
+CMD 20,Monk Realist,,0,0.0,0,0,0,0.25
+CMD 312,Mountain,,0,0.0,0,0,0,0.50
+CMD 313,Mountain,,0,0.0,0,0,0,0.50
+CMD 214,Nucklavee,,0,0.0,0,0,0,0.50
+CMD 233,Vengeful Rebirth,,0,0.0,0,0,0,0.50
+CMD 238,Wrecking Ball,,0,0.0,0,0,0,0.25
+CMD 298,Zoetic Cavern,,0,0.0,0,0,0,0.50
+CMD 195,Duergar Hedge-Mage,,0,0.0,0,0,0,0.50
+CMD 275,Golgari Rot Farm,,0,0.0,0,0,0,0.50
+CMD 162,Invigorate,,0,0.0,0,0,0,0.50
+CMD 27,Prison Term,,0,0.0,0,0,0,0.50
+CMD 270,Dimir Aqueduct,,0,0.0,0,0,0,0.50
+CMD 83,Fleshbag Marauder,,0,0.0,0,0,0,0.50
+CMD 174,Intet,,0,0.0,0,0,0,0
+CMD 190,Colossal Might,,0,0.0,0,0,0,0.50
+CMD 45,Fact or Fiction,,0,0.0,0,0,0,0.50
+CMD 273,Forgotten Cave,,0,0.0,0,0,0,0.50
+CMD 176,Troll Ascetic,,0,0.0,0,0,0,0.50
+CMD 39,Aethersnipe,,0,0.0,0,0,0,0.25
+CMD 9,Bathe in Light,,0,0.0,0,0,0,0.50
+CMD 115,Chartooth Cougar,,0,0.0,0,0,0,0.25
+CMD 116,Cleansing Beam,,0,0.0,0,0,0,0.50
+CMD 43,Court Hussar,,0,0.0,0,0,0,0.50
+CMD 80,Evincar's Justice,,0,0.0,0,0,0,0.25
+CMD 156,Fists of Ironwood,,0,0.0,0,0,0,0.25
+CMD 48,Gomazoa,,0,0.0,0,0,0,0.50
+CMD 86,Gravedigger,,0,0.0,0,0,0,0.25
+CMD 160,Hunting Pack,,0,0.0,0,0,0,0.50
+CMD 282,Molten Slagheap,,0,0.0,0,0,0,0.50
+CMD 130,Oni of Wild Places,,0,0.0,0,0,0,0.50
+CMD 62,Slipstream Eel,,0,0.0,0,0,0,0.25
+CMD 105,Unnerve,,0,0.0,0,0,0,0.25
+CMD 140,Acidic Slime,,0,0.0,0,0,0,0.50
+CMD 180,Angel of Despair,,0,0.0,0,0,0,1.50
+CMD 265,Azorius Chancery,,0,0.0,0,0,0,0.50
+CMD 145,Brawn,,0,0.0,0,0,0,0.50
+CMD 76,Dark Hatchling,,0,0.0,0,0,0,0.50
+CMD 150,Deadwood Treefolk,,0,0.0,0,0,0,0.50
+CMD 192,Death Mutation,,0,0.0,0,0,0,0.50
+CMD 193,Desecrator Hag,,0,0.0,0,0,0,0.25
+CMD 78,Doom Blade,,0,0.0,0,0,0,0.25
+CMD 120,Dragon Whelp,,0,0.0,0,0,0,0.50
+CMD 121,Earthquake,,0,0.0,0,0,0,1.00
+CMD 151,Elvish Aberration,,0,0.0,0,0,0,0.50
+CMD 82,Fallen Angel,,0,0.0,0,0,0,0.50
+CMD 122,Faultgrinder,,0,0.0,0,0,0,0.25
+CMD 274,Fungal Reaches,,0,0.0,0,0,0,0.50
+CMD 158,Harmonize,,0,0.0,0,0,0,1.00
+CMD 303,Island,,0,0.0,0,0,0,0.50
+CMD 304,Island,,0,0.0,0,0,0,0.50
+CMD 306,Island,,0,0.0,0,0,0,0.50
+CMD 16,Jotun Grunt,,0,0.0,0,0,0,0.50
+CMD 17,Journey to Nowhere,,0,0.0,0,0,0,1.50
+CMD 164,Krosan Tusker,,0,0.0,0,0,0,0.25
+CMD 18,Lightkeeper of Emeria,,0,0.0,0,0,0,0.50
+CMD 211,Mortify,,0,0.0,0,0,0,0.50
+CMD 311,Mountain,,0,0.0,0,0,0,0.50
+CMD 314,Mountain,,0,0.0,0,0,0,0.50
+CMD 217,Orzhov Guildmage,,0,0.0,0,0,0,0.50
+CMD 299,Plains,,0,0.0,0,0,0,0.50
+CMD 300,Plains,,0,0.0,0,0,0,0.50
+CMD 302,Plains,,0,0.0,0,0,0,0.50
+CMD 168,Relic Crush,,0,0.0,0,0,0,0.25
+CMD 58,Repulse,,0,0.0,0,0,0,0.25
+CMD 96,Rise from the Grave,,0,0.0,0,0,0,0.50
+CMD 222,Savage Twister,,0,0.0,0,0,0,0.50
+CMD 60,Scattering Stroke,,0,0.0,0,0,0,0.50
+CMD 223,Selesnya Evangel,,0,0.0,0,0,0,0.25
+CMD 100,Shriekmaw,,0,0.0,0,0,0,0.50
+CMD 173,Squallmonger,,0,0.0,0,0,0,0.50
+CMD 307,Swamp,,0,0.0,0,0,0,0.50
+CMD 309,Swamp,,0,0.0,0,0,0,0.50
+CMD 310,Swamp,,0,0.0,0,0,0,0.50
+CMD 232,Valley Rannet,,0,0.0,0,0,0,0.25
+CMD 181,"Animar, Soul of Elements",,0,0.0,0,0,0,4.50
+CMD 191,"Damia, Sage of Stone",,0,0.0,0,0,0,1.00
+CMD 184,"Basandra, Battle Seraph",,0,0.0,0,0,0,2.00
+CMD 239,"Wrexial, the Risen Deep",,0,0.0,0,0,0,2.00
+CMD 227,"Skullbriar, the Walking Grave",,0,0.0,0,0,0,1.00
+CMD 229,"Tariel, Reckoner of Souls",,0,0.0,0,0,0,1.00
+CMD 213,"Nin, the Pain Artist",,0,0.0,0,0,0,1.00
+CMD 200,"Ghave, Guru of Spores",,0,0.0,0,0,0,1.00
+CMD 230,"Teneb, the Harvester",,0,0.0,0,0,0,0.50
+CMD 215,"Numot, the Devastator",,0,0.0,0,0,0,0.50
+CMD 108,"Akroma, Angel of Fury",,0,0.0,0,0,0,1.00
+CMD 204,"Intet, the Dreamer",,0,0.0,0,0,0,1.00
+CMD 216,"Oros, the Avenger",,0,0.0,0,0,0,0.50
+CMD 289,"Svogthos, the Restless Tomb",,0,0.0,0,0,0,0.50
+CMD 196,"Edric, Spymaster of Trest",,0,0.0,0,0,0,1.00
+CMD 207,"Karador, Ghost Chieftain",,0,0.0,0,0,0,1.00
+CMD 235,"Vorosh, the Hunter",,0,0.0,0,0,0,0.50
+CMD 234,"Vish Kal, Blood Arbiter",,0,0.0,0,0,0,0.50
+CMD 228,"Szadek, Lord of Secrets",,0,0.0,0,0,0,0.50
+CMD 174,"Intet, the Dreamer",,0,0.0,0,0,0,0.50

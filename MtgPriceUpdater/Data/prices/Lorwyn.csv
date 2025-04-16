@@ -1,0 +1,611 @@
+LRW 89,Spellstutter Sprite,,0,0.0,0,0,0,5.50
+LRW 72,Merrow Commerce,,0,0.0,0,0,0,11.00
+LRW 256,Dolmen Gate,,0,0.0,0,0,0,30.00
+LRW 145,Thoughtseize,,0,0.0,0,0,0,20.00
+LRW 95,Wanderwine Prophets,,0,0.0,0,0,0,19.00
+LRW 75,Mistbind Clique,,0,0.0,0,0,0,10.00
+LRW 208,Elvish Promenade,,0,0.0,0,0,0,8.00
+LRW 238,Timber Protector,,0,0.0,0,0,0,20.00
+LRW 79,Ponder,,0,0.0,0,0,0,4.00
+LRW 263,Thousand-Year Elixir,,0,0.0,0,0,0,16.00
+LRW 85,Shapesharer,,0,0.0,0,0,0,9.50
+LRW 252,"Wort, Boggart Auntie",,0,0.0,0,0,0,8.00
+LRW 239,Treefolk Harbinger,,0,0.0,0,0,0,3.50
+LRW 107,Dread,,0,0.0,0,0,0,6.00
+LRW 240,Vigor,,0,0.0,0,0,0,25.00
+LRW 155,Boggart Shenanigans,,0,0.0,0,0,0,3.00
+LRW 56,Cryptic Command,,0,0.0,0,0,0,9.50
+LRW 186,Needle Drop,,0,0.0,0,0,0,2.00
+LRW 267,Auntie's Hovel,,0,0.0,0,0,0,7.00
+LRW 73,Merrow Harbinger,,0,0.0,0,0,0,2.50
+LRW 203,Dauntless Dourbark,,0,0.0,0,0,0,4.00
+LRW 291,Swamp,,0,0.0,0,0,0,2.00
+LRW 259,Rings of Brighthearth,,0,0.0,0,0,0,7.00
+LRW 83,Scion of Oona,,0,0.0,0,0,0,5.00
+LRW 175,Heat Shimmer,,0,0.0,0,0,0,6.50
+LRW 235,Seedguide Ash,,0,0.0,0,0,0,3.00
+LRW 1,Ajani Goldmane,,0,0.0,0,0,0,5.50
+LRW 121,Liliana Vess,,0,0.0,0,0,0,6.00
+LRW 61,Faerie Harbinger,,0,0.0,0,0,0,1.50
+LRW 207,Elvish Harbinger,,0,0.0,0,0,0,3.00
+LRW 255,Deathrender,,0,0.0,0,0,0,4.00
+LRW 268,Gilt-Leaf Palace,,0,0.0,0,0,0,5.00
+LRW 229,Lys Alana Huntmaster,,0,0.0,0,0,0,1.00
+LRW 213,Garruk Wildspeaker,,0,0.0,0,0,0,4.50
+LRW 66,Forced Fruition,,0,0.0,0,0,0,4.00
+LRW 254,Colfenor's Urn,,0,0.0,0,0,0,2.50
+LRW 136,Prowess of the Fair,,0,0.0,0,0,0,1.00
+LRW 287,Island,,0,0.0,0,0,0,2.00
+LRW 272,Shelldock Isle,,0,0.0,0,0,0,3.00
+LRW 51,Amoeboid Changeling,,0,0.0,0,0,0,1.00
+LRW 76,Mulldrifter,,0,0.0,0,0,0,0.50
+LRW 280,Wanderwine Hub,,0,0.0,0,0,0,3.00
+LRW 248,Gaddock Teeg,,0,0.0,0,0,0,3.00
+LRW 37,Purity,,0,0.0,0,0,0,2.00
+LRW 250,Nath of the Gilt-Leaf,,0,0.0,0,0,0,2.00
+LRW 270,Mosswort Bridge,,0,0.0,0,0,0,1.50
+LRW 261,Springleaf Drum,,0,0.0,0,0,0,1.00
+LRW 271,Secluded Glen,,0,0.0,0,0,0,2.00
+LRW 242,Woodland Changeling,,0,0.0,0,0,0,0.50
+LRW 187,Nova Chaser,,0,0.0,0,0,0,3.00
+LRW 6,"Brigid, Hero of Kinsbaile",,0,0.0,0,0,0,1.50
+LRW 120,Knucklebone Witch,,0,0.0,0,0,0,1.50
+LRW 220,Imperious Perfect,,0,0.0,0,0,0,1.00
+LRW 194,Tarfire,,0,0.0,0,0,0,0.50
+LRW 9,Elf Warrior Token,,0,0.0,0,0,0,0.50
+LRW 64,Familiar's Ruse,,0,0.0,0,0,0,0.50
+LRW 3,Austere Command,,0,0.0,0,0,0,2.50
+LRW 167,Flamekin Harbinger,,0,0.0,0,0,0,0.50
+LRW 31,Mirror Entity,,0,0.0,0,0,0,2.00
+LRW 179,Incendiary Command,,0,0.0,0,0,0,1.50
+LRW 71,Jace Beleren,,0,0.0,0,0,0,2.00
+LRW 39,Shields of Velis Vel,,0,0.0,0,0,0,0.25
+LRW 228,Lignify,,0,0.0,0,0,0,0.50
+LRW 30,Militia's Pride,,0,0.0,0,0,0,1.50
+LRW 160,Changeling Berserker,,0,0.0,0,0,0,0.50
+LRW 300,Forest,,0,0.0,0,0,0,0.50
+LRW 164,Fire-Belly Changeling,,0,0.0,0,0,0,0.50
+LRW 150,Ashling's Prerogative,,0,0.0,0,0,0,1.00
+LRW 262,Thorn of Amethyst,,0,0.0,0,0,0,1.00
+LRW 292,Swamp,,0,0.0,0,0,0,0.50
+LRW 102,Boggart Harbinger,,0,0.0,0,0,0,0.50
+LRW 52,Aquitect's Will,,0,0.0,0,0,0,0.50
+LRW 104,Boggart Mob,,0,0.0,0,0,0,1.50
+LRW 247,"Doran, the Siege Tower",,0,0.0,0,0,0,1.50
+LRW 112,Faerie Tauntings,,0,0.0,0,0,0,0.50
+LRW 246,Brion Stoutarm,,0,0.0,0,0,0,1.00
+LRW 274,Spinerock Knoll,,0,0.0,0,0,0,1.50
+LRW 269,Howltooth Hollow,,0,0.0,0,0,0,1.00
+LRW 251,"Sygg, River Guide",,0,0.0,0,0,0,1.00
+LRW 11,Crib Swap,,0,0.0,0,0,0,0.50
+LRW 106,Colfenor's Plans,,0,0.0,0,0,0,0.50
+LRW 244,Wren's Run Packmaster,,0,0.0,0,0,0,2.00
+LRW 78,Pestermite,,0,0.0,0,0,0,0.25
+LRW 211,Fertile Ground,,0,0.0,0,0,0,0.50
+LRW 2,Arbiter of Knollridge,,0,0.0,0,0,0,1.00
+LRW 140,Skeletal Changeling,,0,0.0,0,0,0,0.25
+LRW 34,Oblivion Ring,,0,0.0,0,0,0,0.25
+LRW 11,Shapeshifter Token,,0,0.0,0,0,0,0.50
+LRW 115,Footbottom Feast,,0,0.0,0,0,0,0.25
+LRW 88,Sower of Temptation,,0,0.0,0,0,0,1.50
+LRW 257,Herbal Poultice,,0,0.0,0,0,0,0.25
+LRW 265,Wanderer's Twig,,0,0.0,0,0,0,0.25
+LRW 5,Battle Mastery,,0,0.0,0,0,0,0.50
+LRW 80,Protective Bubble,,0,0.0,0,0,0,0.25
+LRW 69,Guile,,0,0.0,0,0,0,1.00
+LRW 219,Immaculate Magistrate,,0,0.0,0,0,0,1.00
+LRW 86,Silvergill Adept,,0,0.0,0,0,0,0.50
+LRW 236,Spring Cleaning,,0,0.0,0,0,0,0.25
+LRW 110,Eyeblight's Ending,,0,0.0,0,0,0,0.25
+LRW 131,Nettlevine Blight,,0,0.0,0,0,0,1.00
+LRW 279,Vivid Meadow,,0,0.0,0,0,0,0.50
+LRW 157,Caterwauling Boggart,,0,0.0,0,0,0,0.25
+LRW 289,Island,,0,0.0,0,0,0,0.50
+LRW 152,Blades of Velis Vel,,0,0.0,0,0,0,0.25
+LRW 14,Favor of the Mighty,,0,0.0,0,0,0,1.00
+LRW 178,Incandescent Soulstoke,,0,0.0,0,0,0,1.00
+LRW 233,Primal Command,,0,0.0,0,0,0,1.00
+LRW 117,Hoarder's Greed,,0,0.0,0,0,0,0.50
+LRW 260,Runed Stalactite,,0,0.0,0,0,0,0.25
+LRW 159,Chandra Nalaar,,0,0.0,0,0,0,1.50
+LRW 123,Mad Auntie,,0,0.0,0,0,0,1.00
+LRW 278,Vivid Marsh,,0,0.0,0,0,0,1.00
+LRW 62,Faerie Trickery,,0,0.0,0,0,0,0.25
+LRW 82,Scattering Stroke,,0,0.0,0,0,0,0.50
+LRW 45,Triclopean Sight,,0,0.0,0,0,0,0.25
+LRW 54,Broken Ambitions,,0,0.0,0,0,0,0.25
+LRW 234,Rootgrapple,,0,0.0,0,0,0,0.25
+LRW 200,Changeling Titan,,0,0.0,0,0,0,0.50
+LRW 301,Forest,,0,0.0,0,0,0,0.50
+LRW 281,Windbrisk Heights,,0,0.0,0,0,0,1.00
+LRW 180,Ingot Chewer,,0,0.0,0,0,0,0.25
+LRW 288,Island,,0,0.0,0,0,0,0.50
+LRW 277,Vivid Grove,,0,0.0,0,0,0,0.50
+LRW 28,Knight of Meadowgrain,,0,0.0,0,0,0,1.00
+LRW 293,Swamp,,0,0.0,0,0,0,0.50
+LRW 135,Profane Command,,0,0.0,0,0,0,1.00
+LRW 92,Surgespanner,,0,0.0,0,0,0,1.00
+LRW 139,Shriekmaw,,0,0.0,0,0,0,0.50
+LRW 97,Wings of Velis Vel,,0,0.0,0,0,0,0.25
+LRW 55,Captivating Glance,,0,0.0,0,0,0,0.50
+LRW 99,Black Poplar Shaman,,0,0.0,0,0,0,0.25
+LRW 74,Merrow Reejerey,,0,0.0,0,0,0,0.50
+LRW 275,Vivid Crag,,0,0.0,0,0,0,0.50
+LRW 222,Jagged-Scar Archers,,0,0.0,0,0,0,0.50
+LRW 10,Cloudgoat Ranger,,0,0.0,0,0,0,0.50
+LRW 122,Lys Alana Scarblade,,0,0.0,0,0,0,0.50
+LRW 128,Nameless Inversion,,0,0.0,0,0,0,0.25
+LRW 81,Ringskipper,,0,0.0,0,0,0,0.25
+LRW 105,Cairn Wanderer,,0,0.0,0,0,0,1.00
+LRW 276,Vivid Creek,,0,0.0,0,0,0,0.50
+LRW 286,Island,,0,0.0,0,0,0,0.50
+LRW 190,Soulbright Flamekin,,0,0.0,0,0,0,0.25
+LRW 191,Stinkdrinker Daredevil,,0,0.0,0,0,0,0.25
+LRW 93,Tideshaper Mystic,,0,0.0,0,0,0,0.25
+LRW 249,Horde of Notions,,0,0.0,0,0,0,0.50
+LRW 17,Goldmeadow Harrier,,0,0.0,0,0,0,0.25
+LRW 210,Eyes of the Wisent,,0,0.0,0,0,0,0.50
+LRW 50,Aethersnipe,,0,0.0,0,0,0,0.25
+LRW 4,Avian Changeling,,0,0.0,0,0,0,0.25
+LRW 299,Forest,,0,0.0,0,0,0,0.50
+LRW 101,Boggart Birth Rite,,0,0.0,0,0,0,0.25
+LRW 22,Judge of Currents,,0,0.0,0,0,0,0.25
+LRW 196,Wild Ricochet,,0,0.0,0,0,0,0.50
+LRW 63,Fallowsage,,0,0.0,0,0,0,0.50
+LRW 189,Smokebraider,,0,0.0,0,0,0,0.25
+LRW 195,Thundercloud Shaman,,0,0.0,0,0,0,0.50
+LRW 197,Battlewand Oak,,0,0.0,0,0,0,0.25
+LRW 290,Swamp,,0,0.0,0,0,0,0.50
+LRW 147,Weed Strangle,,0,0.0,0,0,0,0.25
+LRW 48,Wispmare,,0,0.0,0,0,0,0.25
+LRW 266,Ancient Amphitheater,,0,0.0,0,0,0,0.50
+LRW 132,Nightshade Stinger,,0,0.0,0,0,0,0.25
+LRW 283,Plains,,0,0.0,0,0,0,0.50
+LRW 87,Silvergill Douser,,0,0.0,0,0,0,0.25
+LRW 96,Whirlpool Whelm,,0,0.0,0,0,0,0.25
+LRW 130,Nectar Faerie,,0,0.0,0,0,0,0.50
+LRW 36,Pollen Lullaby,,0,0.0,0,0,0,0.50
+LRW 169,Giant Harbinger,,0,0.0,0,0,0,0.50
+LRW 124,Makeshift Mannequin,,0,0.0,0,0,0,0.50
+LRW 285,Plains,,0,0.0,0,0,0,0.50
+LRW 21,Hoofprints of the Stag,,0,0.0,0,0,0,0.50
+LRW 119,Hunter of Eyeblights,,0,0.0,0,0,0,0.50
+LRW 4,Merfolk Wizard Token,,0,0.0,0,0,0,0.50
+LRW 185,Mudbutton Torchrunner,,0,0.0,0,0,0,0.25
+LRW 77,Paperfin Rascal,,0,0.0,0,0,0,0.25
+LRW 9,Changeling Hero,,0,0.0,0,0,0,0.50
+LRW 58,Drowner of Secrets,,0,0.0,0,0,0,0.50
+LRW 67,Glen Elendra Pranksters,,0,0.0,0,0,0,0.50
+LRW 125,Marsh Flitter,,0,0.0,0,0,0,0.50
+LRW 91,Streambed Aquitects,,0,0.0,0,0,0,0.25
+LRW 209,Epic Proportions,,0,0.0,0,0,0,0.50
+LRW 253,"Wydwen, the Biting Gale",,0,0.0,0,0,0,0.50
+LRW 205,Elvish Eulogist,,0,0.0,0,0,0,0.25
+LRW 298,Forest,,0,0.0,0,0,0,0.50
+LRW 294,Mountain,,0,0.0,0,0,0,0.50
+LRW 273,Shimmering Grotto,,0,0.0,0,0,0,0.25
+LRW 42,Summon the School,,0,0.0,0,0,0,0.50
+LRW 94,Turtleshell Changeling,,0,0.0,0,0,0,0.50
+LRW 297,Mountain,,0,0.0,0,0,0,0.50
+LRW 214,Gilt-Leaf Ambush,,0,0.0,0,0,0,0.25
+LRW 90,Stonybrook Angler,,0,0.0,0,0,0,0.25
+LRW 296,Mountain,,0,0.0,0,0,0,0.50
+LRW 19,Harpoon Sniper,,0,0.0,0,0,0,0.50
+LRW 282,Plains,,0,0.0,0,0,0,0.50
+LRW 173,Hamletback Goliath,,0,0.0,0,0,0,0.50
+LRW 204,Elvish Branchbender,,0,0.0,0,0,0,0.25
+LRW 231,Nath's Elite,,0,0.0,0,0,0,0.25
+LRW 134,Peppersmoke,,0,0.0,0,0,0,0.25
+LRW 40,Soaring Hope,,0,0.0,0,0,0,0.25
+LRW 202,Cloudthresher,,0,0.0,0,0,0,0.50
+LRW 65,Fathom Trawl,,0,0.0,0,0,0,0.50
+LRW 176,Hostility,,0,0.0,0,0,0,0.50
+LRW 15,Galepowder Mage,,0,0.0,0,0,0,0.50
+LRW 100,Bog Hoodlums,,0,0.0,0,0,0,0.25
+LRW 154,Boggart Forager,,0,0.0,0,0,0,0.25
+LRW 201,Cloudcrown Oak,,0,0.0,0,0,0,0.25
+LRW 163,Faultgrinder,,0,0.0,0,0,0,0.25
+LRW 224,Kithkin Mourncaller,,0,0.0,0,0,0,0.50
+LRW 225,Lace with Moonglove,,0,0.0,0,0,0,0.25
+LRW 295,Mountain,,0,0.0,0,0,0,0.50
+LRW 127,Mournwhelk,,0,0.0,0,0,0,0.25
+LRW 46,Veteran of the Depths,,0,0.0,0,0,0,0.50
+LRW 264,Twinning Glass,,0,0.0,0,0,0,0.50
+LRW 199,Briarhorn,,0,0.0,0,0,0,0.50
+LRW 8,Cenn's Heir,,0,0.0,0,0,0,0.25
+LRW 59,Ego Erasure,,0,0.0,0,0,0,0.50
+LRW 114,Fodder Launch,,0,0.0,0,0,0,0.50
+LRW 70,Inkfathom Divers,,0,0.0,0,0,0,0.25
+LRW 26,Kithkin Harbinger,,0,0.0,0,0,0,0.50
+LRW 32,Neck Snap,,0,0.0,0,0,0,0.25
+LRW 43,Surge of Thoughtweft,,0,0.0,0,0,0,0.25
+LRW 10,Wolf Token,,0,0.0,0,0,0,0.50
+LRW 7,Beast Token,,0,0.0,0,0,0,0.50
+LRW 7,Burrenton Forge-Tender,,0,0.0,0,0,0,0.50
+LRW 166,Flamekin Brawler,,0,0.0,0,0,0,0.25
+LRW 5,Goblin Rogue Token,,0,0.0,0,0,0,0.50
+LRW 3,Kithkin Soldier Token,,0,0.0,0,0,0,0.50
+LRW 226,Lammastide Weave,,0,0.0,0,0,0,0.50
+LRW 243,Woodland Guidance,,0,0.0,0,0,0,0.50
+LRW 149,Ashling the Pilgrim,,0,0.0,0,0,0,0.50
+LRW 133,Oona's Prowler,,0,0.0,0,0,0,0.50
+LRW 53,Benthicore,,0,0.0,0,0,0,0.50
+LRW 57,Deeptread Merrow,,0,0.0,0,0,0,0.25
+LRW 13,Entangling Trap,,0,0.0,0,0,0,0.50
+LRW 18,Goldmeadow Stalwart,,0,0.0,0,0,0,0.50
+LRW 258,Moonglove Extract,,0,0.0,0,0,0,0.25
+LRW 232,Oakgnarl Warrior,,0,0.0,0,0,0,0.25
+LRW 284,Plains,,0,0.0,0,0,0,0.50
+LRW 144,Thorntooth Witch,,0,0.0,0,0,0,0.50
+LRW 49,Wizened Cenn,,0,0.0,0,0,0,0.50
+LRW 230,Masked Admirers,,0,0.0,0,0,0,0.50
+LRW 151,Axegrinder Giant,,0,0.0,0,0,0,0.25
+LRW 8,Elemental Shaman Token,,0,0.0,0,0,0,0.50
+LRW 172,Goatnapper,,0,0.0,0,0,0,0.50
+LRW 20,Hillcomber Giant,,0,0.0,0,0,0,0.25
+LRW 118,Hornet Harasser,,0,0.0,0,0,0,0.25
+LRW 182,Inner-Flame Igniter,,0,0.0,0,0,0,0.50
+LRW 27,Kithkin Healer,,0,0.0,0,0,0,0.25
+LRW 184,Lowland Oaf,,0,0.0,0,0,0,0.25
+LRW 192,Sunrise Sovereign,,0,0.0,0,0,0,0.50
+LRW 146,Warren Pilferers,,0,0.0,0,0,0,0.25
+LRW 44,Thoughtweft Trio,,0,0.0,0,0,0,0.50
+LRW 148,Adder-Staff Boggart,,0,0.0,0,0,0,0.25
+LRW 161,Consuming Bonfire,,0,0.0,0,0,0,0.25
+LRW 162,Crush Underfoot,,0,0.0,0,0,0,0.50
+LRW 12,Dawnfluke,,0,0.0,0,0,0,0.25
+LRW 206,Elvish Handservant,,0,0.0,0,0,0,0.25
+LRW 168,Flamekin Spitfire,,0,0.0,0,0,0,0.50
+LRW 116,Ghostly Changeling,,0,0.0,0,0,0,0.50
+LRW 170,Giant's Ire,,0,0.0,0,0,0,0.25
+LRW 171,Glarewielder,,0,0.0,0,0,0,0.50
+LRW 16,Goldmeadow Dodger,,0,0.0,0,0,0,0.25
+LRW 217,Heal the Scars,,0,0.0,0,0,0,0.25
+LRW 218,Hunt Down,,0,0.0,0,0,0,0.25
+LRW 177,Hurly-Burly,,0,0.0,0,0,0,0.25
+LRW 24,Kinsbaile Skirmisher,,0,0.0,0,0,0,0.25
+LRW 183,Lash Out,,0,0.0,0,0,0,0.25
+LRW 126,Moonglove Winnower,,0,0.0,0,0,0,0.25
+LRW 141,Spiderwig Boggart,,0,0.0,0,0,0,0.25
+LRW 193,Tar Pitcher,,0,0.0,0,0,0,0.50
+LRW 241,Warren-Scourge Elf,,0,0.0,0,0,0,0.25
+LRW 98,Zephyr Net,,0,0.0,0,0,0,0.25
+LRW 153,Blind-Spot Giant,,0,0.0,0,0,0,0.25
+LRW 198,Bog-Strider Ash,,0,0.0,0,0,0,0.25
+LRW 103,Boggart Loggers,,0,0.0,0,0,0,0.25
+LRW 156,Boggart Sprite-Chaser,,0,0.0,0,0,0,0.25
+LRW 108,Dreamspoiler Witches,,0,0.0,0,0,0,0.25
+LRW 60,Ethereal Whiskergill,,0,0.0,0,0,0,0.50
+LRW 109,Exiled Boggart,,0,0.0,0,0,0,0.25
+LRW 113,Final Revels,,0,0.0,0,0,0,0.50
+LRW 212,Fistful of Force,,0,0.0,0,0,0,0.25
+LRW 215,Gilt-Leaf Seer,,0,0.0,0,0,0,0.25
+LRW 174,Hearthcage Giant,,0,0.0,0,0,0,0.50
+LRW 223,Kithkin Daggerdare,,0,0.0,0,0,0,0.25
+LRW 129,Nath's Buffoon,,0,0.0,0,0,0,0.25
+LRW 33,Oaken Brawler,,0,0.0,0,0,0,0.25
+LRW 137,Quill-Slinger Boggart,,0,0.0,0,0,0,0.25
+LRW 188,Rebellion of the Flamekin,,0,0.0,0,0,0,0.50
+LRW 138,Scarred Vinebreeder,,0,0.0,0,0,0,0.25
+LRW 38,Sentry Oak,,0,0.0,0,0,0,0.50
+LRW 237,Sylvan Echoes,,0,0.0,0,0,0,0.50
+LRW 158,Ceaseless Searblades,,0,0.0,0,0,0,0.50
+LRW 111,Facevaulter,,0,0.0,0,0,0,0.25
+LRW 216,Guardian of Cloverdell,,0,0.0,0,0,0,0.50
+LRW 181,Inner-Flame Acolyte,,0,0.0,0,0,0,0.25
+LRW 25,Kithkin Greatheart,,0,0.0,0,0,0,0.25
+LRW 29,Lairwatch Giant,,0,0.0,0,0,0,0.25
+LRW 84,Sentinels of Glen Elendra,,0,0.0,0,0,0,0.25
+LRW 41,Springjack Knight,,0,0.0,0,0,0,0.25
+LRW 142,Squeaking Pie Sneak,,0,0.0,0,0,0,0.50
+LRW 143,Thieving Sprite,,0,0.0,0,0,0,0.25
+LRW 47,Wellgabber Apothecary,,0,0.0,0,0,0,0.25
+LRW 245,Wren's Run Vanquisher,,0,0.0,0,0,0,0.50
+LRW 165,Flamekin Bladewhirl,,0,0.0,0,0,0,0.50
+LRW 221,Incremental Growth,,0,0.0,0,0,0,0.50
+LRW 227,Leaf Gilder,,0,0.0,0,0,0,0.25
+LRW 68,Glimmerdust Nap,,0,0.0,0,0,0,0.25
+LRW 23,Kinsbaile Balloonist,,0,0.0,0,0,0,0.25
+LRW 35,Plover Knights,,0,0.0,0,0,0,0.25
+LRW 1,Avatar Token,,0,0.0,0,0,0,1.00
+LRW 145F,Thoughtseize,,0,0.0,0,0,0,264.00
+LRW 79F,Ponder,,0,0.0,0,0,0,112.00
+LRW 95F,Wanderwine Prophets,,0,0.0,0,0,0,44.00
+LRW 256F,Dolmen Gate,,0,0.0,0,0,0,56.00
+LRW 72F,Merrow Commerce,,0,0.0,0,0,0,30.00
+LRW 102F,Boggart Harbinger,,0,0.0,0,0,0,22.00
+LRW 272F,Shelldock Isle,,0,0.0,0,0,0,22.00
+LRW 83F,Scion of Oona,,0,0.0,0,0,0,20.00
+LRW 228F,Lignify,,0,0.0,0,0,0,12.00
+LRW 248F,Gaddock Teeg,,0,0.0,0,0,0,14.00
+LRW 121F,Liliana Vess,,0,0.0,0,0,0,24.00
+LRW 287F,Island,,0,0.0,0,0,0,11.00
+LRW 58F,Drowner of Secrets,,0,0.0,0,0,0,5.50
+LRW 261F,Springleaf Drum,,0,0.0,0,0,0,18.00
+LRW 71F,Jace Beleren,,0,0.0,0,0,0,18.00
+LRW 175F,Heat Shimmer,,0,0.0,0,0,0,44.00
+LRW 249F,Horde of Notions,,0,0.0,0,0,0,22.00
+LRW 240F,Vigor,,0,0.0,0,0,0,60.00
+LRW 85F,Shapesharer,,0,0.0,0,0,0,24.00
+LRW 239F,Treefolk Harbinger,,0,0.0,0,0,0,9.50
+LRW 56F,Cryptic Command,,0,0.0,0,0,0,22.00
+LRW 3F,Austere Command,,0,0.0,0,0,0,12.00
+LRW 253F,"Wydwen, the Biting Gale",,0,0.0,0,0,0,5.50
+LRW 208F,Elvish Promenade,,0,0.0,0,0,0,13.00
+LRW 259F,Rings of Brighthearth,,0,0.0,0,0,0,18.00
+LRW 291F,Swamp,,0,0.0,0,0,0,8.00
+LRW 131F,Nettlevine Blight,,0,0.0,0,0,0,3.00
+LRW 135F,Profane Command,,0,0.0,0,0,0,3.00
+LRW 61F,Faerie Harbinger,,0,0.0,0,0,0,14.00
+LRW 52F,Aquitect's Will,,0,0.0,0,0,0,7.00
+LRW 78F,Pestermite,,0,0.0,0,0,0,7.00
+LRW 88F,Sower of Temptation,,0,0.0,0,0,0,7.00
+LRW 180F,Ingot Chewer,,0,0.0,0,0,0,5.00
+LRW 107F,Dread,,0,0.0,0,0,0,13.00
+LRW 269F,Howltooth Hollow,,0,0.0,0,0,0,3.00
+LRW 235F,Seedguide Ash,,0,0.0,0,0,0,11.00
+LRW 140F,Skeletal Changeling,,0,0.0,0,0,0,11.00
+LRW 74F,Merrow Reejerey,,0,0.0,0,0,0,5.50
+LRW 128F,Nameless Inversion,,0,0.0,0,0,0,5.50
+LRW 39F,Shields of Velis Vel,,0,0.0,0,0,0,9.50
+LRW 257F,Herbal Poultice,,0,0.0,0,0,0,4.00
+LRW 31F,Mirror Entity,,0,0.0,0,0,0,16.00
+LRW 89F,Spellstutter Sprite,,0,0.0,0,0,0,16.00
+LRW 210F,Eyes of the Wisent,,0,0.0,0,0,0,4.00
+LRW 194F,Tarfire,,0,0.0,0,0,0,14.00
+LRW 112F,Faerie Tauntings,,0,0.0,0,0,0,5.50
+LRW 152F,Blades of Velis Vel,,0,0.0,0,0,0,3.00
+LRW 247F,"Doran, the Siege Tower",,0,0.0,0,0,0,9.00
+LRW 251F,"Sygg, River Guide",,0,0.0,0,0,0,9.00
+LRW 105F,Cairn Wanderer,,0,0.0,0,0,0,8.00
+LRW 196F,Wild Ricochet,,0,0.0,0,0,0,4.00
+LRW 242F,Woodland Changeling,,0,0.0,0,0,0,4.00
+LRW 97F,Wings of Velis Vel,,0,0.0,0,0,0,2.00
+LRW 55F,Captivating Glance,,0,0.0,0,0,0,1.50
+LRW 69F,Guile,,0,0.0,0,0,0,3.50
+LRW 266F,Ancient Amphitheater,,0,0.0,0,0,0,2.50
+LRW 230F,Masked Admirers,,0,0.0,0,0,0,1.00
+LRW 246F,Brion Stoutarm,,0,0.0,0,0,0,6.50
+LRW 211F,Fertile Ground,,0,0.0,0,0,0,6.50
+LRW 99F,Black Poplar Shaman,,0,0.0,0,0,0,2.00
+LRW 64F,Familiar's Ruse,,0,0.0,0,0,0,5.50
+LRW 187F,Nova Chaser,,0,0.0,0,0,0,5.50
+LRW 278F,Vivid Marsh,,0,0.0,0,0,0,5.50
+LRW 5F,Battle Mastery,,0,0.0,0,0,0,3.00
+LRW 139F,Shriekmaw,,0,0.0,0,0,0,3.00
+LRW 192F,Sunrise Sovereign,,0,0.0,0,0,0,3.00
+LRW 167F,Flamekin Harbinger,,0,0.0,0,0,0,5.00
+LRW 76F,Mulldrifter,,0,0.0,0,0,0,5.00
+LRW 200F,Changeling Titan,,0,0.0,0,0,0,2.50
+LRW 115F,Footbottom Feast,,0,0.0,0,0,0,1.50
+LRW 134F,Peppersmoke,,0,0.0,0,0,0,1.50
+LRW 12F,Dawnfluke,,0,0.0,0,0,0,1.00
+LRW 62F,Faerie Trickery,,0,0.0,0,0,0,4.50
+LRW 178F,Incandescent Soulstoke,,0,0.0,0,0,0,6.50
+LRW 243F,Woodland Guidance,,0,0.0,0,0,0,0.50
+LRW 4F,Avian Changeling,,0,0.0,0,0,0,2.00
+LRW 265F,Wanderer's Twig,,0,0.0,0,0,0,2.00
+LRW 34F,Oblivion Ring,,0,0.0,0,0,0,1.00
+LRW 297F,Mountain,,0,0.0,0,0,0,0.50
+LRW 63F,Fallowsage,,0,0.0,0,0,0,3.50
+LRW 279F,Vivid Meadow,,0,0.0,0,0,0,3.50
+LRW 48F,Wispmare,,0,0.0,0,0,0,3.50
+LRW 114F,Fodder Launch,,0,0.0,0,0,0,1.00
+LRW 81F,Ringskipper,,0,0.0,0,0,0,1.00
+LRW 93F,Tideshaper Mystic,,0,0.0,0,0,0,1.00
+LRW 117F,Hoarder's Greed,,0,0.0,0,0,0,3.00
+LRW 190F,Soulbright Flamekin,,0,0.0,0,0,0,1.50
+LRW 70F,Inkfathom Divers,,0,0.0,0,0,0,0.50
+LRW 260F,Runed Stalactite,,0,0.0,0,0,0,0.50
+LRW 173F,Hamletback Goliath,,0,0.0,0,0,0,3.00
+LRW 275F,Vivid Crag,,0,0.0,0,0,0,3.00
+LRW 197F,Battlewand Oak,,0,0.0,0,0,0,0.50
+LRW 209F,Epic Proportions,,0,0.0,0,0,0,0.50
+LRW 176F,Hostility,,0,0.0,0,0,0,2.50
+LRW 28F,Knight of Meadowgrain,,0,0.0,0,0,0,2.50
+LRW 199F,Briarhorn,,0,0.0,0,0,0,1.00
+LRW 289F,Island,,0,0.0,0,0,0,0.50
+LRW 14F,Favor of the Mighty,,0,0.0,0,0,0,3.50
+LRW 286F,Island,,0,0.0,0,0,0,0.50
+LRW 2F,Arbiter of Knollridge,,0,0.0,0,0,0,2.00
+LRW 201F,Cloudcrown Oak,,0,0.0,0,0,0,2.00
+LRW 290F,Swamp,,0,0.0,0,0,0,2.00
+LRW 195F,Thundercloud Shaman,,0,0.0,0,0,0,2.00
+LRW 264F,Twinning Glass,,0,0.0,0,0,0,2.00
+LRW 163F,Faultgrinder,,0,0.0,0,0,0,1.50
+LRW 298F,Forest,,0,0.0,0,0,0,1.50
+LRW 214F,Gilt-Leaf Ambush,,0,0.0,0,0,0,1.50
+LRW 80F,Protective Bubble,,0,0.0,0,0,0,1.50
+LRW 237F,Sylvan Echoes,,0,0.0,0,0,0,1.50
+LRW 288F,Island,,0,0.0,0,0,0,1.00
+LRW 144F,Thorntooth Witch,,0,0.0,0,0,0,1.00
+LRW 96F,Whirlpool Whelm,,0,0.0,0,0,0,1.00
+LRW 49F,Wizened Cenn,,0,0.0,0,0,0,0.50
+LRW 50F,Aethersnipe,,0,0.0,0,0,0,1.00
+LRW 9F,Changeling Hero,,0,0.0,0,0,0,1.00
+LRW 162F,Crush Underfoot,,0,0.0,0,0,0,1.00
+LRW 300F,Forest,,0,0.0,0,0,0,1.00
+LRW 67F,Glen Elendra Pranksters,,0,0.0,0,0,0,1.00
+LRW 205F,Elvish Eulogist,,0,0.0,0,0,0,0.50
+LRW 19F,Harpoon Sniper,,0,0.0,0,0,0,0.50
+LRW 174F,Hearthcage Giant,,0,0.0,0,0,0,0.50
+LRW 258F,Moonglove Extract,,0,0.0,0,0,0,0.50
+LRW 101F,Boggart Birth Rite,,0,0.0,0,0,0,1.00
+LRW 294F,Mountain,,0,0.0,0,0,0,1.00
+LRW 204F,Elvish Branchbender,,0,0.0,0,0,0,1.00
+LRW 282F,Plains,,0,0.0,0,0,0,1.00
+LRW 90F,Stonybrook Angler,,0,0.0,0,0,0,1.00
+LRW 100F,Bog Hoodlums,,0,0.0,0,0,0,0.50
+LRW 181F,Inner-Flame Acolyte,,0,0.0,0,0,0,0.50
+LRW 296F,Mountain,,0,0.0,0,0,0,0.50
+LRW 273F,Shimmering Grotto,,0,0.0,0,0,0,0.50
+LRW 189F,Smokebraider,,0,0.0,0,0,0,0.50
+LRW 8F,Cenn's Heir,,0,0.0,0,0,0,0.50
+LRW 148F,Adder-Staff Boggart,,0,0.0,0,0,0,0.50
+LRW 198F,Bog-Strider Ash,,0,0.0,0,0,0,0.50
+LRW 154F,Boggart Forager,,0,0.0,0,0,0,0.50
+LRW 156F,Boggart Sprite-Chaser,,0,0.0,0,0,0,0.50
+LRW 57F,Deeptread Merrow,,0,0.0,0,0,0,0.50
+LRW 108F,Dreamspoiler Witches,,0,0.0,0,0,0,0.50
+LRW 59F,Ego Erasure,,0,0.0,0,0,0,0.50
+LRW 111F,Facevaulter,,0,0.0,0,0,0,0.50
+LRW 170F,Giant's Ire,,0,0.0,0,0,0,0.50
+LRW 68F,Glimmerdust Nap,,0,0.0,0,0,0,0.50
+LRW 18F,Goldmeadow Stalwart,,0,0.0,0,0,0,0.50
+LRW 20F,Hillcomber Giant,,0,0.0,0,0,0,0.50
+LRW 221F,Incremental Growth,,0,0.0,0,0,0,0.50
+LRW 29F,Lairwatch Giant,,0,0.0,0,0,0,0.50
+LRW 126F,Moonglove Winnower,,0,0.0,0,0,0,0.50
+LRW 295F,Mountain,,0,0.0,0,0,0,0.50
+LRW 127F,Mournwhelk,,0,0.0,0,0,0,0.50
+LRW 185F,Mudbutton Torchrunner,,0,0.0,0,0,0,0.50
+LRW 129F,Nath's Buffoon,,0,0.0,0,0,0,0.50
+LRW 232F,Oakgnarl Warrior,,0,0.0,0,0,0,0.50
+LRW 77F,Paperfin Rascal,,0,0.0,0,0,0,0.50
+LRW 188F,Rebellion of the Flamekin,,0,0.0,0,0,0,0.50
+LRW 38F,Sentry Oak,,0,0.0,0,0,0,0.50
+LRW 87F,Silvergill Douser,,0,0.0,0,0,0,0.50
+LRW 141F,Spiderwig Boggart,,0,0.0,0,0,0,0.50
+LRW 146F,Warren Pilferers,,0,0.0,0,0,0,0.50
+LRW 147F,Weed Strangle,,0,0.0,0,0,0,0.50
+LRW 1F,Ajani Goldmane,,0,0.0,0,0,0,24.00
+LRW 51F,Amoeboid Changeling,,0,0.0,0,0,0,7.00
+LRW 149F,Ashling the Pilgrim,,0,0.0,0,0,0,18.00
+LRW 150F,Ashling's Prerogative,,0,0.0,0,0,0,5.50
+LRW 267F,Auntie's Hovel,,0,0.0,0,0,0,13.00
+LRW 151F,Axegrinder Giant,,0,0.0,0,0,0,0.50
+LRW 53F,Benthicore,,0,0.0,0,0,0,0.50
+LRW 153F,Blind-Spot Giant,,0,0.0,0,0,0,0.50
+LRW 103F,Boggart Loggers,,0,0.0,0,0,0,0.50
+LRW 104F,Boggart Mob,,0,0.0,0,0,0,8.00
+LRW 155F,Boggart Shenanigans,,0,0.0,0,0,0,14.00
+LRW 6F,"Brigid, Hero of Kinsbaile",,0,0.0,0,0,0,14.00
+LRW 54F,Broken Ambitions,,0,0.0,0,0,0,1.50
+LRW 7F,Burrenton Forge-Tender,,0,0.0,0,0,0,2.50
+LRW 157F,Caterwauling Boggart,,0,0.0,0,0,0,1.50
+LRW 158F,Ceaseless Searblades,,0,0.0,0,0,0,0.50
+LRW 159F,Chandra Nalaar,,0,0.0,0,0,0,11.00
+LRW 10F,Cloudgoat Ranger,,0,0.0,0,0,0,0.50
+LRW 202F,Cloudthresher,,0,0.0,0,0,0,2.50
+LRW 106F,Colfenor's Plans,,0,0.0,0,0,0,3.00
+LRW 254F,Colfenor's Urn,,0,0.0,0,0,0,6.50
+LRW 161F,Consuming Bonfire,,0,0.0,0,0,0,0.50
+LRW 11F,Crib Swap,,0,0.0,0,0,0,3.00
+LRW 203F,Dauntless Dourbark,,0,0.0,0,0,0,5.50
+LRW 255F,Deathrender,,0,0.0,0,0,0,9.50
+LRW 206F,Elvish Handservant,,0,0.0,0,0,0,0.50
+LRW 207F,Elvish Harbinger,,0,0.0,0,0,0,10.00
+LRW 13F,Entangling Trap,,0,0.0,0,0,0,0.50
+LRW 60F,Ethereal Whiskergill,,0,0.0,0,0,0,0.50
+LRW 109F,Exiled Boggart,,0,0.0,0,0,0,0.50
+LRW 110F,Eyeblight's Ending,,0,0.0,0,0,0,1.00
+LRW 65F,Fathom Trawl,,0,0.0,0,0,0,2.00
+LRW 113F,Final Revels,,0,0.0,0,0,0,0.50
+LRW 212F,Fistful of Force,,0,0.0,0,0,0,0.50
+LRW 165F,Flamekin Bladewhirl,,0,0.0,0,0,0,0.50
+LRW 166F,Flamekin Brawler,,0,0.0,0,0,0,0.50
+LRW 168F,Flamekin Spitfire,,0,0.0,0,0,0,0.50
+LRW 66F,Forced Fruition,,0,0.0,0,0,0,10.00
+LRW 160F,Changeling Berserker,,0,0.0,0,0,0,7.00
+LRW 164F,Fire-Belly Changeling,,0,0.0,0,0,0,3.00
+LRW 299F,Forest,,0,0.0,0,0,0,1.00
+LRW 301F,Forest,,0,0.0,0,0,0,1.50
+LRW 15F,Galepowder Mage,,0,0.0,0,0,0,1.50
+LRW 213F,Garruk Wildspeaker,,0,0.0,0,0,0,22.00
+LRW 116F,Ghostly Changeling,,0,0.0,0,0,0,1.50
+LRW 169F,Giant Harbinger,,0,0.0,0,0,0,4.00
+LRW 268F,Gilt-Leaf Palace,,0,0.0,0,0,0,36.00
+LRW 215F,Gilt-Leaf Seer,,0,0.0,0,0,0,0.50
+LRW 171F,Glarewielder,,0,0.0,0,0,0,1.00
+LRW 172F,Goatnapper,,0,0.0,0,0,0,0.50
+LRW 16F,Goldmeadow Dodger,,0,0.0,0,0,0,0.50
+LRW 17F,Goldmeadow Harrier,,0,0.0,0,0,0,5.00
+LRW 216F,Guardian of Cloverdell,,0,0.0,0,0,0,0.50
+LRW 217F,Heal the Scars,,0,0.0,0,0,0,1.00
+LRW 118F,Hornet Harasser,,0,0.0,0,0,0,0.50
+LRW 218F,Hunt Down,,0,0.0,0,0,0,0.50
+LRW 119F,Hunter of Eyeblights,,0,0.0,0,0,0,0.50
+LRW 177F,Hurly-Burly,,0,0.0,0,0,0,0.50
+LRW 219F,Immaculate Magistrate,,0,0.0,0,0,0,5.00
+LRW 220F,Imperious Perfect,,0,0.0,0,0,0,7.00
+LRW 179F,Incendiary Command,,0,0.0,0,0,0,9.00
+LRW 182F,Inner-Flame Igniter,,0,0.0,0,0,0,0.50
+LRW 222F,Jagged-Scar Archers,,0,0.0,0,0,0,5.00
+LRW 22F,Judge of Currents,,0,0.0,0,0,0,1.00
+LRW 21F,Hoofprints of the Stag,,0,0.0,0,0,0,4.00
+LRW 23F,Kinsbaile Balloonist,,0,0.0,0,0,0,0.50
+LRW 24F,Kinsbaile Skirmisher,,0,0.0,0,0,0,0.50
+LRW 223F,Kithkin Daggerdare,,0,0.0,0,0,0,0.50
+LRW 25F,Kithkin Greatheart,,0,0.0,0,0,0,0.50
+LRW 26F,Kithkin Harbinger,,0,0.0,0,0,0,0.50
+LRW 27F,Kithkin Healer,,0,0.0,0,0,0,0.50
+LRW 224F,Kithkin Mourncaller,,0,0.0,0,0,0,0.50
+LRW 120F,Knucklebone Witch,,0,0.0,0,0,0,6.50
+LRW 225F,Lace with Moonglove,,0,0.0,0,0,0,1.00
+LRW 226F,Lammastide Weave,,0,0.0,0,0,0,0.50
+LRW 183F,Lash Out,,0,0.0,0,0,0,0.50
+LRW 227F,Leaf Gilder,,0,0.0,0,0,0,0.50
+LRW 184F,Lowland Oaf,,0,0.0,0,0,0,0.50
+LRW 229F,Lys Alana Huntmaster,,0,0.0,0,0,0,8.00
+LRW 122F,Lys Alana Scarblade,,0,0.0,0,0,0,2.00
+LRW 123F,Mad Auntie,,0,0.0,0,0,0,6.50
+LRW 124F,Makeshift Mannequin,,0,0.0,0,0,0,0.50
+LRW 125F,Marsh Flitter,,0,0.0,0,0,0,0.50
+LRW 73F,Merrow Harbinger,,0,0.0,0,0,0,11.00
+LRW 30F,Militia's Pride,,0,0.0,0,0,0,4.00
+LRW 75F,Mistbind Clique,,0,0.0,0,0,0,28.00
+LRW 270F,Mosswort Bridge,,0,0.0,0,0,0,36.00
+LRW 250F,Nath of the Gilt-Leaf,,0,0.0,0,0,0,28.00
+LRW 231F,Nath's Elite,,0,0.0,0,0,0,0.50
+LRW 32F,Neck Snap,,0,0.0,0,0,0,0.50
+LRW 130F,Nectar Faerie,,0,0.0,0,0,0,5.00
+LRW 186F,Needle Drop,,0,0.0,0,0,0,8.00
+LRW 132F,Nightshade Stinger,,0,0.0,0,0,0,1.00
+LRW 33F,Oaken Brawler,,0,0.0,0,0,0,0.50
+LRW 133F,Oona's Prowler,,0,0.0,0,0,0,3.00
+LRW 283F,Plains,,0,0.0,0,0,0,1.00
+LRW 284F,Plains,,0,0.0,0,0,0,0.50
+LRW 285F,Plains,,0,0.0,0,0,0,1.00
+LRW 35F,Plover Knights,,0,0.0,0,0,0,0.50
+LRW 36F,Pollen Lullaby,,0,0.0,0,0,0,1.50
+LRW 233F,Primal Command,,0,0.0,0,0,0,3.50
+LRW 136F,Prowess of the Fair,,0,0.0,0,0,0,9.00
+LRW 37F,Purity,,0,0.0,0,0,0,10.00
+LRW 137F,Quill-Slinger Boggart,,0,0.0,0,0,0,0.50
+LRW 234F,Rootgrapple,,0,0.0,0,0,0,3.00
+LRW 138F,Scarred Vinebreeder,,0,0.0,0,0,0,0.50
+LRW 82F,Scattering Stroke,,0,0.0,0,0,0,3.00
+LRW 271F,Secluded Glen,,0,0.0,0,0,0,26.00
+LRW 84F,Sentinels of Glen Elendra,,0,0.0,0,0,0,0.50
+LRW 86F,Silvergill Adept,,0,0.0,0,0,0,7.00
+LRW 40F,Soaring Hope,,0,0.0,0,0,0,0.50
+LRW 274F,Spinerock Knoll,,0,0.0,0,0,0,26.00
+LRW 236F,Spring Cleaning,,0,0.0,0,0,0,2.50
+LRW 41F,Springjack Knight,,0,0.0,0,0,0,0.50
+LRW 142F,Squeaking Pie Sneak,,0,0.0,0,0,0,1.00
+LRW 191F,Stinkdrinker Daredevil,,0,0.0,0,0,0,2.00
+LRW 91F,Streambed Aquitects,,0,0.0,0,0,0,0.50
+LRW 42F,Summon the School,,0,0.0,0,0,0,1.50
+LRW 43F,Surge of Thoughtweft,,0,0.0,0,0,0,0.50
+LRW 92F,Surgespanner,,0,0.0,0,0,0,5.00
+LRW 292F,Swamp,,0,0.0,0,0,0,1.00
+LRW 293F,Swamp,,0,0.0,0,0,0,1.00
+LRW 193F,Tar Pitcher,,0,0.0,0,0,0,0.50
+LRW 143F,Thieving Sprite,,0,0.0,0,0,0,1.50
+LRW 262F,Thorn of Amethyst,,0,0.0,0,0,0,14.00
+LRW 44F,Thoughtweft Trio,,0,0.0,0,0,0,2.00
+LRW 263F,Thousand-Year Elixir,,0,0.0,0,0,0,120.00
+LRW 45F,Triclopean Sight,,0,0.0,0,0,0,7.00
+LRW 94F,Turtleshell Changeling,,0,0.0,0,0,0,2.00
+LRW 46F,Veteran of the Depths,,0,0.0,0,0,0,0.50
+LRW 276F,Vivid Creek,,0,0.0,0,0,0,2.00
+LRW 277F,Vivid Grove,,0,0.0,0,0,0,1.50
+LRW 280F,Wanderwine Hub,,0,0.0,0,0,0,10.00
+LRW 241F,Warren-Scourge Elf,,0,0.0,0,0,0,0.50
+LRW 47F,Wellgabber Apothecary,,0,0.0,0,0,0,0.50
+LRW 281F,Windbrisk Heights,,0,0.0,0,0,0,7.00
+LRW 252F,"Wort, Boggart Auntie",,0,0.0,0,0,0,40.00
+LRW 244F,Wren's Run Packmaster,,0,0.0,0,0,0,5.50
+LRW 245F,Wren's Run Vanquisher,,0,0.0,0,0,0,1.00
+LRW 238F,Timber Protector,,0,0.0,0,0,0,24.00
+LRW 98F,Zephyr Net,,0,0.0,0,0,0,0.50

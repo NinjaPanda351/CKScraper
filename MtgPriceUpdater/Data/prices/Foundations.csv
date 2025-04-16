@@ -1,0 +1,879 @@
+FDN 15,Hare Apparent,,0,0.0,0,0,0,5.00
+FDN 216,Doubling Season,,0,0.0,0,0,0,32.00
+FDN 97,Twinflame Tyrant,,0,0.0,0,0,0,28.00
+FDN 58,Bloodthirsty Conqueror,,0,0.0,0,0,0,37.00
+FDN 1,Sire of Seven Deaths,,0,0.0,0,0,0,24.00
+FDN 127,Banner of Kinship,,0,0.0,0,0,0,9.00
+FDN 79,Boltwave,,0,0.0,0,0,0,5.00
+FDN 137,Authority of the Consuls,,0,0.0,0,0,0,6.50
+FDN 57,Blasphemous Edict,,0,0.0,0,0,0,7.00
+FDN 132,Scrawling Crawler,,0,0.0,0,0,0,6.00
+FDN 107,Mossborn Hydra,,0,0.0,0,0,0,5.00
+FDN 258,Swiftfoot Boots,,0,0.0,0,0,0,2.50
+FDN 133,Soulstone Sanctuary,,0,0.0,0,0,0,4.00
+FDN 176,"Liliana, Dreadhorde General",,0,0.0,0,0,0,9.00
+FDN 160,An Offer You Can't Refuse,,0,0.0,0,0,0,2.50
+FDN 651,"Aurelia, the Warleader",,0,0.0,0,0,0,7.00
+FDN 106,"Loot, Exuberant Explorer",,0,0.0,0,0,0,3.50
+FDN 111,Quilled Greatwurm,,0,0.0,0,0,0,7.00
+FDN 11,Exemplar of Light,,0,0.0,0,0,0,3.00
+FDN 123,"Niv-Mizzet, Visionary",,0,0.0,0,0,0,6.50
+FDN 40,High Fae Trickster,,0,0.0,0,0,0,3.00
+FDN 129,Leyline Axe,,0,0.0,0,0,0,3.00
+FDN 161,Omniscience,,0,0.0,0,0,0,5.50
+FDN 286,Swamp,,0,0.0,0,0,0,2.00
+FDN 7,Crystal Barricade,,0,0.0,0,0,0,3.00
+FDN 220,Garruk's Uprising,,0,0.0,0,0,0,1.00
+FDN 30,Archmage of Runes,,0,0.0,0,0,0,3.00
+FDN 285,Island,,0,0.0,0,0,0,1.00
+FDN 92,Rite of the Dragoncaller,,0,0.0,0,0,0,5.00
+FDN 180,Phyrexian Arena,,0,0.0,0,0,0,3.00
+FDN 183,Rise of the Dark Realms,,0,0.0,0,0,0,5.00
+FDN 537,Dropkick Bomber,,0,0.0,0,0,0,12.00
+FDN 227,Llanowar Elves,,0,0.0,0,0,0,0.50
+FDN 11,Koma's Coil Token,,0,0.0,0,0,0,4.00
+FDN 659,"Halana and Alena, Partners",,0,0.0,0,0,0,2.00
+FDN 287,Swamp,,0,0.0,0,0,0,1.00
+FDN 678,"Ramos, Dragon Engine",,0,0.0,0,0,0,3.00
+FDN 77,"Zul Ashur, Lich Lord",,0,0.0,0,0,0,3.00
+FDN 204,"Krenko, Mob Boss",,0,0.0,0,0,0,1.00
+FDN 115,"Alesha, Who Laughs at Fate",,0,0.0,0,0,0,2.00
+FDN 173,Exsanguinate,,0,0.0,0,0,0,1.00
+FDN 140,Day of Judgment,,0,0.0,0,0,0,2.00
+FDN 22,Raise the Past,,0,0.0,0,0,0,2.00
+FDN 291,Forest,,0,0.0,0,0,0,1.00
+FDN 44,"Kaito, Cunning Infiltrator",,0,0.0,0,0,0,4.00
+FDN 93,Searslicer Goblin,,0,0.0,0,0,0,1.50
+FDN 288,Mountain,,0,0.0,0,0,0,0.50
+FDN 282,Plains,,0,0.0,0,0,0,1.00
+FDN 619,Bolt Bend,,0,0.0,0,0,0,4.50
+FDN 243,"Muldrotha, the Gravetide",,0,0.0,0,0,0,3.00
+FDN 41,Homunculus Horde,,0,0.0,0,0,0,1.50
+FDN 27,Valkyrie's Call,,0,0.0,0,0,0,3.00
+FDN 669,Basilisk Collar,,0,0.0,0,0,0,3.50
+FDN 126,"Zimone, Paradox Sculptor",,0,0.0,0,0,0,3.00
+FDN 179,Painful Quandary,,0,0.0,0,0,0,1.00
+FDN 23,Treasure Token,,0,0.0,0,0,0,0.50
+FDN 45,"Kiora, the Rising Tide",,0,0.0,0,0,0,2.00
+FDN 617,Wishclaw Talisman,,0,0.0,0,0,0,3.00
+FDN 54,Abyssal Harvester,,0,0.0,0,0,0,1.50
+FDN 633,Taurean Mauler,,0,0.0,0,0,0,2.50
+FDN 568,Charming Prince,,0,0.0,0,0,0,2.00
+FDN 66,Nine-Lives Familiar,,0,0.0,0,0,0,1.50
+FDN 121,"Koma, World-Eater",,0,0.0,0,0,0,1.50
+FDN 148,Stroke of Midnight,,0,0.0,0,0,0,0.50
+FDN 565,Angelic Destiny,,0,0.0,0,0,0,1.50
+FDN 521,Death Baron,,0,0.0,0,0,0,7.00
+FDN 668,Wilt-Leaf Liege,,0,0.0,0,0,0,2.00
+FDN 278,Mountain,,0,0.0,0,0,0,0.50
+FDN 17,Herald of Eternal Dawn,,0,0.0,0,0,0,2.00
+FDN 671,Darksteel Colossus,,0,0.0,0,0,0,3.00
+FDN 587,Dictate of Kruphix,,0,0.0,0,0,0,2.00
+FDN 184,Rune-Scarred Demon,,0,0.0,0,0,0,1.00
+FDN 141,"Giada, Font of Hope",,0,0.0,0,0,0,1.00
+FDN 61,High-Society Hunter,,0,0.0,0,0,0,1.00
+FDN 210,Thrill of Possibility,,0,0.0,0,0,0,0.25
+FDN 665,Savage Ventmaw,,0,0.0,0,0,0,1.50
+FDN 244,Progenitus,,0,0.0,0,0,0,1.50
+FDN 677,Pyromancer's Goggles,,0,0.0,0,0,0,2.00
+FDN 80,Bulk Up,,0,0.0,0,0,0,0.50
+FDN 627,"Lathliss, Dragon Queen",,0,0.0,0,0,0,3.00
+FDN 512,Opt,,0,0.0,0,0,0,0.25
+FDN 14,Rat Token,,0,0.0,0,0,0,0.50
+FDN 279,Mountain,,0,0.0,0,0,0,0.50
+FDN 574,Felidar Retreat,,0,0.0,0,0,0,2.00
+FDN 272,Plains,,0,0.0,0,0,0,0.50
+FDN 28,Cat Beast Token,,0,0.0,0,0,0,1.00
+FDN 2,"Arahbo, the First Fang",,0,0.0,0,0,0,1.00
+FDN 81,"Chandra, Flameshaper",,0,0.0,0,0,0,1.00
+FDN 277,Swamp,,0,0.0,0,0,0,0.50
+FDN 17,Dragon Token,,0,0.0,0,0,0,0.50
+FDN 579,Regal Caracal,,0,0.0,0,0,0,1.50
+FDN 528,Undying Malice,,0,0.0,0,0,0,0.50
+FDN 26,Copy Token,,0,0.0,0,0,0,1.00
+FDN 274,Island,,0,0.0,0,0,0,0.50
+FDN 649,Vizier of the Menagerie,,0,0.0,0,0,0,2.00
+FDN 193,"Drakuseth, Maw of Flames",,0,0.0,0,0,0,0.50
+FDN 109,Preposterous Proportions,,0,0.0,0,0,0,1.00
+FDN 248,Thousand-Year Storm,,0,0.0,0,0,0,0.50
+FDN 549,Terror of Mount Velus,,0,0.0,0,0,0,2.00
+FDN 85,Electroduplicate,,0,0.0,0,0,0,0.50
+FDN 290,Forest,,0,0.0,0,0,0,0.50
+FDN 23,Skyknight Squire,,0,0.0,0,0,0,1.00
+FDN 215,Bushwhack,,0,0.0,0,0,0,0.25
+FDN 730,Hinterland Sanctifier,,0,0.0,0,0,0,0.50
+FDN 618,Ball Lightning,,0,0.0,0,0,0,1.00
+FDN 9,Dazzling Angel,,0,0.0,0,0,0,0.25
+FDN 280,Forest,,0,0.0,0,0,0,0.50
+FDN 222,"Ghalta, Primal Hunger",,0,0.0,0,0,0,1.00
+FDN 15,Zombie Token,,0,0.0,0,0,0,0.50
+FDN 276,Swamp,,0,0.0,0,0,0,0.50
+FDN 16,Helpful Hunter,,0,0.0,0,0,0,0.25
+FDN 151,Aetherize,,0,0.0,0,0,0,0.50
+FDN 226,Inspiring Call,,0,0.0,0,0,0,0.50
+FDN 196,Firebrand Archer,,0,0.0,0,0,0,0.25
+FDN 76,Vengeful Bloodwitch,,0,0.0,0,0,0,0.50
+FDN 217,"Dwynen, Gilt-Leaf Daen",,0,0.0,0,0,0,0.50
+FDN 254,Heraldic Banner,,0,0.0,0,0,0,0.50
+FDN 64,Infestation Sage,,0,0.0,0,0,0,0.25
+FDN 47,Mischievous Mystic,,0,0.0,0,0,0,0.50
+FDN 192,Burst Lightning,,0,0.0,0,0,0,0.25
+FDN 194,"Etali, Primal Storm",,0,0.0,0,0,0,0.50
+FDN 275,Island,,0,0.0,0,0,0,0.50
+FDN 134,"Ajani, Caller of the Pride",,0,0.0,0,0,0,1.00
+FDN 1,Cat Token,,0,0.0,0,0,0,0.50
+FDN 273,Plains,,0,0.0,0,0,0,0.50
+FDN 602,Demonic Pact,,0,0.0,0,0,0,1.50
+FDN 30,Rat Token,,0,0.0,0,0,0,0.50
+FDN 635,Circuitous Route,,0,0.0,0,0,0,0.50
+FDN 687,Demolition Field,,0,0.0,0,0,0,1.00
+FDN 534,Carnelian Orb of Dragonkind,,0,0.0,0,0,0,2.00
+FDN 284,Island,,0,0.0,0,0,0,0.50
+FDN 611,Nullpriest of Oblivion,,0,0.0,0,0,0,0.50
+FDN 595,River's Rebuke,,0,0.0,0,0,0,1.00
+FDN 149,Youthful Valkyrie,,0,0.0,0,0,0,0.50
+FDN 237,"Balmor, Battlemage Captain",,0,0.0,0,0,0,0.50
+FDN 190,Brass's Bounty,,0,0.0,0,0,0,0.50
+FDN 197,Firespitter Whelp,,0,0.0,0,0,0,0.50
+FDN 74,Vampire Gourmand,,0,0.0,0,0,0,0.50
+FDN 622,Dragonmaster Outcast,,0,0.0,0,0,0,1.50
+FDN 168,Witness Protection,,0,0.0,0,0,0,0.25
+FDN 18,Goblin Token,,0,0.0,0,0,0,0.50
+FDN 253,Goldvein Pick,,0,0.0,0,0,0,0.25
+FDN 175,Hero's Downfall,,0,0.0,0,0,0,0.50
+FDN 112,Spinner of Souls,,0,0.0,0,0,0,0.50
+FDN 642,Predator Ooze,,0,0.0,0,0,0,1.00
+FDN 212,Bite Down,,0,0.0,0,0,0,0.25
+FDN 22,Food Token,,0,0.0,0,0,0,0.50
+FDN 283,Plains,,0,0.0,0,0,0,0.50
+FDN 5,Celestial Armor,,0,0.0,0,0,0,0.50
+FDN 29,Dog Token,,0,0.0,0,0,0,0.50
+FDN 232,Scavenging Ooze,,0,0.0,0,0,0,0.50
+FDN 5,Rabbit Token,,0,0.0,0,0,0,0.50
+FDN 219,Elvish Archdruid,,0,0.0,0,0,0,0.50
+FDN 186,Vampire Nighthawk,,0,0.0,0,0,0,0.50
+FDN 164,Spectral Sailor,,0,0.0,0,0,0,0.50
+FDN 170,Burglar Rat,,0,0.0,0,0,0,0.25
+FDN 142,Healer's Hawk,,0,0.0,0,0,0,0.25
+FDN 167,Tolarian Terror,,0,0.0,0,0,0,0.25
+FDN 655,Drogskol Reaver,,0,0.0,0,0,0,1.00
+FDN 264,Rogue's Passage,,0,0.0,0,0,0,0.50
+FDN 225,Grow from the Ashes,,0,0.0,0,0,0,0.25
+FDN 72,"Tinybones, Bauble Burglar",,0,0.0,0,0,0,0.50
+FDN 242,"Lathril, Blade of the Elves",,0,0.0,0,0,0,0.50
+FDN 156,Imprisoned in the Moon,,0,0.0,0,0,0,0.50
+FDN 19,Elf Warrior Token,,0,0.0,0,0,0,0.50
+FDN 281,Forest,,0,0.0,0,0,0,0.50
+FDN 240,Good-Fortune Unicorn,,0,0.0,0,0,0,0.50
+FDN 616,Vile Entomber,,0,0.0,0,0,0,0.50
+FDN 10,Divine Resilience,,0,0.0,0,0,0,0.50
+FDN 289,Mountain,,0,0.0,0,0,0,0.50
+FDN 645,Rampaging Baloths,,0,0.0,0,0,0,1.00
+FDN 154,Extravagant Replication,,0,0.0,0,0,0,0.50
+FDN 119,"Elenda, Saint of Dusk",,0,0.0,0,0,0,0.50
+FDN 12,Ninja Token,,0,0.0,0,0,0,0.50
+FDN 13,Scion of the Deep Token,,0,0.0,0,0,0,1.50
+FDN 16,Dragon Token,,0,0.0,0,0,0,0.50
+FDN 48,Refute,,0,0.0,0,0,0,0.25
+FDN 200,Goblin Surprise,,0,0.0,0,0,0,0.25
+FDN 195,Fanatical Firebrand,,0,0.0,0,0,0,0.25
+FDN 230,Overrun,,0,0.0,0,0,0,0.50
+FDN 238,Consuming Aberration,,0,0.0,0,0,0,0.50
+FDN 6,Soldier Token,,0,0.0,0,0,0,0.50
+FDN 247,"Tatyova, Benthic Druid",,0,0.0,0,0,0,0.50
+FDN 644,Primeval Bounty,,0,0.0,0,0,0,1.00
+FDN 135,Ajani's Pridemate,,0,0.0,0,0,0,0.50
+FDN 88,Goblin Negotiation,,0,0.0,0,0,0,0.50
+FDN 20,Raccoon Token,,0,0.0,0,0,0,0.50
+FDN 182,Reassembling Skeleton,,0,0.0,0,0,0,0.50
+FDN 26,Twinblade Blessing,,0,0.0,0,0,0,0.50
+FDN 513,Quick Study,,0,0.0,0,0,0,0.50
+FDN 607,Kalastria Highborn,,0,0.0,0,0,0,1.00
+FDN 68,Sanguine Syphoner,,0,0.0,0,0,0,0.25
+FDN 51,Sphinx of Forgotten Lore,,0,0.0,0,0,0,1.00
+FDN 256,Meteor Golem,,0,0.0,0,0,0,0.50
+FDN 9,Faerie Token,,0,0.0,0,0,0,0.50
+FDN 136,Angel of Finality,,0,0.0,0,0,0,0.50
+FDN 507,Eaten by Piranhas,,0,0.0,0,0,0,1.00
+FDN 103,Elfsworn Giant,,0,0.0,0,0,0,0.25
+FDN 178,Marauding Blight-Priest,,0,0.0,0,0,0,0.25
+FDN 658,"Garna, Bloodfist of Keld",,0,0.0,0,0,0,0.50
+FDN 239,Empyrean Eagle,,0,0.0,0,0,0,0.50
+FDN 588,Dive Down,,0,0.0,0,0,0,0.50
+FDN 67,Revenge of the Rats,,0,0.0,0,0,0,0.50
+FDN 625,Harmless Offering,,0,0.0,0,0,0,1.00
+FDN 213,Blanchwood Armor,,0,0.0,0,0,0,0.50
+FDN 489,Ancestor Dragon,,0,0.0,0,0,0,1.50
+FDN 39,Grappling Kraken,,0,0.0,0,0,0,0.50
+FDN 124,Perforating Artist,,0,0.0,0,0,0,0.50
+FDN 245,"Ruby, Daring Tracker",,0,0.0,0,0,0,0.50
+FDN 536,Dragonlord's Servant,,0,0.0,0,0,0,1.00
+FDN 535,Dragon Fodder,,0,0.0,0,0,0,0.25
+FDN 231,Reclamation Sage,,0,0.0,0,0,0,0.50
+FDN 187,Zombify,,0,0.0,0,0,0,0.50
+FDN 552,Bear Cub,,0,0.0,0,0,0,1.00
+FDN 493,Elspeth's Smite,,0,0.0,0,0,0,2.00
+FDN 4,Cat Collector,,0,0.0,0,0,0,0.50
+FDN 110,Quakestrider Ceratops,,0,0.0,0,0,0,0.50
+FDN 145,Resolute Reinforcements,,0,0.0,0,0,0,0.50
+FDN 673,Feldon's Cane,,0,0.0,0,0,0,0.50
+FDN 236,Wildwood Scourge,,0,0.0,0,0,0,0.50
+FDN 33,Clinquant Skymage,,0,0.0,0,0,0,0.50
+FDN 6,Claws Out,,0,0.0,0,0,0,0.50
+FDN 218,Dwynen's Elite,,0,0.0,0,0,0,0.25
+FDN 221,Genesis Wave,,0,0.0,0,0,0,0.50
+FDN 234,Vivien Reid,,0,0.0,0,0,0,1.00
+FDN 520,Deadly Plot,,0,0.0,0,0,0,1.00
+FDN 8,Drake Token,,0,0.0,0,0,0,0.50
+FDN 174,Fake Your Own Death,,0,0.0,0,0,0,0.25
+FDN 257,Solemn Simulacrum,,0,0.0,0,0,0,0.50
+FDN 169,Bake into a Pie,,0,0.0,0,0,0,0.25
+FDN 25,Sun-Blessed Healer,,0,0.0,0,0,0,0.50
+FDN 166,Time Stop,,0,0.0,0,0,0,0.50
+FDN 65,Midnight Snack,,0,0.0,0,0,0,0.50
+FDN 71,Stab,,0,0.0,0,0,0,0.25
+FDN 603,Desecration Demon,,0,0.0,0,0,0,0.50
+FDN 162,Run Away Together,,0,0.0,0,0,0,0.25
+FDN 21,Insect Token,,0,0.0,0,0,0,0.50
+FDN 113,Sylvan Scavenging,,0,0.0,0,0,0,0.50
+FDN 662,Mortify,,0,0.0,0,0,0,0.50
+FDN 652,"Ayli, Eternal Pilgrim",,0,0.0,0,0,0,0.50
+FDN 207,Slagstorm,,0,0.0,0,0,0,0.50
+FDN 661,Maelstrom Pulse,,0,0.0,0,0,0,0.50
+FDN 198,Flamewake Phoenix,,0,0.0,0,0,0,0.50
+FDN 38,Faebloom Trick,,0,0.0,0,0,0,0.50
+FDN 585,Arcanis the Omnipotent,,0,0.0,0,0,0,0.50
+FDN 2,Cat Token,,0,0.0,0,0,0,0.50
+FDN 120,Fiendish Panda,,0,0.0,0,0,0,0.50
+FDN 246,Swiftblade Vindicator,,0,0.0,0,0,0,0.50
+FDN 589,Finale of Revelation,,0,0.0,0,0,0,1.00
+FDN 261,Dismal Backwater,,0,0.0,0,0,0,0.25
+FDN 663,"Ovika, Enigma Goliath",,0,0.0,0,0,0,0.50
+FDN 266,Scoured Barrens,,0,0.0,0,0,0,0.25
+FDN 252,Gleaming Barrier,,0,0.0,0,0,0,0.25
+FDN 224,Gnarlid Colony,,0,0.0,0,0,0,0.25
+FDN 21,Prideful Parent,,0,0.0,0,0,0,0.25
+FDN 116,Anthem of Champions,,0,0.0,0,0,0,0.50
+FDN 676,Mazemind Tome,,0,0.0,0,0,0,0.50
+FDN 172,Eaten Alive,,0,0.0,0,0,0,0.25
+FDN 35,Drake Hatcher,,0,0.0,0,0,0,0.50
+FDN 606,Duress,,0,0.0,0,0,0,0.50
+FDN 31,Phyrexian Goblin Token,,0,0.0,0,0,0,0.50
+FDN 189,Axgard Cavalry,,0,0.0,0,0,0,0.25
+FDN 131,Ravenous Amulet,,0,0.0,0,0,0,0.50
+FDN 146,Savannah Lions,,0,0.0,0,0,0,0.50
+FDN 28,Vanguard Seraph,,0,0.0,0,0,0,0.25
+FDN 49,Rune-Sealed Wall,,0,0.0,0,0,0,0.50
+FDN 159,Mocking Sprite,,0,0.0,0,0,0,0.25
+FDN 643,Primal Might,,0,0.0,0,0,0,0.50
+FDN 546,Seize the Spoils,,0,0.0,0,0,0,0.50
+FDN 55,Arbiter of Woe,,0,0.0,0,0,0,0.50
+FDN 597,Sphinx of the Final Word,,0,0.0,0,0,0,1.00
+FDN 503,Twinblade Paladin,,0,0.0,0,0,0,1.00
+FDN 685,Crawling Barrens,,0,0.0,0,0,0,0.50
+FDN 609,Midnight Reaper,,0,0.0,0,0,0,0.50
+FDN 122,"Kykar, Zephyr Awakener",,0,0.0,0,0,0,0.50
+FDN 646,Springbloom Druid,,0,0.0,0,0,0,0.25
+FDN 188,Abrade,,0,0.0,0,0,0,0.50
+FDN 10,Fish Token,,0,0.0,0,0,0,0.50
+FDN 699,Temple of Epiphany,,0,0.0,0,0,0,0.50
+FDN 114,Treetop Snarespinner,,0,0.0,0,0,0,0.25
+FDN 102,Eager Trufflesnout,,0,0.0,0,0,0,0.50
+FDN 599,Unsummon,,0,0.0,0,0,0,0.50
+FDN 27,Cat Token,,0,0.0,0,0,0,0.50
+FDN 199,Frenzied Goblin,,0,0.0,0,0,0,0.50
+FDN 509,Into the Roil,,0,0.0,0,0,0,0.25
+FDN 271,Wind-Scarred Crag,,0,0.0,0,0,0,0.25
+FDN 575,Fumigate,,0,0.0,0,0,0,0.50
+FDN 267,Secluded Courtyard,,0,0.0,0,0,0,0.50
+FDN 233,Snakeskin Veil,,0,0.0,0,0,0,0.50
+FDN 499,Leonin Vanguard,,0,0.0,0,0,0,2.00
+FDN 681,Steel Hellkite,,0,0.0,0,0,0,0.50
+FDN 20,Luminous Rebuke,,0,0.0,0,0,0,0.25
+FDN 181,Pilfer,,0,0.0,0,0,0,0.25
+FDN 208,Spitfire Lagac,,0,0.0,0,0,0,0.25
+FDN 117,Ashroot Animist,,0,0.0,0,0,0,0.50
+FDN 598,Tempest Djinn,,0,0.0,0,0,0,0.50
+FDN 610,Myojin of Night's Reach,,0,0.0,0,0,0,0.50
+FDN 138,Banishing Light,,0,0.0,0,0,0,0.25
+FDN 702,Temple of Mystery,,0,0.0,0,0,0,0.50
+FDN 13,Fleeting Flight,,0,0.0,0,0,0,0.25
+FDN 241,Heroic Reinforcements,,0,0.0,0,0,0,0.50
+FDN 46,Lunar Insight,,0,0.0,0,0,0,0.50
+FDN 572,Disenchant,,0,0.0,0,0,0,0.25
+FDN 24,"Kaito, Cunning Infiltrator Emblem",,0,0.0,0,0,0,0.50
+FDN 571,Devout Decree,,0,0.0,0,0,0,0.50
+FDN 91,"Kellan, Planar Trailblazer",,0,0.0,0,0,0,0.50
+FDN 118,Dreadwing Scavenger,,0,0.0,0,0,0,0.50
+FDN 104,Elvish Regrower,,0,0.0,0,0,0,0.50
+FDN 155,Fleeting Distraction,,0,0.0,0,0,0,0.25
+FDN 700,Temple of Malady,,0,0.0,0,0,0,0.50
+FDN 262,Evolving Wilds,,0,0.0,0,0,0,0.25
+FDN 12,Felidar Savior,,0,0.0,0,0,0,0.25
+FDN 496,Inspiring Overseer,,0,0.0,0,0,0,0.25
+FDN 263,Jungle Hollow,,0,0.0,0,0,0,0.25
+FDN 69,Seeker's Folly,,0,0.0,0,0,0,0.50
+FDN 608,Knight of Malice,,0,0.0,0,0,0,0.50
+FDN 586,Chart a Course,,0,0.0,0,0,0,0.50
+FDN 639,Heroes' Bane,,0,0.0,0,0,0,0.50
+FDN 63,Infernal Vessel,,0,0.0,0,0,0,0.50
+FDN 130,Quick-Draw Katana,,0,0.0,0,0,0,0.25
+FDN 551,Aggressive Mammoth,,0,0.0,0,0,0,1.00
+FDN 701,Temple of Malice,,0,0.0,0,0,0,0.50
+FDN 686,Cryptic Caves,,0,0.0,0,0,0,0.50
+FDN 580,Release the Dogs,,0,0.0,0,0,0,0.50
+FDN 34,Curator of Destinies,,0,0.0,0,0,0,0.50
+FDN 223,Giant Growth,,0,0.0,0,0,0,0.25
+FDN 691,Izzet Guildgate,,0,0.0,0,0,0,0.25
+FDN 125,Wardens of the Cycle,,0,0.0,0,0,0,0.50
+FDN 43,Inspiration from Beyond,,0,0.0,0,0,0,0.50
+FDN 660,Immersturm Predator,,0,0.0,0,0,0,0.50
+FDN 18,Inspiring Paladin,,0,0.0,0,0,0,0.25
+FDN 632,Stromkirk Noble,,0,0.0,0,0,0,0.50
+FDN 696,Temple of Abandon,,0,0.0,0,0,0,0.50
+FDN 674,Fireshrieker,,0,0.0,0,0,0,0.50
+FDN 105,Felling Blow,,0,0.0,0,0,0,0.50
+FDN 86,Fiery Annihilation,,0,0.0,0,0,0,0.50
+FDN 7,Spirit Token,,0,0.0,0,0,0,0.50
+FDN 666,Teach by Example,,0,0.0,0,0,0,0.50
+FDN 620,Crash Through,,0,0.0,0,0,0,0.25
+FDN 637,"Fynn, the Fangbearer",,0,0.0,0,0,0,0.50
+FDN 31,Bigfin Bouncer,,0,0.0,0,0,0,0.25
+FDN 615,Vampiric Rites,,0,0.0,0,0,0,0.50
+FDN 631,Redcap Gutter-Dweller,,0,0.0,0,0,0,0.50
+FDN 591,Fog Bank,,0,0.0,0,0,0,0.50
+FDN 108,Needletooth Pack,,0,0.0,0,0,0,0.50
+FDN 682,Three Tree Mascot,,0,0.0,0,0,0,0.25
+FDN 518,Crossway Troublemakers,,0,0.0,0,0,0,0.50
+FDN 647,"Surrak, the Hunt Caller",,0,0.0,0,0,0,0.50
+FDN 152,Brineborn Cutthroat,,0,0.0,0,0,0,0.50
+FDN 576,Knight of Grace,,0,0.0,0,0,0,0.50
+FDN 270,Tranquil Cove,,0,0.0,0,0,0,0.25
+FDN 593,Harbinger of the Tides,,0,0.0,0,0,0,0.50
+FDN 577,"Linden, the Steadfast Queen",,0,0.0,0,0,0,0.50
+FDN 584,"Zetalpa, Primal Dawn",,0,0.0,0,0,0,0.50
+FDN 573,Felidar Cub,,0,0.0,0,0,0,0.25
+FDN 25,Vivien Reid Emblem,,0,0.0,0,0,0,0.50
+FDN 604,Dread Summons,,0,0.0,0,0,0,0.50
+FDN 704,Temple of Silence,,0,0.0,0,0,0,0.50
+FDN 600,Voracious Greatshark,,0,0.0,0,0,0,0.50
+FDN 19,Joust Through,,0,0.0,0,0,0,0.50
+FDN 268,Swiftwater Cliffs,,0,0.0,0,0,0,0.25
+FDN 83,Crackling Cyclops,,0,0.0,0,0,0,0.25
+FDN 203,Involuntary Employment,,0,0.0,0,0,0,0.25
+FDN 177,Macabre Waltz,,0,0.0,0,0,0,0.25
+FDN 260,Blossoming Sands,,0,0.0,0,0,0,0.25
+FDN 32,Cephalid Inkmage,,0,0.0,0,0,0,0.50
+FDN 8,Dauntless Veteran,,0,0.0,0,0,0,0.50
+FDN 3,Human Token,,0,0.0,0,0,0,0.50
+FDN 265,Rugged Highlands,,0,0.0,0,0,0,0.25
+FDN 664,Prime Speaker Zegana,,0,0.0,0,0,0,0.50
+FDN 501,Pacifism,,0,0.0,0,0,0,0.25
+FDN 259,Bloodfell Caves,,0,0.0,0,0,0,0.25
+FDN 570,Dawnwing Marshal,,0,0.0,0,0,0,0.50
+FDN 87,Goblin Boarders,,0,0.0,0,0,0,0.25
+FDN 201,Heartfire Immolator,,0,0.0,0,0,0,0.50
+FDN 158,Micromancer,,0,0.0,0,0,0,0.50
+FDN 235,Wary Thespian,,0,0.0,0,0,0,0.25
+FDN 98,Ambush Wolf,,0,0.0,0,0,0,0.25
+FDN 29,Arcane Epiphany,,0,0.0,0,0,0,0.50
+FDN 567,Ballyrush Banneret,,0,0.0,0,0,0,0.25
+FDN 84,Dragon Trainer,,0,0.0,0,0,0,0.50
+FDN 62,Hungry Ghoul,,0,0.0,0,0,0,0.25
+FDN 147,Serra Angel,,0,0.0,0,0,0,0.50
+FDN 52,Strix Lookout,,0,0.0,0,0,0,0.25
+FDN 583,Valorous Stance,,0,0.0,0,0,0,0.50
+FDN 698,Temple of Enlightenment,,0,0.0,0,0,0,0.50
+FDN 128,Fishing Pole,,0,0.0,0,0,0,0.50
+FDN 524,Moment of Craving,,0,0.0,0,0,0,0.25
+FDN 557,New Horizons,,0,0.0,0,0,0,0.25
+FDN 612,Pulse Tracker,,0,0.0,0,0,0,0.25
+FDN 94,Slumbering Cerberus,,0,0.0,0,0,0,0.50
+FDN 564,Uncharted Haven,,0,0.0,0,0,0,0.25
+FDN 697,Temple of Deceit,,0,0.0,0,0,0,0.50
+FDN 506,Corsair Captain,,0,0.0,0,0,0,0.50
+FDN 497,Jazal Goldmane,,0,0.0,0,0,0,0.50
+FDN 139,Cathar Commando,,0,0.0,0,0,0,0.25
+FDN 36,Elementalist Adept,,0,0.0,0,0,0,0.25
+FDN 153,Essence Scatter,,0,0.0,0,0,0,0.50
+FDN 590,Flashfreeze,,0,0.0,0,0,0,0.50
+FDN 4,Knight Token,,0,0.0,0,0,0,0.50
+FDN 594,Mystical Teachings,,0,0.0,0,0,0,0.50
+FDN 206,Shivan Dragon,,0,0.0,0,0,0,0.50
+FDN 559,Thornweald Archer,,0,0.0,0,0,0,0.25
+FDN 614,Tribute to Hunger,,0,0.0,0,0,0,0.50
+FDN 60,Gutless Plunderer,,0,0.0,0,0,0,0.25
+FDN 500,Moment of Triumph,,0,0.0,0,0,0,0.25
+FDN 680,Soul-Guide Lantern,,0,0.0,0,0,0,0.50
+FDN 581,Stasis Snare,,0,0.0,0,0,0,0.50
+FDN 75,Vampire Soulcaller,,0,0.0,0,0,0,0.25
+FDN 100,Beast-Kin Ranger,,0,0.0,0,0,0,0.25
+FDN 37,Erudite Wizard,,0,0.0,0,0,0,0.25
+FDN 623,Ghitu Lavarunner,,0,0.0,0,0,0,0.25
+FDN 539,Goblin Oriflamme,,0,0.0,0,0,0,0.50
+FDN 692,Orzhov Guildgate,,0,0.0,0,0,0,0.25
+FDN 163,Self-Reflection,,0,0.0,0,0,0,0.50
+FDN 185,Stromkirk Bloodthief,,0,0.0,0,0,0,0.50
+FDN 670,Cultivator's Caravan,,0,0.0,0,0,0,0.50
+FDN 492,Deadly Riposte,,0,0.0,0,0,0,0.25
+FDN 540,Goblin Smuggler,,0,0.0,0,0,0,0.25
+FDN 157,Lightshell Duo,,0,0.0,0,0,0,0.25
+FDN 228,Mild-Mannered Librarian,,0,0.0,0,0,0,0.50
+FDN 144,Mischievous Pup,,0,0.0,0,0,0,0.50
+FDN 70,Soul-Shackled Zombie,,0,0.0,0,0,0,0.25
+FDN 488,Adamant Will,,0,0.0,0,0,0,0.25
+FDN 621,Dragon Mage,,0,0.0,0,0,0,0.50
+FDN 703,Temple of Plenty,,0,0.0,0,0,0,0.50
+FDN 531,Vampire Neonate,,0,0.0,0,0,0,0.50
+FDN 650,Wildborn Preserver,,0,0.0,0,0,0,0.50
+FDN 683,Azorius Guildgate,,0,0.0,0,0,0,0.25
+FDN 56,Billowing Shriekmass,,0,0.0,0,0,0,0.50
+FDN 250,Burnished Hart,,0,0.0,0,0,0,0.50
+FDN 688,Dimir Guildgate,,0,0.0,0,0,0,0.25
+FDN 502,Prayer of Binding,,0,0.0,0,0,0,0.50
+FDN 269,Thornwood Falls,,0,0.0,0,0,0,0.25
+FDN 601,Deathmark,,0,0.0,0,0,0,0.50
+FDN 211,Affectionate Indrik,,0,0.0,0,0,0,0.50
+FDN 3,Armasaur Guide,,0,0.0,0,0,0,0.25
+FDN 684,Boros Guildgate,,0,0.0,0,0,0,0.25
+FDN 653,Cloudblazer,,0,0.0,0,0,0,0.50
+FDN 171,Diregraf Ghoul,,0,0.0,0,0,0,0.50
+FDN 508,Exclusion Mage,,0,0.0,0,0,0,0.50
+FDN 592,Gateway Sneak,,0,0.0,0,0,0,0.50
+FDN 624,Giant Cindermaw,,0,0.0,0,0,0,0.50
+FDN 690,Gruul Guildgate,,0,0.0,0,0,0,0.25
+FDN 578,Mentor of the Meek,,0,0.0,0,0,0,0.50
+FDN 705,Temple of Triumph,,0,0.0,0,0,0,0.50
+FDN 251,Campus Guide,,0,0.0,0,0,0,0.25
+FDN 569,Crusader of Odric,,0,0.0,0,0,0,0.25
+FDN 14,Guarded Heir,,0,0.0,0,0,0,0.50
+FDN 498,Leonin Skyhunter,,0,0.0,0,0,0,0.50
+FDN 641,Ordeal of Nylea,,0,0.0,0,0,0,0.50
+FDN 73,Tragic Banshee,,0,0.0,0,0,0,0.50
+FDN 550,Volley Veteran,,0,0.0,0,0,0,0.50
+FDN 519,Crow of Dark Tidings,,0,0.0,0,0,0,0.25
+FDN 672,Diamond Mare,,0,0.0,0,0,0,0.50
+FDN 494,Herald of Faith,,0,0.0,0,0,0,0.50
+FDN 523,Maalfeld Twins,,0,0.0,0,0,0,0.50
+FDN 556,Magnigoth Sentry,,0,0.0,0,0,0,0.25
+FDN 229,Nessian Hornbeetle,,0,0.0,0,0,0,0.50
+FDN 545,Scorching Dragonfire,,0,0.0,0,0,0,0.25
+FDN 596,Shipwreck Dowser,,0,0.0,0,0,0,0.50
+FDN 695,Simic Guildgate,,0,0.0,0,0,0,0.25
+FDN 24,Squad Rallier,,0,0.0,0,0,0,0.25
+FDN 548,Swab Goblin,,0,0.0,0,0,0,0.25
+FDN 165,Think Twice,,0,0.0,0,0,0,0.25
+FDN 53,Uncharted Voyage,,0,0.0,0,0,0,0.25
+FDN 529,Untamed Hunger,,0,0.0,0,0,0,0.25
+FDN 530,Vampire Interloper,,0,0.0,0,0,0,0.25
+FDN 566,Archway Angel,,0,0.0,0,0,0,0.50
+FDN 505,Cancel,,0,0.0,0,0,0,0.25
+FDN 82,Courageous Goblin,,0,0.0,0,0,0,0.25
+FDN 59,Crypt Feaster,,0,0.0,0,0,0,0.25
+FDN 657,Enigma Drake,,0,0.0,0,0,0,0.50
+FDN 143,Make Your Move,,0,0.0,0,0,0,0.25
+FDN 628,Mindsparker,,0,0.0,0,0,0,0.50
+FDN 693,Rakdos Guildgate,,0,0.0,0,0,0,0.25
+FDN 544,Rapacious Dragon,,0,0.0,0,0,0,0.25
+FDN 613,Sanguine Indulgence,,0,0.0,0,0,0,0.25
+FDN 99,Apothecary Stomper,,0,0.0,0,0,0,0.25
+FDN 78,Battlesong Berserker,,0,0.0,0,0,0,0.50
+FDN 491,Bishop's Soldier,,0,0.0,0,0,0,0.25
+FDN 510,Kitesail Corsair,,0,0.0,0,0,0,0.25
+FDN 694,Selesnya Guildgate,,0,0.0,0,0,0,0.25
+FDN 679,Sorcerous Spyglass,,0,0.0,0,0,0,0.50
+FDN 96,Strongbox Raider,,0,0.0,0,0,0,0.50
+FDN 209,Sure Strike,,0,0.0,0,0,0,0.25
+FDN 542,Kindled Fury,,0,0.0,0,0,0,0.25
+FDN 640,Mold Adder,,0,0.0,0,0,0,0.50
+FDN 543,Raging Redcap,,0,0.0,0,0,0,0.25
+FDN 532,Vampire Spawn,,0,0.0,0,0,0,0.25
+FDN 561,Wildheart Invoker,,0,0.0,0,0,0,0.25
+FDN 629,Obliterating Bolt,,0,0.0,0,0,0,0.50
+FDN 249,Adventuring Gear,,0,0.0,0,0,0,0.50
+FDN 553,Biogenic Upgrade,,0,0.0,0,0,0,0.50
+FDN 605,Driver of the Dead,,0,0.0,0,0,0,0.25
+FDN 636,Fierce Empath,,0,0.0,0,0,0,0.25
+FDN 638,Gnarlback Rhino,,0,0.0,0,0,0,0.50
+FDN 689,Golgari Guildgate,,0,0.0,0,0,0,0.25
+FDN 89,Gorehorn Raider,,0,0.0,0,0,0,0.25
+FDN 626,Hoarding Dragon,,0,0.0,0,0,0,0.50
+FDN 90,Incinerating Blast,,0,0.0,0,0,0,0.25
+FDN 558,Tajuru Pathwarden,,0,0.0,0,0,0,0.25
+FDN 634,Viashino Pyromancer,,0,0.0,0,0,0,0.25
+FDN 214,Broken Wings,,0,0.0,0,0,0,0.25
+FDN 101,Cackling Prowler,,0,0.0,0,0,0,0.25
+FDN 538,Fire Elemental,,0,0.0,0,0,0,0.25
+FDN 675,Gate Colossus,,0,0.0,0,0,0,0.50
+FDN 202,Hidetsugu's Second Rite,,0,0.0,0,0,0,0.50
+FDN 563,Pirate's Cutlass,,0,0.0,0,0,0,0.25
+FDN 515,Storm Fleet Spy,,0,0.0,0,0,0,0.50
+FDN 527,Suspicious Shambler,,0,0.0,0,0,0,0.25
+FDN 517,Cemetery Recruitment,,0,0.0,0,0,0,0.50
+FDN 554,Druid of the Cowl,,0,0.0,0,0,0,0.50
+FDN 511,Mystic Archaeologist,,0,0.0,0,0,0,0.50
+FDN 490,Angelic Edict,,0,0.0,0,0,0,0.25
+FDN 533,Battle-Rattle Shaman,,0,0.0,0,0,0,0.50
+FDN 32,Beast Token,,0,0.0,0,0,0,0.50
+FDN 42,Icewind Elemental,,0,0.0,0,0,0,0.25
+FDN 555,Joraga Invocation,,0,0.0,0,0,0,0.50
+FDN 541,Kargan Dragonrider,,0,0.0,0,0,0,0.25
+FDN 50,Skyship Buccaneer,,0,0.0,0,0,0,0.50
+FDN 648,Venom Connoisseur,,0,0.0,0,0,0,0.50
+FDN 525,Offer Immortality,,0,0.0,0,0,0,0.25
+FDN 150,Aegis Turtle,,0,0.0,0,0,0,0.25
+FDN 656,Dryad Militant,,0,0.0,0,0,0,0.50
+FDN 495,Ingenious Leonin,,0,0.0,0,0,0,0.50
+FDN 526,Skeleton Archer,,0,0.0,0,0,0,0.25
+FDN 95,Sower of Chaos,,0,0.0,0,0,0,0.25
+FDN 33,Beast Token,,0,0.0,0,0,0,0.50
+FDN 191,Brazen Scourge,,0,0.0,0,0,0,0.50
+FDN 562,Goblin Firebomb,,0,0.0,0,0,0,0.25
+FDN 522,Highborn Vampire,,0,0.0,0,0,0,0.25
+FDN 514,Starlight Snare,,0,0.0,0,0,0,0.25
+FDN 582,"Syr Alin, the Lion's Claw",,0,0.0,0,0,0,0.50
+FDN 560,Thrashing Brontodon,,0,0.0,0,0,0,0.50
+FDN 504,Burrog Befuddler,,0,0.0,0,0,0,0.25
+FDN 630,Ravenous Giant,,0,0.0,0,0,0,0.50
+FDN 547,Skyraker Giant,,0,0.0,0,0,0,0.25
+FDN 667,Trygon Predator,,0,0.0,0,0,0,0.50
+FDN 516,Bloodtithe Collector,,0,0.0,0,0,0,0.50
+FDN 255,Juggernaut,,0,0.0,0,0,0,0.50
+FDN 205,Seismic Rupture,,0,0.0,0,0,0,0.50
+FDN 1F,Sire of Seven Deaths,,0,0.0,0,0,0,22.00
+FDN 15F,Hare Apparent,,0,0.0,0,0,0,6.50
+FDN 58F,Bloodthirsty Conqueror,,0,0.0,0,0,0,36.00
+FDN 97F,Twinflame Tyrant,,0,0.0,0,0,0,26.00
+FDN 216F,Doubling Season,,0,0.0,0,0,0,30.00
+FDN 79F,Boltwave,,0,0.0,0,0,0,6.50
+FDN 176F,"Liliana, Dreadhorde General",,0,0.0,0,0,0,8.00
+FDN 57F,Blasphemous Edict,,0,0.0,0,0,0,7.00
+FDN 286F,Swamp,,0,0.0,0,0,0,2.00
+FDN 137F,Authority of the Consuls,,0,0.0,0,0,0,6.50
+FDN 707F,Lyra Dawnbringer,,0,0.0,0,0,0,5.00
+FDN 127F,Banner of Kinship,,0,0.0,0,0,0,9.50
+FDN 107F,Mossborn Hydra,,0,0.0,0,0,0,5.50
+FDN 133F,Soulstone Sanctuary,,0,0.0,0,0,0,4.00
+FDN 106F,"Loot, Exuberant Explorer",,0,0.0,0,0,0,3.50
+FDN 717F,Impact Tremors,,0,0.0,0,0,0,3.00
+FDN 282F,Plains,,0,0.0,0,0,0,1.00
+FDN 30F,Archmage of Runes,,0,0.0,0,0,0,2.50
+FDN 123F,"Niv-Mizzet, Visionary",,0,0.0,0,0,0,5.50
+FDN 160F,An Offer You Can't Refuse,,0,0.0,0,0,0,2.50
+FDN 92F,Rite of the Dragoncaller,,0,0.0,0,0,0,5.00
+FDN 161F,Omniscience,,0,0.0,0,0,0,5.50
+FDN 721F,Boros Charm,,0,0.0,0,0,0,5.00
+FDN 132F,Scrawling Crawler,,0,0.0,0,0,0,5.50
+FDN 7F,Crystal Barricade,,0,0.0,0,0,0,2.00
+FDN 183F,Rise of the Dark Realms,,0,0.0,0,0,0,5.00
+FDN 258F,Swiftfoot Boots,,0,0.0,0,0,0,2.50
+FDN 727F,Maze's End,,0,0.0,0,0,0,3.00
+FDN 40F,High Fae Trickster,,0,0.0,0,0,0,3.00
+FDN 44F,"Kaito, Cunning Infiltrator",,0,0.0,0,0,0,4.00
+FDN 291F,Forest,,0,0.0,0,0,0,1.00
+FDN 180F,Phyrexian Arena,,0,0.0,0,0,0,2.50
+FDN 77F,"Zul Ashur, Lich Lord",,0,0.0,0,0,0,3.00
+FDN 111F,Quilled Greatwurm,,0,0.0,0,0,0,7.00
+FDN 115F,"Alesha, Who Laughs at Fate",,0,0.0,0,0,0,2.00
+FDN 220F,Garruk's Uprising,,0,0.0,0,0,0,1.00
+FDN 129F,Leyline Axe,,0,0.0,0,0,0,3.00
+FDN 11F,Koma's Coil Token,,0,0.0,0,0,0,3.50
+FDN 714F,Massacre Wurm,,0,0.0,0,0,0,2.50
+FDN 17F,Herald of Eternal Dawn,,0,0.0,0,0,0,1.50
+FDN 285F,Island,,0,0.0,0,0,0,1.00
+FDN 11F,Exemplar of Light,,0,0.0,0,0,0,3.50
+FDN 140F,Day of Judgment,,0,0.0,0,0,0,1.50
+FDN 179F,Painful Quandary,,0,0.0,0,0,0,1.00
+FDN 93F,Searslicer Goblin,,0,0.0,0,0,0,1.50
+FDN 711F,Rite of Replication,,0,0.0,0,0,0,2.00
+FDN 173F,Exsanguinate,,0,0.0,0,0,0,1.00
+FDN 204F,"Krenko, Mob Boss",,0,0.0,0,0,0,1.50
+FDN 243F,"Muldrotha, the Gravetide",,0,0.0,0,0,0,3.00
+FDN 85F,Electroduplicate,,0,0.0,0,0,0,0.50
+FDN 151F,Aetherize,,0,0.0,0,0,0,0.50
+FDN 22F,Raise the Past,,0,0.0,0,0,0,3.00
+FDN 723F,Adaptive Automaton,,0,0.0,0,0,0,2.00
+FDN 184F,Rune-Scarred Demon,,0,0.0,0,0,0,1.00
+FDN 290F,Forest,,0,0.0,0,0,0,1.00
+FDN 81F,"Chandra, Flameshaper",,0,0.0,0,0,0,1.00
+FDN 226F,Inspiring Call,,0,0.0,0,0,0,0.50
+FDN 121F,"Koma, World-Eater",,0,0.0,0,0,0,1.50
+FDN 227F,Llanowar Elves,,0,0.0,0,0,0,1.00
+FDN 287F,Swamp,,0,0.0,0,0,0,1.00
+FDN 288F,Mountain,,0,0.0,0,0,0,0.50
+FDN 141F,"Giada, Font of Hope",,0,0.0,0,0,0,1.00
+FDN 264F,Rogue's Passage,,0,0.0,0,0,0,1.00
+FDN 257F,Solemn Simulacrum,,0,0.0,0,0,0,0.50
+FDN 248F,Thousand-Year Storm,,0,0.0,0,0,0,0.50
+FDN 126F,"Zimone, Paradox Sculptor",,0,0.0,0,0,0,2.00
+FDN 724F,Expedition Map,,0,0.0,0,0,0,1.00
+FDN 23F,Treasure Token,,0,0.0,0,0,0,0.50
+FDN 80F,Bulk Up,,0,0.0,0,0,0,1.00
+FDN 284F,Island,,0,0.0,0,0,0,0.50
+FDN 725F,Gilded Lotus,,0,0.0,0,0,0,2.00
+FDN 134F,"Ajani, Caller of the Pride",,0,0.0,0,0,0,1.00
+FDN 5F,Rabbit Token,,0,0.0,0,0,0,0.50
+FDN 61F,High-Society Hunter,,0,0.0,0,0,0,0.50
+FDN 1F,Cat Token,,0,0.0,0,0,0,0.50
+FDN 148F,Stroke of Midnight,,0,0.0,0,0,0,1.00
+FDN 244F,Progenitus,,0,0.0,0,0,0,1.00
+FDN 47F,Mischievous Mystic,,0,0.0,0,0,0,0.50
+FDN 45F,"Kiora, the Rising Tide",,0,0.0,0,0,0,3.00
+FDN 289F,Mountain,,0,0.0,0,0,0,0.50
+FDN 193F,"Drakuseth, Maw of Flames",,0,0.0,0,0,0,0.50
+FDN 27F,Valkyrie's Call,,0,0.0,0,0,0,2.00
+FDN 712F,Feed the Swarm,,0,0.0,0,0,0,1.00
+FDN 192F,Burst Lightning,,0,0.0,0,0,0,0.50
+FDN 72F,"Tinybones, Bauble Burglar",,0,0.0,0,0,0,0.50
+FDN 66F,Nine-Lives Familiar,,0,0.0,0,0,0,1.00
+FDN 219F,Elvish Archdruid,,0,0.0,0,0,0,0.50
+FDN 16F,Helpful Hunter,,0,0.0,0,0,0,0.50
+FDN 41F,Homunculus Horde,,0,0.0,0,0,0,1.50
+FDN 14F,Rat Token,,0,0.0,0,0,0,0.50
+FDN 222F,"Ghalta, Primal Hunger",,0,0.0,0,0,0,1.00
+FDN 119F,"Elenda, Saint of Dusk",,0,0.0,0,0,0,0.50
+FDN 76F,Vengeful Bloodwitch,,0,0.0,0,0,0,0.50
+FDN 154F,Extravagant Replication,,0,0.0,0,0,0,0.50
+FDN 254F,Heraldic Banner,,0,0.0,0,0,0,0.50
+FDN 9F,Dazzling Angel,,0,0.0,0,0,0,0.50
+FDN 283F,Plains,,0,0.0,0,0,0,0.50
+FDN 167F,Tolarian Terror,,0,0.0,0,0,0,0.50
+FDN 112F,Spinner of Souls,,0,0.0,0,0,0,0.50
+FDN 2F,"Arahbo, the First Fang",,0,0.0,0,0,0,1.00
+FDN 279F,Mountain,,0,0.0,0,0,0,0.50
+FDN 19F,Elf Warrior Token,,0,0.0,0,0,0,0.50
+FDN 267F,Secluded Courtyard,,0,0.0,0,0,0,0.50
+FDN 715F,Gratuitous Violence,,0,0.0,0,0,0,1.00
+FDN 194F,"Etali, Primal Storm",,0,0.0,0,0,0,0.50
+FDN 54F,Abyssal Harvester,,0,0.0,0,0,0,1.50
+FDN 719F,Imperious Perfect,,0,0.0,0,0,0,0.50
+FDN 178F,Marauding Blight-Priest,,0,0.0,0,0,0,0.50
+FDN 15F,Zombie Token,,0,0.0,0,0,0,0.50
+FDN 5F,Celestial Armor,,0,0.0,0,0,0,0.50
+FDN 64F,Infestation Sage,,0,0.0,0,0,0,0.50
+FDN 215F,Bushwhack,,0,0.0,0,0,0,0.50
+FDN 221F,Genesis Wave,,0,0.0,0,0,0,0.50
+FDN 726F,Hedron Archive,,0,0.0,0,0,0,0.50
+FDN 122F,"Kykar, Zephyr Awakener",,0,0.0,0,0,0,0.50
+FDN 272F,Plains,,0,0.0,0,0,0,0.50
+FDN 706F,Angel of Vitality,,0,0.0,0,0,0,0.50
+FDN 190F,Brass's Bounty,,0,0.0,0,0,0,0.50
+FDN 271F,Wind-Scarred Crag,,0,0.0,0,0,0,0.50
+FDN 234F,Vivien Reid,,0,0.0,0,0,0,1.00
+FDN 74F,Vampire Gourmand,,0,0.0,0,0,0,0.50
+FDN 17F,Dragon Token,,0,0.0,0,0,0,0.50
+FDN 196F,Firebrand Archer,,0,0.0,0,0,0,0.50
+FDN 198F,Flamewake Phoenix,,0,0.0,0,0,0,0.50
+FDN 13F,Scion of the Deep Token,,0,0.0,0,0,0,3.50
+FDN 3F,Human Token,,0,0.0,0,0,0,0.50
+FDN 109F,Preposterous Proportions,,0,0.0,0,0,0,1.50
+FDN 2F,Cat Token,,0,0.0,0,0,0,0.50
+FDN 142F,Healer's Hawk,,0,0.0,0,0,0,0.50
+FDN 217F,"Dwynen, Gilt-Leaf Daen",,0,0.0,0,0,0,0.50
+FDN 9F,Faerie Token,,0,0.0,0,0,0,0.50
+FDN 716F,Guttersnipe,,0,0.0,0,0,0,0.50
+FDN 124F,Perforating Artist,,0,0.0,0,0,0,0.50
+FDN 116F,Anthem of Champions,,0,0.0,0,0,0,0.50
+FDN 174F,Fake Your Own Death,,0,0.0,0,0,0,0.50
+FDN 197F,Firespitter Whelp,,0,0.0,0,0,0,0.50
+FDN 10F,Fish Token,,0,0.0,0,0,0,0.50
+FDN 18F,Goblin Token,,0,0.0,0,0,0,0.50
+FDN 20F,Raccoon Token,,0,0.0,0,0,0,0.50
+FDN 238F,Consuming Aberration,,0,0.0,0,0,0,0.50
+FDN 710F,Negate,,0,0.0,0,0,0,0.50
+FDN 12F,Ninja Token,,0,0.0,0,0,0,0.50
+FDN 187F,Zombify,,0,0.0,0,0,0,0.50
+FDN 51F,Sphinx of Forgotten Lore,,0,0.0,0,0,0,1.00
+FDN 16F,Dragon Token,,0,0.0,0,0,0,0.50
+FDN 8F,Drake Token,,0,0.0,0,0,0,0.50
+FDN 182F,Reassembling Skeleton,,0,0.0,0,0,0,0.50
+FDN 247F,"Tatyova, Benthic Druid",,0,0.0,0,0,0,0.50
+FDN 136F,Angel of Finality,,0,0.0,0,0,0,0.50
+FDN 170F,Burglar Rat,,0,0.0,0,0,0,0.50
+FDN 195F,Fanatical Firebrand,,0,0.0,0,0,0,0.50
+FDN 145F,Resolute Reinforcements,,0,0.0,0,0,0,0.50
+FDN 242F,"Lathril, Blade of the Elves",,0,0.0,0,0,0,0.50
+FDN 720F,Pelakka Wurm,,0,0.0,0,0,0,0.50
+FDN 7F,Spirit Token,,0,0.0,0,0,0,0.50
+FDN 232F,Scavenging Ooze,,0,0.0,0,0,0,0.50
+FDN 185F,Stromkirk Bloodthief,,0,0.0,0,0,0,0.50
+FDN 200F,Goblin Surprise,,0,0.0,0,0,0,0.50
+FDN 278F,Mountain,,0,0.0,0,0,0,0.50
+FDN 230F,Overrun,,0,0.0,0,0,0,0.50
+FDN 245F,"Ruby, Daring Tracker",,0,0.0,0,0,0,0.50
+FDN 68F,Sanguine Syphoner,,0,0.0,0,0,0,0.50
+FDN 113F,Sylvan Scavenging,,0,0.0,0,0,0,0.50
+FDN 186F,Vampire Nighthawk,,0,0.0,0,0,0,0.50
+FDN 237F,"Balmor, Battlemage Captain",,0,0.0,0,0,0,0.50
+FDN 139F,Cathar Commando,,0,0.0,0,0,0,0.50
+FDN 8F,Dauntless Veteran,,0,0.0,0,0,0,0.50
+FDN 103F,Elfsworn Giant,,0,0.0,0,0,0,0.50
+FDN 239F,Empyrean Eagle,,0,0.0,0,0,0,0.50
+FDN 262F,Evolving Wilds,,0,0.0,0,0,0,0.50
+FDN 253F,Goldvein Pick,,0,0.0,0,0,0,0.50
+FDN 39F,Grappling Kraken,,0,0.0,0,0,0,0.50
+FDN 46F,Lunar Insight,,0,0.0,0,0,0,0.50
+FDN 708F,Make a Stand,,0,0.0,0,0,0,0.50
+FDN 228F,Mild-Mannered Librarian,,0,0.0,0,0,0,0.50
+FDN 110F,Quakestrider Ceratops,,0,0.0,0,0,0,0.50
+FDN 71F,Stab,,0,0.0,0,0,0,0.50
+FDN 246F,Swiftblade Vindicator,,0,0.0,0,0,0,0.50
+FDN 26F,Twinblade Blessing,,0,0.0,0,0,0,0.50
+FDN 10F,Divine Resilience,,0,0.0,0,0,0,0.50
+FDN 35F,Drake Hatcher,,0,0.0,0,0,0,0.50
+FDN 218F,Dwynen's Elite,,0,0.0,0,0,0,0.50
+FDN 280F,Forest,,0,0.0,0,0,0,0.50
+FDN 240F,Good-Fortune Unicorn,,0,0.0,0,0,0,0.50
+FDN 24F,"Kaito, Cunning Infiltrator Emblem",,0,0.0,0,0,0,0.50
+FDN 256F,Meteor Golem,,0,0.0,0,0,0,0.50
+FDN 207F,Slagstorm,,0,0.0,0,0,0,0.50
+FDN 94F,Slumbering Cerberus,,0,0.0,0,0,0,0.50
+FDN 168F,Witness Protection,,0,0.0,0,0,0,0.50
+FDN 135F,Ajani's Pridemate,,0,0.0,0,0,0,0.50
+FDN 152F,Brineborn Cutthroat,,0,0.0,0,0,0,0.50
+FDN 33F,Clinquant Skymage,,0,0.0,0,0,0,0.50
+FDN 156F,Imprisoned in the Moon,,0,0.0,0,0,0,0.50
+FDN 63F,Infernal Vessel,,0,0.0,0,0,0,0.50
+FDN 19F,Joust Through,,0,0.0,0,0,0,0.50
+FDN 270F,Tranquil Cove,,0,0.0,0,0,0,0.50
+FDN 149F,Youthful Valkyrie,,0,0.0,0,0,0,0.50
+FDN 118F,Dreadwing Scavenger,,0,0.0,0,0,0,0.50
+FDN 104F,Elvish Regrower,,0,0.0,0,0,0,0.50
+FDN 86F,Fiery Annihilation,,0,0.0,0,0,0,0.50
+FDN 713F,Gatekeeper of Malakir,,0,0.0,0,0,0,0.50
+FDN 252F,Gleaming Barrier,,0,0.0,0,0,0,0.50
+FDN 60F,Gutless Plunderer,,0,0.0,0,0,0,0.50
+FDN 65F,Midnight Snack,,0,0.0,0,0,0,0.50
+FDN 273F,Plains,,0,0.0,0,0,0,0.50
+FDN 130F,Quick-Draw Katana,,0,0.0,0,0,0,0.50
+FDN 231F,Reclamation Sage,,0,0.0,0,0,0,0.50
+FDN 67F,Revenge of the Rats,,0,0.0,0,0,0,0.50
+FDN 53F,Uncharted Voyage,,0,0.0,0,0,0,0.50
+FDN 235F,Wary Thespian,,0,0.0,0,0,0,0.50
+FDN 150F,Aegis Turtle,,0,0.0,0,0,0,0.50
+FDN 98F,Ambush Wolf,,0,0.0,0,0,0,0.50
+FDN 55F,Arbiter of Woe,,0,0.0,0,0,0,0.50
+FDN 189F,Axgard Cavalry,,0,0.0,0,0,0,0.50
+FDN 31F,Bigfin Bouncer,,0,0.0,0,0,0,0.50
+FDN 212F,Bite Down,,0,0.0,0,0,0,0.50
+FDN 213F,Blanchwood Armor,,0,0.0,0,0,0,0.50
+FDN 260F,Blossoming Sands,,0,0.0,0,0,0,0.50
+FDN 251F,Campus Guide,,0,0.0,0,0,0,0.50
+FDN 83F,Crackling Cyclops,,0,0.0,0,0,0,0.50
+FDN 59F,Crypt Feaster,,0,0.0,0,0,0,0.50
+FDN 171F,Diregraf Ghoul,,0,0.0,0,0,0,0.50
+FDN 37F,Erudite Wizard,,0,0.0,0,0,0,0.50
+FDN 12F,Felidar Savior,,0,0.0,0,0,0,0.50
+FDN 120F,Fiendish Panda,,0,0.0,0,0,0,0.50
+FDN 155F,Fleeting Distraction,,0,0.0,0,0,0,0.50
+FDN 22F,Food Token,,0,0.0,0,0,0,0.50
+FDN 199F,Frenzied Goblin,,0,0.0,0,0,0,0.50
+FDN 88F,Goblin Negotiation,,0,0.0,0,0,0,0.50
+FDN 89F,Gorehorn Raider,,0,0.0,0,0,0,0.50
+FDN 43F,Inspiration from Beyond,,0,0.0,0,0,0,0.50
+FDN 91F,"Kellan, Planar Trailblazer",,0,0.0,0,0,0,0.50
+FDN 20F,Luminous Rebuke,,0,0.0,0,0,0,0.50
+FDN 159F,Mocking Sprite,,0,0.0,0,0,0,0.50
+FDN 181F,Pilfer,,0,0.0,0,0,0,0.50
+FDN 146F,Savannah Lions,,0,0.0,0,0,0,0.50
+FDN 266F,Scoured Barrens,,0,0.0,0,0,0,0.50
+FDN 6F,Soldier Token,,0,0.0,0,0,0,0.50
+FDN 114F,Treetop Snarespinner,,0,0.0,0,0,0,0.50
+FDN 236F,Wildwood Scourge,,0,0.0,0,0,0,0.50
+FDN 188F,Abrade,,0,0.0,0,0,0,0.50
+FDN 29F,Arcane Epiphany,,0,0.0,0,0,0,0.50
+FDN 169F,Bake into a Pie,,0,0.0,0,0,0,0.50
+FDN 100F,Beast-Kin Ranger,,0,0.0,0,0,0,0.50
+FDN 191F,Brazen Scourge,,0,0.0,0,0,0,0.50
+FDN 102F,Eager Trufflesnout,,0,0.0,0,0,0,0.50
+FDN 172F,Eaten Alive,,0,0.0,0,0,0,0.50
+FDN 38F,Faebloom Trick,,0,0.0,0,0,0,0.50
+FDN 105F,Felling Blow,,0,0.0,0,0,0,0.50
+FDN 225F,Grow from the Ashes,,0,0.0,0,0,0,0.50
+FDN 18F,Inspiring Paladin,,0,0.0,0,0,0,0.50
+FDN 274F,Island,,0,0.0,0,0,0,0.50
+FDN 21F,Prideful Parent,,0,0.0,0,0,0,0.50
+FDN 131F,Ravenous Amulet,,0,0.0,0,0,0,0.50
+FDN 265F,Rugged Highlands,,0,0.0,0,0,0,0.50
+FDN 162F,Run Away Together,,0,0.0,0,0,0,0.50
+FDN 69F,Seeker's Folly,,0,0.0,0,0,0,0.50
+FDN 147F,Serra Angel,,0,0.0,0,0,0,0.50
+FDN 95F,Sower of Chaos,,0,0.0,0,0,0,0.50
+FDN 164F,Spectral Sailor,,0,0.0,0,0,0,0.50
+FDN 24F,Squad Rallier,,0,0.0,0,0,0,0.50
+FDN 210F,Thrill of Possibility,,0,0.0,0,0,0,0.50
+FDN 166F,Time Stop,,0,0.0,0,0,0,0.50
+FDN 75F,Vampire Soulcaller,,0,0.0,0,0,0,0.50
+FDN 25F,Vivien Reid Emblem,,0,0.0,0,0,0,0.50
+FDN 99F,Apothecary Stomper,,0,0.0,0,0,0,0.50
+FDN 101F,Cackling Prowler,,0,0.0,0,0,0,0.50
+FDN 4F,Cat Collector,,0,0.0,0,0,0,0.50
+FDN 709F,Confiscate,,0,0.0,0,0,0,0.50
+FDN 82F,Courageous Goblin,,0,0.0,0,0,0,0.50
+FDN 84F,Dragon Trainer,,0,0.0,0,0,0,0.50
+FDN 36F,Elementalist Adept,,0,0.0,0,0,0,0.50
+FDN 223F,Giant Growth,,0,0.0,0,0,0,0.50
+FDN 224F,Gnarlid Colony,,0,0.0,0,0,0,0.50
+FDN 87F,Goblin Boarders,,0,0.0,0,0,0,0.50
+FDN 14F,Guarded Heir,,0,0.0,0,0,0,0.50
+FDN 202F,Hidetsugu's Second Rite,,0,0.0,0,0,0,0.50
+FDN 21F,Insect Token,,0,0.0,0,0,0,0.50
+FDN 203F,Involuntary Employment,,0,0.0,0,0,0,0.50
+FDN 275F,Island,,0,0.0,0,0,0,0.50
+FDN 4F,Knight Token,,0,0.0,0,0,0,0.50
+FDN 108F,Needletooth Pack,,0,0.0,0,0,0,0.50
+FDN 229F,Nessian Hornbeetle,,0,0.0,0,0,0,0.50
+FDN 48F,Refute,,0,0.0,0,0,0,0.50
+FDN 70F,Soul-Shackled Zombie,,0,0.0,0,0,0,0.50
+FDN 276F,Swamp,,0,0.0,0,0,0,0.50
+FDN 269F,Thornwood Falls,,0,0.0,0,0,0,0.50
+FDN 73F,Tragic Banshee,,0,0.0,0,0,0,0.50
+FDN 722F,Unflinching Courage,,0,0.0,0,0,0,0.50
+FDN 28F,Vanguard Seraph,,0,0.0,0,0,0,0.50
+FDN 249F,Adventuring Gear,,0,0.0,0,0,0,0.50
+FDN 117F,Ashroot Animist,,0,0.0,0,0,0,0.50
+FDN 259F,Bloodfell Caves,,0,0.0,0,0,0,0.50
+FDN 6F,Claws Out,,0,0.0,0,0,0,0.50
+FDN 261F,Dismal Backwater,,0,0.0,0,0,0,0.50
+FDN 13F,Fleeting Flight,,0,0.0,0,0,0,0.50
+FDN 281F,Forest,,0,0.0,0,0,0,0.50
+FDN 201F,Heartfire Immolator,,0,0.0,0,0,0,0.50
+FDN 175F,Hero's Downfall,,0,0.0,0,0,0,0.50
+FDN 62F,Hungry Ghoul,,0,0.0,0,0,0,0.50
+FDN 90F,Incinerating Blast,,0,0.0,0,0,0,0.50
+FDN 163F,Self-Reflection,,0,0.0,0,0,0,0.50
+FDN 206F,Shivan Dragon,,0,0.0,0,0,0,0.50
+FDN 50F,Skyship Buccaneer,,0,0.0,0,0,0,0.50
+FDN 233F,Snakeskin Veil,,0,0.0,0,0,0,0.50
+FDN 277F,Swamp,,0,0.0,0,0,0,0.50
+FDN 3F,Armasaur Guide,,0,0.0,0,0,0,0.50
+FDN 250F,Burnished Hart,,0,0.0,0,0,0,0.50
+FDN 34F,Curator of Destinies,,0,0.0,0,0,0,0.50
+FDN 128F,Fishing Pole,,0,0.0,0,0,0,0.50
+FDN 42F,Icewind Elemental,,0,0.0,0,0,0,0.50
+FDN 263F,Jungle Hollow,,0,0.0,0,0,0,0.50
+FDN 177F,Macabre Waltz,,0,0.0,0,0,0,0.50
+FDN 49F,Rune-Sealed Wall,,0,0.0,0,0,0,0.50
+FDN 208F,Spitfire Lagac,,0,0.0,0,0,0,0.50
+FDN 52F,Strix Lookout,,0,0.0,0,0,0,0.50
+FDN 96F,Strongbox Raider,,0,0.0,0,0,0,0.50
+FDN 25F,Sun-Blessed Healer,,0,0.0,0,0,0,0.50
+FDN 165F,Think Twice,,0,0.0,0,0,0,0.50
+FDN 211F,Affectionate Indrik,,0,0.0,0,0,0,0.50
+FDN 138F,Banishing Light,,0,0.0,0,0,0,0.50
+FDN 78F,Battlesong Berserker,,0,0.0,0,0,0,0.50
+FDN 56F,Billowing Shriekmass,,0,0.0,0,0,0,0.50
+FDN 214F,Broken Wings,,0,0.0,0,0,0,0.50
+FDN 32F,Cephalid Inkmage,,0,0.0,0,0,0,0.50
+FDN 153F,Essence Scatter,,0,0.0,0,0,0,0.50
+FDN 241F,Heroic Reinforcements,,0,0.0,0,0,0,0.50
+FDN 255F,Juggernaut,,0,0.0,0,0,0,0.50
+FDN 157F,Lightshell Duo,,0,0.0,0,0,0,0.50
+FDN 143F,Make Your Move,,0,0.0,0,0,0,0.50
+FDN 158F,Micromancer,,0,0.0,0,0,0,0.50
+FDN 144F,Mischievous Pup,,0,0.0,0,0,0,0.50
+FDN 205F,Seismic Rupture,,0,0.0,0,0,0,0.50
+FDN 23F,Skyknight Squire,,0,0.0,0,0,0,1.00
+FDN 209F,Sure Strike,,0,0.0,0,0,0,0.50
+FDN 268F,Swiftwater Cliffs,,0,0.0,0,0,0,0.50
+FDN 125F,Wardens of the Cycle,,0,0.0,0,0,0,0.50

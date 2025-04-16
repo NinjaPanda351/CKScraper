@@ -1,0 +1,506 @@
+SOM 179,Mox Opal,,0,0.0,0,0,0,180.00
+SOM 162,Grafted Exoskeleton,,0,0.0,0,0,0,5.00
+SOM 193,Platinum Emperion,,0,0.0,0,0,0,17.00
+SOM 220,Venser's Journal,,0,0.0,0,0,0,10.00
+SOM 187,Nihil Spellbomb,,0,0.0,0,0,0,2.00
+SOM 145,Contagion Engine,,0,0.0,0,0,0,6.00
+SOM 79,"Skithiryx, the Blight Dragon",,0,0.0,0,0,0,12.00
+SOM 174,Memnite,,0,0.0,0,0,0,3.00
+SOM 80,Tainted Strike,,0,0.0,0,0,0,2.50
+SOM 91,Galvanic Blast,,0,0.0,0,0,0,3.00
+SOM 208,Sword of Body and Mind,,0,0.0,0,0,0,16.00
+SOM 226,Darkslick Shores,,0,0.0,0,0,0,7.00
+SOM 110,Asceticism,,0,0.0,0,0,0,5.50
+SOM 132,Viridian Revel,,0,0.0,0,0,0,2.50
+SOM 98,Molten Psyche,,0,0.0,0,0,0,6.00
+SOM 119,"Ezuri, Renegade Leader",,0,0.0,0,0,0,9.50
+SOM 167,Infiltration Lens,,0,0.0,0,0,0,2.00
+SOM 35,Inexorable Tide,,0,0.0,0,0,0,5.00
+SOM 169,Kuldotha Forgemaster,,0,0.0,0,0,0,6.50
+SOM 188,Nim Deathmantle,,0,0.0,0,0,0,4.00
+SOM 25,True Conviction,,0,0.0,0,0,0,5.00
+SOM 168,Iron Myr,,0,0.0,0,0,0,1.00
+SOM 96,Kuldotha Rebirth,,0,0.0,0,0,0,1.50
+SOM 166,Ichorclaw Myr,,0,0.0,0,0,0,1.00
+SOM 67,Ichor Rats,,0,0.0,0,0,0,1.50
+SOM 66,Hand of the Praetors,,0,0.0,0,0,0,3.50
+SOM 135,"Venser, the Sojourner",,0,0.0,0,0,0,5.50
+SOM 111,Bellowing Tanglewurm,,0,0.0,0,0,0,1.50
+SOM 190,Palladium Myr,,0,0.0,0,0,0,1.00
+SOM 183,Myr Reservoir,,0,0.0,0,0,0,3.00
+SOM 223,Wurmcoil Engine,,0,0.0,0,0,0,12.00
+SOM 32,Dissipation Field,,0,0.0,0,0,0,2.50
+SOM 72,Necrotic Ooze,,0,0.0,0,0,0,2.00
+SOM 224,Blackcleave Cliffs,,0,0.0,0,0,0,3.00
+SOM 182,Myr Propagator,,0,0.0,0,0,0,2.50
+SOM 181,Myr Galvanizer,,0,0.0,0,0,0,1.00
+SOM 10,Glint Hawk,,0,0.0,0,0,0,1.00
+SOM 151,Darksteel Myr,,0,0.0,0,0,0,1.00
+SOM 157,Gold Myr,,0,0.0,0,0,0,0.50
+SOM 229,Seachrome Coast,,0,0.0,0,0,0,4.00
+SOM 24,Tempered Steel,,0,0.0,0,0,0,3.00
+SOM 82,Assault Strobe,,0,0.0,0,0,0,1.00
+SOM 73,Painful Quandary,,0,0.0,0,0,0,1.50
+SOM 137,Argentum Armor,,0,0.0,0,0,0,2.50
+SOM 202,Silver Myr,,0,0.0,0,0,0,0.50
+SOM 225,Copperline Gorge,,0,0.0,0,0,0,3.50
+SOM 48,Trinket Mage,,0,0.0,0,0,0,0.50
+SOM 61,Exsanguinate,,0,0.0,0,0,0,1.00
+SOM 75,Plague Stinger,,0,0.0,0,0,0,0.50
+SOM 228,Razorverge Thicket,,0,0.0,0,0,0,2.00
+SOM 94,Koth of the Hammer,,0,0.0,0,0,0,2.50
+SOM 211,Throne of Geth,,0,0.0,0,0,0,0.50
+SOM 144,Contagion Clasp,,0,0.0,0,0,0,0.50
+SOM 160,Golem Foundry,,0,0.0,0,0,0,0.50
+SOM 176,Mindslaver,,0,0.0,0,0,0,2.00
+SOM 201,Semblance Anvil,,0,0.0,0,0,0,2.00
+SOM 57,Carnifex Demon,,0,0.0,0,0,0,1.00
+SOM 33,Grand Architect,,0,0.0,0,0,0,1.00
+SOM 206,Strata Scythe,,0,0.0,0,0,0,1.00
+SOM 45,Steady Progress,,0,0.0,0,0,0,0.50
+SOM 118,Engulfing Slagwurm,,0,0.0,0,0,0,1.50
+SOM 173,Lux Cannon,,0,0.0,0,0,0,2.00
+SOM 185,Necropede,,0,0.0,0,0,0,0.50
+SOM 175,Mimic Vat,,0,0.0,0,0,0,1.00
+SOM 170,Leaden Myr,,0,0.0,0,0,0,0.50
+SOM 112,Blight Mamba,,0,0.0,0,0,0,0.25
+SOM 134,Withstand Death,,0,0.0,0,0,0,0.25
+SOM 47,Thrummingbird,,0,0.0,0,0,0,0.50
+SOM 105,Tunnel Ignus,,0,0.0,0,0,0,0.50
+SOM 146,Copper Myr,,0,0.0,0,0,0,0.25
+SOM 11,Indomitable Archangel,,0,0.0,0,0,0,1.00
+SOM 227,Glimmerpost,,0,0.0,0,0,0,0.25
+SOM 222,Wall of Tanglecord,,0,0.0,0,0,0,0.50
+SOM 150,Darksteel Juggernaut,,0,0.0,0,0,0,1.00
+SOM 180,Myr Battlesphere,,0,0.0,0,0,0,0.50
+SOM 122,Genesis Wave,,0,0.0,0,0,0,0.50
+SOM 46,Stoic Rebuttal,,0,0.0,0,0,0,0.25
+SOM 50,Twisted Image,,0,0.0,0,0,0,0.50
+SOM 3,Goblin Token,,0,0.0,0,0,0,0.50
+SOM 147,Corpse Cur,,0,0.0,0,0,0,0.25
+SOM 49,Turn Aside,,0,0.0,0,0,0,0.25
+SOM 6,Elspeth Tirel,,0,0.0,0,0,0,2.00
+SOM 104,Spikeshot Elder,,0,0.0,0,0,0,0.50
+SOM 14,Leonin Arbiter,,0,0.0,0,0,0,0.50
+SOM 140,Bladed Pinions,,0,0.0,0,0,0,0.25
+SOM 209,Sylvok Lifestaff,,0,0.0,0,0,0,0.25
+SOM 16,Myrsmith,,0,0.0,0,0,0,0.50
+SOM 192,Perilous Myr,,0,0.0,0,0,0,0.25
+SOM 22,Sunblast Angel,,0,0.0,0,0,0,1.00
+SOM 126,Putrefax,,0,0.0,0,0,0,0.50
+SOM 92,Goblin Gaveleer,,0,0.0,0,0,0,0.25
+SOM 5,Wolf Token,,0,0.0,0,0,0,0.50
+SOM 113,Blunt the Assault,,0,0.0,0,0,0,0.25
+SOM 18,Revoke Existence,,0,0.0,0,0,0,0.25
+SOM 136,Accorder's Shield,,0,0.0,0,0,0,0.25
+SOM 116,Copperhorn Scout,,0,0.0,0,0,0,0.25
+SOM 7,Myr Token,,0,0.0,0,0,0,0.50
+SOM 40,Riddlesmith,,0,0.0,0,0,0,0.50
+SOM 78,Skinrender,,0,0.0,0,0,0,0.50
+SOM 148,Culling Dais,,0,0.0,0,0,0,0.50
+SOM 10,Poison Counter,,0,0.0,0,0,0,0.50
+SOM 39,Quicksilver Gargantuan,,0,0.0,0,0,0,1.00
+SOM 195,Prototype Portal,,0,0.0,0,0,0,0.50
+SOM 117,Cystbearer,,0,0.0,0,0,0,0.25
+SOM 64,"Geth, Lord of the Vault",,0,0.0,0,0,0,1.00
+SOM 196,Ratchet Bomb,,0,0.0,0,0,0,0.50
+SOM 171,Liquimetal Coating,,0,0.0,0,0,0,0.50
+SOM 54,Blackcleave Goblin,,0,0.0,0,0,0,0.25
+SOM 6,Golem Token,,0,0.0,0,0,0,0.50
+SOM 154,Etched Champion,,0,0.0,0,0,0,0.50
+SOM 205,Steel Hellkite,,0,0.0,0,0,0,0.50
+SOM 152,Darksteel Sentinel,,0,0.0,0,0,0,0.50
+SOM 149,Darksteel Axe,,0,0.0,0,0,0,0.50
+SOM 194,Precursor Golem,,0,0.0,0,0,0,0.50
+SOM 143,Clone Shell,,0,0.0,0,0,0,0.50
+SOM 58,Contagious Nim,,0,0.0,0,0,0,0.25
+SOM 63,Fume Spitter,,0,0.0,0,0,0,0.25
+SOM 23,Sunspear Shikari,,0,0.0,0,0,0,0.25
+SOM 141,Chimeric Mass,,0,0.0,0,0,0,0.50
+SOM 241,Swamp,,0,0.0,0,0,0,0.50
+SOM 60,Dross Hopper,,0,0.0,0,0,0,0.25
+SOM 248,Forest,,0,0.0,0,0,0,0.50
+SOM 4,Insect Token,,0,0.0,0,0,0,0.50
+SOM 123,Liege of the Tangle,,0,0.0,0,0,0,1.00
+SOM 95,Kuldotha Phoenix,,0,0.0,0,0,0,0.50
+SOM 153,Echo Circlet,,0,0.0,0,0,0,0.25
+SOM 219,Vector Asp,,0,0.0,0,0,0,0.25
+SOM 4,Auriok Sunchaser,,0,0.0,0,0,0,0.25
+SOM 163,Grindclock,,0,0.0,0,0,0,0.50
+SOM 93,Hoard-Smelter Dragon,,0,0.0,0,0,0,0.50
+SOM 115,Carrion Call,,0,0.0,0,0,0,0.50
+SOM 189,Origin Spellbomb,,0,0.0,0,0,0,0.25
+SOM 77,Relic Putrescence,,0,0.0,0,0,0,0.25
+SOM 108,Acid Web Spider,,0,0.0,0,0,0,0.50
+SOM 81,Arc Trail,,0,0.0,0,0,0,0.50
+SOM 161,Golem's Heart,,0,0.0,0,0,0,0.50
+SOM 65,Grasp of Darkness,,0,0.0,0,0,0,0.25
+SOM 128,Tangle Angler,,0,0.0,0,0,0,0.50
+SOM 120,Ezuri's Archers,,0,0.0,0,0,0,0.25
+SOM 37,Neurok Invisimancer,,0,0.0,0,0,0,0.25
+SOM 235,Island,,0,0.0,0,0,0,0.50
+SOM 9,Glimmerpoint Stag,,0,0.0,0,0,0,0.50
+SOM 207,Strider Harness,,0,0.0,0,0,0,0.25
+SOM 214,Trigon of Infestation,,0,0.0,0,0,0,0.50
+SOM 7,Fulgent Distraction,,0,0.0,0,0,0,0.25
+SOM 158,Golden Urn,,0,0.0,0,0,0,0.25
+SOM 13,Kemba's Skyguard,,0,0.0,0,0,0,0.25
+SOM 191,Panic Spellbomb,,0,0.0,0,0,0,0.25
+SOM 210,Sylvok Replica,,0,0.0,0,0,0,0.25
+SOM 213,Trigon of Corruption,,0,0.0,0,0,0,0.50
+SOM 138,Auriok Replica,,0,0.0,0,0,0,0.25
+SOM 56,Blistergrub,,0,0.0,0,0,0,0.25
+SOM 19,Salvage Scout,,0,0.0,0,0,0,0.25
+SOM 204,Soliton,,0,0.0,0,0,0,0.25
+SOM 130,Tel-Jilad Fallen,,0,0.0,0,0,0,0.25
+SOM 139,Barbed Battlegear,,0,0.0,0,0,0,0.50
+SOM 165,Horizon Spellbomb,,0,0.0,0,0,0,0.25
+SOM 2,Soldier Token,,0,0.0,0,0,0,0.50
+SOM 131,Untamed Might,,0,0.0,0,0,0,0.25
+SOM 51,Vault Skyward,,0,0.0,0,0,0,0.25
+SOM 27,Whitesun's Passage,,0,0.0,0,0,0,0.25
+SOM 177,Molten-Tail Masticore,,0,0.0,0,0,0,1.00
+SOM 121,Ezuri's Brigade,,0,0.0,0,0,0,0.50
+SOM 172,Livewire Lash,,0,0.0,0,0,0,0.50
+SOM 69,Memoricide,,0,0.0,0,0,0,0.50
+SOM 55,Bleak Coven Vampires,,0,0.0,0,0,0,0.25
+SOM 5,Dispense Justice,,0,0.0,0,0,0,0.50
+SOM 155,Flight Spellbomb,,0,0.0,0,0,0,0.25
+SOM 246,Forest,,0,0.0,0,0,0,0.50
+SOM 156,Glint Hawk Idol,,0,0.0,0,0,0,0.25
+SOM 178,Moriok Replica,,0,0.0,0,0,0,0.25
+SOM 129,Tel-Jilad Defiance,,0,0.0,0,0,0,0.25
+SOM 86,Cerebral Eruption,,0,0.0,0,0,0,0.50
+SOM 12,"Kemba, Kha Regent",,0,0.0,0,0,0,0.50
+SOM 247,Forest,,0,0.0,0,0,0,0.50
+SOM 97,Melt Terrain,,0,0.0,0,0,0,0.25
+SOM 52,Vedalken Certarch,,0,0.0,0,0,0,0.25
+SOM 53,Volition Reins,,0,0.0,0,0,0,0.50
+SOM 142,Chrome Steed,,0,0.0,0,0,0,0.25
+SOM 90,Furnace Celebration,,0,0.0,0,0,0,0.50
+SOM 186,Neurok Replica,,0,0.0,0,0,0,0.25
+SOM 127,Slice in Twain,,0,0.0,0,0,0,0.50
+SOM 43,Shape Anew,,0,0.0,0,0,0,0.50
+SOM 109,Alpha Tyrranax,,0,0.0,0,0,0,0.25
+SOM 30,Darkslick Drake,,0,0.0,0,0,0,0.50
+SOM 62,Flesh Allergy,,0,0.0,0,0,0,0.50
+SOM 164,Heavy Arbalest,,0,0.0,0,0,0,0.50
+SOM 28,Argent Sphinx,,0,0.0,0,0,0,0.50
+SOM 212,Tower of Calamities,,0,0.0,0,0,0,0.50
+SOM 2,Arrest,,0,0.0,0,0,0,0.25
+SOM 3,Auriok Edgewright,,0,0.0,0,0,0,0.50
+SOM 85,Bloodshot Trainee,,0,0.0,0,0,0,0.50
+SOM 1,Cat Token,,0,0.0,0,0,0,0.50
+SOM 31,Disperse,,0,0.0,0,0,0,0.25
+SOM 159,Golem Artisan,,0,0.0,0,0,0,0.50
+SOM 234,Island,,0,0.0,0,0,0,0.50
+SOM 236,Island,,0,0.0,0,0,0,0.50
+SOM 15,Loxodon Wayfarer,,0,0.0,0,0,0,0.25
+SOM 184,Necrogen Censer,,0,0.0,0,0,0,0.25
+SOM 231,Plains,,0,0.0,0,0,0,0.50
+SOM 41,Scrapdiver Serpent,,0,0.0,0,0,0,0.25
+SOM 20,Seize the Initiative,,0,0.0,0,0,0,0.25
+SOM 216,Trigon of Rage,,0,0.0,0,0,0,0.50
+SOM 249,Forest,,0,0.0,0,0,0,0.50
+SOM 237,Island,,0,0.0,0,0,0,0.50
+SOM 99,Ogre Geargrabber,,0,0.0,0,0,0,0.50
+SOM 100,Oxidda Daredevil,,0,0.0,0,0,0,0.25
+SOM 101,Oxidda Scrapmelter,,0,0.0,0,0,0,0.50
+SOM 17,Razor Hippogriff,,0,0.0,0,0,0,0.50
+SOM 197,Razorfield Thresher,,0,0.0,0,0,0,0.25
+SOM 102,Scoria Elemental,,0,0.0,0,0,0,0.25
+SOM 238,Swamp,,0,0.0,0,0,0,0.50
+SOM 240,Swamp,,0,0.0,0,0,0,0.50
+SOM 217,Trigon of Thought,,0,0.0,0,0,0,0.50
+SOM 221,Vulshok Replica,,0,0.0,0,0,0,0.25
+SOM 84,Blade-Tribe Berserkers,,0,0.0,0,0,0,0.25
+SOM 29,Bonds of Quicksilver,,0,0.0,0,0,0,0.25
+SOM 114,Carapace Forger,,0,0.0,0,0,0,0.25
+SOM 36,Lumengrid Drake,,0,0.0,0,0,0,0.25
+SOM 125,Molder Beast,,0,0.0,0,0,0,0.25
+SOM 44,Sky-Eel School,,0,0.0,0,0,0,0.25
+SOM 203,Snapsail Glider,,0,0.0,0,0,0,0.25
+SOM 21,Soul Parry,,0,0.0,0,0,0,0.25
+SOM 215,Trigon of Mending,,0,0.0,0,0,0,0.50
+SOM 26,Vigil for the Lost,,0,0.0,0,0,0,0.50
+SOM 1,Abuna Acolyte,,0,0.0,0,0,0,0.50
+SOM 87,Embersmith,,0,0.0,0,0,0,0.50
+SOM 8,Ghalma's Warden,,0,0.0,0,0,0,0.25
+SOM 34,Halt Order,,0,0.0,0,0,0,0.50
+SOM 68,Instill Infection,,0,0.0,0,0,0,0.25
+SOM 242,Mountain,,0,0.0,0,0,0,0.50
+SOM 243,Mountain,,0,0.0,0,0,0,0.50
+SOM 244,Mountain,,0,0.0,0,0,0,0.50
+SOM 245,Mountain,,0,0.0,0,0,0,0.50
+SOM 74,Painsmith,,0,0.0,0,0,0,0.50
+SOM 230,Plains,,0,0.0,0,0,0,0.50
+SOM 232,Plains,,0,0.0,0,0,0,0.50
+SOM 198,Rust Tick,,0,0.0,0,0,0,0.50
+SOM 200,Saberclaw Golem,,0,0.0,0,0,0,0.25
+SOM 239,Swamp,,0,0.0,0,0,0,0.50
+SOM 218,Tumble Magnet,,0,0.0,0,0,0,0.25
+SOM 133,Wing Puncture,,0,0.0,0,0,0,0.25
+SOM 83,Barrage Ogre,,0,0.0,0,0,0,0.50
+SOM 59,Corrupted Harvester,,0,0.0,0,0,0,0.50
+SOM 88,Ferrovore,,0,0.0,0,0,0,0.25
+SOM 89,Flameborn Hellion,,0,0.0,0,0,0,0.25
+SOM 124,Lifesmith,,0,0.0,0,0,0,0.50
+SOM 70,Moriok Reaver,,0,0.0,0,0,0,0.25
+SOM 71,Necrogen Scudder,,0,0.0,0,0,0,0.50
+SOM 233,Plains,,0,0.0,0,0,0,0.50
+SOM 38,Plated Seastrider,,0,0.0,0,0,0,0.25
+SOM 76,Psychic Miasma,,0,0.0,0,0,0,0.25
+SOM 199,Rusted Relic,,0,0.0,0,0,0,0.50
+SOM 42,Screeching Silcaw,,0,0.0,0,0,0,0.25
+SOM 103,Shatter,,0,0.0,0,0,0,0.25
+SOM 106,Turn to Slag,,0,0.0,0,0,0,0.25
+SOM 107,Vulshok Heartstoker,,0,0.0,0,0,0,0.25
+SOM 187F,Nihil Spellbomb,,0,0.0,0,0,0,16.00
+SOM 166F,Ichorclaw Myr,,0,0.0,0,0,0,20.00
+SOM 98F,Molten Psyche,,0,0.0,0,0,0,18.00
+SOM 208F,Sword of Body and Mind,,0,0.0,0,0,0,22.00
+SOM 168F,Iron Myr,,0,0.0,0,0,0,7.00
+SOM 145F,Contagion Engine,,0,0.0,0,0,0,12.00
+SOM 67F,Ichor Rats,,0,0.0,0,0,0,12.00
+SOM 79F,"Skithiryx, the Blight Dragon",,0,0.0,0,0,0,32.00
+SOM 137F,Argentum Armor,,0,0.0,0,0,0,14.00
+SOM 169F,Kuldotha Forgemaster,,0,0.0,0,0,0,9.50
+SOM 190F,Palladium Myr,,0,0.0,0,0,0,9.50
+SOM 206F,Strata Scythe,,0,0.0,0,0,0,5.00
+SOM 224F,Blackcleave Cliffs,,0,0.0,0,0,0,11.00
+SOM 32F,Dissipation Field,,0,0.0,0,0,0,10.00
+SOM 188F,Nim Deathmantle,,0,0.0,0,0,0,10.00
+SOM 201F,Semblance Anvil,,0,0.0,0,0,0,4.00
+SOM 132F,Viridian Revel,,0,0.0,0,0,0,14.00
+SOM 110F,Asceticism,,0,0.0,0,0,0,24.00
+SOM 223F,Wurmcoil Engine,,0,0.0,0,0,0,22.00
+SOM 193F,Platinum Emperion,,0,0.0,0,0,0,32.00
+SOM 162F,Grafted Exoskeleton,,0,0.0,0,0,0,20.00
+SOM 170F,Leaden Myr,,0,0.0,0,0,0,8.00
+SOM 66F,Hand of the Praetors,,0,0.0,0,0,0,9.50
+SOM 228F,Razorverge Thicket,,0,0.0,0,0,0,9.50
+SOM 222F,Wall of Tanglecord,,0,0.0,0,0,0,3.50
+SOM 72F,Necrotic Ooze,,0,0.0,0,0,0,5.00
+SOM 105F,Tunnel Ignus,,0,0.0,0,0,0,5.00
+SOM 119F,"Ezuri, Renegade Leader",,0,0.0,0,0,0,18.00
+SOM 96F,Kuldotha Rebirth,,0,0.0,0,0,0,18.00
+SOM 160F,Golem Foundry,,0,0.0,0,0,0,9.00
+SOM 220F,Venser's Journal,,0,0.0,0,0,0,17.00
+SOM 227F,Glimmerpost,,0,0.0,0,0,0,5.50
+SOM 167F,Infiltration Lens,,0,0.0,0,0,0,8.00
+SOM 80F,Tainted Strike,,0,0.0,0,0,0,14.00
+SOM 202F,Silver Myr,,0,0.0,0,0,0,7.00
+SOM 182F,Myr Propagator,,0,0.0,0,0,0,5.00
+SOM 248F,Forest,,0,0.0,0,0,0,3.00
+SOM 151F,Darksteel Myr,,0,0.0,0,0,0,14.00
+SOM 6F,Elspeth Tirel,,0,0.0,0,0,0,14.00
+SOM 181F,Myr Galvanizer,,0,0.0,0,0,0,13.00
+SOM 225F,Copperline Gorge,,0,0.0,0,0,0,12.00
+SOM 154F,Etched Champion,,0,0.0,0,0,0,4.00
+SOM 91F,Galvanic Blast,,0,0.0,0,0,0,11.00
+SOM 146F,Copper Myr,,0,0.0,0,0,0,3.50
+SOM 176F,Mindslaver,,0,0.0,0,0,0,10.00
+SOM 25F,True Conviction,,0,0.0,0,0,0,10.00
+SOM 157F,Gold Myr,,0,0.0,0,0,0,9.50
+SOM 112F,Blight Mamba,,0,0.0,0,0,0,5.00
+SOM 64F,"Geth, Lord of the Vault",,0,0.0,0,0,0,5.50
+SOM 180F,Myr Battlesphere,,0,0.0,0,0,0,5.00
+SOM 171F,Liquimetal Coating,,0,0.0,0,0,0,3.00
+SOM 144F,Contagion Clasp,,0,0.0,0,0,0,2.50
+SOM 196F,Ratchet Bomb,,0,0.0,0,0,0,1.00
+SOM 211F,Throne of Geth,,0,0.0,0,0,0,3.00
+SOM 118F,Engulfing Slagwurm,,0,0.0,0,0,0,4.00
+SOM 35F,Inexorable Tide,,0,0.0,0,0,0,7.00
+SOM 183F,Myr Reservoir,,0,0.0,0,0,0,7.00
+SOM 173F,Lux Cannon,,0,0.0,0,0,0,3.50
+SOM 122F,Genesis Wave,,0,0.0,0,0,0,6.50
+SOM 49F,Turn Aside,,0,0.0,0,0,0,3.00
+SOM 50F,Twisted Image,,0,0.0,0,0,0,1.00
+SOM 11F,Indomitable Archangel,,0,0.0,0,0,0,5.50
+SOM 237F,Island,,0,0.0,0,0,0,0.50
+SOM 175F,Mimic Vat,,0,0.0,0,0,0,5.00
+SOM 57F,Carnifex Demon,,0,0.0,0,0,0,1.50
+SOM 147F,Corpse Cur,,0,0.0,0,0,0,1.50
+SOM 153F,Echo Circlet,,0,0.0,0,0,0,0.50
+SOM 73F,Painful Quandary,,0,0.0,0,0,0,4.00
+SOM 45F,Steady Progress,,0,0.0,0,0,0,4.00
+SOM 136F,Accorder's Shield,,0,0.0,0,0,0,2.00
+SOM 22F,Sunblast Angel,,0,0.0,0,0,0,1.00
+SOM 174F,Memnite,,0,0.0,0,0,0,9.00
+SOM 195F,Prototype Portal,,0,0.0,0,0,0,3.50
+SOM 47F,Thrummingbird,,0,0.0,0,0,0,2.00
+SOM 205F,Steel Hellkite,,0,0.0,0,0,0,5.00
+SOM 116F,Copperhorn Scout,,0,0.0,0,0,0,1.00
+SOM 246F,Forest,,0,0.0,0,0,0,0.50
+SOM 123F,Liege of the Tangle,,0,0.0,0,0,0,3.50
+SOM 75F,Plague Stinger,,0,0.0,0,0,0,3.00
+SOM 192F,Perilous Myr,,0,0.0,0,0,0,1.50
+SOM 4F,Auriok Sunchaser,,0,0.0,0,0,0,1.00
+SOM 165F,Horizon Spellbomb,,0,0.0,0,0,0,1.00
+SOM 241F,Swamp,,0,0.0,0,0,0,1.00
+SOM 242F,Mountain,,0,0.0,0,0,0,0.50
+SOM 231F,Plains,,0,0.0,0,0,0,0.50
+SOM 155F,Flight Spellbomb,,0,0.0,0,0,0,0.50
+SOM 247F,Forest,,0,0.0,0,0,0,0.50
+SOM 249F,Forest,,0,0.0,0,0,0,0.50
+SOM 92F,Goblin Gaveleer,,0,0.0,0,0,0,0.50
+SOM 93F,Hoard-Smelter Dragon,,0,0.0,0,0,0,0.50
+SOM 243F,Mountain,,0,0.0,0,0,0,0.50
+SOM 245F,Mountain,,0,0.0,0,0,0,0.50
+SOM 233F,Plains,,0,0.0,0,0,0,0.50
+SOM 219F,Vector Asp,,0,0.0,0,0,0,0.50
+SOM 46F,Stoic Rebuttal,,0,0.0,0,0,0,1.00
+SOM 152F,Darksteel Sentinel,,0,0.0,0,0,0,2.00
+SOM 209F,Sylvok Lifestaff,,0,0.0,0,0,0,2.00
+SOM 33F,Grand Architect,,0,0.0,0,0,0,3.00
+SOM 117F,Cystbearer,,0,0.0,0,0,0,1.00
+SOM 134F,Withstand Death,,0,0.0,0,0,0,2.50
+SOM 210F,Sylvok Replica,,0,0.0,0,0,0,0.50
+SOM 81F,Arc Trail,,0,0.0,0,0,0,1.50
+SOM 95F,Kuldotha Phoenix,,0,0.0,0,0,0,1.50
+SOM 43F,Shape Anew,,0,0.0,0,0,0,1.50
+SOM 58F,Contagious Nim,,0,0.0,0,0,0,1.00
+SOM 177F,Molten-Tail Masticore,,0,0.0,0,0,0,1.00
+SOM 194F,Precursor Golem,,0,0.0,0,0,0,1.00
+SOM 126F,Putrefax,,0,0.0,0,0,0,1.00
+SOM 77F,Relic Putrescence,,0,0.0,0,0,0,1.00
+SOM 16F,Myrsmith,,0,0.0,0,0,0,0.50
+SOM 113F,Blunt the Assault,,0,0.0,0,0,0,0.50
+SOM 54F,Blackcleave Goblin,,0,0.0,0,0,0,1.00
+SOM 140F,Bladed Pinions,,0,0.0,0,0,0,1.00
+SOM 235F,Island,,0,0.0,0,0,0,0.50
+SOM 37F,Neurok Invisimancer,,0,0.0,0,0,0,0.50
+SOM 191F,Panic Spellbomb,,0,0.0,0,0,0,0.50
+SOM 214F,Trigon of Infestation,,0,0.0,0,0,0,0.50
+SOM 163F,Grindclock,,0,0.0,0,0,0,1.00
+SOM 158F,Golden Urn,,0,0.0,0,0,0,0.50
+SOM 230F,Plains,,0,0.0,0,0,0,0.50
+SOM 19F,Salvage Scout,,0,0.0,0,0,0,0.50
+SOM 115F,Carrion Call,,0,0.0,0,0,0,1.00
+SOM 60F,Dross Hopper,,0,0.0,0,0,0,1.00
+SOM 189F,Origin Spellbomb,,0,0.0,0,0,0,1.00
+SOM 27F,Whitesun's Passage,,0,0.0,0,0,0,1.00
+SOM 127F,Slice in Twain,,0,0.0,0,0,0,0.50
+SOM 239F,Swamp,,0,0.0,0,0,0,0.50
+SOM 1F,Abuna Acolyte,,0,0.0,0,0,0,0.50
+SOM 108F,Acid Web Spider,,0,0.0,0,0,0,0.50
+SOM 109F,Alpha Tyrranax,,0,0.0,0,0,0,0.50
+SOM 28F,Argent Sphinx,,0,0.0,0,0,0,0.50
+SOM 138F,Auriok Replica,,0,0.0,0,0,0,0.50
+SOM 139F,Barbed Battlegear,,0,0.0,0,0,0,0.50
+SOM 142F,Chrome Steed,,0,0.0,0,0,0,0.50
+SOM 149F,Darksteel Axe,,0,0.0,0,0,0,0.50
+SOM 120F,Ezuri's Archers,,0,0.0,0,0,0,0.50
+SOM 121F,Ezuri's Brigade,,0,0.0,0,0,0,0.50
+SOM 62F,Flesh Allergy,,0,0.0,0,0,0,0.50
+SOM 9F,Glimmerpoint Stag,,0,0.0,0,0,0,0.50
+SOM 161F,Golem's Heart,,0,0.0,0,0,0,0.50
+SOM 34F,Halt Order,,0,0.0,0,0,0,0.50
+SOM 164F,Heavy Arbalest,,0,0.0,0,0,0,0.50
+SOM 234F,Island,,0,0.0,0,0,0,0.50
+SOM 124F,Lifesmith,,0,0.0,0,0,0,0.50
+SOM 100F,Oxidda Daredevil,,0,0.0,0,0,0,0.50
+SOM 232F,Plains,,0,0.0,0,0,0,0.50
+SOM 199F,Rusted Relic,,0,0.0,0,0,0,0.50
+SOM 20F,Seize the Initiative,,0,0.0,0,0,0,0.50
+SOM 78F,Skinrender,,0,0.0,0,0,0,0.50
+SOM 23F,Sunspear Shikari,,0,0.0,0,0,0,0.50
+SOM 240F,Swamp,,0,0.0,0,0,0,0.50
+SOM 129F,Tel-Jilad Defiance,,0,0.0,0,0,0,0.50
+SOM 212F,Tower of Calamities,,0,0.0,0,0,0,0.50
+SOM 213F,Trigon of Corruption,,0,0.0,0,0,0,0.50
+SOM 215F,Trigon of Mending,,0,0.0,0,0,0,0.50
+SOM 217F,Trigon of Thought,,0,0.0,0,0,0,0.50
+SOM 106F,Turn to Slag,,0,0.0,0,0,0,0.50
+SOM 51F,Vault Skyward,,0,0.0,0,0,0,0.50
+SOM 52F,Vedalken Certarch,,0,0.0,0,0,0,0.50
+SOM 26F,Vigil for the Lost,,0,0.0,0,0,0,0.50
+SOM 53F,Volition Reins,,0,0.0,0,0,0,0.50
+SOM 2F,Arrest,,0,0.0,0,0,0,0.50
+SOM 82F,Assault Strobe,,0,0.0,0,0,0,7.00
+SOM 3F,Auriok Edgewright,,0,0.0,0,0,0,0.50
+SOM 83F,Barrage Ogre,,0,0.0,0,0,0,0.50
+SOM 111F,Bellowing Tanglewurm,,0,0.0,0,0,0,5.50
+SOM 84F,Blade-Tribe Berserkers,,0,0.0,0,0,0,0.50
+SOM 56F,Blistergrub,,0,0.0,0,0,0,0.50
+SOM 85F,Bloodshot Trainee,,0,0.0,0,0,0,0.50
+SOM 29F,Bonds of Quicksilver,,0,0.0,0,0,0,0.50
+SOM 114F,Carapace Forger,,0,0.0,0,0,0,0.50
+SOM 86F,Cerebral Eruption,,0,0.0,0,0,0,0.50
+SOM 141F,Chimeric Mass,,0,0.0,0,0,0,1.00
+SOM 143F,Clone Shell,,0,0.0,0,0,0,1.00
+SOM 55F,Bleak Coven Vampires,,0,0.0,0,0,0,1.00
+SOM 59F,Corrupted Harvester,,0,0.0,0,0,0,0.50
+SOM 148F,Culling Dais,,0,0.0,0,0,0,1.00
+SOM 30F,Darkslick Drake,,0,0.0,0,0,0,0.50
+SOM 226F,Darkslick Shores,,0,0.0,0,0,0,22.00
+SOM 150F,Darksteel Juggernaut,,0,0.0,0,0,0,2.50
+SOM 5F,Dispense Justice,,0,0.0,0,0,0,0.50
+SOM 31F,Disperse,,0,0.0,0,0,0,0.50
+SOM 87F,Embersmith,,0,0.0,0,0,0,0.50
+SOM 61F,Exsanguinate,,0,0.0,0,0,0,4.00
+SOM 88F,Ferrovore,,0,0.0,0,0,0,0.50
+SOM 89F,Flameborn Hellion,,0,0.0,0,0,0,0.50
+SOM 7F,Fulgent Distraction,,0,0.0,0,0,0,0.50
+SOM 63F,Fume Spitter,,0,0.0,0,0,0,1.00
+SOM 90F,Furnace Celebration,,0,0.0,0,0,0,0.50
+SOM 8F,Ghalma's Warden,,0,0.0,0,0,0,0.50
+SOM 10F,Glint Hawk,,0,0.0,0,0,0,14.00
+SOM 156F,Glint Hawk Idol,,0,0.0,0,0,0,0.50
+SOM 159F,Golem Artisan,,0,0.0,0,0,0,0.50
+SOM 65F,Grasp of Darkness,,0,0.0,0,0,0,2.00
+SOM 68F,Instill Infection,,0,0.0,0,0,0,0.50
+SOM 236F,Island,,0,0.0,0,0,0,0.50
+SOM 13F,Kemba's Skyguard,,0,0.0,0,0,0,0.50
+SOM 12F,"Kemba, Kha Regent",,0,0.0,0,0,0,2.00
+SOM 94F,Koth of the Hammer,,0,0.0,0,0,0,7.00
+SOM 14F,Leonin Arbiter,,0,0.0,0,0,0,2.50
+SOM 172F,Livewire Lash,,0,0.0,0,0,0,2.00
+SOM 15F,Loxodon Wayfarer,,0,0.0,0,0,0,0.50
+SOM 36F,Lumengrid Drake,,0,0.0,0,0,0,0.50
+SOM 97F,Melt Terrain,,0,0.0,0,0,0,0.50
+SOM 69F,Memoricide,,0,0.0,0,0,0,0.50
+SOM 125F,Molder Beast,,0,0.0,0,0,0,0.50
+SOM 70F,Moriok Reaver,,0,0.0,0,0,0,0.50
+SOM 178F,Moriok Replica,,0,0.0,0,0,0,0.50
+SOM 244F,Mountain,,0,0.0,0,0,0,0.50
+SOM 179F,Mox Opal,,0,0.0,0,0,0,240.00
+SOM 184F,Necrogen Censer,,0,0.0,0,0,0,0.50
+SOM 71F,Necrogen Scudder,,0,0.0,0,0,0,0.50
+SOM 186F,Neurok Replica,,0,0.0,0,0,0,0.50
+SOM 99F,Ogre Geargrabber,,0,0.0,0,0,0,0.50
+SOM 101F,Oxidda Scrapmelter,,0,0.0,0,0,0,0.50
+SOM 74F,Painsmith,,0,0.0,0,0,0,0.50
+SOM 38F,Plated Seastrider,,0,0.0,0,0,0,0.50
+SOM 76F,Psychic Miasma,,0,0.0,0,0,0,0.50
+SOM 39F,Quicksilver Gargantuan,,0,0.0,0,0,0,3.00
+SOM 17F,Razor Hippogriff,,0,0.0,0,0,0,0.50
+SOM 197F,Razorfield Thresher,,0,0.0,0,0,0,0.50
+SOM 18F,Revoke Existence,,0,0.0,0,0,0,1.50
+SOM 198F,Rust Tick,,0,0.0,0,0,0,0.50
+SOM 185F,Necropede,,0,0.0,0,0,0,5.00
+SOM 40F,Riddlesmith,,0,0.0,0,0,0,2.00
+SOM 200F,Saberclaw Golem,,0,0.0,0,0,0,0.50
+SOM 102F,Scoria Elemental,,0,0.0,0,0,0,0.50
+SOM 41F,Scrapdiver Serpent,,0,0.0,0,0,0,0.50
+SOM 42F,Screeching Silcaw,,0,0.0,0,0,0,0.50
+SOM 229F,Seachrome Coast,,0,0.0,0,0,0,14.00
+SOM 103F,Shatter,,0,0.0,0,0,0,0.50
+SOM 44F,Sky-Eel School,,0,0.0,0,0,0,0.50
+SOM 203F,Snapsail Glider,,0,0.0,0,0,0,0.50
+SOM 204F,Soliton,,0,0.0,0,0,0,0.50
+SOM 21F,Soul Parry,,0,0.0,0,0,0,0.50
+SOM 104F,Spikeshot Elder,,0,0.0,0,0,0,1.00
+SOM 207F,Strider Harness,,0,0.0,0,0,0,0.50
+SOM 238F,Swamp,,0,0.0,0,0,0,0.50
+SOM 128F,Tangle Angler,,0,0.0,0,0,0,0.50
+SOM 130F,Tel-Jilad Fallen,,0,0.0,0,0,0,0.50
+SOM 24F,Tempered Steel,,0,0.0,0,0,0,4.00
+SOM 216F,Trigon of Rage,,0,0.0,0,0,0,0.50
+SOM 218F,Tumble Magnet,,0,0.0,0,0,0,0.50
+SOM 131F,Untamed Might,,0,0.0,0,0,0,0.50
+SOM 135F,"Venser, the Sojourner",,0,0.0,0,0,0,22.00
+SOM 107F,Vulshok Heartstoker,,0,0.0,0,0,0,0.50
+SOM 221F,Vulshok Replica,,0,0.0,0,0,0,0.50
+SOM 133F,Wing Puncture,,0,0.0,0,0,0,0.50
+SOM 48F,Trinket Mage,,0,0.0,0,0,0,6.50

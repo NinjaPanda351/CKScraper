@@ -1,0 +1,332 @@
+DST 110,Darksteel Forge,,0,0.0,0,0,0,47.00
+DST 148,Sword of Fire and Ice,,0,0.0,0,0,0,37.00
+DST 160,Whispersilk Cloak,,0,0.0,0,0,0,3.00
+DST 130,Mycosynth Lattice,,0,0.0,0,0,0,17.00
+DST 140,Skullclamp,,0,0.0,0,0,0,9.00
+DST 114,Darksteel Reactor,,0,0.0,0,0,0,15.00
+DST 123,Geth's Grimoire,,0,0.0,0,0,0,3.50
+DST 164,Darksteel Citadel,,0,0.0,0,0,0,2.00
+DST 132,Myr Matrix,,0,0.0,0,0,0,9.00
+DST 154,Trinisphere,,0,0.0,0,0,0,24.00
+DST 91,Aether Vial,,0,0.0,0,0,0,6.50
+DST 100,Arcbound Ravager,,0,0.0,0,0,0,14.00
+DST 141,Spawning Pit,,0,0.0,0,0,0,2.50
+DST 149,Sword of Light and Shadow,,0,0.0,0,0,0,11.00
+DST 122,Genesis Chamber,,0,0.0,0,0,0,3.00
+DST 67,Savage Beating,,0,0.0,0,0,0,9.00
+DST 95,Arcbound Crusher,,0,0.0,0,0,0,2.00
+DST 101,Arcbound Reclaimer,,0,0.0,0,0,0,3.00
+DST 52,Screams from Within,,0,0.0,0,0,0,2.00
+DST 31,Reshape,,0,0.0,0,0,0,3.50
+DST 129,Memnarch,,0,0.0,0,0,0,7.00
+DST 6,Leonin Shikari,,0,0.0,0,0,0,5.00
+DST 134,Nemesis Mask,,0,0.0,0,0,0,2.00
+DST 32,Retract,,0,0.0,0,0,0,4.00
+DST 163,Blinkmoth Nexus,,0,0.0,0,0,0,5.00
+DST 139,Shield of Kaldra,,0,0.0,0,0,0,6.00
+DST 99,Arcbound Overseer,,0,0.0,0,0,0,2.50
+DST 109,Darksteel Colossus,,0,0.0,0,0,0,5.00
+DST 44,Greater Harvester,,0,0.0,0,0,0,2.00
+DST 40,Death Cloud,,0,0.0,0,0,0,3.00
+DST 156,Voltaic Construct,,0,0.0,0,0,0,1.00
+DST 136,Panoptic Mirror,,0,0.0,0,0,0,4.00
+DST 147,Surestrike Trident,,0,0.0,0,0,0,1.50
+DST 21,Echoing Truth,,0,0.0,0,0,0,0.50
+DST 143,Spellbinder,,0,0.0,0,0,0,1.00
+DST 75,Fangren Firstborn,,0,0.0,0,0,0,2.00
+DST 39,Chittering Rats,,0,0.0,0,0,0,0.50
+DST 63,Goblin Archaeologist,,0,0.0,0,0,0,0.50
+DST 124,Heartseeker,,0,0.0,0,0,0,1.50
+DST 68,Shunt,,0,0.0,0,0,0,1.00
+DST 138,Serum Powder,,0,0.0,0,0,0,1.50
+DST 155,Ur-Golem's Eye,,0,0.0,0,0,0,0.25
+DST 102,Arcbound Slith,,0,0.0,0,0,0,0.50
+DST 61,Flamebreak,,0,0.0,0,0,0,1.00
+DST 104,Arcbound Worker,,0,0.0,0,0,0,0.25
+DST 4,Hallow,,0,0.0,0,0,0,0.25
+DST 133,Myr Moonvessel,,0,0.0,0,0,0,0.25
+DST 35,Vedalken Engineer,,0,0.0,0,0,0,0.25
+DST 14,Soulscour,,0,0.0,0,0,0,0.50
+DST 96,Arcbound Fiend,,0,0.0,0,0,0,0.50
+DST 36,Vex,,0,0.0,0,0,0,0.25
+DST 120,Eater of Days,,0,0.0,0,0,0,1.00
+DST 146,Sundering Titan,,0,0.0,0,0,0,1.00
+DST 103,Arcbound Stinger,,0,0.0,0,0,0,0.25
+DST 131,Myr Landshaper,,0,0.0,0,0,0,0.25
+DST 81,Reap and Sow,,0,0.0,0,0,0,0.25
+DST 70,Tears of Rage,,0,0.0,0,0,0,0.50
+DST 159,Well of Lost Dreams,,0,0.0,0,0,0,1.50
+DST 23,Last Word,,0,0.0,0,0,0,1.00
+DST 97,Arcbound Hybrid,,0,0.0,0,0,0,0.25
+DST 94,Arcbound Bruiser,,0,0.0,0,0,0,0.25
+DST 56,Crazed Goblin,,0,0.0,0,0,0,0.25
+DST 113,Darksteel Pendant,,0,0.0,0,0,0,0.25
+DST 128,Lich's Tomb,,0,0.0,0,0,0,0.50
+DST 112,Darksteel Ingot,,0,0.0,0,0,0,0.25
+DST 92,Angel's Feather,,0,0.0,0,0,0,0.50
+DST 74,Echoing Courage,,0,0.0,0,0,0,0.25
+DST 60,Fireball,,0,0.0,0,0,0,0.50
+DST 165,Mirrodin's Core,,0,0.0,0,0,0,0.50
+DST 116,Demon's Horn,,0,0.0,0,0,0,0.50
+DST 59,Echoing Ruin,,0,0.0,0,0,0,0.25
+DST 98,Arcbound Lancer,,0,0.0,0,0,0,0.50
+DST 107,Coretapper,,0,0.0,0,0,0,0.50
+DST 73,Ageless Entity,,0,0.0,0,0,0,0.50
+DST 37,Aether Snap,,0,0.0,0,0,0,1.00
+DST 15,Steelshaper Apprentice,,0,0.0,0,0,0,0.50
+DST 69,Slobad,,0,0.0,0,0,0,0
+DST 54,Shriveling Rot,,0,0.0,0,0,0,0.50
+DST 83,Roaring Slagwurm,,0,0.0,0,0,0,0.50
+DST 66,Pulse of the Forge,,0,0.0,0,0,0,0.50
+DST 62,Furnace Dragon,,0,0.0,0,0,0,0.50
+DST 11,Pulse of the Fields,,0,0.0,0,0,0,0.50
+DST 55,Barbed Lightning,,0,0.0,0,0,0,0.25
+DST 45,Grimclaw Bats,,0,0.0,0,0,0,0.25
+DST 157,Vulshok Morningstar,,0,0.0,0,0,0,0.25
+DST 117,Dragon's Claw,,0,0.0,0,0,0,0.50
+DST 119,Dross Golem,,0,0.0,0,0,0,0.25
+DST 79,Oxidize,,0,0.0,0,0,0,0.50
+DST 142,Specter's Shroud,,0,0.0,0,0,0,0.50
+DST 145,Spire Golem,,0,0.0,0,0,0,0.25
+DST 20,Chromescale Drake,,0,0.0,0,0,0,0.50
+DST 111,Darksteel Gargoyle,,0,0.0,0,0,0,0.50
+DST 41,Echoing Decay,,0,0.0,0,0,0,0.25
+DST 76,Infested Roothold,,0,0.0,0,0,0,0.50
+DST 90,Viridian Zealot,,0,0.0,0,0,0,1.00
+DST 29,Pulse of the Grid,,0,0.0,0,0,0,0.50
+DST 80,Pulse of the Tangle,,0,0.0,0,0,0,0.50
+DST 18,Turn the Tables,,0,0.0,0,0,0,0.50
+DST 58,Drooling Ogre,,0,0.0,0,0,0,0.25
+DST 8,Metal Fatigue,,0,0.0,0,0,0,0.25
+DST 78,Nourish,,0,0.0,0,0,0,0.25
+DST 153,Thunderstaff,,0,0.0,0,0,0,0.50
+DST 127,Leonin Bola,,0,0.0,0,0,0,0.25
+DST 121,Gemini Engine,,0,0.0,0,0,0,0.50
+DST 47,Mephitic Ooze,,0,0.0,0,0,0,0.50
+DST 34,Synod Artificer,,0,0.0,0,0,0,0.50
+DST 1,Auriok Glaivemaster,,0,0.0,0,0,0,0.25
+DST 46,Hunger of the Nim,,0,0.0,0,0,0,0.25
+DST 13,Ritual of Restoration,,0,0.0,0,0,0,0.25
+DST 93,Arcane Spyglass,,0,0.0,0,0,0,0.25
+DST 57,Dismantle,,0,0.0,0,0,0,0.50
+DST 65,Krark-Clan Stoker,,0,0.0,0,0,0,0.25
+DST 24,Machinate,,0,0.0,0,0,0,0.25
+DST 137,Razor Golem,,0,0.0,0,0,0,0.25
+DST 82,Rebuking Ceremony,,0,0.0,0,0,0,0.50
+DST 42,Emissary of Despair,,0,0.0,0,0,0,0.50
+DST 161,Wirefly Hive,,0,0.0,0,0,0,0.50
+DST 106,Chimeric Egg,,0,0.0,0,0,0,0.50
+DST 118,Drill-Skimmer,,0,0.0,0,0,0,0.25
+DST 126,Kraken's Eye,,0,0.0,0,0,0,0.50
+DST 17,Test of Faith,,0,0.0,0,0,0,0.50
+DST 152,Thought Dissector,,0,0.0,0,0,0,0.50
+DST 158,Wand of the Elements,,0,0.0,0,0,0,0.50
+DST 38,Burden of Greed,,0,0.0,0,0,0,0.25
+DST 19,Carry Away,,0,0.0,0,0,0,0.50
+DST 108,Darksteel Brute,,0,0.0,0,0,0,0.50
+DST 3,Emissary of Hope,,0,0.0,0,0,0,0.50
+DST 64,Inflame,,0,0.0,0,0,0,0.25
+DST 5,Leonin Battlemage,,0,0.0,0,0,0,0.50
+DST 27,Neurok Transmuter,,0,0.0,0,0,0,0.50
+DST 30,Quicksilver Behemoth,,0,0.0,0,0,0,0.25
+DST 50,Pulse of the Dross,,0,0.0,0,0,0,0.50
+DST 48,Murderous Spoils,,0,0.0,0,0,0,0.50
+DST 28,Psychic Overload,,0,0.0,0,0,0,0.50
+DST 10,Pteron Ghost,,0,0.0,0,0,0,0.25
+DST 144,Spincrusher,,0,0.0,0,0,0,0.50
+DST 84,Stand Together,,0,0.0,0,0,0,0.50
+DST 150,Talon of Pain,,0,0.0,0,0,0,0.50
+DST 85,Tangle Spider,,0,0.0,0,0,0,0.25
+DST 86,Tanglewalker,,0,0.0,0,0,0,0.50
+DST 88,Tel-Jilad Wolf,,0,0.0,0,0,0,0.25
+DST 89,Viridian Acolyte,,0,0.0,0,0,0,0.25
+DST 115,Death-Mask Duplicant,,0,0.0,0,0,0,0.50
+DST 22,Hoverguard Observer,,0,0.0,0,0,0,0.50
+DST 25,Magnetic Flux,,0,0.0,0,0,0,0.25
+DST 135,Oxidda Golem,,0,0.0,0,0,0,0.25
+DST 53,Scrounge,,0,0.0,0,0,0,0.50
+DST 33,Second Sight,,0,0.0,0,0,0,0.50
+DST 151,Tangle Golem,,0,0.0,0,0,0,0.25
+DST 162,Wurm's Tooth,,0,0.0,0,0,0,0.50
+DST 9,Pristine Angel,,0,0.0,0,0,0,0.50
+DST 2,Echoing Calm,,0,0.0,0,0,0,0.25
+DST 125,Juggernaut,,0,0.0,0,0,0,0.50
+DST 7,Loxodon Mystic,,0,0.0,0,0,0,0.25
+DST 12,Purge,,0,0.0,0,0,0,0.50
+DST 72,Vulshok War Boar,,0,0.0,0,0,0,0.50
+DST 26,Neurok Prodigy,,0,0.0,0,0,0,0.25
+DST 105,Auriok Siege Sled,,0,0.0,0,0,0,0.50
+DST 43,Essence Drain,,0,0.0,0,0,0,0.25
+DST 77,Karstoderm,,0,0.0,0,0,0,0.50
+DST 49,Nim Abomination,,0,0.0,0,0,0,0.50
+DST 51,Scavenging Scarab,,0,0.0,0,0,0,0.25
+DST 16,Stir the Pride,,0,0.0,0,0,0,0.50
+DST 87,Tel-Jilad Outrider,,0,0.0,0,0,0,0.25
+DST 71,Unforge,,0,0.0,0,0,0,0.25
+DST 44F,Greater Harvester,,0,0.0,0,0,0,14.00
+DST 132F,Myr Matrix,,0,0.0,0,0,0,30.00
+DST 110F,Darksteel Forge,,0,0.0,0,0,0,60.00
+DST 114F,Darksteel Reactor,,0,0.0,0,0,0,28.00
+DST 6F,Leonin Shikari,,0,0.0,0,0,0,18.00
+DST 100F,Arcbound Ravager,,0,0.0,0,0,0,52.00
+DST 154F,Trinisphere,,0,0.0,0,0,0,48.00
+DST 31F,Reshape,,0,0.0,0,0,0,22.00
+DST 141F,Spawning Pit,,0,0.0,0,0,0,9.00
+DST 52F,Screams from Within,,0,0.0,0,0,0,10.00
+DST 159F,Well of Lost Dreams,,0,0.0,0,0,0,9.50
+DST 101F,Arcbound Reclaimer,,0,0.0,0,0,0,28.00
+DST 139F,Shield of Kaldra,,0,0.0,0,0,0,24.00
+DST 164F,Darksteel Citadel,,0,0.0,0,0,0,10.00
+DST 134F,Nemesis Mask,,0,0.0,0,0,0,9.50
+DST 140F,Skullclamp,,0,0.0,0,0,0,60.00
+DST 130F,Mycosynth Lattice,,0,0.0,0,0,0,36.00
+DST 91F,Aether Vial,,0,0.0,0,0,0,32.00
+DST 95F,Arcbound Crusher,,0,0.0,0,0,0,20.00
+DST 123F,Geth's Grimoire,,0,0.0,0,0,0,9.50
+DST 163F,Blinkmoth Nexus,,0,0.0,0,0,0,14.00
+DST 129F,Memnarch,,0,0.0,0,0,0,24.00
+DST 102F,Arcbound Slith,,0,0.0,0,0,0,3.50
+DST 160F,Whispersilk Cloak,,0,0.0,0,0,0,9.50
+DST 136F,Panoptic Mirror,,0,0.0,0,0,0,18.00
+DST 146F,Sundering Titan,,0,0.0,0,0,0,7.00
+DST 68F,Shunt,,0,0.0,0,0,0,2.50
+DST 96F,Arcbound Fiend,,0,0.0,0,0,0,3.50
+DST 39F,Chittering Rats,,0,0.0,0,0,0,5.00
+DST 137F,Razor Golem,,0,0.0,0,0,0,1.00
+DST 124F,Heartseeker,,0,0.0,0,0,0,7.00
+DST 81F,Reap and Sow,,0,0.0,0,0,0,3.00
+DST 153F,Thunderstaff,,0,0.0,0,0,0,0.50
+DST 107F,Coretapper,,0,0.0,0,0,0,5.00
+DST 61F,Flamebreak,,0,0.0,0,0,0,5.00
+DST 29F,Pulse of the Grid,,0,0.0,0,0,0,2.50
+DST 35F,Vedalken Engineer,,0,0.0,0,0,0,2.00
+DST 158F,Wand of the Elements,,0,0.0,0,0,0,2.00
+DST 18F,Turn the Tables,,0,0.0,0,0,0,1.00
+DST 54F,Shriveling Rot,,0,0.0,0,0,0,3.50
+DST 104F,Arcbound Worker,,0,0.0,0,0,0,1.00
+DST 73F,Ageless Entity,,0,0.0,0,0,0,1.00
+DST 151F,Tangle Golem,,0,0.0,0,0,0,1.00
+DST 121F,Gemini Engine,,0,0.0,0,0,0,3.00
+DST 21F,Echoing Truth,,0,0.0,0,0,0,5.00
+DST 133F,Myr Moonvessel,,0,0.0,0,0,0,3.00
+DST 147F,Surestrike Trident,,0,0.0,0,0,0,5.00
+DST 128F,Lich's Tomb,,0,0.0,0,0,0,3.00
+DST 155F,Ur-Golem's Eye,,0,0.0,0,0,0,2.00
+DST 94F,Arcbound Bruiser,,0,0.0,0,0,0,1.50
+DST 14F,Soulscour,,0,0.0,0,0,0,3.00
+DST 83F,Roaring Slagwurm,,0,0.0,0,0,0,2.50
+DST 135F,Oxidda Golem,,0,0.0,0,0,0,1.00
+DST 80F,Pulse of the Tangle,,0,0.0,0,0,0,1.00
+DST 97F,Arcbound Hybrid,,0,0.0,0,0,0,1.00
+DST 116F,Demon's Horn,,0,0.0,0,0,0,2.00
+DST 41F,Echoing Decay,,0,0.0,0,0,0,2.00
+DST 63F,Goblin Archaeologist,,0,0.0,0,0,0,2.00
+DST 15F,Steelshaper Apprentice,,0,0.0,0,0,0,2.00
+DST 119F,Dross Golem,,0,0.0,0,0,0,0.50
+DST 78F,Nourish,,0,0.0,0,0,0,0.50
+DST 145F,Spire Golem,,0,0.0,0,0,0,1.50
+DST 142F,Specter's Shroud,,0,0.0,0,0,0,1.00
+DST 26F,Neurok Prodigy,,0,0.0,0,0,0,0.50
+DST 103F,Arcbound Stinger,,0,0.0,0,0,0,1.00
+DST 50F,Pulse of the Dross,,0,0.0,0,0,0,1.00
+DST 82F,Rebuking Ceremony,,0,0.0,0,0,0,1.00
+DST 5F,Leonin Battlemage,,0,0.0,0,0,0,0.50
+DST 150F,Talon of Pain,,0,0.0,0,0,0,0.50
+DST 92F,Angel's Feather,,0,0.0,0,0,0,0.50
+DST 55F,Barbed Lightning,,0,0.0,0,0,0,0.50
+DST 36F,Vex,,0,0.0,0,0,0,0.50
+DST 127F,Leonin Bola,,0,0.0,0,0,0,0.50
+DST 70F,Tears of Rage,,0,0.0,0,0,0,1.50
+DST 113F,Darksteel Pendant,,0,0.0,0,0,0,1.00
+DST 24F,Machinate,,0,0.0,0,0,0,0.50
+DST 8F,Metal Fatigue,,0,0.0,0,0,0,0.50
+DST 48F,Murderous Spoils,,0,0.0,0,0,0,0.50
+DST 27F,Neurok Transmuter,,0,0.0,0,0,0,0.50
+DST 10F,Pteron Ghost,,0,0.0,0,0,0,0.50
+DST 30F,Quicksilver Behemoth,,0,0.0,0,0,0,0.50
+DST 144F,Spincrusher,,0,0.0,0,0,0,0.50
+DST 85F,Tangle Spider,,0,0.0,0,0,0,0.50
+DST 59F,Echoing Ruin,,0,0.0,0,0,0,0.50
+DST 19F,Carry Away,,0,0.0,0,0,0,0.50
+DST 56F,Crazed Goblin,,0,0.0,0,0,0,0.50
+DST 108F,Darksteel Brute,,0,0.0,0,0,0,0.50
+DST 57F,Dismantle,,0,0.0,0,0,0,0.50
+DST 58F,Drooling Ogre,,0,0.0,0,0,0,0.50
+DST 2F,Echoing Calm,,0,0.0,0,0,0,0.50
+DST 43F,Essence Drain,,0,0.0,0,0,0,0.50
+DST 125F,Juggernaut,,0,0.0,0,0,0,0.50
+DST 13F,Ritual of Restoration,,0,0.0,0,0,0,0.50
+DST 51F,Scavenging Scarab,,0,0.0,0,0,0,0.50
+DST 33F,Second Sight,,0,0.0,0,0,0,0.50
+DST 161F,Wirefly Hive,,0,0.0,0,0,0,0.50
+DST 162F,Wurm's Tooth,,0,0.0,0,0,0,0.50
+DST 37F,Aether Snap,,0,0.0,0,0,0,5.50
+DST 93F,Arcane Spyglass,,0,0.0,0,0,0,0.50
+DST 98F,Arcbound Lancer,,0,0.0,0,0,0,2.50
+DST 99F,Arcbound Overseer,,0,0.0,0,0,0,9.50
+DST 1F,Auriok Glaivemaster,,0,0.0,0,0,0,0.50
+DST 105F,Auriok Siege Sled,,0,0.0,0,0,0,0.50
+DST 38F,Burden of Greed,,0,0.0,0,0,0,0.50
+DST 106F,Chimeric Egg,,0,0.0,0,0,0,0.50
+DST 20F,Chromescale Drake,,0,0.0,0,0,0,1.00
+DST 109F,Darksteel Colossus,,0,0.0,0,0,0,18.00
+DST 111F,Darksteel Gargoyle,,0,0.0,0,0,0,1.50
+DST 40F,Death Cloud,,0,0.0,0,0,0,17.00
+DST 115F,Death-Mask Duplicant,,0,0.0,0,0,0,0.50
+DST 117F,Dragon's Claw,,0,0.0,0,0,0,1.00
+DST 118F,Drill-Skimmer,,0,0.0,0,0,0,0.50
+DST 120F,Eater of Days,,0,0.0,0,0,0,8.00
+DST 74F,Echoing Courage,,0,0.0,0,0,0,0.50
+DST 42F,Emissary of Despair,,0,0.0,0,0,0,2.00
+DST 3F,Emissary of Hope,,0,0.0,0,0,0,0.50
+DST 75F,Fangren Firstborn,,0,0.0,0,0,0,7.00
+DST 60F,Fireball,,0,0.0,0,0,0,2.00
+DST 62F,Furnace Dragon,,0,0.0,0,0,0,6.50
+DST 122F,Genesis Chamber,,0,0.0,0,0,0,14.00
+DST 45F,Grimclaw Bats,,0,0.0,0,0,0,0.50
+DST 4F,Hallow,,0,0.0,0,0,0,2.00
+DST 22F,Hoverguard Observer,,0,0.0,0,0,0,0.50
+DST 46F,Hunger of the Nim,,0,0.0,0,0,0,0.50
+DST 112F,Darksteel Ingot,,0,0.0,0,0,0,2.00
+DST 76F,Infested Roothold,,0,0.0,0,0,0,0.50
+DST 64F,Inflame,,0,0.0,0,0,0,0.50
+DST 77F,Karstoderm,,0,0.0,0,0,0,0.50
+DST 126F,Kraken's Eye,,0,0.0,0,0,0,0.50
+DST 65F,Krark-Clan Stoker,,0,0.0,0,0,0,1.00
+DST 23F,Last Word,,0,0.0,0,0,0,3.00
+DST 7F,Loxodon Mystic,,0,0.0,0,0,0,0.50
+DST 25F,Magnetic Flux,,0,0.0,0,0,0,0.50
+DST 47F,Mephitic Ooze,,0,0.0,0,0,0,1.00
+DST 165F,Mirrodin's Core,,0,0.0,0,0,0,1.00
+DST 131F,Myr Landshaper,,0,0.0,0,0,0,1.50
+DST 49F,Nim Abomination,,0,0.0,0,0,0,0.50
+DST 79F,Oxidize,,0,0.0,0,0,0,0.50
+DST 9F,Pristine Angel,,0,0.0,0,0,0,7.00
+DST 28F,Psychic Overload,,0,0.0,0,0,0,0.50
+DST 11F,Pulse of the Fields,,0,0.0,0,0,0,1.50
+DST 66F,Pulse of the Forge,,0,0.0,0,0,0,3.00
+DST 12F,Purge,,0,0.0,0,0,0,0.50
+DST 67F,Savage Beating,,0,0.0,0,0,0,22.00
+DST 53F,Scrounge,,0,0.0,0,0,0,0.50
+DST 138F,Serum Powder,,0,0.0,0,0,0,28.00
+DST 69F,Slobad,,0,0.0,0,0,0,0
+DST 143F,Spellbinder,,0,0.0,0,0,0,9.50
+DST 84F,Stand Together,,0,0.0,0,0,0,0.50
+DST 32F,Retract,,0,0.0,0,0,0,18.00
+DST 16F,Stir the Pride,,0,0.0,0,0,0,0.50
+DST 148F,Sword of Fire and Ice,,0,0.0,0,0,0,68.00
+DST 149F,Sword of Light and Shadow,,0,0.0,0,0,0,16.00
+DST 34F,Synod Artificer,,0,0.0,0,0,0,1.50
+DST 86F,Tanglewalker,,0,0.0,0,0,0,0.50
+DST 87F,Tel-Jilad Outrider,,0,0.0,0,0,0,0.50
+DST 88F,Tel-Jilad Wolf,,0,0.0,0,0,0,0.50
+DST 17F,Test of Faith,,0,0.0,0,0,0,0.50
+DST 152F,Thought Dissector,,0,0.0,0,0,0,1.00
+DST 71F,Unforge,,0,0.0,0,0,0,0.50
+DST 89F,Viridian Acolyte,,0,0.0,0,0,0,0.50
+DST 90F,Viridian Zealot,,0,0.0,0,0,0,3.50
+DST 156F,Voltaic Construct,,0,0.0,0,0,0,10.00
+DST 157F,Vulshok Morningstar,,0,0.0,0,0,0,0.50
+DST 72F,Vulshok War Boar,,0,0.0,0,0,0,0.50
+DST 69,"Slobad, Goblin Tinkerer",,0,0.0,0,0,0,0.50
+DST 69F,"Slobad, Goblin Tinkerer",,0,0.0,0,0,0,8.00

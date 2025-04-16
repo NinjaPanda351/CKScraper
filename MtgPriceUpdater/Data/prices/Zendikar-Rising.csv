@@ -1,0 +1,602 @@
+ZNR 111,Malakir Rebirth,,0,0.0,0,0,0,8.00
+ZNR 76,Sea Gate Restoration,,0,0.0,0,0,0,38.00
+ZNR 174,Valakut Awakening,,0,0.0,0,0,0,12.00
+ZNR 180,Bala Ged Recovery,,0,0.0,0,0,0,7.50
+ZNR 90,Agadeem's Awakening,,0,0.0,0,0,0,21.00
+ZNR 161,Shatterskull Smashing,,0,0.0,0,0,0,7.50
+ZNR 67,Maddening Cacophony,,0,0.0,0,0,0,7.00
+ZNR 60,Glasspool Mimic,,0,0.0,0,0,0,5.00
+ZNR 179,"Ashaya, Soul of the Wild",,0,0.0,0,0,0,9.00
+ZNR 2,Angel of Destiny,,0,0.0,0,0,0,8.00
+ZNR 37,Sejiri Shelter,,0,0.0,0,0,0,1.50
+ZNR 178,Ancient Greenwarden,,0,0.0,0,0,0,8.00
+ZNR 245,Lithoform Engine,,0,0.0,0,0,0,7.00
+ZNR 156,Roiling Vortex,,0,0.0,0,0,0,1.50
+ZNR 261,Cragcrown Pathway,,0,0.0,0,0,0,4.50
+ZNR 259,Brightclimb Pathway,,0,0.0,0,0,0,4.50
+ZNR 127,Soul Shatter,,0,0.0,0,0,0,3.00
+ZNR 263,Needleverge Pathway,,0,0.0,0,0,0,4.50
+ZNR 201,Roiling Regrowth,,0,0.0,0,0,0,1.00
+ZNR 193,Lotus Cobra,,0,0.0,0,0,0,3.00
+ZNR 264,Riverglide Pathway,,0,0.0,0,0,0,5.00
+ZNR 150,"Moraug, Fury of Akoum",,0,0.0,0,0,0,9.50
+ZNR 215,Turntimber Symbiosis,,0,0.0,0,0,0,2.00
+ZNR 146,Kazuul's Fury,,0,0.0,0,0,0,1.00
+ZNR 12,Emeria's Call,,0,0.0,0,0,0,3.00
+ZNR 75,Ruin Crab,,0,0.0,0,0,0,1.50
+ZNR 4,Archon of Emeria,,0,0.0,0,0,0,2.00
+ZNR 244,Forsaken Monument,,0,0.0,0,0,0,4.00
+ZNR 275,Mountain,,0,0.0,0,0,0,0.50
+ZNR 260,Clearwater Pathway,,0,0.0,0,0,0,5.00
+ZNR 30,Ondu Inversion,,0,0.0,0,0,0,1.00
+ZNR 252,Skyclave Relic,,0,0.0,0,0,0,1.50
+ZNR 232,"Omnath, Locus of Creation",,0,0.0,0,0,0,3.50
+ZNR 258,Branchloft Pathway,,0,0.0,0,0,0,3.00
+ZNR 106,Hagra Mauling,,0,0.0,0,0,0,2.00
+ZNR 64,Jwari Disruption,,0,0.0,0,0,0,0.50
+ZNR 98,"Drana, the Last Bloodchief",,0,0.0,0,0,0,3.00
+ZNR 147,Leyline Tyrant,,0,0.0,0,0,0,2.00
+ZNR 203,Scute Swarm,,0,0.0,0,0,0,3.50
+ZNR 271,Island,,0,0.0,0,0,0,0.50
+ZNR 19,Kabira Takedown,,0,0.0,0,0,0,0.50
+ZNR 192,Khalni Ambush,,0,0.0,0,0,0,0.50
+ZNR 382,Swamp,,0,0.0,0,0,0,0.50
+ZNR 80,Silundi Vision,,0,0.0,0,0,0,0.50
+ZNR 280,Forest,,0,0.0,0,0,0,0.50
+ZNR 137,Cleansing Wildfire,,0,0.0,0,0,0,0.25
+ZNR 16,Felidar Retreat,,0,0.0,0,0,0,2.00
+ZNR 175,Valakut Exploration,,0,0.0,0,0,0,1.50
+ZNR 112,Marauding Blight-Priest,,0,0.0,0,0,0,0.25
+ZNR 49,"Charix, the Raging Isle",,0,0.0,0,0,0,0.50
+ZNR 102,Feed the Swarm,,0,0.0,0,0,0,0.50
+ZNR 211,Tangled Florahedron,,0,0.0,0,0,0,0.50
+ZNR 384,Forest,,0,0.0,0,0,0,0.50
+ZNR 166,Spikefield Hazard,,0,0.0,0,0,0,0.50
+ZNR 24,Luminarch Aspirant,,0,0.0,0,0,0,0.50
+ZNR 2,Cat Token,,0,0.0,0,0,0,0.50
+ZNR 231,Nissa of Shadowed Boughs,,0,0.0,0,0,0,2.00
+ZNR 71,Negate,,0,0.0,0,0,0,0.25
+ZNR 268,Plains,,0,0.0,0,0,0,0.50
+ZNR 279,Forest,,0,0.0,0,0,0,0.50
+ZNR 208,Tajuru Blightblade,,0,0.0,0,0,0,0.25
+ZNR 173,Tuktuk Rubblefort,,0,0.0,0,0,0,0.25
+ZNR 27,Maul of the Skyclaves,,0,0.0,0,0,0,0.50
+ZNR 243,Cliffhaven Kitesail,,0,0.0,0,0,0,0.25
+ZNR 273,Swamp,,0,0.0,0,0,0,0.50
+ZNR 240,"Yasharn, Implacable Earth",,0,0.0,0,0,0,0.50
+ZNR 276,Mountain,,0,0.0,0,0,0,0.50
+ZNR 277,Mountain,,0,0.0,0,0,0,0.50
+ZNR 139,Fireblade Charger,,0,0.0,0,0,0,0.50
+ZNR 202,Scale the Heights,,0,0.0,0,0,0,0.25
+ZNR 9,Hydra Token,,0,0.0,0,0,0,1.00
+ZNR 217,Vastwood Surge,,0,0.0,0,0,0,0.50
+ZNR 46,Beyeen Veil,,0,0.0,0,0,0,0.50
+ZNR 39,Skyclave Apparition,,0,0.0,0,0,0,0.50
+ZNR 165,Song-Mad Treachery,,0,0.0,0,0,0,0.50
+ZNR 56,Deliberate,,0,0.0,0,0,0,0.25
+ZNR 272,Swamp,,0,0.0,0,0,0,0.50
+ZNR 3,Cat Beast Token,,0,0.0,0,0,0,0.50
+ZNR 216,Vastwood Fortification,,0,0.0,0,0,0,0.50
+ZNR 220,"Akiri, Fearless Voyager",,0,0.0,0,0,0,0.50
+ZNR 226,"Linvala, Shield of Sea Gate",,0,0.0,0,0,0,0.50
+ZNR 269,Island,,0,0.0,0,0,0,0.50
+ZNR 12,Copy Token,,0,0.0,0,0,0,0.50
+ZNR 186,Inscription of Abundance,,0,0.0,0,0,0,0.50
+ZNR 270,Island,,0,0.0,0,0,0,0.50
+ZNR 234,"Phylath, World Sculptor",,0,0.0,0,0,0,0.50
+ZNR 278,Forest,,0,0.0,0,0,0,0.50
+ZNR 249,Relic Golem,,0,0.0,0,0,0,0.50
+ZNR 118,Nullpriest of Oblivion,,0,0.0,0,0,0,0.50
+ZNR 95,Coveted Prize,,0,0.0,0,0,0,0.50
+ZNR 223,"Grakmaw, Skyclave Ravager",,0,0.0,0,0,0,0.50
+ZNR 115,Nighthawk Scavenger,,0,0.0,0,0,0,0.50
+ZNR 224,Kargan Warleader,,0,0.0,0,0,0,0.50
+ZNR 70,Merfolk Windrobber,,0,0.0,0,0,0,0.50
+ZNR 230,"Nahiri, Heir of the Ancients",,0,0.0,0,0,0,1.00
+ZNR 189,Kazandu Mammoth,,0,0.0,0,0,0,0.50
+ZNR 26,Makindi Stampede,,0,0.0,0,0,0,0.50
+ZNR 122,Scourge of the Skyclaves,,0,0.0,0,0,0,1.00
+ZNR 151,Nahiri's Lithoforming,,0,0.0,0,0,0,0.50
+ZNR 250,Relic Vial,,0,0.0,0,0,0,0.50
+ZNR 222,Cleric of Life's Bond,,0,0.0,0,0,0,0.50
+ZNR 120,Pelakka Predation,,0,0.0,0,0,0,0.50
+ZNR 107,Highborn Vampire,,0,0.0,0,0,0,0.25
+ZNR 198,Oran-Rief Ooze,,0,0.0,0,0,0,0.50
+ZNR 254,Spare Supplies,,0,0.0,0,0,0,0.25
+ZNR 256,Utility Knife,,0,0.0,0,0,0,0.25
+ZNR 91,Blackbloom Rogue,,0,0.0,0,0,0,0.50
+ZNR 262,Crawling Barrens,,0,0.0,0,0,0,0.50
+ZNR 23,Legion Angel,,0,0.0,0,0,0,0.50
+ZNR 132,Zof Consumption,,0,0.0,0,0,0,0.50
+ZNR 20,Kitesail Cleric,,0,0.0,0,0,0,0.50
+ZNR 200,Reclaim the Wastes,,0,0.0,0,0,0,0.25
+ZNR 134,Akoum Warrior,,0,0.0,0,0,0,0.50
+ZNR 44,"Tazri, Beacon of Unity",,0,0.0,0,0,0,1.00
+ZNR 9,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 94,Bloodchief's Thirst,,0,0.0,0,0,0,0.50
+ZNR 40,Skyclave Cleric,,0,0.0,0,0,0,0.50
+ZNR 145,Kargan Intimidator,,0,0.0,0,0,0,0.50
+ZNR 241,"Zagras, Thief of Heartbeats",,0,0.0,0,0,0,0.50
+ZNR 52,Concerted Defense,,0,0.0,0,0,0,0.50
+ZNR 105,Hagra Constrictor,,0,0.0,0,0,0,0.25
+ZNR 236,Soaring Thought-Thief,,0,0.0,0,0,0,0.50
+ZNR 85,Thieving Skydiver,,0,0.0,0,0,0,0.50
+ZNR 22,Kor Celebrant,,0,0.0,0,0,0,0.25
+ZNR 119,Oblivion's Hunger,,0,0.0,0,0,0,0.25
+ZNR 199,Rabid Bite,,0,0.0,0,0,0,0.25
+ZNR 383,Mountain,,0,0.0,0,0,0,0.50
+ZNR 129,"Taborax, Hope's Demise",,0,0.0,0,0,0,0.50
+ZNR 136,Cinderclasm,,0,0.0,0,0,0,0.50
+ZNR 5,Drake Token,,0,0.0,0,0,0,0.50
+ZNR 62,Into the Roil,,0,0.0,0,0,0,0.25
+ZNR 229,Murasa Rootgrazer,,0,0.0,0,0,0,0.50
+ZNR 213,Territorial Scythecat,,0,0.0,0,0,0,0.25
+ZNR 7,Insect Token,,0,0.0,0,0,0,0.50
+ZNR 133,Akoum Hellhound,,0,0.0,0,0,0,0.25
+ZNR 266,Plains,,0,0.0,0,0,0,0.50
+ZNR 172,Tormenting Voice,,0,0.0,0,0,0,0.25
+ZNR 242,"Zareth San, the Trickster",,0,0.0,0,0,0,0.50
+ZNR 103,Ghastly Gloomhunter,,0,0.0,0,0,0,0.25
+ZNR 45,Anticognition,,0,0.0,0,0,0,0.25
+ZNR 257,Base Camp,,0,0.0,0,0,0,0.50
+ZNR 97,Demon's Disciple,,0,0.0,0,0,0,0.50
+ZNR 159,Shatterskull Charger,,0,0.0,0,0,0,0.50
+ZNR 50,Chilling Trap,,0,0.0,0,0,0,0.25
+ZNR 6,Illusion Token,,0,0.0,0,0,0,0.50
+ZNR 177,Adventure Awaits,,0,0.0,0,0,0,0.25
+ZNR 187,Iridescent Hornbeetle,,0,0.0,0,0,0,0.50
+ZNR 126,Skyclave Shadowcat,,0,0.0,0,0,0,0.50
+ZNR 255,Stonework Packbeast,,0,0.0,0,0,0,0.25
+ZNR 53,Confounding Conundrum,,0,0.0,0,0,0,0.50
+ZNR 1,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 196,Murasa Sproutling,,0,0.0,0,0,0,0.50
+ZNR 34,Prowling Felidar,,0,0.0,0,0,0,0.25
+ZNR 3,Angelheart Protector,,0,0.0,0,0,0,0.25
+ZNR 92,Blood Beckoning,,0,0.0,0,0,0,0.25
+ZNR 141,Goma Fada Vanguard,,0,0.0,0,0,0,0.50
+ZNR 4,Kor Warrior Token,,0,0.0,0,0,0,0.50
+ZNR 79,Shell Shield,,0,0.0,0,0,0,0.25
+ZNR 86,Umara Wizard,,0,0.0,0,0,0,0.50
+ZNR 219,Vine Gecko,,0,0.0,0,0,0,0.50
+ZNR 183,Cragplate Baloth,,0,0.0,0,0,0,0.50
+ZNR 8,Plant Token,,0,0.0,0,0,0,0.50
+ZNR 153,Relic Robber,,0,0.0,0,0,0,0.50
+ZNR 207,Swarm Shambler,,0,0.0,0,0,0,0.50
+ZNR 1,Angel Warrior Token,,0,0.0,0,0,0,0.50
+ZNR 221,Brushfire Elemental,,0,0.0,0,0,0,0.50
+ZNR 59,Glacial Grasp,,0,0.0,0,0,0,0.25
+ZNR 253,Skyclave Sentinel,,0,0.0,0,0,0,0.25
+ZNR 77,Sea Gate Stormcaller,,0,0.0,0,0,0,1.00
+ZNR 182,Canopy Baloth,,0,0.0,0,0,0,0.25
+ZNR 7,Canyon Jerboa,,0,0.0,0,0,0,0.50
+ZNR 10,Construct Token,,0,0.0,0,0,0,0.50
+ZNR 11,Emeria Captain,,0,0.0,0,0,0,0.50
+ZNR 164,Sneaking Guide,,0,0.0,0,0,0,0.25
+ZNR 238,Umara Mystic,,0,0.0,0,0,0,0.50
+ZNR 47,Bubble Snare,,0,0.0,0,0,0,0.25
+ZNR 140,Fissure Wizard,,0,0.0,0,0,0,0.25
+ZNR 11,Goblin Construct Token,,0,0.0,0,0,0,0.50
+ZNR 155,Roil Eruption,,0,0.0,0,0,0,0.25
+ZNR 130,Thwart the Grave,,0,0.0,0,0,0,0.50
+ZNR 87,Windrider Wizard,,0,0.0,0,0,0,0.50
+ZNR 7,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 61,Inscription of Insight,,0,0.0,0,0,0,0.50
+ZNR 10,Disenchant,,0,0.0,0,0,0,0.25
+ZNR 21,Kor Blademaster,,0,0.0,0,0,0,0.50
+ZNR 121,Scion of the Swarm,,0,0.0,0,0,0,0.50
+ZNR 38,Shepherd of Heroes,,0,0.0,0,0,0,0.25
+ZNR 63,"Jace, Mirror Mage",,0,0.0,0,0,0,1.00
+ZNR 124,Shadows' Verdict,,0,0.0,0,0,0,0.50
+ZNR 17,Journey to Oblivion,,0,0.0,0,0,0,0.50
+ZNR 29,Nahiri's Binding,,0,0.0,0,0,0,0.25
+ZNR 267,Plains,,0,0.0,0,0,0,0.50
+ZNR 274,Swamp,,0,0.0,0,0,0,0.50
+ZNR 135,Ardent Electromancer,,0,0.0,0,0,0,0.25
+ZNR 143,Grotag Night-Runner,,0,0.0,0,0,0,0.50
+ZNR 190,Kazandu Nectarpot,,0,0.0,0,0,0,0.25
+ZNR 228,Moss-Pit Skeleton,,0,0.0,0,0,0,0.50
+ZNR 84,Tazeem Roilmage,,0,0.0,0,0,0,0.25
+ZNR 93,Blood Price,,0,0.0,0,0,0,0.25
+ZNR 96,Deadly Alliance,,0,0.0,0,0,0,0.25
+ZNR 194,Might of Murasa,,0,0.0,0,0,0,0.25
+ZNR 195,Murasa Brute,,0,0.0,0,0,0,0.25
+ZNR 157,Scavenged Blade,,0,0.0,0,0,0,0.25
+ZNR 88,Zulaport Duelist,,0,0.0,0,0,0,0.25
+ZNR 108,Inscription of Ruin,,0,0.0,0,0,0,0.50
+ZNR 148,Magmatic Channeler,,0,0.0,0,0,0,0.50
+ZNR 15,Fearless Fledgling,,0,0.0,0,0,0,0.50
+ZNR 381,Island,,0,0.0,0,0,0,0.50
+ZNR 110,Malakir Blood-Priest,,0,0.0,0,0,0,0.25
+ZNR 154,Rockslide Sorcerer,,0,0.0,0,0,0,0.50
+ZNR 251,Sea Gate Colossus,,0,0.0,0,0,0,0.25
+ZNR 128,Subtle Strike,,0,0.0,0,0,0,0.25
+ZNR 125,Skyclave Shade,,0,0.0,0,0,0,0.50
+ZNR 89,Acquisitions Expert,,0,0.0,0,0,0,0.50
+ZNR 48,Cascade Seer,,0,0.0,0,0,0,0.25
+ZNR 57,Expedition Diviner,,0,0.0,0,0,0,0.25
+ZNR 58,Field Research,,0,0.0,0,0,0,0.25
+ZNR 144,Inordinate Rage,,0,0.0,0,0,0,0.25
+ZNR 109,Lithoform Blight,,0,0.0,0,0,0,0.50
+ZNR 25,Makindi Ox,,0,0.0,0,0,0,0.25
+ZNR 33,Pressure Point,,0,0.0,0,0,0,0.25
+ZNR 248,Relic Axe,,0,0.0,0,0,0,0.50
+ZNR 74,Roost of Drakes,,0,0.0,0,0,0,0.50
+ZNR 36,Sea Gate Banneret,,0,0.0,0,0,0,0.25
+ZNR 123,Shadow Stinger,,0,0.0,0,0,0,0.50
+ZNR 237,Spoils of Adventure,,0,0.0,0,0,0,0.50
+ZNR 212,Taunting Arbormage,,0,0.0,0,0,0,0.50
+ZNR 131,Vanquish the Weak,,0,0.0,0,0,0,0.25
+ZNR 1,Allied Assault,,0,0.0,0,0,0,0.50
+ZNR 9,Dauntless Unity,,0,0.0,0,0,0,0.25
+ZNR 99,Drana's Silencer,,0,0.0,0,0,0,0.25
+ZNR 138,Expedition Champion,,0,0.0,0,0,0,0.25
+ZNR 13,Expedition Healer,,0,0.0,0,0,0,0.25
+ZNR 227,Lullmage's Familiar,,0,0.0,0,0,0,0.50
+ZNR 69,Merfolk Falconer,,0,0.0,0,0,0,0.50
+ZNR 114,Mind Drain,,0,0.0,0,0,0,0.25
+ZNR 197,Nissa's Zendikon,,0,0.0,0,0,0,0.25
+ZNR 380,Plains,,0,0.0,0,0,0,0.50
+ZNR 35,Resolute Strike,,0,0.0,0,0,0,0.25
+ZNR 163,Skyclave Geopede,,0,0.0,0,0,0,0.50
+ZNR 204,Skyclave Pick-Axe,,0,0.0,0,0,0,0.50
+ZNR 167,Spitfire Lagac,,0,0.0,0,0,0,0.25
+ZNR 171,Thundering Sparkmage,,0,0.0,0,0,0,0.50
+ZNR 2,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 68,Master of Winds,,0,0.0,0,0,0,0.50
+ZNR 233,"Orah, Skyclave Hierophant",,0,0.0,0,0,0,0.50
+ZNR 239,"Verazol, the Split Current",,0,0.0,0,0,0,0.50
+ZNR 6,Attended Healer,,0,0.0,0,0,0,0.50
+ZNR 8,Cliffhaven Sell-Sword,,0,0.0,0,0,0,0.25
+ZNR 18,Kabira Outrider,,0,0.0,0,0,0,0.25
+ZNR 32,Practiced Tactics,,0,0.0,0,0,0,0.25
+ZNR 81,Skyclave Plunder,,0,0.0,0,0,0,0.50
+ZNR 82,Skyclave Squid,,0,0.0,0,0,0,0.25
+ZNR 83,Sure-Footed Infiltrator,,0,0.0,0,0,0,0.50
+ZNR 170,Thundering Rebuke,,0,0.0,0,0,0,0.50
+ZNR 41,Squad Commander,,0,0.0,0,0,0,0.50
+ZNR 209,Tajuru Paragon,,0,0.0,0,0,0,0.50
+ZNR 55,Cunning Geysermage,,0,0.0,0,0,0,0.25
+ZNR 14,Farsight Adept,,0,0.0,0,0,0,0.25
+ZNR 185,Gnarlid Colony,,0,0.0,0,0,0,0.25
+ZNR 191,Kazandu Stomper,,0,0.0,0,0,0,0.25
+ZNR 66,Lullmage's Domination,,0,0.0,0,0,0,0.50
+ZNR 149,Molten Blast,,0,0.0,0,0,0,0.25
+ZNR 160,Shatterskull Minotaur,,0,0.0,0,0,0,0.50
+ZNR 168,Synchronized Spellcraft,,0,0.0,0,0,0,0.25
+ZNR 210,Tajuru Snarecaster,,0,0.0,0,0,0,0.25
+ZNR 169,Teeterpeak Ambusher,,0,0.0,0,0,0,0.25
+ZNR 214,Turntimber Ascetic,,0,0.0,0,0,0,0.25
+ZNR 218,Veteran Adventurer,,0,0.0,0,0,0,0.50
+ZNR 51,Cleric of Chill Depths,,0,0.0,0,0,0,0.25
+ZNR 184,Dauntless Survivor,,0,0.0,0,0,0,0.25
+ZNR 100,Dreadwurm,,0,0.0,0,0,0,0.25
+ZNR 142,Grotag Bug-Catcher,,0,0.0,0,0,0,0.25
+ZNR 188,Joraga Visionary,,0,0.0,0,0,0,0.25
+ZNR 65,Living Tempest,,0,0.0,0,0,0,0.25
+ZNR 28,Mesa Lynx,,0,0.0,0,0,0,0.25
+ZNR 117,Nimana Skydancer,,0,0.0,0,0,0,0.25
+ZNR 152,Pyroclastic Hellion,,0,0.0,0,0,0,0.25
+ZNR 235,Ravager's Mace,,0,0.0,0,0,0,0.50
+ZNR 73,Risen Riptide,,0,0.0,0,0,0,0.25
+ZNR 78,Seafloor Stalker,,0,0.0,0,0,0,0.25
+ZNR 162,Sizzling Barrage,,0,0.0,0,0,0,0.25
+ZNR 43,Tazeem Raptor,,0,0.0,0,0,0,0.25
+ZNR 5,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 8,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 225,"Kaza, Roil Chaser",,0,0.0,0,0,0,0.50
+ZNR 246,Myriad Construct,,0,0.0,0,0,0,0.50
+ZNR 72,Nimble Trapfinder,,0,0.0,0,0,0,0.50
+ZNR 176,Wayward Guide-Beast,,0,0.0,0,0,0,0.50
+ZNR 104,Guul Draz Mucklord,,0,0.0,0,0,0,0.25
+ZNR 113,Mind Carver,,0,0.0,0,0,0,0.50
+ZNR 31,Paired Tactician,,0,0.0,0,0,0,0.50
+ZNR 247,Relic Amulet,,0,0.0,0,0,0,0.50
+ZNR 205,Springmantle Cleric,,0,0.0,0,0,0,0.50
+ZNR 206,Strength of Solidarity,,0,0.0,0,0,0,0.25
+ZNR 3,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 6,DFC Helper Card,,0,0.0,0,0,0,0.50
+ZNR 265,Throne of Makindi,,0,0.0,0,0,0,0.50
+ZNR 101,Expedition Skulker,,0,0.0,0,0,0,0.25
+ZNR 158,Scorch Rider,,0,0.0,0,0,0,0.25
+ZNR 5,Archpriest of Iona,,0,0.0,0,0,0,0.50
+ZNR 181,Broken Wings,,0,0.0,0,0,0,0.25
+ZNR 54,Coralhelm Chronicler,,0,0.0,0,0,0,0.50
+ZNR 116,Nimana Skitter-Sneak,,0,0.0,0,0,0,0.25
+ZNR 42,Smite the Monstrous,,0,0.0,0,0,0,0.25
+ZNR 90F,Agadeem's Awakening,,0,0.0,0,0,0,26.00
+ZNR 111F,Malakir Rebirth,,0,0.0,0,0,0,9.00
+ZNR 76F,Sea Gate Restoration,,0,0.0,0,0,0,44.00
+ZNR 67F,Maddening Cacophony,,0,0.0,0,0,0,7.00
+ZNR 174F,Valakut Awakening,,0,0.0,0,0,0,13.00
+ZNR 264F,Riverglide Pathway,,0,0.0,0,0,0,7.00
+ZNR 60F,Glasspool Mimic,,0,0.0,0,0,0,5.00
+ZNR 179F,"Ashaya, Soul of the Wild",,0,0.0,0,0,0,10.00
+ZNR 178F,Ancient Greenwarden,,0,0.0,0,0,0,11.00
+ZNR 260F,Clearwater Pathway,,0,0.0,0,0,0,5.50
+ZNR 245F,Lithoform Engine,,0,0.0,0,0,0,7.00
+ZNR 259F,Brightclimb Pathway,,0,0.0,0,0,0,5.00
+ZNR 261F,Cragcrown Pathway,,0,0.0,0,0,0,5.00
+ZNR 2F,Angel of Destiny,,0,0.0,0,0,0,9.00
+ZNR 263F,Needleverge Pathway,,0,0.0,0,0,0,5.50
+ZNR 161F,Shatterskull Smashing,,0,0.0,0,0,0,9.50
+ZNR 127F,Soul Shatter,,0,0.0,0,0,0,4.00
+ZNR 37F,Sejiri Shelter,,0,0.0,0,0,0,3.00
+ZNR 146F,Kazuul's Fury,,0,0.0,0,0,0,2.50
+ZNR 150F,"Moraug, Fury of Akoum",,0,0.0,0,0,0,10.00
+ZNR 16F,Felidar Retreat,,0,0.0,0,0,0,2.50
+ZNR 271F,Island,,0,0.0,0,0,0,1.00
+ZNR 258F,Branchloft Pathway,,0,0.0,0,0,0,3.50
+ZNR 180F,Bala Ged Recovery,,0,0.0,0,0,0,8.00
+ZNR 106F,Hagra Mauling,,0,0.0,0,0,0,2.00
+ZNR 12F,Emeria's Call,,0,0.0,0,0,0,3.50
+ZNR 215F,Turntimber Symbiosis,,0,0.0,0,0,0,3.50
+ZNR 193F,Lotus Cobra,,0,0.0,0,0,0,3.00
+ZNR 232F,"Omnath, Locus of Creation",,0,0.0,0,0,0,5.50
+ZNR 270F,Island,,0,0.0,0,0,0,0.50
+ZNR 244F,Forsaken Monument,,0,0.0,0,0,0,5.00
+ZNR 137F,Cleansing Wildfire,,0,0.0,0,0,0,0.50
+ZNR 275F,Mountain,,0,0.0,0,0,0,0.50
+ZNR 98F,"Drana, the Last Bloodchief",,0,0.0,0,0,0,3.00
+ZNR 156F,Roiling Vortex,,0,0.0,0,0,0,3.00
+ZNR 4F,Archon of Emeria,,0,0.0,0,0,0,2.50
+ZNR 166F,Spikefield Hazard,,0,0.0,0,0,0,1.00
+ZNR 175F,Valakut Exploration,,0,0.0,0,0,0,2.00
+ZNR 231F,Nissa of Shadowed Boughs,,0,0.0,0,0,0,3.00
+ZNR 75F,Ruin Crab,,0,0.0,0,0,0,2.50
+ZNR 192F,Khalni Ambush,,0,0.0,0,0,0,1.00
+ZNR 19F,Kabira Takedown,,0,0.0,0,0,0,1.00
+ZNR 203F,Scute Swarm,,0,0.0,0,0,0,4.00
+ZNR 252F,Skyclave Relic,,0,0.0,0,0,0,2.00
+ZNR 64F,Jwari Disruption,,0,0.0,0,0,0,1.50
+ZNR 80F,Silundi Vision,,0,0.0,0,0,0,1.00
+ZNR 30F,Ondu Inversion,,0,0.0,0,0,0,1.50
+ZNR 277F,Mountain,,0,0.0,0,0,0,1.00
+ZNR 3F,Cat Beast Token,,0,0.0,0,0,0,1.00
+ZNR 102F,Feed the Swarm,,0,0.0,0,0,0,0.50
+ZNR 276F,Mountain,,0,0.0,0,0,0,0.50
+ZNR 272F,Swamp,,0,0.0,0,0,0,1.00
+ZNR 267F,Plains,,0,0.0,0,0,0,0.50
+ZNR 279F,Forest,,0,0.0,0,0,0,0.50
+ZNR 211F,Tangled Florahedron,,0,0.0,0,0,0,0.50
+ZNR 240F,"Yasharn, Implacable Earth",,0,0.0,0,0,0,1.00
+ZNR 268F,Plains,,0,0.0,0,0,0,0.50
+ZNR 266F,Plains,,0,0.0,0,0,0,0.50
+ZNR 12F,Copy Token,,0,0.0,0,0,0,1.00
+ZNR 201F,Roiling Regrowth,,0,0.0,0,0,0,1.50
+ZNR 186F,Inscription of Abundance,,0,0.0,0,0,0,0.50
+ZNR 147F,Leyline Tyrant,,0,0.0,0,0,0,2.50
+ZNR 118F,Nullpriest of Oblivion,,0,0.0,0,0,0,1.00
+ZNR 278F,Forest,,0,0.0,0,0,0,1.00
+ZNR 122F,Scourge of the Skyclaves,,0,0.0,0,0,0,1.00
+ZNR 46F,Beyeen Veil,,0,0.0,0,0,0,0.50
+ZNR 151F,Nahiri's Lithoforming,,0,0.0,0,0,0,0.50
+ZNR 8F,Plant Token,,0,0.0,0,0,0,0.50
+ZNR 280F,Forest,,0,0.0,0,0,0,0.50
+ZNR 85F,Thieving Skydiver,,0,0.0,0,0,0,0.50
+ZNR 1F,Angel Warrior Token,,0,0.0,0,0,0,0.50
+ZNR 187F,Iridescent Hornbeetle,,0,0.0,0,0,0,1.00
+ZNR 115F,Nighthawk Scavenger,,0,0.0,0,0,0,0.50
+ZNR 234F,"Phylath, World Sculptor",,0,0.0,0,0,0,0.50
+ZNR 5F,Drake Token,,0,0.0,0,0,0,0.50
+ZNR 53F,Confounding Conundrum,,0,0.0,0,0,0,0.50
+ZNR 230F,"Nahiri, Heir of the Ancients",,0,0.0,0,0,0,1.00
+ZNR 274F,Swamp,,0,0.0,0,0,0,0.50
+ZNR 49F,"Charix, the Raging Isle",,0,0.0,0,0,0,1.00
+ZNR 24F,Luminarch Aspirant,,0,0.0,0,0,0,1.00
+ZNR 189F,Kazandu Mammoth,,0,0.0,0,0,0,0.50
+ZNR 112F,Marauding Blight-Priest,,0,0.0,0,0,0,0.50
+ZNR 241F,"Zagras, Thief of Heartbeats",,0,0.0,0,0,0,0.50
+ZNR 63F,"Jace, Mirror Mage",,0,0.0,0,0,0,1.00
+ZNR 202F,Scale the Heights,,0,0.0,0,0,0,0.50
+ZNR 269F,Island,,0,0.0,0,0,0,0.50
+ZNR 27F,Maul of the Skyclaves,,0,0.0,0,0,0,0.50
+ZNR 6F,Illusion Token,,0,0.0,0,0,0,0.50
+ZNR 208F,Tajuru Blightblade,,0,0.0,0,0,0,0.50
+ZNR 236F,Soaring Thought-Thief,,0,0.0,0,0,0,0.50
+ZNR 134F,Akoum Warrior,,0,0.0,0,0,0,0.50
+ZNR 7F,Insect Token,,0,0.0,0,0,0,0.50
+ZNR 273F,Swamp,,0,0.0,0,0,0,0.50
+ZNR 173F,Tuktuk Rubblefort,,0,0.0,0,0,0,0.50
+ZNR 217F,Vastwood Surge,,0,0.0,0,0,0,0.50
+ZNR 39F,Skyclave Apparition,,0,0.0,0,0,0,1.00
+ZNR 220F,"Akiri, Fearless Voyager",,0,0.0,0,0,0,0.50
+ZNR 225F,"Kaza, Roil Chaser",,0,0.0,0,0,0,0.50
+ZNR 249F,Relic Golem,,0,0.0,0,0,0,0.50
+ZNR 165F,Song-Mad Treachery,,0,0.0,0,0,0,0.50
+ZNR 56F,Deliberate,,0,0.0,0,0,0,0.50
+ZNR 148F,Magmatic Channeler,,0,0.0,0,0,0,0.50
+ZNR 265F,Throne of Makindi,,0,0.0,0,0,0,0.50
+ZNR 9F,Hydra Token,,0,0.0,0,0,0,1.00
+ZNR 45F,Anticognition,,0,0.0,0,0,0,0.50
+ZNR 384F,Forest,,0,0.0,0,0,0,0.50
+ZNR 120F,Pelakka Predation,,0,0.0,0,0,0,0.50
+ZNR 199F,Rabid Bite,,0,0.0,0,0,0,0.50
+ZNR 254F,Spare Supplies,,0,0.0,0,0,0,0.50
+ZNR 129F,"Taborax, Hope's Demise",,0,0.0,0,0,0,0.50
+ZNR 216F,Vastwood Fortification,,0,0.0,0,0,0,0.50
+ZNR 91F,Blackbloom Rogue,,0,0.0,0,0,0,0.50
+ZNR 58F,Field Research,,0,0.0,0,0,0,0.50
+ZNR 145F,Kargan Intimidator,,0,0.0,0,0,0,0.50
+ZNR 21F,Kor Blademaster,,0,0.0,0,0,0,0.50
+ZNR 246F,Myriad Construct,,0,0.0,0,0,0,0.50
+ZNR 71F,Negate,,0,0.0,0,0,0,0.50
+ZNR 119F,Oblivion's Hunger,,0,0.0,0,0,0,0.50
+ZNR 250F,Relic Vial,,0,0.0,0,0,0,0.50
+ZNR 40F,Skyclave Cleric,,0,0.0,0,0,0,0.50
+ZNR 172F,Tormenting Voice,,0,0.0,0,0,0,0.50
+ZNR 94F,Bloodchief's Thirst,,0,0.0,0,0,0,0.50
+ZNR 221F,Brushfire Elemental,,0,0.0,0,0,0,0.50
+ZNR 52F,Concerted Defense,,0,0.0,0,0,0,0.50
+ZNR 183F,Cragplate Baloth,,0,0.0,0,0,0,0.50
+ZNR 10F,Disenchant,,0,0.0,0,0,0,0.50
+ZNR 141F,Goma Fada Vanguard,,0,0.0,0,0,0,0.50
+ZNR 70F,Merfolk Windrobber,,0,0.0,0,0,0,0.50
+ZNR 125F,Skyclave Shade,,0,0.0,0,0,0,0.50
+ZNR 243F,Cliffhaven Kitesail,,0,0.0,0,0,0,0.50
+ZNR 257F,Base Camp,,0,0.0,0,0,0,0.50
+ZNR 7F,Canyon Jerboa,,0,0.0,0,0,0,0.50
+ZNR 136F,Cinderclasm,,0,0.0,0,0,0,0.50
+ZNR 262F,Crawling Barrens,,0,0.0,0,0,0,0.50
+ZNR 97F,Demon's Disciple,,0,0.0,0,0,0,0.50
+ZNR 103F,Ghastly Gloomhunter,,0,0.0,0,0,0,0.50
+ZNR 223F,"Grakmaw, Skyclave Ravager",,0,0.0,0,0,0,0.50
+ZNR 381F,Island,,0,0.0,0,0,0,0.50
+ZNR 20F,Kitesail Cleric,,0,0.0,0,0,0,0.50
+ZNR 23F,Legion Angel,,0,0.0,0,0,0,0.50
+ZNR 226F,"Linvala, Shield of Sea Gate",,0,0.0,0,0,0,0.50
+ZNR 229F,Murasa Rootgrazer,,0,0.0,0,0,0,0.50
+ZNR 198F,Oran-Rief Ooze,,0,0.0,0,0,0,0.50
+ZNR 200F,Reclaim the Wastes,,0,0.0,0,0,0,0.50
+ZNR 126F,Skyclave Shadowcat,,0,0.0,0,0,0,0.50
+ZNR 255F,Stonework Packbeast,,0,0.0,0,0,0,0.50
+ZNR 132F,Zof Consumption,,0,0.0,0,0,0,0.50
+ZNR 44F,"Tazri, Beacon of Unity",,0,0.0,0,0,0,1.00
+ZNR 3F,Angelheart Protector,,0,0.0,0,0,0,0.50
+ZNR 222F,Cleric of Life's Bond,,0,0.0,0,0,0,0.50
+ZNR 50F,Chilling Trap,,0,0.0,0,0,0,0.50
+ZNR 8F,Cliffhaven Sell-Sword,,0,0.0,0,0,0,0.50
+ZNR 96F,Deadly Alliance,,0,0.0,0,0,0,0.50
+ZNR 138F,Expedition Champion,,0,0.0,0,0,0,0.50
+ZNR 139F,Fireblade Charger,,0,0.0,0,0,0,0.50
+ZNR 105F,Hagra Constrictor,,0,0.0,0,0,0,0.50
+ZNR 62F,Into the Roil,,0,0.0,0,0,0,0.50
+ZNR 26F,Makindi Stampede,,0,0.0,0,0,0,0.50
+ZNR 110F,Malakir Blood-Priest,,0,0.0,0,0,0,0.50
+ZNR 117F,Nimana Skydancer,,0,0.0,0,0,0,0.50
+ZNR 197F,Nissa's Zendikon,,0,0.0,0,0,0,0.50
+ZNR 380F,Plains,,0,0.0,0,0,0,0.50
+ZNR 247F,Relic Amulet,,0,0.0,0,0,0,0.50
+ZNR 154F,Rockslide Sorcerer,,0,0.0,0,0,0,0.50
+ZNR 159F,Shatterskull Charger,,0,0.0,0,0,0,0.50
+ZNR 253F,Skyclave Sentinel,,0,0.0,0,0,0,0.50
+ZNR 205F,Springmantle Cleric,,0,0.0,0,0,0,0.50
+ZNR 209F,Tajuru Paragon,,0,0.0,0,0,0,0.50
+ZNR 130F,Thwart the Grave,,0,0.0,0,0,0,0.50
+ZNR 86F,Umara Wizard,,0,0.0,0,0,0,0.50
+ZNR 87F,Windrider Wizard,,0,0.0,0,0,0,0.50
+ZNR 242F,"Zareth San, the Trickster",,0,0.0,0,0,0,0.50
+ZNR 177F,Adventure Awaits,,0,0.0,0,0,0,0.50
+ZNR 1F,Allied Assault,,0,0.0,0,0,0,0.50
+ZNR 47F,Bubble Snare,,0,0.0,0,0,0,0.50
+ZNR 2F,Cat Token,,0,0.0,0,0,0,0.50
+ZNR 10F,Construct Token,,0,0.0,0,0,0,0.50
+ZNR 54F,Coralhelm Chronicler,,0,0.0,0,0,0,0.50
+ZNR 9F,Dauntless Unity,,0,0.0,0,0,0,0.50
+ZNR 13F,Expedition Healer,,0,0.0,0,0,0,0.50
+ZNR 59F,Glacial Grasp,,0,0.0,0,0,0,0.50
+ZNR 185F,Gnarlid Colony,,0,0.0,0,0,0,0.50
+ZNR 144F,Inordinate Rage,,0,0.0,0,0,0,0.50
+ZNR 188F,Joraga Visionary,,0,0.0,0,0,0,0.50
+ZNR 224F,Kargan Warleader,,0,0.0,0,0,0,0.50
+ZNR 22F,Kor Celebrant,,0,0.0,0,0,0,0.50
+ZNR 4F,Kor Warrior Token,,0,0.0,0,0,0,0.50
+ZNR 25F,Makindi Ox,,0,0.0,0,0,0,0.50
+ZNR 68F,Master of Winds,,0,0.0,0,0,0,0.50
+ZNR 28F,Mesa Lynx,,0,0.0,0,0,0,0.50
+ZNR 113F,Mind Carver,,0,0.0,0,0,0,0.50
+ZNR 195F,Murasa Brute,,0,0.0,0,0,0,0.50
+ZNR 29F,Nahiri's Binding,,0,0.0,0,0,0,0.50
+ZNR 72F,Nimble Trapfinder,,0,0.0,0,0,0,0.50
+ZNR 233F,"Orah, Skyclave Hierophant",,0,0.0,0,0,0,0.50
+ZNR 33F,Pressure Point,,0,0.0,0,0,0,0.50
+ZNR 248F,Relic Axe,,0,0.0,0,0,0,0.50
+ZNR 153F,Relic Robber,,0,0.0,0,0,0,0.50
+ZNR 35F,Resolute Strike,,0,0.0,0,0,0,0.50
+ZNR 73F,Risen Riptide,,0,0.0,0,0,0,0.50
+ZNR 157F,Scavenged Blade,,0,0.0,0,0,0,0.50
+ZNR 36F,Sea Gate Banneret,,0,0.0,0,0,0,0.50
+ZNR 251F,Sea Gate Colossus,,0,0.0,0,0,0,0.50
+ZNR 124F,Shadows' Verdict,,0,0.0,0,0,0,0.50
+ZNR 79F,Shell Shield,,0,0.0,0,0,0,0.50
+ZNR 38F,Shepherd of Heroes,,0,0.0,0,0,0,0.50
+ZNR 81F,Skyclave Plunder,,0,0.0,0,0,0,0.50
+ZNR 167F,Spitfire Lagac,,0,0.0,0,0,0,0.50
+ZNR 237F,Spoils of Adventure,,0,0.0,0,0,0,0.50
+ZNR 41F,Squad Commander,,0,0.0,0,0,0,0.50
+ZNR 382F,Swamp,,0,0.0,0,0,0,0.50
+ZNR 207F,Swarm Shambler,,0,0.0,0,0,0,0.50
+ZNR 84F,Tazeem Roilmage,,0,0.0,0,0,0,0.50
+ZNR 170F,Thundering Rebuke,,0,0.0,0,0,0,0.50
+ZNR 214F,Turntimber Ascetic,,0,0.0,0,0,0,0.50
+ZNR 219F,Vine Gecko,,0,0.0,0,0,0,0.50
+ZNR 88F,Zulaport Duelist,,0,0.0,0,0,0,0.50
+ZNR 89F,Acquisitions Expert,,0,0.0,0,0,0,0.50
+ZNR 133F,Akoum Hellhound,,0,0.0,0,0,0,0.50
+ZNR 5F,Archpriest of Iona,,0,0.0,0,0,0,0.50
+ZNR 135F,Ardent Electromancer,,0,0.0,0,0,0,0.50
+ZNR 6F,Attended Healer,,0,0.0,0,0,0,0.50
+ZNR 92F,Blood Beckoning,,0,0.0,0,0,0,0.50
+ZNR 93F,Blood Price,,0,0.0,0,0,0,0.50
+ZNR 181F,Broken Wings,,0,0.0,0,0,0,0.50
+ZNR 182F,Canopy Baloth,,0,0.0,0,0,0,0.50
+ZNR 48F,Cascade Seer,,0,0.0,0,0,0,0.50
+ZNR 51F,Cleric of Chill Depths,,0,0.0,0,0,0,0.50
+ZNR 95F,Coveted Prize,,0,0.0,0,0,0,0.50
+ZNR 55F,Cunning Geysermage,,0,0.0,0,0,0,0.50
+ZNR 184F,Dauntless Survivor,,0,0.0,0,0,0,0.50
+ZNR 99F,Drana's Silencer,,0,0.0,0,0,0,0.50
+ZNR 100F,Dreadwurm,,0,0.0,0,0,0,0.50
+ZNR 11F,Emeria Captain,,0,0.0,0,0,0,0.50
+ZNR 57F,Expedition Diviner,,0,0.0,0,0,0,0.50
+ZNR 101F,Expedition Skulker,,0,0.0,0,0,0,0.50
+ZNR 14F,Farsight Adept,,0,0.0,0,0,0,0.50
+ZNR 15F,Fearless Fledgling,,0,0.0,0,0,0,0.50
+ZNR 140F,Fissure Wizard,,0,0.0,0,0,0,0.50
+ZNR 11F,Goblin Construct Token,,0,0.0,0,0,0,0.50
+ZNR 142F,Grotag Bug-Catcher,,0,0.0,0,0,0,0.50
+ZNR 143F,Grotag Night-Runner,,0,0.0,0,0,0,0.50
+ZNR 104F,Guul Draz Mucklord,,0,0.0,0,0,0,0.50
+ZNR 107F,Highborn Vampire,,0,0.0,0,0,0,0.50
+ZNR 61F,Inscription of Insight,,0,0.0,0,0,0,0.50
+ZNR 108F,Inscription of Ruin,,0,0.0,0,0,0,0.50
+ZNR 17F,Journey to Oblivion,,0,0.0,0,0,0,0.50
+ZNR 18F,Kabira Outrider,,0,0.0,0,0,0,0.50
+ZNR 190F,Kazandu Nectarpot,,0,0.0,0,0,0,0.50
+ZNR 191F,Kazandu Stomper,,0,0.0,0,0,0,0.50
+ZNR 109F,Lithoform Blight,,0,0.0,0,0,0,0.50
+ZNR 65F,Living Tempest,,0,0.0,0,0,0,0.50
+ZNR 66F,Lullmage's Domination,,0,0.0,0,0,0,0.50
+ZNR 227F,Lullmage's Familiar,,0,0.0,0,0,0,0.50
+ZNR 69F,Merfolk Falconer,,0,0.0,0,0,0,0.50
+ZNR 194F,Might of Murasa,,0,0.0,0,0,0,0.50
+ZNR 114F,Mind Drain,,0,0.0,0,0,0,0.50
+ZNR 149F,Molten Blast,,0,0.0,0,0,0,0.50
+ZNR 228F,Moss-Pit Skeleton,,0,0.0,0,0,0,0.50
+ZNR 383F,Mountain,,0,0.0,0,0,0,0.50
+ZNR 196F,Murasa Sproutling,,0,0.0,0,0,0,0.50
+ZNR 116F,Nimana Skitter-Sneak,,0,0.0,0,0,0,0.50
+ZNR 31F,Paired Tactician,,0,0.0,0,0,0,0.50
+ZNR 32F,Practiced Tactics,,0,0.0,0,0,0,0.50
+ZNR 34F,Prowling Felidar,,0,0.0,0,0,0,0.50
+ZNR 152F,Pyroclastic Hellion,,0,0.0,0,0,0,0.50
+ZNR 235F,Ravager's Mace,,0,0.0,0,0,0,0.50
+ZNR 155F,Roil Eruption,,0,0.0,0,0,0,0.50
+ZNR 74F,Roost of Drakes,,0,0.0,0,0,0,0.50
+ZNR 121F,Scion of the Swarm,,0,0.0,0,0,0,0.50
+ZNR 158F,Scorch Rider,,0,0.0,0,0,0,0.50
+ZNR 77F,Sea Gate Stormcaller,,0,0.0,0,0,0,1.00
+ZNR 78F,Seafloor Stalker,,0,0.0,0,0,0,0.50
+ZNR 123F,Shadow Stinger,,0,0.0,0,0,0,0.50
+ZNR 160F,Shatterskull Minotaur,,0,0.0,0,0,0,0.50
+ZNR 162F,Sizzling Barrage,,0,0.0,0,0,0,0.50
+ZNR 163F,Skyclave Geopede,,0,0.0,0,0,0,0.50
+ZNR 204F,Skyclave Pick-Axe,,0,0.0,0,0,0,0.50
+ZNR 82F,Skyclave Squid,,0,0.0,0,0,0,0.50
+ZNR 42F,Smite the Monstrous,,0,0.0,0,0,0,0.50
+ZNR 164F,Sneaking Guide,,0,0.0,0,0,0,0.50
+ZNR 206F,Strength of Solidarity,,0,0.0,0,0,0,0.50
+ZNR 128F,Subtle Strike,,0,0.0,0,0,0,0.50
+ZNR 83F,Sure-Footed Infiltrator,,0,0.0,0,0,0,0.50
+ZNR 168F,Synchronized Spellcraft,,0,0.0,0,0,0,0.50
+ZNR 210F,Tajuru Snarecaster,,0,0.0,0,0,0,0.50
+ZNR 212F,Taunting Arbormage,,0,0.0,0,0,0,0.50
+ZNR 43F,Tazeem Raptor,,0,0.0,0,0,0,0.50
+ZNR 169F,Teeterpeak Ambusher,,0,0.0,0,0,0,0.50
+ZNR 213F,Territorial Scythecat,,0,0.0,0,0,0,0.50
+ZNR 171F,Thundering Sparkmage,,0,0.0,0,0,0,0.50
+ZNR 238F,Umara Mystic,,0,0.0,0,0,0,0.50
+ZNR 256F,Utility Knife,,0,0.0,0,0,0,0.50
+ZNR 131F,Vanquish the Weak,,0,0.0,0,0,0,0.50
+ZNR 239F,"Verazol, the Split Current",,0,0.0,0,0,0,0.50
+ZNR 218F,Veteran Adventurer,,0,0.0,0,0,0,0.50
+ZNR 176F,Wayward Guide-Beast,,0,0.0,0,0,0,0.50

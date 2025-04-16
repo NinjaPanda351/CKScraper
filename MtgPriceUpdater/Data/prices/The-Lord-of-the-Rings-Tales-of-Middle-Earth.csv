@@ -1,0 +1,652 @@
+LTR 103,Orcish Bowmasters,,0,0.0,0,0,0,41.00
+LTR 246,The One Ring,,0,0.0,0,0,0,64.00
+LTR 245,Mithril Coat,,0,0.0,0,0,0,21.00
+LTR 172,Last March of the Ents,,0,0.0,0,0,0,24.00
+LTR 158,Delighted Halfling,,0,0.0,0,0,0,18.00
+LTR 60,Lorien Revealed,,0,0.0,0,0,0,3.00
+LTR 247,Palantir of Orthanc,,0,0.0,0,0,0,20.00
+LTR 15,Flowering of the White Tree,,0,0.0,0,0,0,6.00
+LTR 213,"Lotho, Corrupt Shirriff",,0,0.0,0,0,0,7.00
+LTR 163,Entish Restoration,,0,0.0,0,0,0,3.00
+LTR 334,Nazgul,,0,0.0,0,0,0,15.00
+LTR 256,Minas Tirith,,0,0.0,0,0,0,5.50
+LTR 224,"Sauron, the Dark Lord",,0,0.0,0,0,0,14.00
+LTR 151,There and Back Again,,0,0.0,0,0,0,4.50
+LTR 79,Call of the Ring,,0,0.0,0,0,0,3.50
+LTR 338,Nazgul,,0,0.0,0,0,0,16.00
+LTR 333,Nazgul,,0,0.0,0,0,0,16.00
+LTR 335,Nazgul,,0,0.0,0,0,0,15.00
+LTR 339,Nazgul,,0,0.0,0,0,0,15.00
+LTR 100,Nazgul,,0,0.0,0,0,0,15.00
+LTR 336,Nazgul,,0,0.0,0,0,0,15.00
+LTR 4,"Boromir, Warden of the Tower",,0,0.0,0,0,0,4.00
+LTR 203,Flame of Anor,,0,0.0,0,0,0,5.00
+LTR 332,Nazgul,,0,0.0,0,0,0,16.00
+LTR 286,Elanor Gardner,,0,0.0,0,0,0,5.00
+LTR 160,Elven Chorus,,0,0.0,0,0,0,4.50
+LTR 265,Island,,0,0.0,0,0,0,0.50
+LTR 337,Nazgul,,0,0.0,0,0,0,14.00
+LTR 240,Horn of Gondor,,0,0.0,0,0,0,3.00
+LTR 222,Samwise Gamgee,,0,0.0,0,0,0,3.00
+LTR 114,Witch-king of Angmar,,0,0.0,0,0,0,7.00
+LTR 26,Reprieve,,0,0.0,0,0,0,1.50
+LTR 192,"Aragorn, the Uniter",,0,0.0,0,0,0,6.00
+LTR 95,Mirkwood Bats,,0,0.0,0,0,0,1.00
+LTR 258,Mount Doom,,0,0.0,0,0,0,7.00
+LTR 19,Gandalf the White,,0,0.0,0,0,0,6.50
+LTR 270,Forest,,0,0.0,0,0,0,0.50
+LTR 111,Troll of Khazad-dum,,0,0.0,0,0,0,1.00
+LTR 271,Forest,,0,0.0,0,0,0,0.50
+LTR 149,Spiteful Banditry,,0,0.0,0,0,0,5.00
+LTR 169,Generous Ent,,0,0.0,0,0,0,0.50
+LTR 44,Borne Upon a Wind,,0,0.0,0,0,0,2.50
+LTR 2,The Battle of Bywater,,0,0.0,0,0,0,2.50
+LTR 298,Bilbo's Ring,,0,0.0,0,0,0,9.50
+LTR 293,"Witch-king, Bringer of Ruin",,0,0.0,0,0,0,7.50
+LTR 102,One Ring to Rule Them All,,0,0.0,0,0,0,2.00
+LTR 72,Storm of Saruman,,0,0.0,0,0,0,4.50
+LTR 17,Forge Anew,,0,0.0,0,0,0,2.50
+LTR 259,Rivendell,,0,0.0,0,0,0,2.00
+LTR 236,"Anduril, Flame of the West",,0,0.0,0,0,0,4.50
+LTR 118,Cast into the Fire,,0,0.0,0,0,0,1.00
+LTR 193,"Arwen, Mortal Queen",,0,0.0,0,0,0,3.00
+LTR 268,Mountain,,0,0.0,0,0,0,0.50
+LTR 277,Swamp,,0,0.0,0,0,0,1.00
+LTR 243,Lembas,,0,0.0,0,0,0,1.00
+LTR 250,"Sting, the Glinting Dagger",,0,0.0,0,0,0,2.50
+LTR 5,Dawn of a New Age,,0,0.0,0,0,0,3.00
+LTR 260,The Shire,,0,0.0,0,0,0,2.50
+LTR 145,Rising of the Day,,0,0.0,0,0,0,1.00
+LTR 296,"Galadriel, Gift-Giver",,0,0.0,0,0,0,3.50
+LTR 262,Plains,,0,0.0,0,0,0,0.50
+LTR 36,War of the Last Alliance,,0,0.0,0,0,0,1.50
+LTR 266,Swamp,,0,0.0,0,0,0,0.50
+LTR 257,Mines of Moria,,0,0.0,0,0,0,1.50
+LTR 280,Forest,,0,0.0,0,0,0,1.00
+LTR 263,Plains,,0,0.0,0,0,0,0.50
+LTR 75,The Watcher in the Water,,0,0.0,0,0,0,3.00
+LTR 221,Rise of the Witch-king,,0,0.0,0,0,0,1.00
+LTR 267,Swamp,,0,0.0,0,0,0,0.50
+LTR 126,Fiery Inscription,,0,0.0,0,0,0,0.50
+LTR 239,Glamdring,,0,0.0,0,0,0,2.00
+LTR 122,Erebor Flamesmith,,0,0.0,0,0,0,0.50
+LTR 269,Mountain,,0,0.0,0,0,0,0.50
+LTR 281,Forest,,0,0.0,0,0,0,1.00
+LTR 273,Plains,,0,0.0,0,0,0,0.50
+LTR 274,Island,,0,0.0,0,0,0,1.00
+LTR 201,"Eowyn, Fearless Knight",,0,0.0,0,0,0,1.00
+LTR 278,Mountain,,0,0.0,0,0,0,0.50
+LTR 132,"Gloin, Dwarf Emissary",,0,0.0,0,0,0,1.00
+LTR 2,Human Soldier Token,,0,0.0,0,0,0,0.50
+LTR 225,Sauron's Ransom,,0,0.0,0,0,0,1.00
+LTR 253,Barad-dur,,0,0.0,0,0,0,1.00
+LTR 284,Ringwraiths,,0,0.0,0,0,0,0.50
+LTR 827,Riders of the Mark,,0,0.0,0,0,0,1.00
+LTR 283,Elvish Mariner,,0,0.0,0,0,0,1.00
+LTR 138,Moria Marauder,,0,0.0,0,0,0,1.00
+LTR 69,Scroll of Isildur,,0,0.0,0,0,0,1.00
+LTR 279,Mountain,,0,0.0,0,0,0,0.50
+LTR 275,Island,,0,0.0,0,0,0,0.50
+LTR 71,Stern Scolding,,0,0.0,0,0,0,0.50
+LTR 276,Swamp,,0,0.0,0,0,0,1.00
+LTR 230,"Shelob, Child of Ungoliant",,0,0.0,0,0,0,1.00
+LTR 181,Peregrin Took,,0,0.0,0,0,0,0.50
+LTR 272,Plains,,0,0.0,0,0,0,0.50
+LTR 184,Radagast the Brown,,0,0.0,0,0,0,1.50
+LTR 52,"Goldberry, River-Daughter",,0,0.0,0,0,0,1.00
+LTR 248,Phial of Galadriel,,0,0.0,0,0,0,1.00
+LTR 7,Smaug Token,,0,0.0,0,0,0,1.00
+LTR 826,Warg Rider,,0,0.0,0,0,0,4.00
+LTR 254,Great Hall of the Citadel,,0,0.0,0,0,0,0.50
+LTR 234,Tom Bombadil,,0,0.0,0,0,0,2.00
+LTR 107,Shadow of the Enemy,,0,0.0,0,0,0,1.50
+LTR 7,Eagles of the North,,0,0.0,0,0,0,0.25
+LTR 13,The Ring Emblem,,0,0.0,0,0,0,0.50
+LTR 218,"Pippin, Guard of the Citadel",,0,0.0,0,0,0,1.00
+LTR 120,"Eomer, Marshal of Rohan",,0,0.0,0,0,0,0.50
+LTR 290,"Gandalf, White Rider",,0,0.0,0,0,0,1.00
+LTR 27,Rosie Cotton of South Lane,,0,0.0,0,0,0,0.50
+LTR 220,Ringsight,,0,0.0,0,0,0,0.50
+LTR 165,Fall of Gil-galad,,0,0.0,0,0,0,0.50
+LTR 4,Tentacle Token,,0,0.0,0,0,0,0.50
+LTR 261,Shire Terrace,,0,0.0,0,0,0,0.25
+LTR 56,Ioreth of the Healing House,,0,0.0,0,0,0,0.50
+LTR 12,Treasure Token,,0,0.0,0,0,0,0.50
+LTR 828,Mirkwood Channeler,,0,0.0,0,0,0,1.00
+LTR 178,Mirkwood Spider,,0,0.0,0,0,0,0.25
+LTR 161,Elven Farsight,,0,0.0,0,0,0,0.25
+LTR 215,"Merry, Esquire of Rohan",,0,0.0,0,0,0,0.50
+LTR 6,Orc Army Token,,0,0.0,0,0,0,0.50
+LTR 185,Revive the Shire,,0,0.0,0,0,0,0.25
+LTR 142,Rally at the Hornburg,,0,0.0,0,0,0,0.25
+LTR 242,Inherited Envelope,,0,0.0,0,0,0,0.25
+LTR 251,Stone of Erech,,0,0.0,0,0,0,0.50
+LTR 241,Horn of the Mark,,0,0.0,0,0,0,0.50
+LTR 43,Birthday Escape,,0,0.0,0,0,0,0.25
+LTR 81,Claim the Precious,,0,0.0,0,0,0,0.25
+LTR 11,Food Token,,0,0.0,0,0,0,0.50
+LTR 186,The Ring Goes South,,0,0.0,0,0,0,0.50
+LTR 40,The Bath Song,,0,0.0,0,0,0,0.50
+LTR 198,"Denethor, Ruling Steward",,0,0.0,0,0,0,0.50
+LTR 231,"Smeagol, Helpful Guide",,0,0.0,0,0,0,0.50
+LTR 244,Mirror of Galadriel,,0,0.0,0,0,0,0.50
+LTR 195,"The Balrog, Durin's Bane",,0,0.0,0,0,0,0.50
+LTR 199,Doors of Durin,,0,0.0,0,0,0,0.50
+LTR 176,Many Partings,,0,0.0,0,0,0,0.25
+LTR 292,"Gollum, Scheming Guide",,0,0.0,0,0,0,0.50
+LTR 31,Slip On the Ring,,0,0.0,0,0,0,0.25
+LTR 105,Sam's Desperate Rescue,,0,0.0,0,0,0,0.25
+LTR 285,Assault on Osgiliath,,0,0.0,0,0,0,0.50
+LTR 202,"Faramir, Prince of Ithilien",,0,0.0,0,0,0,0.50
+LTR 5,Orc Army Token,,0,0.0,0,0,0,0.50
+LTR 68,Saruman's Trickery,,0,0.0,0,0,0,0.50
+LTR 9,Food Token,,0,0.0,0,0,0,0.50
+LTR 824,Eagle of Deliverance,,0,0.0,0,0,0,0.50
+LTR 154,Bombadil's Song,,0,0.0,0,0,0,0.25
+LTR 124,Fall of Cair Andros,,0,0.0,0,0,0,0.50
+LTR 65,Press the Enemy,,0,0.0,0,0,0,0.50
+LTR 282,"Saradoc, Master of Buckland",,0,0.0,0,0,0,0.50
+LTR 104,Orcish Medicine,,0,0.0,0,0,0,0.25
+LTR 37,Westfold Rider,,0,0.0,0,0,0,0.25
+LTR 223,Saruman of Many Colors,,0,0.0,0,0,0,1.00
+LTR 94,March from the Black Gate,,0,0.0,0,0,0,0.50
+LTR 3,Bill the Pony,,0,0.0,0,0,0,0.50
+LTR 214,"Mauhur, Uruk-hai Captain",,0,0.0,0,0,0,0.50
+LTR 139,Oliphaunt,,0,0.0,0,0,0,0.25
+LTR 255,The Grey Havens,,0,0.0,0,0,0,0.50
+LTR 106,"Sauron, the Necromancer",,0,0.0,0,0,0,0.50
+LTR 200,"Elrond, Master of Healing",,0,0.0,0,0,0,0.50
+LTR 99,Nasty End,,0,0.0,0,0,0,0.25
+LTR 10,Food Token,,0,0.0,0,0,0,0.50
+LTR 62,"Meneldor, Swift Savior",,0,0.0,0,0,0,0.50
+LTR 108,Shelob's Ambush,,0,0.0,0,0,0,0.25
+LTR 119,Display of Power,,0,0.0,0,0,0,0.50
+LTR 189,Stew the Coneys,,0,0.0,0,0,0,0.50
+LTR 51,Glorious Gale,,0,0.0,0,0,0,0.25
+LTR 264,Island,,0,0.0,0,0,0,0.50
+LTR 289,"Frodo, Determined Hero",,0,0.0,0,0,0,0.50
+LTR 164,Ent's Fury,,0,0.0,0,0,0,0.25
+LTR 194,Arwen Undomiel,,0,0.0,0,0,0,0.50
+LTR 20,Hobbit's Sting,,0,0.0,0,0,0,0.25
+LTR 34,Tale of Tinuviel,,0,0.0,0,0,0,0.50
+LTR 188,Shower of Arrows,,0,0.0,0,0,0,0.25
+LTR 166,"Fangorn, Tree Shepherd",,0,0.0,0,0,0,0.50
+LTR 54,Hithlain Knots,,0,0.0,0,0,0,0.25
+LTR 67,Saruman the White,,0,0.0,0,0,0,0.50
+LTR 70,Soothing of Smeagol,,0,0.0,0,0,0,0.25
+LTR 74,Treason of Isengard,,0,0.0,0,0,0,0.25
+LTR 207,Gandalf the Grey,,0,0.0,0,0,0,0.50
+LTR 93,Lobelia Sackville-Baggins,,0,0.0,0,0,0,0.50
+LTR 219,Prince Imrahil the Fair,,0,0.0,0,0,0,0.50
+LTR 294,Fires of Mount Doom,,0,0.0,0,0,0,0.50
+LTR 125,"Fear, Fire, Foes!",,0,0.0,0,0,0,0.50
+LTR 208,Gandalf's Sanction,,0,0.0,0,0,0,0.50
+LTR 134,"Grishnakh, Brash Instigator",,0,0.0,0,0,0,0.50
+LTR 39,Arwen's Gift,,0,0.0,0,0,0,0.25
+LTR 196,"Bilbo, Retired Burglar",,0,0.0,0,0,0,0.50
+LTR 210,Gwaihir the Windlord,,0,0.0,0,0,0,0.50
+LTR 237,Barrow-Blade,,0,0.0,0,0,0,0.50
+LTR 10,"Eowyn, Lady of Rohan",,0,0.0,0,0,0,0.50
+LTR 113,Voracious Fell Beast,,0,0.0,0,0,0,0.50
+LTR 173,"Legolas, Master Archer",,0,0.0,0,0,0,0.50
+LTR 116,Book of Mazarbul,,0,0.0,0,0,0,0.50
+LTR 130,Gimli's Axe,,0,0.0,0,0,0,0.25
+LTR 96,Mordor Muster,,0,0.0,0,0,0,0.25
+LTR 46,Council's Deliberation,,0,0.0,0,0,0,0.50
+LTR 90,Haunt of the Dead Marshes,,0,0.0,0,0,0,0.25
+LTR 1,Human Soldier Token,,0,0.0,0,0,0,0.50
+LTR 177,Meriadoc Brandybuck,,0,0.0,0,0,0,0.50
+LTR 24,"Now for Wrath, Now for Ruin!",,0,0.0,0,0,0,0.25
+LTR 216,The Mouth of Sauron,,0,0.0,0,0,0,0.50
+LTR 148,Smite the Deathless,,0,0.0,0,0,0,0.25
+LTR 78,The Black Breath,,0,0.0,0,0,0,0.25
+LTR 86,Gorbag of Minas Morgul,,0,0.0,0,0,0,0.50
+LTR 233,"Theoden, King of Rohan",,0,0.0,0,0,0,0.50
+LTR 112,Uruk-hai Berserker,,0,0.0,0,0,0,0.25
+LTR 190,Wose Pathfinder,,0,0.0,0,0,0,0.25
+LTR 150,Swarming of Moria,,0,0.0,0,0,0,0.25
+LTR 61,Lost Isle Calling,,0,0.0,0,0,0,0.50
+LTR 162,Enraged Huorn,,0,0.0,0,0,0,0.25
+LTR 191,"Aragorn, Company Leader",,0,0.0,0,0,0,0.50
+LTR 12,Escape from Orthanc,,0,0.0,0,0,0,0.25
+LTR 85,Gollum's Bite,,0,0.0,0,0,0,0.50
+LTR 101,Oath of the Grey Host,,0,0.0,0,0,0,0.50
+LTR 217,Old Man Willow,,0,0.0,0,0,0,0.50
+LTR 187,Shortcut to Mushrooms,,0,0.0,0,0,0,0.50
+LTR 175,Lothlorien Lookout,,0,0.0,0,0,0,0.25
+LTR 18,"Frodo, Sauron's Bane",,0,0.0,0,0,0,0.50
+LTR 206,Galadriel of Lothlorien,,0,0.0,0,0,0,0.50
+LTR 8,Eastfarthing Farmer,,0,0.0,0,0,0,0.25
+LTR 252,Wizard's Rockets,,0,0.0,0,0,0,0.25
+LTR 825,Minas Tirith Garrison,,0,0.0,0,0,0,0.50
+LTR 155,Brandywine Farmer,,0,0.0,0,0,0,0.25
+LTR 157,Chance-Met Elves,,0,0.0,0,0,0,0.25
+LTR 128,Foray of Orcs,,0,0.0,0,0,0,0.50
+LTR 3,Spirit Token,,0,0.0,0,0,0,0.50
+LTR 91,Isildur's Fateful Strike,,0,0.0,0,0,0,0.50
+LTR 156,Celeborn the Wise,,0,0.0,0,0,0,0.50
+LTR 167,Galadhrim Bow,,0,0.0,0,0,0,0.25
+LTR 180,Mushroom Watchdogs,,0,0.0,0,0,0,0.25
+LTR 141,Quarrel's End,,0,0.0,0,0,0,0.25
+LTR 88,Grima Wormtongue,,0,0.0,0,0,0,0.50
+LTR 73,Surrounded by Orcs,,0,0.0,0,0,0,0.25
+LTR 80,Cirith Ungol Patrol,,0,0.0,0,0,0,0.25
+LTR 123,"Erkenbrand, Lord of Westfold",,0,0.0,0,0,0,0.50
+LTR 168,Galadhrim Guide,,0,0.0,0,0,0,0.25
+LTR 22,Lost to Legend,,0,0.0,0,0,0,0.50
+LTR 179,Mirrormere Guardian,,0,0.0,0,0,0,0.25
+LTR 137,Improvised Club,,0,0.0,0,0,0,0.25
+LTR 183,"Quickbeam, Upstart Ent",,0,0.0,0,0,0,0.50
+LTR 29,Second Breakfast,,0,0.0,0,0,0,0.25
+LTR 11,Errand-Rider of Gondor,,0,0.0,0,0,0,0.25
+LTR 235,Ugluk of the White Hand,,0,0.0,0,0,0,0.50
+LTR 226,Shadow Summoning,,0,0.0,0,0,0,0.50
+LTR 227,"Shadowfax, Lord of Horses",,0,0.0,0,0,0,0.50
+LTR 291,Knight of the Keep,,0,0.0,0,0,0,0.25
+LTR 97,Mordor Trebuchet,,0,0.0,0,0,0,0.25
+LTR 47,Deceive the Messenger,,0,0.0,0,0,0,0.25
+LTR 159,Dunedain Rangers,,0,0.0,0,0,0,0.50
+LTR 209,"Gimli, Mournful Avenger",,0,0.0,0,0,0,0.50
+LTR 77,Bitter Downfall,,0,0.0,0,0,0,0.50
+LTR 121,Eomer of the Riddermark,,0,0.0,0,0,0,0.50
+LTR 127,Fire of Orthanc,,0,0.0,0,0,0,0.25
+LTR 84,"Gollum, Patient Plotter",,0,0.0,0,0,0,0.50
+LTR 23,Nimble Hobbit,,0,0.0,0,0,0,0.25
+LTR 35,Took Reaper,,0,0.0,0,0,0,0.25
+LTR 48,Dreadful as the Storm,,0,0.0,0,0,0,0.25
+LTR 13,Esquire of the King,,0,0.0,0,0,0,0.25
+LTR 16,Fog on the Barrow-Downs,,0,0.0,0,0,0,0.25
+LTR 204,Friendly Rivalry,,0,0.0,0,0,0,0.50
+LTR 53,Grey Havens Navigator,,0,0.0,0,0,0,0.25
+LTR 174,Long List of the Ents,,0,0.0,0,0,0,0.50
+LTR 63,Nimrodel Watcher,,0,0.0,0,0,0,0.25
+LTR 249,Shire Scarecrow,,0,0.0,0,0,0,0.25
+LTR 117,Breaking of the Fellowship,,0,0.0,0,0,0,0.25
+LTR 153,Bag End Porter,,0,0.0,0,0,0,0.25
+LTR 1,Banish from Edoras,,0,0.0,0,0,0,0.25
+LTR 83,Easterling Vanguard,,0,0.0,0,0,0,0.25
+LTR 171,"Glorfindel, Dauntless Rescuer",,0,0.0,0,0,0,0.50
+LTR 98,Morgul-Knife Wound,,0,0.0,0,0,0,0.25
+LTR 64,Pelargir Survivor,,0,0.0,0,0,0,0.25
+LTR 143,Ranger's Firebrand,,0,0.0,0,0,0,0.50
+LTR 38,You Cannot Pass!,,0,0.0,0,0,0,0.50
+LTR 136,Hew the Entwood,,0,0.0,0,0,0,1.00
+LTR 228,"Shagrat, Loot Bearer",,0,0.0,0,0,0,0.50
+LTR 87,"Gothmog, Morgul Lieutenant",,0,0.0,0,0,0,0.50
+LTR 25,Protector of Gondor,,0,0.0,0,0,0,0.25
+LTR 33,Stalwarts of Osgiliath,,0,0.0,0,0,0,0.25
+LTR 66,Rangers of Ithilien,,0,0.0,0,0,0,0.50
+LTR 297,"The Balrog, Flame of Udun",,0,0.0,0,0,0,0.50
+LTR 9,East-Mark Cavalier,,0,0.0,0,0,0,0.25
+LTR 50,"Gandalf, Friend of the Shire",,0,0.0,0,0,0,0.50
+LTR 110,The Torment of Gollum,,0,0.0,0,0,0,0.25
+LTR 152,Warbeast of Gorgoroth,,0,0.0,0,0,0,0.25
+LTR 211,King of the Oathbreakers,,0,0.0,0,0,0,0.50
+LTR 45,Captain of Umbar,,0,0.0,0,0,0,0.25
+LTR 295,Goblin Assailant,,0,0.0,0,0,0,0.25
+LTR 32,Soldier of the Grey Host,,0,0.0,0,0,0,0.25
+LTR 49,"Elrond, Lord of Rivendell",,0,0.0,0,0,0,0.50
+LTR 55,Horses of the Bruinen,,0,0.0,0,0,0,0.50
+LTR 28,Samwise the Stouthearted,,0,0.0,0,0,0,0.50
+LTR 115,Battle-Scarred Goblin,,0,0.0,0,0,0,0.25
+LTR 197,"Butterbur, Bree Innkeeper",,0,0.0,0,0,0,0.50
+LTR 58,Ithilien Kingfisher,,0,0.0,0,0,0,0.25
+LTR 232,"Strider, Ranger of the North",,0,0.0,0,0,0,0.50
+LTR 6,Dunedain Blade,,0,0.0,0,0,0,0.25
+LTR 133,Goblin Fireleaper,,0,0.0,0,0,0,0.50
+LTR 212,"Legolas, Counter of Kills",,0,0.0,0,0,0,0.50
+LTR 30,Shire Shirriff,,0,0.0,0,0,0,0.50
+LTR 238,Ent-Draught Basin,,0,0.0,0,0,0,0.50
+LTR 14,"Faramir, Field Commander",,0,0.0,0,0,0,0.50
+LTR 131,Gimli's Fury,,0,0.0,0,0,0,0.25
+LTR 147,Rush the Room,,0,0.0,0,0,0,0.25
+LTR 76,Willow-Wind,,0,0.0,0,0,0,0.25
+LTR 146,Rohirrim Lancer,,0,0.0,0,0,0,0.25
+LTR 229,"Sharkey, Tyrant of the Shire",,0,0.0,0,0,0,0.50
+LTR 129,"Gimli, Counter of Kills",,0,0.0,0,0,0,0.50
+LTR 89,"Grond, the Gatebreaker",,0,0.0,0,0,0,0.50
+LTR 21,"Landroval, Horizon Witness",,0,0.0,0,0,0,0.50
+LTR 8,Ballistic Boulder Token,,0,0.0,0,0,0,0.50
+LTR 170,Gift of Strands,,0,0.0,0,0,0,0.50
+LTR 135,Haradrim Spearmaster,,0,0.0,0,0,0,0.25
+LTR 92,Lash of the Balrog,,0,0.0,0,0,0,0.25
+LTR 41,Bewitching Leechcraft,,0,0.0,0,0,0,0.25
+LTR 109,Snarling Warg,,0,0.0,0,0,0,0.25
+LTR 82,Dunland Crebain,,0,0.0,0,0,0,0.25
+LTR 57,Isolation at Orthanc,,0,0.0,0,0,0,0.50
+LTR 144,Relentless Rohirrim,,0,0.0,0,0,0,0.25
+LTR 42,"Bill Ferny, Bree Swindler",,0,0.0,0,0,0,0.50
+LTR 59,Knights of Dol Amroth,,0,0.0,0,0,0,0.25
+LTR 140,Olog-hai Crusher,,0,0.0,0,0,0,0.25
+LTR 205,Frodo Baggins,,0,0.0,0,0,0,0.50
+LTR 182,Pippin's Bravery,,0,0.0,0,0,0,0.25
+LTR 246F,The One Ring,,0,0.0,0,0,0,80.00
+LTR 103F,Orcish Bowmasters,,0,0.0,0,0,0,44.00
+LTR 245F,Mithril Coat,,0,0.0,0,0,0,22.00
+LTR 172F,Last March of the Ents,,0,0.0,0,0,0,22.00
+LTR 158F,Delighted Halfling,,0,0.0,0,0,0,18.00
+LTR 247F,Palantir of Orthanc,,0,0.0,0,0,0,24.00
+LTR 224F,"Sauron, the Dark Lord",,0,0.0,0,0,0,26.00
+LTR 60F,Lorien Revealed,,0,0.0,0,0,0,5.00
+LTR 213F,"Lotho, Corrupt Shirriff",,0,0.0,0,0,0,7.00
+LTR 287F,"Aragorn and Arwen, Wed",,0,0.0,0,0,0,5.50
+LTR 151F,There and Back Again,,0,0.0,0,0,0,5.00
+LTR 15F,Flowering of the White Tree,,0,0.0,0,0,0,6.50
+LTR 333F,Nazgul,,0,0.0,0,0,0,18.00
+LTR 336F,Nazgul,,0,0.0,0,0,0,18.00
+LTR 203F,Flame of Anor,,0,0.0,0,0,0,5.50
+LTR 332F,Nazgul,,0,0.0,0,0,0,16.00
+LTR 338F,Nazgul,,0,0.0,0,0,0,20.00
+LTR 163F,Entish Restoration,,0,0.0,0,0,0,3.50
+LTR 339F,Nazgul,,0,0.0,0,0,0,18.00
+LTR 4F,"Boromir, Warden of the Tower",,0,0.0,0,0,0,5.00
+LTR 160F,Elven Chorus,,0,0.0,0,0,0,5.00
+LTR 334F,Nazgul,,0,0.0,0,0,0,20.00
+LTR 337F,Nazgul,,0,0.0,0,0,0,20.00
+LTR 111F,Troll of Khazad-dum,,0,0.0,0,0,0,2.50
+LTR 79F,Call of the Ring,,0,0.0,0,0,0,5.00
+LTR 100F,Nazgul,,0,0.0,0,0,0,16.00
+LTR 114F,Witch-king of Angmar,,0,0.0,0,0,0,8.00
+LTR 149F,Spiteful Banditry,,0,0.0,0,0,0,6.50
+LTR 288F,"Sauron, the Lidless Eye",,0,0.0,0,0,0,3.00
+LTR 192F,"Aragorn, the Uniter",,0,0.0,0,0,0,7.00
+LTR 26F,Reprieve,,0,0.0,0,0,0,2.00
+LTR 335F,Nazgul,,0,0.0,0,0,0,20.00
+LTR 2F,The Battle of Bywater,,0,0.0,0,0,0,3.00
+LTR 258F,Mount Doom,,0,0.0,0,0,0,8.00
+LTR 102F,One Ring to Rule Them All,,0,0.0,0,0,0,3.00
+LTR 95F,Mirkwood Bats,,0,0.0,0,0,0,1.50
+LTR 44F,Borne Upon a Wind,,0,0.0,0,0,0,3.00
+LTR 260F,The Shire,,0,0.0,0,0,0,3.00
+LTR 718F,Swamp,,0,0.0,0,0,0,2.00
+LTR 222F,Samwise Gamgee,,0,0.0,0,0,0,2.50
+LTR 250F,"Sting, the Glinting Dagger",,0,0.0,0,0,0,3.00
+LTR 193F,"Arwen, Mortal Queen",,0,0.0,0,0,0,3.50
+LTR 720F,Mountain,,0,0.0,0,0,0,1.50
+LTR 715F,Island,,0,0.0,0,0,0,1.50
+LTR 277F,Swamp,,0,0.0,0,0,0,1.00
+LTR 169F,Generous Ent,,0,0.0,0,0,0,2.00
+LTR 256F,Minas Tirith,,0,0.0,0,0,0,6.50
+LTR 240F,Horn of Gondor,,0,0.0,0,0,0,3.00
+LTR 722F,Forest,,0,0.0,0,0,0,1.50
+LTR 721F,Forest,,0,0.0,0,0,0,1.00
+LTR 716F,Island,,0,0.0,0,0,0,2.00
+LTR 118F,Cast into the Fire,,0,0.0,0,0,0,1.50
+LTR 286F,Elanor Gardner,,0,0.0,0,0,0,6.50
+LTR 259F,Rivendell,,0,0.0,0,0,0,3.00
+LTR 280F,Forest,,0,0.0,0,0,0,1.00
+LTR 72F,Storm of Saruman,,0,0.0,0,0,0,5.00
+LTR 719F,Mountain,,0,0.0,0,0,0,1.50
+LTR 281F,Forest,,0,0.0,0,0,0,1.00
+LTR 272F,Plains,,0,0.0,0,0,0,1.00
+LTR 239F,Glamdring,,0,0.0,0,0,0,3.00
+LTR 273F,Plains,,0,0.0,0,0,0,0.50
+LTR 713F,Plains,,0,0.0,0,0,0,1.00
+LTR 236F,"Anduril, Flame of the West",,0,0.0,0,0,0,5.00
+LTR 5F,Dawn of a New Age,,0,0.0,0,0,0,4.00
+LTR 12F,Treasure Token,,0,0.0,0,0,0,1.00
+LTR 276F,Swamp,,0,0.0,0,0,0,1.00
+LTR 132F,"Gloin, Dwarf Emissary",,0,0.0,0,0,0,1.00
+LTR 218F,"Pippin, Guard of the Citadel",,0,0.0,0,0,0,1.50
+LTR 221F,Rise of the Witch-king,,0,0.0,0,0,0,1.00
+LTR 282F,"Saradoc, Master of Buckland",,0,0.0,0,0,0,3.50
+LTR 75F,The Watcher in the Water,,0,0.0,0,0,0,3.00
+LTR 234F,Tom Bombadil,,0,0.0,0,0,0,3.00
+LTR 25F,Treasure Token,,0,0.0,0,0,0,1.00
+LTR 243F,Lembas,,0,0.0,0,0,0,1.00
+LTR 145F,Rising of the Day,,0,0.0,0,0,0,1.00
+LTR 71F,Stern Scolding,,0,0.0,0,0,0,1.00
+LTR 19F,Gandalf the White,,0,0.0,0,0,0,8.00
+LTR 284F,Ringwraiths,,0,0.0,0,0,0,4.00
+LTR 714F,Plains,,0,0.0,0,0,0,1.00
+LTR 257F,Mines of Moria,,0,0.0,0,0,0,2.00
+LTR 230F,"Shelob, Child of Ungoliant",,0,0.0,0,0,0,1.00
+LTR 278F,Mountain,,0,0.0,0,0,0,0.50
+LTR 1F,Human Soldier Token,,0,0.0,0,0,0,0.50
+LTR 275F,Island,,0,0.0,0,0,0,0.50
+LTR 122F,Erebor Flamesmith,,0,0.0,0,0,0,1.00
+LTR 181F,Peregrin Took,,0,0.0,0,0,0,1.00
+LTR 107F,Shadow of the Enemy,,0,0.0,0,0,0,2.00
+LTR 248F,Phial of Galadriel,,0,0.0,0,0,0,1.00
+LTR 717F,Swamp,,0,0.0,0,0,0,1.00
+LTR 225F,Sauron's Ransom,,0,0.0,0,0,0,1.50
+LTR 3F,Spirit Token,,0,0.0,0,0,0,0.50
+LTR 254F,Great Hall of the Citadel,,0,0.0,0,0,0,0.50
+LTR 253F,Barad-dur,,0,0.0,0,0,0,1.00
+LTR 126F,Fiery Inscription,,0,0.0,0,0,0,1.00
+LTR 220F,Ringsight,,0,0.0,0,0,0,1.00
+LTR 7F,Eagles of the North,,0,0.0,0,0,0,0.50
+LTR 69F,Scroll of Isildur,,0,0.0,0,0,0,1.00
+LTR 201F,"Eowyn, Fearless Knight",,0,0.0,0,0,0,1.00
+LTR 36F,War of the Last Alliance,,0,0.0,0,0,0,1.50
+LTR 52F,"Goldberry, River-Daughter",,0,0.0,0,0,0,1.00
+LTR 18F,Orc Army Token,,0,0.0,0,0,0,0.50
+LTR 274F,Island,,0,0.0,0,0,0,0.50
+LTR 17F,Forge Anew,,0,0.0,0,0,0,3.00
+LTR 138F,Moria Marauder,,0,0.0,0,0,0,1.00
+LTR 2F,Human Soldier Token,,0,0.0,0,0,0,0.50
+LTR 56F,Ioreth of the Healing House,,0,0.0,0,0,0,0.50
+LTR 241F,Horn of the Mark,,0,0.0,0,0,0,1.00
+LTR 106F,"Sauron, the Necromancer",,0,0.0,0,0,0,1.00
+LTR 199F,Doors of Durin,,0,0.0,0,0,0,0.50
+LTR 195F,"The Balrog, Durin's Bane",,0,0.0,0,0,0,0.50
+LTR 279F,Mountain,,0,0.0,0,0,0,0.50
+LTR 7F,Smaug Token,,0,0.0,0,0,0,0.50
+LTR 285F,Assault on Osgiliath,,0,0.0,0,0,0,3.50
+LTR 120F,"Eomer, Marshal of Rohan",,0,0.0,0,0,0,0.50
+LTR 271F,Forest,,0,0.0,0,0,0,0.50
+LTR 202F,"Faramir, Prince of Ithilien",,0,0.0,0,0,0,0.50
+LTR 65F,Press the Enemy,,0,0.0,0,0,0,0.50
+LTR 139F,Oliphaunt,,0,0.0,0,0,0,0.50
+LTR 266F,Swamp,,0,0.0,0,0,0,0.50
+LTR 165F,Fall of Gil-galad,,0,0.0,0,0,0,0.50
+LTR 207F,Gandalf the Grey,,0,0.0,0,0,0,0.50
+LTR 215F,"Merry, Esquire of Rohan",,0,0.0,0,0,0,0.50
+LTR 262F,Plains,,0,0.0,0,0,0,0.50
+LTR 267F,Swamp,,0,0.0,0,0,0,0.50
+LTR 268F,Mountain,,0,0.0,0,0,0,0.50
+LTR 270F,Forest,,0,0.0,0,0,0,0.50
+LTR 206F,Galadriel of Lothlorien,,0,0.0,0,0,0,0.50
+LTR 184F,Radagast the Brown,,0,0.0,0,0,0,1.50
+LTR 22F,Food Token,,0,0.0,0,0,0,0.50
+LTR 263F,Plains,,0,0.0,0,0,0,0.50
+LTR 191F,"Aragorn, Company Leader",,0,0.0,0,0,0,0.50
+LTR 200F,"Elrond, Master of Healing",,0,0.0,0,0,0,0.50
+LTR 6F,Orc Army Token,,0,0.0,0,0,0,0.50
+LTR 261F,Shire Terrace,,0,0.0,0,0,0,0.50
+LTR 4F,Tentacle Token,,0,0.0,0,0,0,0.50
+LTR 233F,"Theoden, King of Rohan",,0,0.0,0,0,0,0.50
+LTR 14F,Human Soldier Token,,0,0.0,0,0,0,0.50
+LTR 185F,Revive the Shire,,0,0.0,0,0,0,0.50
+LTR 11F,Food Token,,0,0.0,0,0,0,0.50
+LTR 242F,Inherited Envelope,,0,0.0,0,0,0,0.50
+LTR 269F,Mountain,,0,0.0,0,0,0,0.50
+LTR 251F,Stone of Erech,,0,0.0,0,0,0,0.50
+LTR 283F,Elvish Mariner,,0,0.0,0,0,0,3.00
+LTR 136F,Hew the Entwood,,0,0.0,0,0,0,1.00
+LTR 23F,Food Token,,0,0.0,0,0,0,0.50
+LTR 24F,Food Token,,0,0.0,0,0,0,0.50
+LTR 264F,Island,,0,0.0,0,0,0,0.50
+LTR 265F,Island,,0,0.0,0,0,0,0.50
+LTR 244F,Mirror of Galadriel,,0,0.0,0,0,0,0.50
+LTR 16F,Spirit Token,,0,0.0,0,0,0,0.50
+LTR 19F,Orc Army Token,,0,0.0,0,0,0,0.50
+LTR 27F,Rosie Cotton of South Lane,,0,0.0,0,0,0,0.50
+LTR 67F,Saruman the White,,0,0.0,0,0,0,0.50
+LTR 68F,Saruman's Trickery,,0,0.0,0,0,0,0.50
+LTR 20F,Smaug Token,,0,0.0,0,0,0,0.50
+LTR 161F,Elven Farsight,,0,0.0,0,0,0,0.50
+LTR 231F,"Smeagol, Helpful Guide",,0,0.0,0,0,0,0.50
+LTR 252F,Wizard's Rockets,,0,0.0,0,0,0,0.50
+LTR 173F,"Legolas, Master Archer",,0,0.0,0,0,0,0.50
+LTR 186F,The Ring Goes South,,0,0.0,0,0,0,0.50
+LTR 194F,Arwen Undomiel,,0,0.0,0,0,0,0.50
+LTR 3F,Bill the Pony,,0,0.0,0,0,0,0.50
+LTR 81F,Claim the Precious,,0,0.0,0,0,0,0.50
+LTR 13F,Esquire of the King,,0,0.0,0,0,0,0.50
+LTR 51F,Glorious Gale,,0,0.0,0,0,0,0.50
+LTR 5F,Orc Army Token,,0,0.0,0,0,0,0.50
+LTR 105F,Sam's Desperate Rescue,,0,0.0,0,0,0,0.50
+LTR 226F,Shadow Summoning,,0,0.0,0,0,0,0.50
+LTR 17F,Tentacle Token,,0,0.0,0,0,0,0.50
+LTR 197F,"Butterbur, Bree Innkeeper",,0,0.0,0,0,0,0.50
+LTR 124F,Fall of Cair Andros,,0,0.0,0,0,0,0.50
+LTR 166F,"Fangorn, Tree Shepherd",,0,0.0,0,0,0,0.50
+LTR 9F,Food Token,,0,0.0,0,0,0,0.50
+LTR 88F,Grima Wormtongue,,0,0.0,0,0,0,0.50
+LTR 211F,King of the Oathbreakers,,0,0.0,0,0,0,0.50
+LTR 176F,Many Partings,,0,0.0,0,0,0,0.50
+LTR 143F,Ranger's Firebrand,,0,0.0,0,0,0,0.50
+LTR 28F,Samwise the Stouthearted,,0,0.0,0,0,0,0.50
+LTR 227F,"Shadowfax, Lord of Horses",,0,0.0,0,0,0,0.50
+LTR 108F,Shelob's Ambush,,0,0.0,0,0,0,0.50
+LTR 235F,Ugluk of the White Hand,,0,0.0,0,0,0,0.50
+LTR 223F,Saruman of Many Colors,,0,0.0,0,0,0,1.00
+LTR 21F,Ballistic Boulder Token,,0,0.0,0,0,0,0.50
+LTR 43F,Birthday Escape,,0,0.0,0,0,0,0.50
+LTR 154F,Bombadil's Song,,0,0.0,0,0,0,0.50
+LTR 116F,Book of Mazarbul,,0,0.0,0,0,0,0.50
+LTR 198F,"Denethor, Ruling Steward",,0,0.0,0,0,0,0.50
+LTR 123F,"Erkenbrand, Lord of Westfold",,0,0.0,0,0,0,0.50
+LTR 170F,Gift of Strands,,0,0.0,0,0,0,0.50
+LTR 129F,"Gimli, Counter of Kills",,0,0.0,0,0,0,0.50
+LTR 210F,Gwaihir the Windlord,,0,0.0,0,0,0,0.50
+LTR 15F,Human Soldier Token,,0,0.0,0,0,0,0.50
+LTR 91F,Isildur's Fateful Strike,,0,0.0,0,0,0,0.50
+LTR 212F,"Legolas, Counter of Kills",,0,0.0,0,0,0,0.50
+LTR 93F,Lobelia Sackville-Baggins,,0,0.0,0,0,0,0.50
+LTR 175F,Lothlorien Lookout,,0,0.0,0,0,0,0.50
+LTR 94F,March from the Black Gate,,0,0.0,0,0,0,0.50
+LTR 177F,Meriadoc Brandybuck,,0,0.0,0,0,0,0.50
+LTR 217F,Old Man Willow,,0,0.0,0,0,0,0.50
+LTR 142F,Rally at the Hornburg,,0,0.0,0,0,0,0.50
+LTR 229F,"Sharkey, Tyrant of the Shire",,0,0.0,0,0,0,0.50
+LTR 148F,Smite the Deathless,,0,0.0,0,0,0,0.50
+LTR 74F,Treason of Isengard,,0,0.0,0,0,0,0.50
+LTR 37F,Westfold Rider,,0,0.0,0,0,0,0.50
+LTR 39F,Arwen's Gift,,0,0.0,0,0,0,0.50
+LTR 1F,Banish from Edoras,,0,0.0,0,0,0,0.50
+LTR 237F,Barrow-Blade,,0,0.0,0,0,0,0.50
+LTR 77F,Bitter Downfall,,0,0.0,0,0,0,0.50
+LTR 80F,Cirith Ungol Patrol,,0,0.0,0,0,0,0.50
+LTR 48F,Dreadful as the Storm,,0,0.0,0,0,0,0.50
+LTR 82F,Dunland Crebain,,0,0.0,0,0,0,0.50
+LTR 49F,"Elrond, Lord of Rivendell",,0,0.0,0,0,0,0.50
+LTR 162F,Enraged Huorn,,0,0.0,0,0,0,0.50
+LTR 10F,"Eowyn, Lady of Rohan",,0,0.0,0,0,0,0.50
+LTR 125F,"Fear, Fire, Foes!",,0,0.0,0,0,0,0.50
+LTR 16F,Fog on the Barrow-Downs,,0,0.0,0,0,0,0.50
+LTR 10F,Food Token,,0,0.0,0,0,0,0.50
+LTR 128F,Foray of Orcs,,0,0.0,0,0,0,0.50
+LTR 205F,Frodo Baggins,,0,0.0,0,0,0,0.50
+LTR 208F,Gandalf's Sanction,,0,0.0,0,0,0,0.50
+LTR 131F,Gimli's Fury,,0,0.0,0,0,0,0.50
+LTR 209F,"Gimli, Mournful Avenger",,0,0.0,0,0,0,0.50
+LTR 90F,Haunt of the Dead Marshes,,0,0.0,0,0,0,0.50
+LTR 55F,Horses of the Bruinen,,0,0.0,0,0,0,0.50
+LTR 178F,Mirkwood Spider,,0,0.0,0,0,0,0.50
+LTR 104F,Orcish Medicine,,0,0.0,0,0,0,0.50
+LTR 141F,Quarrel's End,,0,0.0,0,0,0,0.50
+LTR 31F,Slip On the Ring,,0,0.0,0,0,0,0.50
+LTR 73F,Surrounded by Orcs,,0,0.0,0,0,0,0.50
+LTR 255F,The Grey Havens,,0,0.0,0,0,0,0.50
+LTR 113F,Voracious Fell Beast,,0,0.0,0,0,0,0.50
+LTR 152F,Warbeast of Gorgoroth,,0,0.0,0,0,0,0.50
+LTR 190F,Wose Pathfinder,,0,0.0,0,0,0,0.50
+LTR 8F,Ballistic Boulder Token,,0,0.0,0,0,0,0.50
+LTR 196F,"Bilbo, Retired Burglar",,0,0.0,0,0,0,0.50
+LTR 156F,Celeborn the Wise,,0,0.0,0,0,0,0.50
+LTR 83F,Easterling Vanguard,,0,0.0,0,0,0,0.50
+LTR 18F,"Frodo, Sauron's Bane",,0,0.0,0,0,0,0.50
+LTR 167F,Galadhrim Bow,,0,0.0,0,0,0,0.50
+LTR 50F,"Gandalf, Friend of the Shire",,0,0.0,0,0,0,0.50
+LTR 130F,Gimli's Axe,,0,0.0,0,0,0,0.50
+LTR 84F,"Gollum, Patient Plotter",,0,0.0,0,0,0,0.50
+LTR 87F,"Gothmog, Morgul Lieutenant",,0,0.0,0,0,0,0.50
+LTR 89F,"Grond, the Gatebreaker",,0,0.0,0,0,0,0.50
+LTR 20F,Hobbit's Sting,,0,0.0,0,0,0,0.50
+LTR 137F,Improvised Club,,0,0.0,0,0,0,0.50
+LTR 61F,Lost Isle Calling,,0,0.0,0,0,0,0.50
+LTR 214F,"Mauhur, Uruk-hai Captain",,0,0.0,0,0,0,0.50
+LTR 62F,"Meneldor, Swift Savior",,0,0.0,0,0,0,0.50
+LTR 98F,Morgul-Knife Wound,,0,0.0,0,0,0,0.50
+LTR 99F,Nasty End,,0,0.0,0,0,0,0.50
+LTR 24F,"Now for Wrath, Now for Ruin!",,0,0.0,0,0,0,0.50
+LTR 219F,Prince Imrahil the Fair,,0,0.0,0,0,0,0.50
+LTR 144F,Relentless Rohirrim,,0,0.0,0,0,0,0.50
+LTR 29F,Second Breakfast,,0,0.0,0,0,0,0.50
+LTR 40F,The Bath Song,,0,0.0,0,0,0,0.50
+LTR 38F,You Cannot Pass!,,0,0.0,0,0,0,0.50
+LTR 119F,Display of Power,,0,0.0,0,0,0,0.50
+LTR 9F,East-Mark Cavalier,,0,0.0,0,0,0,0.50
+LTR 121F,Eomer of the Riddermark,,0,0.0,0,0,0,0.50
+LTR 204F,Friendly Rivalry,,0,0.0,0,0,0,0.50
+LTR 168F,Galadhrim Guide,,0,0.0,0,0,0,0.50
+LTR 85F,Gollum's Bite,,0,0.0,0,0,0,0.50
+LTR 57F,Isolation at Orthanc,,0,0.0,0,0,0,0.50
+LTR 59F,Knights of Dol Amroth,,0,0.0,0,0,0,0.50
+LTR 22F,Lost to Legend,,0,0.0,0,0,0,0.50
+LTR 96F,Mordor Muster,,0,0.0,0,0,0,0.50
+LTR 101F,Oath of the Grey Host,,0,0.0,0,0,0,0.50
+LTR 182F,Pippin's Bravery,,0,0.0,0,0,0,0.50
+LTR 66F,Rangers of Ithilien,,0,0.0,0,0,0,0.50
+LTR 146F,Rohirrim Lancer,,0,0.0,0,0,0,0.50
+LTR 147F,Rush the Room,,0,0.0,0,0,0,0.50
+LTR 30F,Shire Shirriff,,0,0.0,0,0,0,0.50
+LTR 188F,Shower of Arrows,,0,0.0,0,0,0,0.50
+LTR 33F,Stalwarts of Osgiliath,,0,0.0,0,0,0,0.50
+LTR 216F,The Mouth of Sauron,,0,0.0,0,0,0,0.50
+LTR 110F,The Torment of Gollum,,0,0.0,0,0,0,0.50
+LTR 153F,Bag End Porter,,0,0.0,0,0,0,0.50
+LTR 115F,Battle-Scarred Goblin,,0,0.0,0,0,0,0.50
+LTR 41F,Bewitching Leechcraft,,0,0.0,0,0,0,0.50
+LTR 42F,"Bill Ferny, Bree Swindler",,0,0.0,0,0,0,0.50
+LTR 155F,Brandywine Farmer,,0,0.0,0,0,0,0.50
+LTR 117F,Breaking of the Fellowship,,0,0.0,0,0,0,0.50
+LTR 45F,Captain of Umbar,,0,0.0,0,0,0,0.50
+LTR 157F,Chance-Met Elves,,0,0.0,0,0,0,0.50
+LTR 46F,Council's Deliberation,,0,0.0,0,0,0,0.50
+LTR 47F,Deceive the Messenger,,0,0.0,0,0,0,0.50
+LTR 6F,Dunedain Blade,,0,0.0,0,0,0,0.50
+LTR 159F,Dunedain Rangers,,0,0.0,0,0,0,0.50
+LTR 8F,Eastfarthing Farmer,,0,0.0,0,0,0,0.50
+LTR 164F,Ent's Fury,,0,0.0,0,0,0,0.50
+LTR 238F,Ent-Draught Basin,,0,0.0,0,0,0,0.50
+LTR 11F,Errand-Rider of Gondor,,0,0.0,0,0,0,0.50
+LTR 12F,Escape from Orthanc,,0,0.0,0,0,0,0.50
+LTR 14F,"Faramir, Field Commander",,0,0.0,0,0,0,0.50
+LTR 127F,Fire of Orthanc,,0,0.0,0,0,0,0.50
+LTR 171F,"Glorfindel, Dauntless Rescuer",,0,0.0,0,0,0,0.50
+LTR 133F,Goblin Fireleaper,,0,0.0,0,0,0,0.50
+LTR 86F,Gorbag of Minas Morgul,,0,0.0,0,0,0,0.50
+LTR 53F,Grey Havens Navigator,,0,0.0,0,0,0,0.50
+LTR 134F,"Grishnakh, Brash Instigator",,0,0.0,0,0,0,0.50
+LTR 135F,Haradrim Spearmaster,,0,0.0,0,0,0,0.50
+LTR 54F,Hithlain Knots,,0,0.0,0,0,0,0.50
+LTR 58F,Ithilien Kingfisher,,0,0.0,0,0,0,0.50
+LTR 21F,"Landroval, Horizon Witness",,0,0.0,0,0,0,0.50
+LTR 92F,Lash of the Balrog,,0,0.0,0,0,0,0.50
+LTR 174F,Long List of the Ents,,0,0.0,0,0,0,0.50
+LTR 179F,Mirrormere Guardian,,0,0.0,0,0,0,0.50
+LTR 97F,Mordor Trebuchet,,0,0.0,0,0,0,0.50
+LTR 180F,Mushroom Watchdogs,,0,0.0,0,0,0,0.50
+LTR 23F,Nimble Hobbit,,0,0.0,0,0,0,0.50
+LTR 63F,Nimrodel Watcher,,0,0.0,0,0,0,0.50
+LTR 140F,Olog-hai Crusher,,0,0.0,0,0,0,0.50
+LTR 64F,Pelargir Survivor,,0,0.0,0,0,0,0.50
+LTR 25F,Protector of Gondor,,0,0.0,0,0,0,0.50
+LTR 183F,"Quickbeam, Upstart Ent",,0,0.0,0,0,0,0.50
+LTR 228F,"Shagrat, Loot Bearer",,0,0.0,0,0,0,0.50
+LTR 249F,Shire Scarecrow,,0,0.0,0,0,0,0.50
+LTR 187F,Shortcut to Mushrooms,,0,0.0,0,0,0,0.50
+LTR 109F,Snarling Warg,,0,0.0,0,0,0,0.50
+LTR 32F,Soldier of the Grey Host,,0,0.0,0,0,0,0.50
+LTR 70F,Soothing of Smeagol,,0,0.0,0,0,0,0.50
+LTR 189F,Stew the Coneys,,0,0.0,0,0,0,0.50
+LTR 232F,"Strider, Ranger of the North",,0,0.0,0,0,0,0.50
+LTR 150F,Swarming of Moria,,0,0.0,0,0,0,0.50
+LTR 34F,Tale of Tinuviel,,0,0.0,0,0,0,0.50
+LTR 78F,The Black Breath,,0,0.0,0,0,0,0.50
+LTR 35F,Took Reaper,,0,0.0,0,0,0,0.50
+LTR 112F,Uruk-hai Berserker,,0,0.0,0,0,0,0.50
+LTR 76F,Willow-Wind,,0,0.0,0,0,0,0.50

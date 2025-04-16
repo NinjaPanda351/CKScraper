@@ -1,0 +1,641 @@
+M19 201,Scapeshift,,0,0.0,0,0,0,37.00
+M19 229,Crucible of Worlds,,0,0.0,0,0,0,28.00
+M19 218,Nicol Bolas,,0,0.0,0,0,0,0
+M19 144,Goblin Trashmaster,,0,0.0,0,0,0,8.00
+M19 90,Death Baron,,0,0.0,0,0,0,6.00
+M19 68,Psychic Corrosion,,0,0.0,0,0,0,7.00
+M19 23,Leonin Warleader,,0,0.0,0,0,0,7.00
+M19 65,Omniscience,,0,0.0,0,0,0,6.00
+M19 6,Ajani's Welcome,,0,0.0,0,0,0,3.50
+M19 107,Liliana's Contract,,0,0.0,0,0,0,4.50
+M19 173,Colossal Majesty,,0,0.0,0,0,0,2.00
+M19 34,Resplendent Angel,,0,0.0,0,0,0,6.50
+M19 149,Lathliss,,0,0.0,0,0,0,0
+M19 249,Detection Tower,,0,0.0,0,0,0,2.50
+M19 189,Hungering Hydra,,0,0.0,0,0,0,3.00
+M19 79,Tezzeret,,0,0.0,0,0,0,0
+M19 185,Gigantosaurus,,0,0.0,0,0,0,3.00
+M19 232,Dragon's Hoard,,0,0.0,0,0,0,3.00
+M19 212,Arcades,,0,0.0,0,0,0,0
+M19 254,Reliquary Tower,,0,0.0,0,0,0,2.00
+M19 142,Goblin Instigator,,0,0.0,0,0,0,0.50
+M19 230,Desecrated Tomb,,0,0.0,0,0,0,1.50
+M19 43,Aether Tunnel,,0,0.0,0,0,0,1.00
+M19 154,Sarkhan,,0,0.0,0,0,0,0
+M19 155,Sarkhan's Unsealing,,0,0.0,0,0,0,1.50
+M19 223,Satyr Enchanter,,0,0.0,0,0,0,1.00
+M19 97,Fraying Omnipotence,,0,0.0,0,0,0,1.50
+M19 200,Runic Armasaur,,0,0.0,0,0,0,1.50
+M19 291,Liliana,,0,0.0,0,0,0,0
+M19 296,Sarkhan,,0,0.0,0,0,0,0
+M19 106,Liliana,,0,0.0,0,0,0,0
+M19 186,Goreclaw,,0,0.0,0,0,0,0
+M19 163,Thud,,0,0.0,0,0,0,1.00
+M19 179,Elvish Clancaller,,0,0.0,0,0,0,1.00
+M19 130,Banefire,,0,0.0,0,0,0,1.00
+M19 225,Vaevictis Asmadi,,0,0.0,0,0,0,0
+M19 235,Fountain of Renewal,,0,0.0,0,0,0,1.00
+M19 281,Ajani,,0,0.0,0,0,0,0
+M19 112,Open the Graves,,0,0.0,0,0,0,1.00
+M19 302,Aggressive Mammoth,,0,0.0,0,0,0,1.00
+M19 3,Ajani,,0,0.0,0,0,0,0
+M19 220,Poison-Tip Archer,,0,0.0,0,0,0,1.00
+M19 21,Lena,,0,0.0,0,0,0,0
+M19 88,Bone Dragon,,0,0.0,0,0,0,1.00
+M19 85,Abnormal Endurance,,0,0.0,0,0,0,0.25
+M19 96,Fell Specter,,0,0.0,0,0,0,0.50
+M19 284,Serra's Guardian,,0,0.0,0,0,0,0.50
+M19 243,Rogue's Gloves,,0,0.0,0,0,0,0.50
+M19 22,Leonin Vanguard,,0,0.0,0,0,0,0.50
+M19 9,Cleansing Nova,,0,0.0,0,0,0,1.00
+M19 121,Stitcher's Supplier,,0,0.0,0,0,0,1.00
+M19 143,Goblin Motivator,,0,0.0,0,0,0,0.25
+M19 219,Palladia-Mors,,0,0.0,0,0,0,0
+M19 67,Patient Rebuilding,,0,0.0,0,0,0,1.00
+M19 61,Mirror Image,,0,0.0,0,0,0,0.50
+M19 214,Chromium,,0,0.0,0,0,0,0
+M19 238,Magistrate's Scepter,,0,0.0,0,0,0,0.50
+M19 69,Sai,,0,0.0,0,0,0,0
+M19 301,Vivien of the Arkbow,,0,0.0,0,0,0,2.00
+M19 62,Mistcaller,,0,0.0,0,0,0,0.50
+M19 1,Angel Token,,0,0.0,0,0,0,0.50
+M19 7,Bat Token,,0,0.0,0,0,0,0.50
+M19 231,Diamond Mare,,0,0.0,0,0,0,0.50
+M19 194,Prodigious Growth,,0,0.0,0,0,0,0.50
+M19 10,Dragon Token,,0,0.0,0,0,0,0.50
+M19 160,Spit Flame,,0,0.0,0,0,0,0.50
+M19 1,Aegis of the Heavens,,0,0.0,0,0,0,0.50
+M19 137,Doublecast,,0,0.0,0,0,0,0.50
+M19 16,Invoke the Divine,,0,0.0,0,0,0,0.25
+M19 158,Smelt,,0,0.0,0,0,0,0.25
+M19 16,Emblem,,0,0.0,0,0,0,0.50
+M19 239,Manalith,,0,0.0,0,0,0,0.25
+M19 60,Metamorphic Alteration,,0,0.0,0,0,0,0.50
+M19 244,Sigiled Sword of Valeron,,0,0.0,0,0,0,0.50
+M19 39,Suncleanser,,0,0.0,0,0,0,0.50
+M19 222,Regal Bloodlord,,0,0.0,0,0,0,0.50
+M19 128,Alpine Moon,,0,0.0,0,0,0,0.50
+M19 135,Demanding Dragon,,0,0.0,0,0,0,0.50
+M19 133,Crash Through,,0,0.0,0,0,0,0.25
+M19 33,Remorseful Cleric,,0,0.0,0,0,0,0.50
+M19 76,Supreme Phantom,,0,0.0,0,0,0,0.50
+M19 124,Vampire Neonate,,0,0.0,0,0,0,0.25
+M19 5,Ox Token,,0,0.0,0,0,0,0.50
+M19 120,Sovereign's Bite,,0,0.0,0,0,0,0.25
+M19 13,Elf Warrior Token,,0,0.0,0,0,0,0.50
+M19 152,Lightning Strike,,0,0.0,0,0,0,0.50
+M19 29,Militia Bugler,,0,0.0,0,0,0,0.50
+M19 286,Tezzeret,,0,0.0,0,0,0,0
+M19 294,Liliana's Spoils,,0,0.0,0,0,0,1.00
+M19 252,Highland Lake,,0,0.0,0,0,0,0.25
+M19 91,Demon of Catastrophes,,0,0.0,0,0,0,0.50
+M19 215,Draconic Disciple,,0,0.0,0,0,0,0.50
+M19 226,Amulet of Safekeeping,,0,0.0,0,0,0,0.50
+M19 114,Plague Mare,,0,0.0,0,0,0,0.50
+M19 113,Phylactery Lich,,0,0.0,0,0,0,0.50
+M19 210,Wall of Vines,,0,0.0,0,0,0,0.25
+M19 208,Vivien Reid,,0,0.0,0,0,0,1.00
+M19 228,Chaos Wand,,0,0.0,0,0,0,0.50
+M19 42,Valiant Knight,,0,0.0,0,0,0,0.50
+M19 172,Colossal Dreadmaw,,0,0.0,0,0,0,0.25
+M19 74,Sleep,,0,0.0,0,0,0,0.50
+M19 37,Shield Mare,,0,0.0,0,0,0,0.50
+M19 156,Shock,,0,0.0,0,0,0,0.25
+M19 30,Novice Knight,,0,0.0,0,0,0,0.50
+M19 202,Talons of Wildwood,,0,0.0,0,0,0,0.25
+M19 11,Dwarven Priest,,0,0.0,0,0,0,0.25
+M19 129,Apex of Power,,0,0.0,0,0,0,1.00
+M19 282,Ajani's Influence,,0,0.0,0,0,0,0.50
+M19 3,Cat Token,,0,0.0,0,0,0,0.50
+M19 310,Mist-Cloaked Herald,,0,0.0,0,0,0,4.50
+M19 99,Graveyard Marshal,,0,0.0,0,0,0,0.50
+M19 66,One with the Machine,,0,0.0,0,0,0,0.50
+M19 48,Cancel,,0,0.0,0,0,0,0.25
+M19 11,Goblin Token,,0,0.0,0,0,0,0.50
+M19 19,Knight's Pledge,,0,0.0,0,0,0,0.25
+M19 295,Tattered Mummy,,0,0.0,0,0,0,0.25
+M19 86,Blood Divination,,0,0.0,0,0,0,0.50
+M19 44,Anticipate,,0,0.0,0,0,0,0.25
+M19 177,Druid of the Cowl,,0,0.0,0,0,0,0.25
+M19 31,Oreskos Swiftclaw,,0,0.0,0,0,0,0.25
+M19 52,Djinn of Wishes,,0,0.0,0,0,0,0.50
+M19 303,Skalla Wolf,,0,0.0,0,0,0,0.50
+M19 2,Avatar Token,,0,0.0,0,0,0,0.50
+M19 178,Dryad Greenseeker,,0,0.0,0,0,0,0.50
+M19 145,Guttersnipe,,0,0.0,0,0,0,0.50
+M19 77,Surge Mare,,0,0.0,0,0,0,0.50
+M19 314,Llanowar Elves,,0,0.0,0,0,0,1.00
+M19 192,Pelakka Wurm,,0,0.0,0,0,0,0.50
+M19 209,Vivien's Invocation,,0,0.0,0,0,0,0.50
+M19 84,Windreader Sphinx,,0,0.0,0,0,0,0.50
+M19 51,Divination,,0,0.0,0,0,0,0.25
+M19 12,Gallant Cavalry,,0,0.0,0,0,0,0.25
+M19 32,Pegasus Courser,,0,0.0,0,0,0,0.25
+M19 285,Silverbeak Griffin,,0,0.0,0,0,0,0.25
+M19 119,Skymarch Bloodletter,,0,0.0,0,0,0,0.25
+M19 83,Wall of Mist,,0,0.0,0,0,0,0.25
+M19 174,Daggerback Basilisk,,0,0.0,0,0,0,0.25
+M19 26,Make a Stand,,0,0.0,0,0,0,0.50
+M19 78,Switcheroo,,0,0.0,0,0,0,0.50
+M19 207,Vine Mare,,0,0.0,0,0,0,0.50
+M19 168,Volley Veteran,,0,0.0,0,0,0,0.50
+M19 136,Dismissive Pyromancer,,0,0.0,0,0,0,0.50
+M19 283,Court Cleric,,0,0.0,0,0,0,0.50
+M19 15,Emblem,,0,0.0,0,0,0,0.50
+M19 13,Herald of Faith,,0,0.0,0,0,0,0.50
+M19 299,Sarkhan's Whelp,,0,0.0,0,0,0,0.50
+M19 126,Walking Corpse,,0,0.0,0,0,0,0.25
+M19 247,Transmogrifying Wand,,0,0.0,0,0,0,0.50
+M19 175,Declare Dominance,,0,0.0,0,0,0,0.50
+M19 289,Tezzeret's Gatebreaker,,0,0.0,0,0,0,0.50
+M19 181,Ghastbark Twins,,0,0.0,0,0,0,0.50
+M19 58,Ghostform,,0,0.0,0,0,0,0.25
+M19 4,Knight Token,,0,0.0,0,0,0,0.50
+M19 197,Recollect,,0,0.0,0,0,0,0.50
+M19 224,Skyrider Patrol,,0,0.0,0,0,0,0.50
+M19 125,Vampire Sovereign,,0,0.0,0,0,0,0.50
+M19 134,Dark-Dweller Oracle,,0,0.0,0,0,0,0.50
+M19 287,Riddlemaster Sphinx,,0,0.0,0,0,0,0.50
+M19 298,Sarkhan's Dragonfire,,0,0.0,0,0,0,0.50
+M19 46,Aviation Pioneer,,0,0.0,0,0,0,0.25
+M19 190,Naturalize,,0,0.0,0,0,0,0.25
+M19 261,Plains,,0,0.0,0,0,0,0.50
+M19 245,Skyscanner,,0,0.0,0,0,0,0.25
+M19 246,Suspicious Bookcase,,0,0.0,0,0,0,0.50
+M19 40,Take Vengeance,,0,0.0,0,0,0,0.25
+M19 123,Two-Headed Zombie,,0,0.0,0,0,0,0.25
+M19 2,Aethershield Artificer,,0,0.0,0,0,0,0.50
+M19 12,Beast Token,,0,0.0,0,0,0,0.50
+M19 9,Dragon Token,,0,0.0,0,0,0,0.50
+M19 176,Druid of Horns,,0,0.0,0,0,0,0.50
+M19 94,Duress,,0,0.0,0,0,0,0.25
+M19 95,Epicure of Blood,,0,0.0,0,0,0,0.25
+M19 251,Foul Orchard,,0,0.0,0,0,0,0.25
+M19 297,Kargan Dragonrider,,0,0.0,0,0,0,0.25
+M19 151,Lightning Mare,,0,0.0,0,0,0,0.50
+M19 196,Reclamation Sage,,0,0.0,0,0,0,0.50
+M19 14,Thopter Token,,0,0.0,0,0,0,0.50
+M19 4,Ajani's Last Stand,,0,0.0,0,0,0,0.50
+M19 293,Gravewaker,,0,0.0,0,0,0,0.50
+M19 63,Mystic Archaeologist,,0,0.0,0,0,0,0.50
+M19 313,Radiating Lightning,,0,0.0,0,0,0,0.50
+M19 227,Arcane Encyclopedia,,0,0.0,0,0,0,0.50
+M19 171,Centaur Courser,,0,0.0,0,0,0,0.25
+M19 55,Exclusion Mage,,0,0.0,0,0,0,0.50
+M19 280,Forest,,0,0.0,0,0,0,0.50
+M19 146,Havoc Devils,,0,0.0,0,0,0,0.25
+M19 14,Hieromancer's Cage,,0,0.0,0,0,0,0.50
+M19 241,Meteor Golem,,0,0.0,0,0,0,0.50
+M19 36,Rustwing Falcon,,0,0.0,0,0,0,0.25
+M19 73,Skilled Animator,,0,0.0,0,0,0,0.50
+M19 159,Sparktongue Dragon,,0,0.0,0,0,0,0.25
+M19 269,Swamp,,0,0.0,0,0,0,0.50
+M19 272,Swamp,,0,0.0,0,0,0,0.50
+M19 304,Ursine Champion,,0,0.0,0,0,0,0.25
+M19 166,Viashino Pyromancer,,0,0.0,0,0,0,0.25
+M19 5,Ajani's Pridemate,,0,0.0,0,0,0,0.50
+M19 169,Blanchwood Armor,,0,0.0,0,0,0,0.50
+M19 93,Doomed Dissenter,,0,0.0,0,0,0,0.25
+M19 138,Dragon Egg,,0,0.0,0,0,0,0.50
+M19 180,Elvish Rejuvenator,,0,0.0,0,0,0,0.25
+M19 182,Ghirapur Guide,,0,0.0,0,0,0,0.50
+M19 187,Greenwood Sentinel,,0,0.0,0,0,0,0.25
+M19 217,Heroic Reinforcements,,0,0.0,0,0,0,0.50
+M19 150,Lava Axe,,0,0.0,0,0,0,0.25
+M19 110,Murder,,0,0.0,0,0,0,0.50
+M19 116,Reassembling Skeleton,,0,0.0,0,0,0,0.50
+M19 38,Star-Crowned Stag,,0,0.0,0,0,0,0.25
+M19 80,Tolarian Scholar,,0,0.0,0,0,0,0.25
+M19 259,Tranquil Expanse,,0,0.0,0,0,0,0.25
+M19 305,Vivien's Jaguar,,0,0.0,0,0,0,0.50
+M19 292,Arisen Gorgon,,0,0.0,0,0,0,0.50
+M19 87,Bogstomper,,0,0.0,0,0,0,0.25
+M19 132,Catalyst Elemental,,0,0.0,0,0,0,0.25
+M19 89,Child of Night,,0,0.0,0,0,0,0.25
+M19 49,Departed Deckhand,,0,0.0,0,0,0,0.50
+M19 233,Explosive Apparatus,,0,0.0,0,0,0,0.25
+M19 234,Field Creeper,,0,0.0,0,0,0,0.25
+M19 147,Hostile Minotaur,,0,0.0,0,0,0,0.25
+M19 20,Knightly Valor,,0,0.0,0,0,0,0.50
+M19 108,Macabre Waltz,,0,0.0,0,0,0,0.25
+M19 111,Nightmare's Thirst,,0,0.0,0,0,0,0.50
+M19 64,Omenspeaker,,0,0.0,0,0,0,0.25
+M19 70,Salvager of Secrets,,0,0.0,0,0,0,0.25
+M19 71,Scholar of Stars,,0,0.0,0,0,0,0.25
+M19 162,Tectonic Rift,,0,0.0,0,0,0,0.50
+M19 258,Timber Gorge,,0,0.0,0,0,0,0.25
+M19 167,Volcanic Dragon,,0,0.0,0,0,0,0.50
+M19 311,Waterknot,,0,0.0,0,0,0,0.25
+M19 102,Infernal Reckoning,,0,0.0,0,0,0,0.50
+M19 17,Isolate,,0,0.0,0,0,0,0.50
+M19 27,Mentor of the Meek,,0,0.0,0,0,0,0.50
+M19 308,Air Elemental,,0,0.0,0,0,0,0.50
+M19 309,Befuddle,,0,0.0,0,0,0,0.25
+M19 10,Daybreak Chaplain,,0,0.0,0,0,0,0.25
+M19 250,Forsaken Sanctuary,,0,0.0,0,0,0,0.25
+M19 188,Highland Game,,0,0.0,0,0,0,0.25
+M19 100,Hired Blade,,0,0.0,0,0,0,0.25
+M19 15,Inspired Charge,,0,0.0,0,0,0,0.25
+M19 242,Millstone,,0,0.0,0,0,0,0.50
+M19 191,Oakenform,,0,0.0,0,0,0,0.25
+M19 115,Ravenous Harpy,,0,0.0,0,0,0,0.50
+M19 157,Siegebreaker Giant,,0,0.0,0,0,0,0.50
+M19 257,Submerged Boneyard,,0,0.0,0,0,0,0.25
+M19 270,Swamp,,0,0.0,0,0,0,0.50
+M19 204,Thornhide Wolves,,0,0.0,0,0,0,0.25
+M19 206,Vigilant Baloth,,0,0.0,0,0,0,0.50
+M19 104,Isareth the Awakener,,0,0.0,0,0,0,0.50
+M19 7,Angel of the Dawn,,0,0.0,0,0,0,0.25
+M19 8,Cavalry Drillmaster,,0,0.0,0,0,0,0.25
+M19 54,Essence Scatter,,0,0.0,0,0,0,0.25
+M19 278,Forest,,0,0.0,0,0,0,0.50
+M19 184,Gift of Paradise,,0,0.0,0,0,0,0.50
+M19 312,Grasping Scoundrel,,0,0.0,0,0,0,0.25
+M19 273,Mountain,,0,0.0,0,0,0,0.50
+M19 198,Rhox Oracle,,0,0.0,0,0,0,0.25
+M19 255,Rupture Spire,,0,0.0,0,0,0,0.50
+M19 75,Snapping Drake,,0,0.0,0,0,0,0.25
+M19 6,Soldier Token,,0,0.0,0,0,0,0.50
+M19 122,Strangling Spores,,0,0.0,0,0,0,0.25
+M19 307,Sun Sentinel,,0,0.0,0,0,0,0.25
+M19 260,Woodland Stream,,0,0.0,0,0,0,0.25
+M19 127,Act of Treason,,0,0.0,0,0,0,0.25
+M19 211,Aerial Engineer,,0,0.0,0,0,0,0.50
+M19 45,Aven Wind Mage,,0,0.0,0,0,0,0.25
+M19 131,Boggart Brute,,0,0.0,0,0,0,0.25
+M19 47,Bone to Ash,,0,0.0,0,0,0,0.50
+M19 213,Brawl-Bash Ogre,,0,0.0,0,0,0,0.50
+M19 170,Bristling Boar,,0,0.0,0,0,0,0.25
+M19 1,Checklist,,0,0.0,0,0,0,0.50
+M19 248,Cinder Barrens,,0,0.0,0,0,0,0.25
+M19 92,Diregraf Ghoul,,0,0.0,0,0,0,0.50
+M19 50,Disperse,,0,0.0,0,0,0,0.25
+M19 53,Dwindle,,0,0.0,0,0,0,0.25
+M19 139,Electrify,,0,0.0,0,0,0,0.25
+M19 17,Emblem,,0,0.0,0,0,0,0.50
+M19 216,Enigma Drake,,0,0.0,0,0,0,0.50
+M19 140,Fiery Finish,,0,0.0,0,0,0,0.50
+M19 141,Fire Elemental,,0,0.0,0,0,0,0.25
+M19 277,Forest,,0,0.0,0,0,0,0.50
+M19 279,Forest,,0,0.0,0,0,0,0.50
+M19 56,Frilled Sea Serpent,,0,0.0,0,0,0,0.25
+M19 236,Gargoyle Sentinel,,0,0.0,0,0,0,0.50
+M19 237,Gearsmith Guardian,,0,0.0,0,0,0,0.25
+M19 57,Gearsmith Prodigy,,0,0.0,0,0,0,0.25
+M19 183,Giant Spider,,0,0.0,0,0,0,0.25
+M19 98,Gravedigger,,0,0.0,0,0,0,0.50
+M19 59,Horizon Scholar,,0,0.0,0,0,0,0.50
+M19 101,Infectious Horror,,0,0.0,0,0,0,0.25
+M19 103,Infernal Scarring,,0,0.0,0,0,0,0.25
+M19 148,Inferno Hellion,,0,0.0,0,0,0,0.50
+M19 265,Island,,0,0.0,0,0,0,0.50
+M19 266,Island,,0,0.0,0,0,0,0.50
+M19 267,Island,,0,0.0,0,0,0,0.50
+M19 268,Island,,0,0.0,0,0,0,0.50
+M19 18,Knight of the Tusk,,0,0.0,0,0,0,0.25
+M19 105,Lich's Caress,,0,0.0,0,0,0,0.25
+M19 24,Loxodon Line Breaker,,0,0.0,0,0,0,0.25
+M19 25,Luminous Bonds,,0,0.0,0,0,0,0.25
+M19 240,Marauder's Axe,,0,0.0,0,0,0,0.25
+M19 253,Meandering River,,0,0.0,0,0,0,0.25
+M19 28,Mighty Leap,,0,0.0,0,0,0,0.25
+M19 109,Mind Rot,,0,0.0,0,0,0,0.25
+M19 274,Mountain,,0,0.0,0,0,0,0.50
+M19 275,Mountain,,0,0.0,0,0,0,0.50
+M19 276,Mountain,,0,0.0,0,0,0,0.50
+M19 153,Onakke Ogre,,0,0.0,0,0,0,0.25
+M19 288,Pendulum of Patterns,,0,0.0,0,0,0,0.25
+M19 262,Plains,,0,0.0,0,0,0,0.50
+M19 263,Plains,,0,0.0,0,0,0,0.50
+M19 264,Plains,,0,0.0,0,0,0,0.50
+M19 193,Plummet,,0,0.0,0,0,0,0.25
+M19 221,Psychic Symbiont,,0,0.0,0,0,0,0.50
+M19 195,Rabid Bite,,0,0.0,0,0,0,0.25
+M19 35,Revitalize,,0,0.0,0,0,0,0.25
+M19 117,Rise from the Grave,,0,0.0,0,0,0,0.50
+M19 199,Root Snare,,0,0.0,0,0,0,0.25
+M19 300,Shivan Dragon,,0,0.0,0,0,0,0.50
+M19 72,Sift,,0,0.0,0,0,0,0.50
+M19 118,Skeleton Archer,,0,0.0,0,0,0,0.25
+M19 256,Stone Quarry,,0,0.0,0,0,0,0.25
+M19 161,Sure Strike,,0,0.0,0,0,0,0.25
+M19 271,Swamp,,0,0.0,0,0,0,0.50
+M19 290,Tezzeret's Strider,,0,0.0,0,0,0,0.50
+M19 203,Thorn Lieutenant,,0,0.0,0,0,0,0.50
+M19 205,Titanic Growth,,0,0.0,0,0,0,0.25
+M19 164,Tormenting Voice,,0,0.0,0,0,0,0.25
+M19 81,Totally Lost,,0,0.0,0,0,0,0.25
+M19 165,Trumpet Blast,,0,0.0,0,0,0,0.25
+M19 41,Trusty Packbeast,,0,0.0,0,0,0,0.25
+M19 82,Uncomfortable Chill,,0,0.0,0,0,0,0.25
+M19 8,Zombie Token,,0,0.0,0,0,0,0.50
+M19 218F,Nicol Bolas,,0,0.0,0,0,0,0
+M19 144F,Goblin Trashmaster,,0,0.0,0,0,0,13.00
+M19 163F,Thud,,0,0.0,0,0,0,8.00
+M19 154F,Sarkhan,,0,0.0,0,0,0,0
+M19 34F,Resplendent Angel,,0,0.0,0,0,0,22.00
+M19 23F,Leonin Warleader,,0,0.0,0,0,0,10.00
+M19 106F,Liliana,,0,0.0,0,0,0,0
+M19 6F,Ajani's Welcome,,0,0.0,0,0,0,9.00
+M19 90F,Death Baron,,0,0.0,0,0,0,9.00
+M19 212F,Arcades,,0,0.0,0,0,0,0
+M19 68F,Psychic Corrosion,,0,0.0,0,0,0,12.00
+M19 107F,Liliana's Contract,,0,0.0,0,0,0,8.00
+M19 79F,Tezzeret,,0,0.0,0,0,0,0
+M19 185F,Gigantosaurus,,0,0.0,0,0,0,4.00
+M19 232F,Dragon's Hoard,,0,0.0,0,0,0,9.50
+M19 129F,Apex of Power,,0,0.0,0,0,0,3.50
+M19 39F,Suncleanser,,0,0.0,0,0,0,9.00
+M19 96F,Fell Specter,,0,0.0,0,0,0,8.00
+M19 173F,Colossal Majesty,,0,0.0,0,0,0,7.00
+M19 189F,Hungering Hydra,,0,0.0,0,0,0,7.00
+M19 121F,Stitcher's Supplier,,0,0.0,0,0,0,7.00
+M19 208F,Vivien Reid,,0,0.0,0,0,0,3.50
+M19 76F,Supreme Phantom,,0,0.0,0,0,0,2.00
+M19 229F,Crucible of Worlds,,0,0.0,0,0,0,28.00
+M19 201F,Scapeshift,,0,0.0,0,0,0,32.00
+M19 97F,Fraying Omnipotence,,0,0.0,0,0,0,2.00
+M19 200F,Runic Armasaur,,0,0.0,0,0,0,5.50
+M19 235F,Fountain of Renewal,,0,0.0,0,0,0,3.00
+M19 230F,Desecrated Tomb,,0,0.0,0,0,0,1.50
+M19 65F,Omniscience,,0,0.0,0,0,0,10.00
+M19 149F,Lathliss,,0,0.0,0,0,0,0
+M19 254F,Reliquary Tower,,0,0.0,0,0,0,5.00
+M19 179F,Elvish Clancaller,,0,0.0,0,0,0,2.50
+M19 223F,Satyr Enchanter,,0,0.0,0,0,0,8.00
+M19 155F,Sarkhan's Unsealing,,0,0.0,0,0,0,4.00
+M19 160F,Spit Flame,,0,0.0,0,0,0,2.00
+M19 135F,Demanding Dragon,,0,0.0,0,0,0,1.00
+M19 3F,Ajani,,0,0.0,0,0,0,0
+M19 220F,Poison-Tip Archer,,0,0.0,0,0,0,7.00
+M19 225F,Vaevictis Asmadi,,0,0.0,0,0,0,0
+M19 69F,Sai,,0,0.0,0,0,0,0
+M19 43F,Aether Tunnel,,0,0.0,0,0,0,3.00
+M19 186F,Goreclaw,,0,0.0,0,0,0,0
+M19 166F,Viashino Pyromancer,,0,0.0,0,0,0,3.00
+M19 42F,Valiant Knight,,0,0.0,0,0,0,1.50
+M19 130F,Banefire,,0,0.0,0,0,0,2.00
+M19 21F,Lena,,0,0.0,0,0,0,0
+M19 112F,Open the Graves,,0,0.0,0,0,0,2.00
+M19 9F,Cleansing Nova,,0,0.0,0,0,0,3.00
+M19 142F,Goblin Instigator,,0,0.0,0,0,0,4.00
+M19 61F,Mirror Image,,0,0.0,0,0,0,3.00
+M19 196F,Reclamation Sage,,0,0.0,0,0,0,0.50
+M19 228F,Chaos Wand,,0,0.0,0,0,0,2.50
+M19 243F,Rogue's Gloves,,0,0.0,0,0,0,2.50
+M19 67F,Patient Rebuilding,,0,0.0,0,0,0,1.50
+M19 84F,Windreader Sphinx,,0,0.0,0,0,0,1.00
+M19 85F,Abnormal Endurance,,0,0.0,0,0,0,1.00
+M19 62F,Mistcaller,,0,0.0,0,0,0,4.00
+M19 238F,Magistrate's Scepter,,0,0.0,0,0,0,2.00
+M19 133F,Crash Through,,0,0.0,0,0,0,1.00
+M19 151F,Lightning Mare,,0,0.0,0,0,0,1.00
+M19 120F,Sovereign's Bite,,0,0.0,0,0,0,3.00
+M19 146F,Havoc Devils,,0,0.0,0,0,0,0.50
+M19 36F,Rustwing Falcon,,0,0.0,0,0,0,0.50
+M19 124F,Vampire Neonate,,0,0.0,0,0,0,0.50
+M19 219F,Palladia-Mors,,0,0.0,0,0,0,0
+M19 33F,Remorseful Cleric,,0,0.0,0,0,0,2.50
+M19 134F,Dark-Dweller Oracle,,0,0.0,0,0,0,1.00
+M19 95F,Epicure of Blood,,0,0.0,0,0,0,1.00
+M19 116F,Reassembling Skeleton,,0,0.0,0,0,0,1.00
+M19 244F,Sigiled Sword of Valeron,,0,0.0,0,0,0,1.00
+M19 245F,Skyscanner,,0,0.0,0,0,0,1.00
+M19 143F,Goblin Motivator,,0,0.0,0,0,0,2.00
+M19 222F,Regal Bloodlord,,0,0.0,0,0,0,2.00
+M19 231F,Diamond Mare,,0,0.0,0,0,0,2.00
+M19 181F,Ghastbark Twins,,0,0.0,0,0,0,0.50
+M19 66F,One with the Machine,,0,0.0,0,0,0,1.00
+M19 180F,Elvish Rejuvenator,,0,0.0,0,0,0,0.50
+M19 27F,Mentor of the Meek,,0,0.0,0,0,0,0.50
+M19 226F,Amulet of Safekeeping,,0,0.0,0,0,0,0.50
+M19 136F,Dismissive Pyromancer,,0,0.0,0,0,0,0.50
+M19 239F,Manalith,,0,0.0,0,0,0,0.50
+M19 22F,Leonin Vanguard,,0,0.0,0,0,0,1.00
+M19 74F,Sleep,,0,0.0,0,0,0,1.00
+M19 19F,Knight's Pledge,,0,0.0,0,0,0,0.50
+M19 197F,Recollect,,0,0.0,0,0,0,0.50
+M19 145F,Guttersnipe,,0,0.0,0,0,0,1.00
+M19 102F,Infernal Reckoning,,0,0.0,0,0,0,1.00
+M19 114F,Plague Mare,,0,0.0,0,0,0,1.00
+M19 203F,Thorn Lieutenant,,0,0.0,0,0,0,1.00
+M19 125F,Vampire Sovereign,,0,0.0,0,0,0,1.00
+M19 48F,Cancel,,0,0.0,0,0,0,0.50
+M19 248F,Cinder Barrens,,0,0.0,0,0,0,0.50
+M19 177F,Druid of the Cowl,,0,0.0,0,0,0,0.50
+M19 178F,Dryad Greenseeker,,0,0.0,0,0,0,0.50
+M19 234F,Field Creeper,,0,0.0,0,0,0,0.50
+M19 251F,Foul Orchard,,0,0.0,0,0,0,0.50
+M19 252F,Highland Lake,,0,0.0,0,0,0,0.50
+M19 108F,Macabre Waltz,,0,0.0,0,0,0,0.50
+M19 137F,Doublecast,,0,0.0,0,0,0,1.00
+M19 275F,Mountain,,0,0.0,0,0,0,0.50
+M19 63F,Mystic Archaeologist,,0,0.0,0,0,0,0.50
+M19 118F,Skeleton Archer,,0,0.0,0,0,0,0.50
+M19 119F,Skymarch Bloodletter,,0,0.0,0,0,0,0.50
+M19 159F,Sparktongue Dragon,,0,0.0,0,0,0,0.50
+M19 256F,Stone Quarry,,0,0.0,0,0,0,0.50
+M19 40F,Take Vengeance,,0,0.0,0,0,0,0.50
+M19 164F,Tormenting Voice,,0,0.0,0,0,0,0.50
+M19 207F,Vine Mare,,0,0.0,0,0,0,0.50
+M19 210F,Wall of Vines,,0,0.0,0,0,0,0.50
+M19 273F,Mountain,,0,0.0,0,0,0,0.50
+M19 202F,Talons of Wildwood,,0,0.0,0,0,0,0.50
+M19 2F,Aethershield Artificer,,0,0.0,0,0,0,0.50
+M19 44F,Anticipate,,0,0.0,0,0,0,0.50
+M19 227F,Arcane Encyclopedia,,0,0.0,0,0,0,0.50
+M19 86F,Blood Divination,,0,0.0,0,0,0,0.50
+M19 131F,Boggart Brute,,0,0.0,0,0,0,0.50
+M19 174F,Daggerback Basilisk,,0,0.0,0,0,0,0.50
+M19 50F,Disperse,,0,0.0,0,0,0,0.50
+M19 138F,Dragon Egg,,0,0.0,0,0,0,0.50
+M19 176F,Druid of Horns,,0,0.0,0,0,0,0.50
+M19 11F,Dwarven Priest,,0,0.0,0,0,0,0.50
+M19 216F,Enigma Drake,,0,0.0,0,0,0,0.50
+M19 55F,Exclusion Mage,,0,0.0,0,0,0,0.50
+M19 280F,Forest,,0,0.0,0,0,0,0.50
+M19 57F,Gearsmith Prodigy,,0,0.0,0,0,0,0.50
+M19 58F,Ghostform,,0,0.0,0,0,0,0.50
+M19 184F,Gift of Paradise,,0,0.0,0,0,0,0.50
+M19 187F,Greenwood Sentinel,,0,0.0,0,0,0,0.50
+M19 148F,Inferno Hellion,,0,0.0,0,0,0,0.50
+M19 17F,Isolate,,0,0.0,0,0,0,0.50
+M19 253F,Meandering River,,0,0.0,0,0,0,0.50
+M19 110F,Murder,,0,0.0,0,0,0,0.50
+M19 30F,Novice Knight,,0,0.0,0,0,0,0.50
+M19 64F,Omenspeaker,,0,0.0,0,0,0,0.50
+M19 32F,Pegasus Courser,,0,0.0,0,0,0,0.50
+M19 195F,Rabid Bite,,0,0.0,0,0,0,0.50
+M19 115F,Ravenous Harpy,,0,0.0,0,0,0,0.50
+M19 117F,Rise from the Grave,,0,0.0,0,0,0,0.50
+M19 255F,Rupture Spire,,0,0.0,0,0,0,0.50
+M19 73F,Skilled Animator,,0,0.0,0,0,0,0.50
+M19 77F,Surge Mare,,0,0.0,0,0,0,0.50
+M19 41F,Trusty Packbeast,,0,0.0,0,0,0,0.50
+M19 123F,Two-Headed Zombie,,0,0.0,0,0,0,0.50
+M19 206F,Vigilant Baloth,,0,0.0,0,0,0,0.50
+M19 209F,Vivien's Invocation,,0,0.0,0,0,0,0.50
+M19 127F,Act of Treason,,0,0.0,0,0,0,0.50
+M19 1F,Aegis of the Heavens,,0,0.0,0,0,0,1.00
+M19 211F,Aerial Engineer,,0,0.0,0,0,0,0.50
+M19 4F,Ajani's Last Stand,,0,0.0,0,0,0,0.50
+M19 5F,Ajani's Pridemate,,0,0.0,0,0,0,0.50
+M19 128F,Alpine Moon,,0,0.0,0,0,0,7.00
+M19 7F,Angel of the Dawn,,0,0.0,0,0,0,0.50
+M19 45F,Aven Wind Mage,,0,0.0,0,0,0,0.50
+M19 46F,Aviation Pioneer,,0,0.0,0,0,0,0.50
+M19 169F,Blanchwood Armor,,0,0.0,0,0,0,0.50
+M19 87F,Bogstomper,,0,0.0,0,0,0,0.50
+M19 88F,Bone Dragon,,0,0.0,0,0,0,2.50
+M19 47F,Bone to Ash,,0,0.0,0,0,0,0.50
+M19 213F,Brawl-Bash Ogre,,0,0.0,0,0,0,0.50
+M19 170F,Bristling Boar,,0,0.0,0,0,0,0.50
+M19 132F,Catalyst Elemental,,0,0.0,0,0,0,0.50
+M19 8F,Cavalry Drillmaster,,0,0.0,0,0,0,0.50
+M19 171F,Centaur Courser,,0,0.0,0,0,0,0.50
+M19 89F,Child of Night,,0,0.0,0,0,0,0.50
+M19 214F,Chromium,,0,0.0,0,0,0,0
+M19 172F,Colossal Dreadmaw,,0,0.0,0,0,0,0.50
+M19 10F,Daybreak Chaplain,,0,0.0,0,0,0,0.50
+M19 175F,Declare Dominance,,0,0.0,0,0,0,0.50
+M19 91F,Demon of Catastrophes,,0,0.0,0,0,0,1.00
+M19 49F,Departed Deckhand,,0,0.0,0,0,0,1.00
+M19 249F,Detection Tower,,0,0.0,0,0,0,5.00
+M19 92F,Diregraf Ghoul,,0,0.0,0,0,0,0.50
+M19 51F,Divination,,0,0.0,0,0,0,0.50
+M19 52F,Djinn of Wishes,,0,0.0,0,0,0,0.50
+M19 93F,Doomed Dissenter,,0,0.0,0,0,0,0.50
+M19 215F,Draconic Disciple,,0,0.0,0,0,0,0.50
+M19 94F,Duress,,0,0.0,0,0,0,0.50
+M19 53F,Dwindle,,0,0.0,0,0,0,0.50
+M19 139F,Electrify,,0,0.0,0,0,0,0.50
+M19 54F,Essence Scatter,,0,0.0,0,0,0,0.50
+M19 233F,Explosive Apparatus,,0,0.0,0,0,0,0.50
+M19 140F,Fiery Finish,,0,0.0,0,0,0,0.50
+M19 141F,Fire Elemental,,0,0.0,0,0,0,0.50
+M19 277F,Forest,,0,0.0,0,0,0,0.50
+M19 278F,Forest,,0,0.0,0,0,0,0.50
+M19 279F,Forest,,0,0.0,0,0,0,0.50
+M19 250F,Forsaken Sanctuary,,0,0.0,0,0,0,0.50
+M19 56F,Frilled Sea Serpent,,0,0.0,0,0,0,0.50
+M19 12F,Gallant Cavalry,,0,0.0,0,0,0,0.50
+M19 236F,Gargoyle Sentinel,,0,0.0,0,0,0,0.50
+M19 237F,Gearsmith Guardian,,0,0.0,0,0,0,0.50
+M19 182F,Ghirapur Guide,,0,0.0,0,0,0,0.50
+M19 183F,Giant Spider,,0,0.0,0,0,0,0.50
+M19 98F,Gravedigger,,0,0.0,0,0,0,0.50
+M19 99F,Graveyard Marshal,,0,0.0,0,0,0,0.50
+M19 13F,Herald of Faith,,0,0.0,0,0,0,0.50
+M19 217F,Heroic Reinforcements,,0,0.0,0,0,0,0.50
+M19 14F,Hieromancer's Cage,,0,0.0,0,0,0,0.50
+M19 188F,Highland Game,,0,0.0,0,0,0,0.50
+M19 100F,Hired Blade,,0,0.0,0,0,0,0.50
+M19 59F,Horizon Scholar,,0,0.0,0,0,0,0.50
+M19 147F,Hostile Minotaur,,0,0.0,0,0,0,0.50
+M19 101F,Infectious Horror,,0,0.0,0,0,0,0.50
+M19 103F,Infernal Scarring,,0,0.0,0,0,0,0.50
+M19 15F,Inspired Charge,,0,0.0,0,0,0,0.50
+M19 16F,Invoke the Divine,,0,0.0,0,0,0,0.50
+M19 104F,Isareth the Awakener,,0,0.0,0,0,0,0.50
+M19 265F,Island,,0,0.0,0,0,0,0.50
+M19 266F,Island,,0,0.0,0,0,0,0.50
+M19 267F,Island,,0,0.0,0,0,0,0.50
+M19 268F,Island,,0,0.0,0,0,0,0.50
+M19 18F,Knight of the Tusk,,0,0.0,0,0,0,0.50
+M19 20F,Knightly Valor,,0,0.0,0,0,0,0.50
+M19 150F,Lava Axe,,0,0.0,0,0,0,0.50
+M19 105F,Lich's Caress,,0,0.0,0,0,0,0.50
+M19 152F,Lightning Strike,,0,0.0,0,0,0,2.00
+M19 24F,Loxodon Line Breaker,,0,0.0,0,0,0,0.50
+M19 25F,Luminous Bonds,,0,0.0,0,0,0,0.50
+M19 26F,Make a Stand,,0,0.0,0,0,0,0.50
+M19 240F,Marauder's Axe,,0,0.0,0,0,0,0.50
+M19 60F,Metamorphic Alteration,,0,0.0,0,0,0,1.00
+M19 241F,Meteor Golem,,0,0.0,0,0,0,1.00
+M19 28F,Mighty Leap,,0,0.0,0,0,0,0.50
+M19 29F,Militia Bugler,,0,0.0,0,0,0,0.50
+M19 242F,Millstone,,0,0.0,0,0,0,0.50
+M19 109F,Mind Rot,,0,0.0,0,0,0,0.50
+M19 274F,Mountain,,0,0.0,0,0,0,0.50
+M19 276F,Mountain,,0,0.0,0,0,0,0.50
+M19 190F,Naturalize,,0,0.0,0,0,0,0.50
+M19 111F,Nightmare's Thirst,,0,0.0,0,0,0,0.50
+M19 191F,Oakenform,,0,0.0,0,0,0,0.50
+M19 153F,Onakke Ogre,,0,0.0,0,0,0,0.50
+M19 31F,Oreskos Swiftclaw,,0,0.0,0,0,0,0.50
+M19 192F,Pelakka Wurm,,0,0.0,0,0,0,0.50
+M19 113F,Phylactery Lich,,0,0.0,0,0,0,1.00
+M19 261F,Plains,,0,0.0,0,0,0,0.50
+M19 262F,Plains,,0,0.0,0,0,0,0.50
+M19 263F,Plains,,0,0.0,0,0,0,1.00
+M19 264F,Plains,,0,0.0,0,0,0,1.00
+M19 193F,Plummet,,0,0.0,0,0,0,0.50
+M19 194F,Prodigious Growth,,0,0.0,0,0,0,1.00
+M19 221F,Psychic Symbiont,,0,0.0,0,0,0,0.50
+M19 35F,Revitalize,,0,0.0,0,0,0,0.50
+M19 198F,Rhox Oracle,,0,0.0,0,0,0,0.50
+M19 199F,Root Snare,,0,0.0,0,0,0,0.50
+M19 70F,Salvager of Secrets,,0,0.0,0,0,0,1.00
+M19 71F,Scholar of Stars,,0,0.0,0,0,0,0.50
+M19 37F,Shield Mare,,0,0.0,0,0,0,1.00
+M19 156F,Shock,,0,0.0,0,0,0,0.50
+M19 157F,Siegebreaker Giant,,0,0.0,0,0,0,0.50
+M19 72F,Sift,,0,0.0,0,0,0,0.50
+M19 224F,Skyrider Patrol,,0,0.0,0,0,0,0.50
+M19 158F,Smelt,,0,0.0,0,0,0,0.50
+M19 75F,Snapping Drake,,0,0.0,0,0,0,0.50
+M19 38F,Star-Crowned Stag,,0,0.0,0,0,0,0.50
+M19 122F,Strangling Spores,,0,0.0,0,0,0,0.50
+M19 257F,Submerged Boneyard,,0,0.0,0,0,0,0.50
+M19 161F,Sure Strike,,0,0.0,0,0,0,0.50
+M19 246F,Suspicious Bookcase,,0,0.0,0,0,0,0.50
+M19 269F,Swamp,,0,0.0,0,0,0,0.50
+M19 270F,Swamp,,0,0.0,0,0,0,0.50
+M19 271F,Swamp,,0,0.0,0,0,0,0.50
+M19 272F,Swamp,,0,0.0,0,0,0,0.50
+M19 78F,Switcheroo,,0,0.0,0,0,0,0.50
+M19 162F,Tectonic Rift,,0,0.0,0,0,0,0.50
+M19 204F,Thornhide Wolves,,0,0.0,0,0,0,0.50
+M19 258F,Timber Gorge,,0,0.0,0,0,0,0.50
+M19 205F,Titanic Growth,,0,0.0,0,0,0,0.50
+M19 80F,Tolarian Scholar,,0,0.0,0,0,0,0.50
+M19 81F,Totally Lost,,0,0.0,0,0,0,0.50
+M19 259F,Tranquil Expanse,,0,0.0,0,0,0,0.50
+M19 165F,Trumpet Blast,,0,0.0,0,0,0,0.50
+M19 82F,Uncomfortable Chill,,0,0.0,0,0,0,0.50
+M19 247F,Transmogrifying Wand,,0,0.0,0,0,0,1.00
+M19 167F,Volcanic Dragon,,0,0.0,0,0,0,0.50
+M19 168F,Volley Veteran,,0,0.0,0,0,0,1.50
+M19 126F,Walking Corpse,,0,0.0,0,0,0,0.50
+M19 83F,Wall of Mist,,0,0.0,0,0,0,0.50
+M19 260F,Woodland Stream,,0,0.0,0,0,0,0.50
+M19 218,"Nicol Bolas, the Ravager",,0,0.0,0,0,0,20.00
+M19 149,"Lathliss, Dragon Queen",,0,0.0,0,0,0,3.50
+M19 79,"Tezzeret, Artifice Master",,0,0.0,0,0,0,4.00
+M19 212,"Arcades, the Strategist",,0,0.0,0,0,0,4.50
+M19 154,"Sarkhan, Fireblood",,0,0.0,0,0,0,3.00
+M19 291,"Liliana, the Necromancer",,0,0.0,0,0,0,10.00
+M19 296,"Sarkhan, Dragonsoul",,0,0.0,0,0,0,6.50
+M19 106,"Liliana, Untouched by Death",,0,0.0,0,0,0,3.00
+M19 186,"Goreclaw, Terror of Qal Sisma",,0,0.0,0,0,0,1.00
+M19 225,"Vaevictis Asmadi, the Dire",,0,0.0,0,0,0,2.00
+M19 281,"Ajani, Wise Counselor",,0,0.0,0,0,0,7.00
+M19 3,"Ajani, Adversary of Tyrants",,0,0.0,0,0,0,1.50
+M19 21,"Lena, Selfless Champion",,0,0.0,0,0,0,1.00
+M19 219,"Palladia-Mors, the Ruiner",,0,0.0,0,0,0,1.00
+M19 214,"Chromium, the Mutable",,0,0.0,0,0,0,1.00
+M19 69,"Sai, Master Thopterist",,0,0.0,0,0,0,0.50
+M19 286,"Tezzeret, Cruel Machinist",,0,0.0,0,0,0,1.00
+M19 218F,"Nicol Bolas, the Ravager",,0,0.0,0,0,0,48.00
+M19 106F,"Liliana, Untouched by Death",,0,0.0,0,0,0,14.00
+M19 212F,"Arcades, the Strategist",,0,0.0,0,0,0,24.00
+M19 79F,"Tezzeret, Artifice Master",,0,0.0,0,0,0,11.00
+M19 154F,"Sarkhan, Fireblood",,0,0.0,0,0,0,17.00
+M19 149F,"Lathliss, Dragon Queen",,0,0.0,0,0,0,9.50
+M19 3F,"Ajani, Adversary of Tyrants",,0,0.0,0,0,0,7.00
+M19 225F,"Vaevictis Asmadi, the Dire",,0,0.0,0,0,0,7.00
+M19 69F,"Sai, Master Thopterist",,0,0.0,0,0,0,2.50
+M19 186F,"Goreclaw, Terror of Qal Sisma",,0,0.0,0,0,0,3.00
+M19 21F,"Lena, Selfless Champion",,0,0.0,0,0,0,2.00
+M19 219F,"Palladia-Mors, the Ruiner",,0,0.0,0,0,0,2.50
+M19 214F,"Chromium, the Mutable",,0,0.0,0,0,0,7.00

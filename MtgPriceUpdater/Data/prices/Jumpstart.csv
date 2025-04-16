@@ -1,0 +1,563 @@
+JMP 169,Rhystic Study,,0,0.0,0,0,0,59.00
+JMP 10,Bruvac the Grandiloquent,,0,0.0,0,0,0,32.00
+JMP 30,Neyith of the Dire Hunt,,0,0.0,0,0,0,16.00
+JMP 231,Exquisite Blood,,0,0.0,0,0,0,25.00
+JMP 28,Allosaurus Shepherd,,0,0.0,0,0,0,30.00
+JMP 119,Linvala,,0,0.0,0,0,0,0
+JMP 17,Tinybones,,0,0.0,0,0,0,0
+JMP 385,Craterhoof Behemoth,,0,0.0,0,0,0,24.00
+JMP 493,Phyrexian Tower,,0,0.0,0,0,0,21.00
+JMP 278,Sheoldred,,0,0.0,0,0,0,0
+JMP 270,Reanimate,,0,0.0,0,0,0,8.00
+JMP 187,Vedalken Archmage,,0,0.0,0,0,0,11.00
+JMP 328,Goblin Lore,,0,0.0,0,0,0,7.00
+JMP 24,Muxus,,0,0.0,0,0,0,0
+JMP 410,Lurking Predators,,0,0.0,0,0,0,11.00
+JMP 429,Selvala,,0,0.0,0,0,0,0
+JMP 271,Rise of the Dark Realms,,0,0.0,0,0,0,5.00
+JMP 116,Kor Spiritdancer,,0,0.0,0,0,0,4.50
+JMP 31,Towering Titan,,0,0.0,0,0,0,6.00
+JMP 96,Celestial Mantle,,0,0.0,0,0,0,4.50
+JMP 154,Kira,,0,0.0,0,0,0,0
+JMP 29,Branching Evolution,,0,0.0,0,0,0,4.00
+JMP 324,Goblin Chieftain,,0,0.0,0,0,0,5.50
+JMP 1,Blessed Sanctuary,,0,0.0,0,0,0,2.00
+JMP 411,Momentous Fall,,0,0.0,0,0,0,4.00
+JMP 415,Oracle of Mul Daya,,0,0.0,0,0,0,7.50
+JMP 230,Exhume,,0,0.0,0,0,0,5.50
+JMP 267,Phyrexian Reclamation,,0,0.0,0,0,0,6.50
+JMP 3,Emiel the Blessed,,0,0.0,0,0,0,5.00
+JMP 27,Zurzoth,,0,0.0,0,0,0,0
+JMP 20,Immolating Gyre,,0,0.0,0,0,0,2.00
+JMP 45,Plains,,0,0.0,0,0,0,2.50
+JMP 86,Angelic Arbiter,,0,0.0,0,0,0,5.00
+JMP 482,Scarecrone,,0,0.0,0,0,0,3.00
+JMP 422,Primordial Sage,,0,0.0,0,0,0,1.00
+JMP 101,Duelist's Heritage,,0,0.0,0,0,0,0.50
+JMP 204,Black Market,,0,0.0,0,0,0,3.50
+JMP 312,Dragonspeaker Shaman,,0,0.0,0,0,0,3.50
+JMP 432,Soul of the Harvest,,0,0.0,0,0,0,2.00
+JMP 130,Rhox Faithmender,,0,0.0,0,0,0,3.50
+JMP 383,Champion of Lambholt,,0,0.0,0,0,0,2.50
+JMP 494,Riptide Laboratory,,0,0.0,0,0,0,0.50
+JMP 361,Sarkhan's Unsealing,,0,0.0,0,0,0,1.50
+JMP 85,Angel of the Dire Hour,,0,0.0,0,0,0,2.00
+JMP 491,Buried Ruin,,0,0.0,0,0,0,1.00
+JMP 56,Swamp,,0,0.0,0,0,0,1.00
+JMP 193,Whelming Wave,,0,0.0,0,0,0,1.00
+JMP 340,Lathliss,,0,0.0,0,0,0,0
+JMP 469,Herald's Horn,,0,0.0,0,0,0,5.00
+JMP 236,Ghoulcaller Gisa,,0,0.0,0,0,0,2.50
+JMP 448,Zendikar's Roil,,0,0.0,0,0,0,2.00
+JMP 113,Isamaru,,0,0.0,0,0,0,0
+JMP 144,Coastal Piracy,,0,0.0,0,0,0,2.00
+JMP 233,Fell Specter,,0,0.0,0,0,0,0.50
+JMP 313,Dualcaster Mage,,0,0.0,0,0,0,2.00
+JMP 127,Path to Exile,,0,0.0,0,0,0,1.00
+JMP 95,Cathars' Crusade,,0,0.0,0,0,0,5.00
+JMP 334,Hellrider,,0,0.0,0,0,0,1.00
+JMP 272,Sangromancer,,0,0.0,0,0,0,1.00
+JMP 442,Wall of Blossoms,,0,0.0,0,0,0,0.50
+JMP 378,Assault Formation,,0,0.0,0,0,0,1.50
+JMP 181,Talrand,,0,0.0,0,0,0,0
+JMP 97,Cloudshift,,0,0.0,0,0,0,2.00
+JMP 117,Lena,,0,0.0,0,0,0,0
+JMP 18,Witch of the Moors,,0,0.0,0,0,0,1.00
+JMP 457,Alloy Myr,,0,0.0,0,0,0,0.50
+JMP 216,Cauldron Familiar,,0,0.0,0,0,0,2.00
+JMP 342,Lightning Bolt,,0,0.0,0,0,0,1.50
+JMP 229,Eternal Thirst,,0,0.0,0,0,0,0.50
+JMP 399,Ghalta,,0,0.0,0,0,0,0
+JMP 167,Read the Runes,,0,0.0,0,0,0,0.50
+JMP 369,Volley Veteran,,0,0.0,0,0,0,0.50
+JMP 243,Harvester of Souls,,0,0.0,0,0,0,1.00
+JMP 98,Cradle of Vitality,,0,0.0,0,0,0,1.00
+JMP 261,Oona's Blackguard,,0,0.0,0,0,0,0.50
+JMP 274,Scourge of Nel Toth,,0,0.0,0,0,0,0.50
+JMP 454,Maelstrom Archangel,,0,0.0,0,0,0,1.00
+JMP 147,Curiosity,,0,0.0,0,0,0,0.50
+JMP 417,Overgrown Battlement,,0,0.0,0,0,0,1.00
+JMP 4,Release the Dogs,,0,0.0,0,0,0,0.50
+JMP 8,Trusty Retriever,,0,0.0,0,0,0,0.25
+JMP 239,Gifted Aetherborn,,0,0.0,0,0,0,0.50
+JMP 327,Goblin Instigator,,0,0.0,0,0,0,0.50
+JMP 291,Ball Lightning,,0,0.0,0,0,0,1.00
+JMP 269,Ravenous Chupacabra,,0,0.0,0,0,0,0.50
+JMP 5,Steel-Plume Marshal,,0,0.0,0,0,0,0.50
+JMP 393,Explore,,0,0.0,0,0,0,0.25
+JMP 225,Drana,,0,0.0,0,0,0,0
+JMP 294,Beetleback Chief,,0,0.0,0,0,0,0.50
+JMP 70,Forest,,0,0.0,0,0,0,0.50
+JMP 402,Hunter's Insight,,0,0.0,0,0,0,1.00
+JMP 305,Collateral Damage,,0,0.0,0,0,0,0.25
+JMP 439,Ulvenwald Hydra,,0,0.0,0,0,0,1.00
+JMP 479,Rogue's Gloves,,0,0.0,0,0,0,0.50
+JMP 15,Kels,,0,0.0,0,0,0,0
+JMP 456,Aether Spellbomb,,0,0.0,0,0,0,0.25
+JMP 466,Gingerbrute,,0,0.0,0,0,0,0.50
+JMP 212,Bone Picker,,0,0.0,0,0,0,0.50
+JMP 53,Island,,0,0.0,0,0,0,0.50
+JMP 162,Oneirophage,,0,0.0,0,0,0,0.50
+JMP 196,Winged Words,,0,0.0,0,0,0,0.25
+JMP 26,Spiteful Prankster,,0,0.0,0,0,0,0.50
+JMP 363,Sin Prodder,,0,0.0,0,0,0,0.50
+JMP 21,Lightning Phoenix,,0,0.0,0,0,0,0.50
+JMP 458,Ancestral Statue,,0,0.0,0,0,0,0.25
+JMP 65,Mountain,,0,0.0,0,0,0,0.50
+JMP 206,Blood Artist,,0,0.0,0,0,0,1.50
+JMP 14,Scholar of the Lost Trove,,0,0.0,0,0,0,0.50
+JMP 25,Sethron,,0,0.0,0,0,0,0
+JMP 372,Young Pyromancer,,0,0.0,0,0,0,0.50
+JMP 38,Plains,,0,0.0,0,0,0,0.50
+JMP 404,Inspiring Call,,0,0.0,0,0,0,0.50
+JMP 73,Forest,,0,0.0,0,0,0,0.50
+JMP 311,Dragonlord's Servant,,0,0.0,0,0,0,0.50
+JMP 421,Primeval Bounty,,0,0.0,0,0,0,1.00
+JMP 82,Ajani's Chosen,,0,0.0,0,0,0,0.50
+JMP 62,Mountain,,0,0.0,0,0,0,0.50
+JMP 12,Inniaz,,0,0.0,0,0,0,0
+JMP 302,Chain Lightning,,0,0.0,0,0,0,0.50
+JMP 51,Island,,0,0.0,0,0,0,0.50
+JMP 123,Mikaeus,,0,0.0,0,0,0,0
+JMP 326,Goblin Goon,,0,0.0,0,0,0,0.50
+JMP 13,Ormos,,0,0.0,0,0,0,0
+JMP 19,Chained Brute,,0,0.0,0,0,0,0.50
+JMP 41,Plains,,0,0.0,0,0,0,0.50
+JMP 412,Nature's Way,,0,0.0,0,0,0,0.50
+JMP 423,Rampaging Brontodon,,0,0.0,0,0,0,0.50
+JMP 9,Archaeomender,,0,0.0,0,0,0,0.25
+JMP 16,Nocturnal Feeder,,0,0.0,0,0,0,0.25
+JMP 251,Liliana's Reaver,,0,0.0,0,0,0,1.00
+JMP 397,Feral Prowler,,0,0.0,0,0,0,0.25
+JMP 198,Wizard's Retort,,0,0.0,0,0,0,0.50
+JMP 424,Ravenous Baloth,,0,0.0,0,0,0,0.50
+JMP 77,Forest,,0,0.0,0,0,0,0.50
+JMP 467,Guardian Idol,,0,0.0,0,0,0,0.50
+JMP 246,Languish,,0,0.0,0,0,0,0.50
+JMP 387,Dawntreader Elk,,0,0.0,0,0,0,0.25
+JMP 433,Sporemound,,0,0.0,0,0,0,0.25
+JMP 47,Island,,0,0.0,0,0,0,0.50
+JMP 395,Feral Hydra,,0,0.0,0,0,0,0.50
+JMP 425,Rishkar,,0,0.0,0,0,0,0
+JMP 339,Krenko,,0,0.0,0,0,0,0
+JMP 148,Curious Obsession,,0,0.0,0,0,0,0.50
+JMP 226,Dutiful Attendant,,0,0.0,0,0,0,0.25
+JMP 151,Essence Flux,,0,0.0,0,0,0,1.00
+JMP 391,Elvish Archdruid,,0,0.0,0,0,0,0.50
+JMP 314,Etali,,0,0.0,0,0,0,0
+JMP 184,Thought Collapse,,0,0.0,0,0,0,0.50
+JMP 292,Barrage of Expendables,,0,0.0,0,0,0,0.50
+JMP 142,Chart a Course,,0,0.0,0,0,0,0.50
+JMP 64,Mountain,,0,0.0,0,0,0,0.50
+JMP 483,Scroll of Avacyn,,0,0.0,0,0,0,0.25
+JMP 382,Carven Caryatid,,0,0.0,0,0,0,0.50
+JMP 259,Nyxathid,,0,0.0,0,0,0,0.50
+JMP 329,Goblin Rally,,0,0.0,0,0,0,0.50
+JMP 345,Lightning Shrieker,,0,0.0,0,0,0,0.25
+JMP 63,Mountain,,0,0.0,0,0,0,0.50
+JMP 7,Supply Runners,,0,0.0,0,0,0,0.50
+JMP 11,Corsair Captain,,0,0.0,0,0,0,0.50
+JMP 406,Irresistible Prey,,0,0.0,0,0,0,0.50
+JMP 22,Lightning Visionary,,0,0.0,0,0,0,0.25
+JMP 241,Gravewaker,,0,0.0,0,0,0,0.50
+JMP 260,Ogre Slumlord,,0,0.0,0,0,0,0.50
+JMP 441,Verdant Embrace,,0,0.0,0,0,0,0.50
+JMP 384,Commune with Dinosaurs,,0,0.0,0,0,0,0.25
+JMP 306,Dance with Devils,,0,0.0,0,0,0,0.50
+JMP 24,Minions Theme Card,,0,0.0,0,0,0,0.50
+JMP 414,New Horizons,,0,0.0,0,0,0,0.25
+JMP 354,Outnumber,,0,0.0,0,0,0,0.25
+JMP 178,Spectral Sailor,,0,0.0,0,0,0,0.50
+JMP 78,Terramorphic Expanse,,0,0.0,0,0,0,0.25
+JMP 36,Thriving Isle,,0,0.0,0,0,0,0.25
+JMP 213,Bone Splinters,,0,0.0,0,0,0,0.25
+JMP 380,Brindle Shoat,,0,0.0,0,0,0,0.50
+JMP 323,Furnace Whelp,,0,0.0,0,0,0,0.50
+JMP 331,Grim Lavamancer,,0,0.0,0,0,0,0.50
+JMP 166,Rattlechains,,0,0.0,0,0,0,0.50
+JMP 176,Sharding Sphinx,,0,0.0,0,0,0,0.50
+JMP 492,Mirrodin's Core,,0,0.0,0,0,0,0.50
+JMP 66,Mountain,,0,0.0,0,0,0,0.50
+JMP 258,Nightshade Stinger,,0,0.0,0,0,0,0.25
+JMP 133,Sky Tether,,0,0.0,0,0,0,0.50
+JMP 472,Mana Geode,,0,0.0,0,0,0,0.25
+JMP 377,Armorcraft Judge,,0,0.0,0,0,0,0.50
+JMP 141,Belltower Sphinx,,0,0.0,0,0,0,0.50
+JMP 207,Blood Divination,,0,0.0,0,0,0,0.50
+JMP 460,Bubbling Cauldron,,0,0.0,0,0,0,0.50
+JMP 217,Cemetery Recruitment,,0,0.0,0,0,0,0.25
+JMP 221,Crow of Dark Tidings,,0,0.0,0,0,0,0.25
+JMP 153,Exclusion Mage,,0,0.0,0,0,0,0.50
+JMP 15,Feathered Friends Theme Card,,0,0.0,0,0,0,0.50
+JMP 321,Flurry of Horns,,0,0.0,0,0,0,0.25
+JMP 401,Grave Bramble,,0,0.0,0,0,0,0.25
+JMP 46,Island,,0,0.0,0,0,0,0.50
+JMP 256,Miasmic Mummy,,0,0.0,0,0,0,0.25
+JMP 416,Orazca Frillback,,0,0.0,0,0,0,0.25
+JMP 420,Presence of Gond,,0,0.0,0,0,0,0.25
+JMP 455,Raging Regisaur,,0,0.0,0,0,0,0.50
+JMP 280,Soul Salvage,,0,0.0,0,0,0,0.25
+JMP 35,Thriving Heath,,0,0.0,0,0,0,0.25
+JMP 368,Volcanic Fallout,,0,0.0,0,0,0,0.50
+JMP 490,Warmonger's Chariot,,0,0.0,0,0,0,0.50
+JMP 287,Wight of Precinct Six,,0,0.0,0,0,0,0.25
+JMP 89,Archon of Justice,,0,0.0,0,0,0,0.50
+JMP 461,Chamber Sentry,,0,0.0,0,0,0,0.50
+JMP 332,Hamletback Goliath,,0,0.0,0,0,0,0.50
+JMP 126,Path of Bravery,,0,0.0,0,0,0,0.50
+JMP 357,Rageblood Shaman,,0,0.0,0,0,0,0.50
+JMP 175,Serendib Efreet,,0,0.0,0,0,0,0.50
+JMP 12,Dragons Theme Card,,0,0.0,0,0,0,0.50
+JMP 459,Arcane Encyclopedia,,0,0.0,0,0,0,0.50
+JMP 224,Drainpipe Vermin,,0,0.0,0,0,0,0.25
+JMP 320,Fling,,0,0.0,0,0,0,0.25
+JMP 74,Forest,,0,0.0,0,0,0,0.50
+JMP 325,Goblin Commando,,0,0.0,0,0,0,0.50
+JMP 407,Keeper of Fables,,0,0.0,0,0,0,0.50
+JMP 25,Minotaurs Theme Card,,0,0.0,0,0,0,0.50
+JMP 478,Prophetic Prism,,0,0.0,0,0,0,0.25
+JMP 358,Rapacious Dragon,,0,0.0,0,0,0,0.50
+JMP 54,Swamp,,0,0.0,0,0,0,0.50
+JMP 60,Swamp,,0,0.0,0,0,0,0.50
+JMP 61,Swamp,,0,0.0,0,0,0,0.50
+JMP 488,Terrarion,,0,0.0,0,0,0,0.25
+JMP 183,Thirst for Knowledge,,0,0.0,0,0,0,0.50
+JMP 33,Thriving Bluff,,0,0.0,0,0,0,0.25
+JMP 185,Thought Scour,,0,0.0,0,0,0,0.50
+JMP 90,Archon of Redemption,,0,0.0,0,0,0,0.50
+JMP 244,Innocent Blood,,0,0.0,0,0,0,0.50
+JMP 138,Aegis Turtle,,0,0.0,0,0,0,0.25
+JMP 80,Aerial Assault,,0,0.0,0,0,0,0.25
+JMP 81,Affa Guard Hound,,0,0.0,0,0,0,0.50
+JMP 374,Aggressive Urge,,0,0.0,0,0,0,0.25
+JMP 201,Bake into a Pie,,0,0.0,0,0,0,0.25
+JMP 202,Barter in Blood,,0,0.0,0,0,0,0.50
+JMP 92,Blessed Spirits,,0,0.0,0,0,0,0.50
+JMP 208,Blood Host,,0,0.0,0,0,0,0.50
+JMP 304,Cinder Elemental,,0,0.0,0,0,0,0.50
+JMP 228,Eternal Taskmaster,,0,0.0,0,0,0,0.50
+JMP 315,Fanatical Firebrand,,0,0.0,0,0,0,0.25
+JMP 396,Feral Invocation,,0,0.0,0,0,0,0.25
+JMP 76,Forest,,0,0.0,0,0,0,0.50
+JMP 337,Inferno Hellion,,0,0.0,0,0,0,0.50
+JMP 19,Lands Theme Card,,0,0.0,0,0,0,0.50
+JMP 453,Lawmage's Binding,,0,0.0,0,0,0,0.25
+JMP 32,Lightning-Core Excavator,,0,0.0,0,0,0,0.25
+JMP 257,Mire Triton,,0,0.0,0,0,0,0.50
+JMP 351,Molten Ravager,,0,0.0,0,0,0,0.25
+JMP 159,Narcolepsy,,0,0.0,0,0,0,0.25
+JMP 266,Phyrexian Rager,,0,0.0,0,0,0,0.25
+JMP 164,Prescient Chimera,,0,0.0,0,0,0,0.25
+JMP 356,Pyroclastic Elemental,,0,0.0,0,0,0,0.50
+JMP 427,Savage Stomp,,0,0.0,0,0,0,0.50
+JMP 428,Scrounging Bandar,,0,0.0,0,0,0,0.25
+JMP 484,Scuttlemutt,,0,0.0,0,0,0,0.50
+JMP 173,Sea Gate Oracle,,0,0.0,0,0,0,0.25
+JMP 177,Sigiled Starfish,,0,0.0,0,0,0,0.50
+JMP 487,Suspicious Bookcase,,0,0.0,0,0,0,0.50
+JMP 180,Sweep Away,,0,0.0,0,0,0,0.25
+JMP 37,Thriving Moor,,0,0.0,0,0,0,0.25
+JMP 437,Thundering Spineback,,0,0.0,0,0,0,0.50
+JMP 39,Tree-Hugging Theme Card,,0,0.0,0,0,0,0.50
+JMP 285,Vampire Neonate,,0,0.0,0,0,0,0.25
+JMP 286,Wailing Ghoul,,0,0.0,0,0,0,0.25
+JMP 443,Wall of Vines,,0,0.0,0,0,0,0.25
+JMP 192,Waterknot,,0,0.0,0,0,0,0.25
+JMP 1,Above the Clouds Theme Card,,0,0.0,0,0,0,0.50
+JMP 79,Aegis of the Heavens,,0,0.0,0,0,0,0.50
+JMP 373,Affectionate Indrik,,0,0.0,0,0,0,0.50
+JMP 200,Assassin's Strike,,0,0.0,0,0,0,0.50
+JMP 139,Battleground Geist,,0,0.0,0,0,0,0.50
+JMP 203,Black Cat,,0,0.0,0,0,0,0.25
+JMP 209,Bloodbond Vampire,,0,0.0,0,0,0,0.50
+JMP 296,Bloodrage Brawler,,0,0.0,0,0,0,0.50
+JMP 93,Bulwark Giant,,0,0.0,0,0,0,0.25
+JMP 220,Corpse Traders,,0,0.0,0,0,0,0.50
+JMP 222,Death's Approach,,0,0.0,0,0,0,0.25
+JMP 8,Dinosaurs Theme Card,,0,0.0,0,0,0,0.50
+JMP 1,Dogs Theme Card,,0,0.0,0,0,0,0.50
+JMP 308,Draconic Roar,,0,0.0,0,0,0,0.50
+JMP 464,Dreamstone Hedron,,0,0.0,0,0,0,0.50
+JMP 389,Dwynen's Elite,,0,0.0,0,0,0,0.50
+JMP 102,Emancipation Angel,,0,0.0,0,0,0,0.50
+JMP 330,Goblin Shortcutter,,0,0.0,0,0,0,0.25
+JMP 17,Goblins Theme Card,,0,0.0,0,0,0,0.50
+JMP 452,Ironroot Warlord,,0,0.0,0,0,0,0.50
+JMP 250,Liliana's Elite,,0,0.0,0,0,0,0.50
+JMP 120,Long Road Home,,0,0.0,0,0,0,0.50
+JMP 122,Mesa Unicorn,,0,0.0,0,0,0,0.25
+JMP 157,Murmuring Phantasm,,0,0.0,0,0,0,0.25
+JMP 475,Myr Sire,,0,0.0,0,0,0,0.25
+JMP 125,Pacifism,,0,0.0,0,0,0,0.25
+JMP 476,Perilous Myr,,0,0.0,0,0,0,0.25
+JMP 168,Reckless Scholar,,0,0.0,0,0,0,0.50
+JMP 32,Rogues Theme Card,,0,0.0,0,0,0,0.50
+JMP 174,Selhoff Occultist,,0,0.0,0,0,0,0.25
+JMP 486,Skittering Surveyor,,0,0.0,0,0,0,0.25
+JMP 55,Swamp,,0,0.0,0,0,0,0.50
+JMP 57,Swamp,,0,0.0,0,0,0,0.50
+JMP 59,Swamp,,0,0.0,0,0,0,0.50
+JMP 282,Swarm of Bloodflies,,0,0.0,0,0,0,0.50
+JMP 283,Tempting Witch,,0,0.0,0,0,0,0.50
+JMP 365,Thermo-Alchemist,,0,0.0,0,0,0,0.25
+JMP 191,Warden of Evos Isle,,0,0.0,0,0,0,0.50
+JMP 197,Wishful Merfolk,,0,0.0,0,0,0,0.25
+JMP 108,High Sentinels of Arashin,,0,0.0,0,0,0,0.50
+JMP 194,Windreader Sphinx,,0,0.0,0,0,0,0.50
+JMP 289,Act of Treason,,0,0.0,0,0,0,0.25
+JMP 379,Awakener Druid,,0,0.0,0,0,0,0.50
+JMP 205,Blighted Bat,,0,0.0,0,0,0,0.25
+JMP 210,Bloodhunter Bat,,0,0.0,0,0,0,0.25
+JMP 2,Brightmare,,0,0.0,0,0,0,0.50
+JMP 6,Chandra Theme Card,,0,0.0,0,0,0,0.50
+JMP 388,Drover of the Mighty,,0,0.0,0,0,0,0.50
+JMP 390,Elemental Uprising,,0,0.0,0,0,0,0.25
+JMP 232,Falkenrath Noble,,0,0.0,0,0,0,0.50
+JMP 318,Flames of the Raze-Boar,,0,0.0,0,0,0,0.50
+JMP 75,Forest,,0,0.0,0,0,0,0.50
+JMP 106,Gird for Battle,,0,0.0,0,0,0,0.50
+JMP 333,Heartfire,,0,0.0,0,0,0,0.25
+JMP 336,Hungry Flames,,0,0.0,0,0,0,0.25
+JMP 52,Island,,0,0.0,0,0,0,0.50
+JMP 470,Jousting Dummy,,0,0.0,0,0,0,0.25
+JMP 155,Kitesail Corsair,,0,0.0,0,0,0,0.25
+JMP 114,Knight of the Tusk,,0,0.0,0,0,0,0.25
+JMP 68,Mountain,,0,0.0,0,0,0,0.50
+JMP 409,Lifecrafter's Gift,,0,0.0,0,0,0,0.50
+JMP 344,Lightning Elemental,,0,0.0,0,0,0,0.25
+JMP 253,Malakir Familiar,,0,0.0,0,0,0,0.50
+JMP 355,Pillar of Flame,,0,0.0,0,0,0,0.25
+JMP 477,Pirate's Cutlass,,0,0.0,0,0,0,0.25
+JMP 31,Reanimated Theme Card,,0,0.0,0,0,0,0.50
+JMP 172,Sailor of Means,,0,0.0,0,0,0,0.25
+JMP 277,Shambling Goblin,,0,0.0,0,0,0,0.25
+JMP 431,Somberwald Stag,,0,0.0,0,0,0,0.50
+JMP 434,Sylvan Brushstrider,,0,0.0,0,0,0,0.25
+JMP 134,Take Heart,,0,0.0,0,0,0,0.25
+JMP 34,Thriving Grove,,0,0.0,0,0,0,0.25
+JMP 284,Tithebearer Giant,,0,0.0,0,0,0,0.25
+JMP 136,Valorous Stance,,0,0.0,0,0,0,0.50
+JMP 188,Vedalken Entrancer,,0,0.0,0,0,0,0.25
+JMP 189,Voyage's End,,0,0.0,0,0,0,0.25
+JMP 190,Wall of Lost Thoughts,,0,0.0,0,0,0,0.50
+JMP 370,Warfire Javelineer,,0,0.0,0,0,0,0.50
+JMP 371,Weaver of Lightning,,0,0.0,0,0,0,0.50
+JMP 445,Wildsize,,0,0.0,0,0,0,0.25
+JMP 211,Bogbrew Witch,,0,0.0,0,0,0,0.50
+JMP 303,Charmbreaker Devils,,0,0.0,0,0,0,0.50
+JMP 240,Gonti,,0,0.0,0,0,0,0
+JMP 347,Magmaquake,,0,0.0,0,0,0,0.50
+JMP 41,Unicorns Theme Card,,0,0.0,0,0,0,0.50
+JMP 88,Angelic Page,,0,0.0,0,0,0,0.25
+JMP 290,Ashmouth Hound,,0,0.0,0,0,0,0.25
+JMP 295,Blindblast,,0,0.0,0,0,0,0.25
+JMP 299,Boggart Brute,,0,0.0,0,0,0,0.25
+JMP 301,Borderland Minotaur,,0,0.0,0,0,0,0.25
+JMP 94,Cathar's Companion,,0,0.0,0,0,0,0.25
+JMP 450,Dinrova Horror,,0,0.0,0,0,0,0.50
+JMP 307,Doublecast,,0,0.0,0,0,0,0.50
+JMP 309,Dragon Fodder,,0,0.0,0,0,0,0.25
+JMP 310,Dragon Hatchling,,0,0.0,0,0,0,0.25
+JMP 227,Entomber Exarch,,0,0.0,0,0,0,0.50
+JMP 234,Festering Newt,,0,0.0,0,0,0,0.50
+JMP 71,Forest,,0,0.0,0,0,0,0.50
+JMP 238,Ghoulraiser,,0,0.0,0,0,0,0.25
+JMP 335,Homing Lightning,,0,0.0,0,0,0,0.50
+JMP 403,Initiate's Companion,,0,0.0,0,0,0,0.25
+JMP 20,Legion Theme Card,,0,0.0,0,0,0,0.50
+JMP 341,Lightning Axe,,0,0.0,0,0,0,0.50
+JMP 343,Lightning Diadem,,0,0.0,0,0,0,0.25
+JMP 22,Liliana Theme Card,,0,0.0,0,0,0,0.50
+JMP 346,Magma Jet,,0,0.0,0,0,0,0.50
+JMP 473,Marauder's Axe,,0,0.0,0,0,0,0.25
+JMP 255,Mausoleum Turnkey,,0,0.0,0,0,0,0.50
+JMP 349,Minotaur Skullcleaver,,0,0.0,0,0,0,0.25
+JMP 350,Minotaur Sureshot,,0,0.0,0,0,0,0.25
+JMP 67,Mountain,,0,0.0,0,0,0,0.50
+JMP 163,Peel from Reality,,0,0.0,0,0,0,0.25
+JMP 42,Plains,,0,0.0,0,0,0,0.50
+JMP 419,Pouncing Cheetah,,0,0.0,0,0,0,0.25
+JMP 30,Rainbow Theme Card,,0,0.0,0,0,0,0.50
+JMP 129,Raise the Alarm,,0,0.0,0,0,0,0.25
+JMP 426,Rumbling Baloth,,0,0.0,0,0,0,0.25
+JMP 362,Seismic Elemental,,0,0.0,0,0,0,0.50
+JMP 275,Sengir Vampire,,0,0.0,0,0,0,0.50
+JMP 276,Settle the Score,,0,0.0,0,0,0,0.50
+JMP 430,Silhana Wayfinder,,0,0.0,0,0,0,0.50
+JMP 279,Slate Street Ruffian,,0,0.0,0,0,0,0.25
+JMP 37,Spooky Theme Card,,0,0.0,0,0,0,0.50
+JMP 281,Stab Wound,,0,0.0,0,0,0,0.50
+JMP 179,Storm Sculptor,,0,0.0,0,0,0,0.25
+JMP 366,Tibalt's Rager,,0,0.0,0,0,0,0.50
+JMP 186,Towering-Wave Mystic,,0,0.0,0,0,0,0.25
+JMP 40,Under the Sea Theme Card,,0,0.0,0,0,0,0.50
+JMP 137,Voice of the Provinces,,0,0.0,0,0,0,0.25
+JMP 199,Agonizing Syphon,,0,0.0,0,0,0,0.25
+JMP 83,Alabaster Mage,,0,0.0,0,0,0,0.50
+JMP 375,Ambassador Oak,,0,0.0,0,0,0,0.25
+JMP 84,Angel of Mercy,,0,0.0,0,0,0,0.25
+JMP 87,Angelic Edict,,0,0.0,0,0,0,0.25
+JMP 2,Angels Theme Card,,0,0.0,0,0,0,0.50
+JMP 376,Arbor Armament,,0,0.0,0,0,0,0.25
+JMP 3,Archaeology Theme Card,,0,0.0,0,0,0,0.50
+JMP 449,Auger Spree,,0,0.0,0,0,0,0.25
+JMP 4,Basri Theme Card,,0,0.0,0,0,0,0.50
+JMP 293,Bathe in Dragonfire,,0,0.0,0,0,0,0.25
+JMP 91,Battlefield Promotion,,0,0.0,0,0,0,0.25
+JMP 140,Befuddle,,0,0.0,0,0,0,0.25
+JMP 297,Bloodrock Cyclops,,0,0.0,0,0,0,0.25
+JMP 298,Bloodshot Trainee,,0,0.0,0,0,0,0.50
+JMP 300,Borderland Marauder,,0,0.0,0,0,0,0.25
+JMP 381,Brushstrider,,0,0.0,0,0,0,0.50
+JMP 214,Burglar Rat,,0,0.0,0,0,0,0.25
+JMP 215,Cadaver Imp,,0,0.0,0,0,0,0.25
+JMP 5,Cats Theme Card,,0,0.0,0,0,0,0.50
+JMP 218,Child of Night,,0,0.0,0,0,0,0.25
+JMP 462,Chromatic Sphere,,0,0.0,0,0,0,0.50
+JMP 143,Cloudreader Sphinx,,0,0.0,0,0,0,0.25
+JMP 219,Corpse Hauler,,0,0.0,0,0,0,0.25
+JMP 145,Crookclaw Transmuter,,0,0.0,0,0,0,0.25
+JMP 386,Crushing Canopy,,0,0.0,0,0,0,0.25
+JMP 146,Cryptic Serpent,,0,0.0,0,0,0,0.50
+JMP 99,Dauntless Onslaught,,0,0.0,0,0,0,0.50
+JMP 149,Departed Deckhand,,0,0.0,0,0,0,0.50
+JMP 7,Devilish Theme Card,,0,0.0,0,0,0,0.50
+JMP 9,Discarding Theme Card,,0,0.0,0,0,0,0.50
+JMP 100,Divine Arrow,,0,0.0,0,0,0,0.25
+JMP 10,Doctor Theme Card,,0,0.0,0,0,0,0.50
+JMP 223,Douse in Gloom,,0,0.0,0,0,0,0.25
+JMP 463,Dragonloft Idol,,0,0.0,0,0,0,0.50
+JMP 13,Elves Theme Card,,0,0.0,0,0,0,0.50
+JMP 14,Enchanted Theme Card,,0,0.0,0,0,0,0.50
+JMP 392,Enlarge,,0,0.0,0,0,0,0.50
+JMP 150,Erratic Visionary,,0,0.0,0,0,0,0.25
+JMP 152,Exclude,,0,0.0,0,0,0,0.50
+JMP 394,Fa'adiyah Seer,,0,0.0,0,0,0,0.25
+JMP 103,Face of Divinity,,0,0.0,0,0,0,0.50
+JMP 398,Fertilid,,0,0.0,0,0,0,0.25
+JMP 316,Flame Lash,,0,0.0,0,0,0,0.25
+JMP 317,Flames of the Firebrand,,0,0.0,0,0,0,0.50
+JMP 319,Flametongue Kavu,,0,0.0,0,0,0,0.50
+JMP 104,Forced Worship,,0,0.0,0,0,0,0.25
+JMP 72,Forest,,0,0.0,0,0,0,0.50
+JMP 322,Forge Devil,,0,0.0,0,0,0,0.25
+JMP 105,Fortify,,0,0.0,0,0,0,0.25
+JMP 235,Funeral Rites,,0,0.0,0,0,0,0.25
+JMP 451,Fusion Elemental,,0,0.0,0,0,0,0.50
+JMP 465,Gargoyle Sentinel,,0,0.0,0,0,0,0.50
+JMP 16,Garruk Theme Card,,0,0.0,0,0,0,0.50
+JMP 400,Ghirapur Guide,,0,0.0,0,0,0,0.50
+JMP 237,Ghoulcaller's Accomplice,,0,0.0,0,0,0,0.25
+JMP 242,Gristle Grinner,,0,0.0,0,0,0,0.50
+JMP 107,Healer's Hawk,,0,0.0,0,0,0,0.25
+JMP 18,Heavily Armored Theme Card,,0,0.0,0,0,0,0.50
+JMP 468,Hedron Archive,,0,0.0,0,0,0,0.50
+JMP 109,Indomitable Will,,0,0.0,0,0,0,0.25
+JMP 110,Inspired Charge,,0,0.0,0,0,0,0.25
+JMP 111,Inspiring Captain,,0,0.0,0,0,0,0.25
+JMP 112,Inspiring Unicorn,,0,0.0,0,0,0,0.50
+JMP 405,Ironshell Beetle,,0,0.0,0,0,0,0.25
+JMP 48,Island,,0,0.0,0,0,0,0.50
+JMP 49,Island,,0,0.0,0,0,0,0.50
+JMP 50,Island,,0,0.0,0,0,0,0.50
+JMP 471,Juggernaut,,0,0.0,0,0,0,0.50
+JMP 245,Kalastria Nightwatch,,0,0.0,0,0,0,0.25
+JMP 338,Kiln Fiend,,0,0.0,0,0,0,0.25
+JMP 115,Knightly Valor,,0,0.0,0,0,0,0.25
+JMP 247,Last Gasp,,0,0.0,0,0,0,0.25
+JMP 248,Launch Party,,0,0.0,0,0,0,0.25
+JMP 249,Lawless Broker,,0,0.0,0,0,0,0.25
+JMP 408,Leaf Gilder,,0,0.0,0,0,0,0.25
+JMP 156,Leave in the Dust,,0,0.0,0,0,0,0.25
+JMP 21,Lightning Theme Card,,0,0.0,0,0,0,0.50
+JMP 118,Lightwalker,,0,0.0,0,0,0,0.25
+JMP 23,Living Lightning,,0,0.0,0,0,0,0.50
+JMP 252,Macabre Waltz,,0,0.0,0,0,0,0.25
+JMP 348,Makeshift Munitions,,0,0.0,0,0,0,0.50
+JMP 254,Mark of the Vampire,,0,0.0,0,0,0,0.25
+JMP 121,Mentor of the Meek,,0,0.0,0,0,0,0.50
+JMP 474,Meteor Golem,,0,0.0,0,0,0,0.50
+JMP 23,Milling Theme Card,,0,0.0,0,0,0,0.50
+JMP 124,Moment of Heroism,,0,0.0,0,0,0,0.25
+JMP 69,Mountain,,0,0.0,0,0,0,0.50
+JMP 352,Mugging,,0,0.0,0,0,0,0.25
+JMP 158,Mystic Archaeologist,,0,0.0,0,0,0,0.50
+JMP 160,Nebelgast Herald,,0,0.0,0,0,0,0.50
+JMP 413,Nessian Hornbeetle,,0,0.0,0,0,0,0.50
+JMP 161,Octoprophet,,0,0.0,0,0,0,0.25
+JMP 353,Ornery Goblin,,0,0.0,0,0,0,0.25
+JMP 262,Parasitic Implant,,0,0.0,0,0,0,0.25
+JMP 128,Patron of the Valiant,,0,0.0,0,0,0,0.50
+JMP 418,Penumbra Bobcat,,0,0.0,0,0,0,0.25
+JMP 263,Phyrexian Broodlings,,0,0.0,0,0,0,0.25
+JMP 264,Phyrexian Debaser,,0,0.0,0,0,0,0.25
+JMP 265,Phyrexian Gargantua,,0,0.0,0,0,0,0.50
+JMP 26,Phyrexian Theme Card,,0,0.0,0,0,0,0.50
+JMP 27,Pirates Theme Card,,0,0.0,0,0,0,0.50
+JMP 268,Plagued Rusalka,,0,0.0,0,0,0,0.25
+JMP 39,Plains,,0,0.0,0,0,0,0.50
+JMP 40,Plains,,0,0.0,0,0,0,0.50
+JMP 43,Plains,,0,0.0,0,0,0,0.50
+JMP 44,Plains,,0,0.0,0,0,0,0.50
+JMP 28,Plus One Theme Card,,0,0.0,0,0,0,0.50
+JMP 29,Predatory Theme Card,,0,0.0,0,0,0,0.50
+JMP 165,Prosperous Pirates,,0,0.0,0,0,0,0.25
+JMP 359,Riddle of Lightning,,0,0.0,0,0,0,0.50
+JMP 170,Rishadan Airship,,0,0.0,0,0,0,0.25
+JMP 131,Ronom Unicorn,,0,0.0,0,0,0,0.25
+JMP 480,Roving Keep,,0,0.0,0,0,0,0.25
+JMP 481,Runed Servitor,,0,0.0,0,0,0,0.25
+JMP 495,Rupture Spire,,0,0.0,0,0,0,0.25
+JMP 171,Sage's Row Savant,,0,0.0,0,0,0,0.25
+JMP 273,Sanitarium Skeleton,,0,0.0,0,0,0,0.25
+JMP 360,Sarkhan's Rage,,0,0.0,0,0,0,0.25
+JMP 33,Seismic Theme Card,,0,0.0,0,0,0,0.50
+JMP 132,Serra Angel,,0,0.0,0,0,0,0.50
+JMP 485,Signpost Scarecrow,,0,0.0,0,0,0,0.25
+JMP 34,Smashing Theme Card,,0,0.0,0,0,0,0.50
+JMP 35,Spellcasting Theme Card,,0,0.0,0,0,0,0.50
+JMP 36,Spirits Theme Card,,0,0.0,0,0,0,0.50
+JMP 364,Spitting Earth,,0,0.0,0,0,0,0.25
+JMP 6,Stone Haven Pilgrim,,0,0.0,0,0,0,0.50
+JMP 58,Swamp,,0,0.0,0,0,0,1.00
+JMP 435,Sylvan Ranger,,0,0.0,0,0,0,0.25
+JMP 182,Talrand's Invocation,,0,0.0,0,0,0,0.50
+JMP 135,Tandem Tactics,,0,0.0,0,0,0,0.25
+JMP 38,Teferi Theme Card,,0,0.0,0,0,0,0.50
+JMP 436,Thragtusk,,0,0.0,0,0,0,0.50
+JMP 438,Time to Feed,,0,0.0,0,0,0,0.25
+JMP 367,Torch Fiend,,0,0.0,0,0,0,0.25
+JMP 489,Unstable Obelisk,,0,0.0,0,0,0,0.50
+JMP 42,Vampires Theme Card,,0,0.0,0,0,0,0.50
+JMP 440,Vastwood Zendikon,,0,0.0,0,0,0,0.25
+JMP 43,Walls Theme Card,,0,0.0,0,0,0,0.50
+JMP 44,Well-Read Theme Card,,0,0.0,0,0,0,0.50
+JMP 444,Wildheart Invoker,,0,0.0,0,0,0,0.25
+JMP 195,Windstorm Drake,,0,0.0,0,0,0,0.50
+JMP 45,Witchcraft Theme Card,,0,0.0,0,0,0,0.50
+JMP 46,Wizards Theme Card,,0,0.0,0,0,0,0.50
+JMP 446,Woodborn Behemoth,,0,0.0,0,0,0,0.50
+JMP 447,Wren's Run Vanquisher,,0,0.0,0,0,0,0.50
+JMP 288,Zombie Infestation,,0,0.0,0,0,0,0.50
+JMP 119,"Linvala, Keeper of Silence",,0,0.0,0,0,0,21.00
+JMP 17,"Tinybones, Trinket Thief",,0,0.0,0,0,0,20.00
+JMP 278,"Sheoldred, Whispering One",,0,0.0,0,0,0,17.00
+JMP 24,"Muxus, Goblin Grandee",,0,0.0,0,0,0,7.00
+JMP 429,"Selvala, Heart of the Wilds",,0,0.0,0,0,0,6.00
+JMP 154,"Kira, Great Glass-Spinner",,0,0.0,0,0,0,5.00
+JMP 27,"Zurzoth, Chaos Rider",,0,0.0,0,0,0,1.00
+JMP 340,"Lathliss, Dragon Queen",,0,0.0,0,0,0,3.00
+JMP 113,"Isamaru, Hound of Konda",,0,0.0,0,0,0,1.50
+JMP 181,"Talrand, Sky Summoner",,0,0.0,0,0,0,0.50
+JMP 117,"Lena, Selfless Champion",,0,0.0,0,0,0,1.00
+JMP 399,"Ghalta, Primal Hunger",,0,0.0,0,0,0,1.00
+JMP 225,"Drana, Liberator of Malakir",,0,0.0,0,0,0,1.00
+JMP 15,"Kels, Fight Fixer",,0,0.0,0,0,0,0.50
+JMP 25,"Sethron, Hurloon General",,0,0.0,0,0,0,0.50
+JMP 12,"Inniaz, the Gale Force",,0,0.0,0,0,0,0.50
+JMP 123,"Mikaeus, the Lunarch",,0,0.0,0,0,0,1.00
+JMP 13,"Ormos, Archive Keeper",,0,0.0,0,0,0,0.50
+JMP 425,"Rishkar, Peema Renegade",,0,0.0,0,0,0,0.50
+JMP 339,"Krenko, Mob Boss",,0,0.0,0,0,0,1.50
+JMP 314,"Etali, Primal Storm",,0,0.0,0,0,0,0.50
+JMP 240,"Gonti, Lord of Luxury",,0,0.0,0,0,0,0.50

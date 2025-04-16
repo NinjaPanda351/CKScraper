@@ -1,0 +1,604 @@
+PIP 356,Arcane Signet,,0,0.0,0,0,0,20.00
+PIP 354,Ravages of War,,0,0.0,0,0,0,21.00
+PIP 353,Farewell,,0,0.0,0,0,0,22.00
+PIP 347,Vigor,,0,0.0,0,0,0,21.00
+PIP 343,The Wise Mothman,,0,0.0,0,0,0,12.00
+PIP 359,Sol Ring,,0,0.0,0,0,0,24.00
+PIP 357,Crucible of Worlds,,0,0.0,0,0,0,32.00
+PIP 352,Walking Ballista,,0,0.0,0,0,0,17.00
+PIP 345,Lord of the Undead,,0,0.0,0,0,0,12.00
+PIP 360,Command Tower,,0,0.0,0,0,0,15.00
+PIP 361,Wasteland,,0,0.0,0,0,0,25.00
+PIP 471,Heroic Intervention,,0,0.0,0,0,0,14.00
+PIP 400,Power Fist,,0,0.0,0,0,0,14.00
+PIP 358,Nuka-Cola Vending Machine,,0,0.0,0,0,0,25.00
+PIP 495,Exotic Orchard,,0,0.0,0,0,0,6.00
+PIP 415,"Kellogg, Dangerous Mind",,0,0.0,0,0,0,5.00
+PIP 366,"Codsworth, Handy Helper",,0,0.0,0,0,0,17.00
+PIP 421,"Mr. House, President and CEO",,0,0.0,0,0,0,5.00
+PIP 504,Rootbound Crag,,0,0.0,0,0,0,4.00
+PIP 469,Guardian Project,,0,0.0,0,0,0,10.00
+PIP 369,Pre-War Formalwear,,0,0.0,0,0,0,5.00
+PIP 460,Inexorable Tide,,0,0.0,0,0,0,6.50
+PIP 349,Tarmogoyf,,0,0.0,0,0,0,7.50
+PIP 339,"Caesar, Legion's Emperor",,0,0.0,0,0,0,5.50
+PIP 402,Strong Back,,0,0.0,0,0,0,4.00
+PIP 500,Isolated Chapel,,0,0.0,0,0,0,5.00
+PIP 465,Blasphemous Act,,0,0.0,0,0,0,6.00
+PIP 491,Clifftop Retreat,,0,0.0,0,0,0,6.00
+PIP 355,Vandalblast,,0,0.0,0,0,0,6.00
+PIP 340,"Dogmeat, Ever Loyal",,0,0.0,0,0,0,4.00
+PIP 463,Black Market,,0,0.0,0,0,0,5.00
+PIP 344,Hullbreaker Horror,,0,0.0,0,0,0,7.00
+PIP 416,"Liberty Prime, Recharged",,0,0.0,0,0,0,4.50
+PIP 439,Diamond City,,0,0.0,0,0,0,3.00
+PIP 494,Drowned Catacomb,,0,0.0,0,0,0,3.00
+PIP 498,Hinterland Harbor,,0,0.0,0,0,0,3.50
+PIP 493,Dragonskull Summit,,0,0.0,0,0,0,4.50
+PIP 329,Radstorm,,0,0.0,0,0,0,6.00
+PIP 497,Glacial Fortress,,0,0.0,0,0,0,3.00
+PIP 490,Cinder Glade,,0,0.0,0,0,0,3.50
+PIP 482,Champion's Helm,,0,0.0,0,0,0,3.00
+PIP 435,Pip-Boy 3000,,0,0.0,0,0,0,5.50
+PIP 380,Struggle for Project Purity,,0,0.0,0,0,0,5.50
+PIP 528,Woodland Cemetery,,0,0.0,0,0,0,3.00
+PIP 485,Panharmonicon,,0,0.0,0,0,0,4.00
+PIP 511,Spire of Industry,,0,0.0,0,0,0,4.00
+PIP 468,Branching Evolution,,0,0.0,0,0,0,5.00
+PIP 478,Ruinous Ultimatum,,0,0.0,0,0,0,5.50
+PIP 419,"The Master, Transcendent",,0,0.0,0,0,0,2.00
+PIP 417,"MacCready, Lamplight Mayor",,0,0.0,0,0,0,4.00
+PIP 346,Grave Titan,,0,0.0,0,0,0,3.50
+PIP 341,Dr. Madison Li,,0,0.0,0,0,0,2.00
+PIP 470,Hardened Scales,,0,0.0,0,0,0,3.50
+PIP 461,Mechanized Production,,0,0.0,0,0,0,3.50
+PIP 526,Treasure Vault,,0,0.0,0,0,0,4.00
+PIP 512,Sulfur Falls,,0,0.0,0,0,0,4.50
+PIP 441,HELIOS One,,0,0.0,0,0,0,3.50
+PIP 331,Nuclear Fallout,,0,0.0,0,0,0,4.50
+PIP 456,Puresteel Paladin,,0,0.0,0,0,0,2.50
+PIP 374,"Curie, Emergent Intelligence",,0,0.0,0,0,0,3.50
+PIP 426,"Red Death, Shipwrecker",,0,0.0,0,0,0,2.00
+PIP 514,Sunken Hollow,,0,0.0,0,0,0,2.00
+PIP 447,Austere Command,,0,0.0,0,0,0,3.00
+PIP 342,Inventory Management,,0,0.0,0,0,0,2.00
+PIP 396,Wild Wasteland,,0,0.0,0,0,0,2.00
+PIP 431,Brotherhood Vertibird,,0,0.0,0,0,0,2.50
+PIP 386,Grim Reaper's Sprint,,0,0.0,0,0,0,2.00
+PIP 392,"Rose, Cutthroat Raider",,0,0.0,0,0,0,2.00
+PIP 438,Desolate Mire,,0,0.0,0,0,0,2.00
+PIP 327,Idolized,,0,0.0,0,0,0,2.00
+PIP 328,Securitron Squadron,,0,0.0,0,0,0,2.00
+PIP 414,Electrosiphon,,0,0.0,0,0,0,3.00
+PIP 515,Sunpetal Grove,,0,0.0,0,0,0,3.00
+PIP 506,Scavenger Grounds,,0,0.0,0,0,0,2.00
+PIP 503,Prairie Stream,,0,0.0,0,0,0,1.50
+PIP 520,Temple of Malady,,0,0.0,0,0,0,1.50
+PIP 373,"Yes Man, Personal Securitron",,0,0.0,0,0,0,2.00
+PIP 422,Mutational Advantage,,0,0.0,0,0,0,6.00
+PIP 338,Atomize,,0,0.0,0,0,0,3.50
+PIP 510,Smoldering Marsh,,0,0.0,0,0,0,2.00
+PIP 350,Hornet Queen,,0,0.0,0,0,0,3.00
+PIP 524,Temple of Silence,,0,0.0,0,0,0,2.00
+PIP 379,"Piper Wright, Publick Reporter",,0,0.0,0,0,0,1.50
+PIP 370,"The Prydwen, Steel Flagship",,0,0.0,0,0,0,2.00
+PIP 480,Basilisk Collar,,0,0.0,0,0,0,5.00
+PIP 483,Masterwork of Ingenuity,,0,0.0,0,0,0,1.00
+PIP 401,Rampaging Yao Guai,,0,0.0,0,0,0,2.50
+PIP 348,"Ayula, Queen Among Bears",,0,0.0,0,0,0,1.50
+PIP 466,Chaos Warp,,0,0.0,0,0,0,1.50
+PIP 487,Steel Overseer,,0,0.0,0,0,0,1.50
+PIP 521,Temple of Malice,,0,0.0,0,0,0,1.00
+PIP 333,V.A.T.S.,,0,0.0,0,0,0,3.00
+PIP 332,Screeching Scorchbeast,,0,0.0,0,0,0,2.00
+PIP 488,Canopy Vista,,0,0.0,0,0,0,1.00
+PIP 476,Casualties of War,,0,0.0,0,0,0,1.00
+PIP 507,Shadowblood Ridge,,0,0.0,0,0,0,1.00
+PIP 502,Nesting Grounds,,0,0.0,0,0,0,2.00
+PIP 335,Watchful Radstag,,0,0.0,0,0,0,1.50
+PIP 405,Agent Frank Horrigan,,0,0.0,0,0,0,2.00
+PIP 404,Tato Farmer,,0,0.0,0,0,0,1.00
+PIP 457,Secure the Wastes,,0,0.0,0,0,0,2.00
+PIP 445,Sunscorched Divide,,0,0.0,0,0,0,2.00
+PIP 446,Viridescent Bog,,0,0.0,0,0,0,1.00
+PIP 389,"The Motherlode, Excavator",,0,0.0,0,0,0,1.50
+PIP 395,"Veronica, Dissident Scribe",,0,0.0,0,0,0,0.50
+PIP 336,Alpha Deathclaw,,0,0.0,0,0,0,1.00
+PIP 363,Automated Assembly Line,,0,0.0,0,0,0,1.00
+PIP 501,Mossfire Valley,,0,0.0,0,0,0,1.00
+PIP 425,"Preston Garvey, Minuteman",,0,0.0,0,0,0,1.00
+PIP 519,Temple of Epiphany,,0,0.0,0,0,0,1.00
+PIP 334,Mysterious Stranger,,0,0.0,0,0,0,2.00
+PIP 427,"Rex, Cyber-Hound",,0,0.0,0,0,0,1.00
+PIP 527,Windbrisk Heights,,0,0.0,0,0,0,1.00
+PIP 440,Ferrous Lake,,0,0.0,0,0,0,2.50
+PIP 496,Fetid Pools,,0,0.0,0,0,0,1.00
+PIP 436,Recon Craft Theta,,0,0.0,0,0,0,1.00
+PIP 351,Gemrazer,,0,0.0,0,0,0,1.50
+PIP 452,Mantle of the Ancients,,0,0.0,0,0,0,1.50
+PIP 473,Anguished Unmaking,,0,0.0,0,0,0,3.00
+PIP 376,"Jason Bright, Glowing Prophet",,0,0.0,0,0,0,1.00
+PIP 518,Temple of Enlightenment,,0,0.0,0,0,0,1.00
+PIP 525,Temple of Triumph,,0,0.0,0,0,0,0.50
+PIP 442,Junktown,,0,0.0,0,0,0,0.50
+PIP 477,Fervent Charge,,0,0.0,0,0,0,1.00
+PIP 499,Irrigated Farmland,,0,0.0,0,0,0,0.50
+PIP 486,Solemn Simulacrum,,0,0.0,0,0,0,1.50
+PIP 337,Armory Paladin,,0,0.0,0,0,0,1.00
+PIP 516,Temple of Abandon,,0,0.0,0,0,0,0.50
+PIP 484,Mystic Forge,,0,0.0,0,0,0,2.00
+PIP 384,Assaultron Dominator,,0,0.0,0,0,0,1.50
+PIP 428,Sentinel Sarah Lyons,,0,0.0,0,0,0,1.00
+PIP 517,Temple of Deceit,,0,0.0,0,0,0,1.00
+PIP 390,Plasma Caster,,0,0.0,0,0,0,0.50
+PIP 508,Sheltered Thicket,,0,0.0,0,0,0,0.50
+PIP 481,Bloodforged Battle-Axe,,0,0.0,0,0,0,1.50
+PIP 432,"ED-E, Lonesome Eyebot",,0,0.0,0,0,0,0.50
+PIP 523,Temple of Plenty,,0,0.0,0,0,0,0.50
+PIP 411,Colonel Autumn,,0,0.0,0,0,0,1.00
+PIP 378,"Nick Valentine, Private Eye",,0,0.0,0,0,0,1.00
+PIP 437,T-45 Power Armor,,0,0.0,0,0,0,1.00
+PIP 409,"Cait, Cage Brawler",,0,0.0,0,0,0,0.50
+PIP 398,"Harold and Bob, First Numens",,0,0.0,0,0,0,0.50
+PIP 450,Hour of Reckoning,,0,0.0,0,0,0,0.50
+PIP 433,Mister Gutsy,,0,0.0,0,0,0,0.50
+PIP 423,The Nipton Lottery,,0,0.0,0,0,0,0.50
+PIP 489,Canyon Slough,,0,0.0,0,0,0,1.00
+PIP 381,Feral Ghoul,,0,0.0,0,0,0,0.50
+PIP 444,Overflowing Basin,,0,0.0,0,0,0,0.50
+PIP 455,Open the Vaults,,0,0.0,0,0,0,0.50
+PIP 464,Lethal Scheme,,0,0.0,0,0,0,1.00
+PIP 513,Sungrass Prairie,,0,0.0,0,0,0,1.00
+PIP 449,Entrapment Maneuver,,0,0.0,0,0,0,0.50
+PIP 387,Junk Jet,,0,0.0,0,0,0,0.50
+PIP 474,Assemble the Legion,,0,0.0,0,0,0,0.50
+PIP 377,Mirelurk Queen,,0,0.0,0,0,0,0.50
+PIP 418,"Marcus, Mutant Mayor",,0,0.0,0,0,0,0.50
+PIP 406,Almost Perfect,,0,0.0,0,0,0,0.50
+PIP 393,Synth Eradicator,,0,0.0,0,0,0,0.50
+PIP 522,Temple of Mystery,,0,0.0,0,0,0,0.50
+PIP 362,"Aradesh, the Founder",,0,0.0,0,0,0,0.50
+PIP 462,One with the Machine,,0,0.0,0,0,0,1.00
+PIP 479,Wake the Past,,0,0.0,0,0,0,1.00
+PIP 397,Animal Friend,,0,0.0,0,0,0,0.50
+PIP 492,Darkwater Catacombs,,0,0.0,0,0,0,0.50
+PIP 372,"Sierra, Nuka's Biggest Fan",,0,0.0,0,0,0,0.50
+PIP 403,"Strong, the Brutish Thespian",,0,0.0,0,0,0,0.50
+PIP 458,Single Combat,,0,0.0,0,0,0,0.50
+PIP 454,Martial Coup,,0,0.0,0,0,0,0.50
+PIP 367,Overencumbered,,0,0.0,0,0,0,0.50
+PIP 383,Wasteland Raider,,0,0.0,0,0,0,0.50
+PIP 424,Paladin Elizabeth Taggerdy,,0,0.0,0,0,0,1.00
+PIP 505,Scattered Groves,,0,0.0,0,0,0,0.50
+PIP 365,Brotherhood Scribe,,0,0.0,0,0,0,0.50
+PIP 413,Elder Arthur Maxson,,0,0.0,0,0,0,0.50
+PIP 382,"Hancock, Ghoulish Mayor",,0,0.0,0,0,0,0.50
+PIP 475,Biomass Mutation,,0,0.0,0,0,0,0.50
+PIP 459,Fraying Sanity,,0,0.0,0,0,0,0.50
+PIP 443,Mariposa Military Base,,0,0.0,0,0,0,0.50
+PIP 394,Thrill-Kill Disciple,,0,0.0,0,0,0,0.50
+PIP 429,"Shaun, Father of Synths",,0,0.0,0,0,0,0.50
+PIP 399,"Lily Bowen, Raging Grandma",,0,0.0,0,0,0,0.50
+PIP 434,Nuka-Nuke Launcher,,0,0.0,0,0,0,0.50
+PIP 368,Overseer of Vault 76,,0,0.0,0,0,0,0.50
+PIP 509,Skycloud Expanse,,0,0.0,0,0,0,0.50
+PIP 330,Synth Infiltrator,,0,0.0,0,0,0,0.50
+PIP 451,Keeper of the Accord,,0,0.0,0,0,0,1.00
+PIP 407,Arcade Gannon,,0,0.0,0,0,0,0.50
+PIP 412,"Desdemona, Freedom's Edge",,0,0.0,0,0,0,0.50
+PIP 375,"James, Wandering Dad",,0,0.0,0,0,0,0.50
+PIP 472,Tireless Tracker,,0,0.0,0,0,0,0.50
+PIP 408,Boomer Scrapper,,0,0.0,0,0,0,0.50
+PIP 388,Megaton's Fate,,0,0.0,0,0,0,0.50
+PIP 391,Powder Ganger,,0,0.0,0,0,0,0.50
+PIP 371,Sentry Bot,,0,0.0,0,0,0,0.50
+PIP 467,Stolen Strategy,,0,0.0,0,0,0,0.50
+PIP 364,Battle of Hoover Dam,,0,0.0,0,0,0,0.50
+PIP 410,"Cass, Hand of Vengeance",,0,0.0,0,0,0,0.50
+PIP 453,Marshal's Anthem,,0,0.0,0,0,0,0.50
+PIP 420,"Moira Brown, Guide Author",,0,0.0,0,0,0,0.50
+PIP 430,"Three Dog, Galaxy News DJ",,0,0.0,0,0,0,0.50
+PIP 385,"Duchess, Wayward Tavernkeep",,0,0.0,0,0,0,0.50
+PIP 448,Captain of the Watch,,0,0.0,0,0,0,0.50
+PIP 359F,Sol Ring,,0,0.0,0,0,0,36.00
+PIP 871F,The Wise Mothman,,0,0.0,0,0,0,104.00
+PIP 888F,Command Tower,,0,0.0,0,0,0,88.00
+PIP 357F,Crucible of Worlds,,0,0.0,0,0,0,30.00
+PIP 361F,Wasteland,,0,0.0,0,0,0,20.00
+PIP 354F,Ravages of War,,0,0.0,0,0,0,18.00
+PIP 356F,Arcane Signet,,0,0.0,0,0,0,20.00
+PIP 870F,Inventory Management,,0,0.0,0,0,0,30.00
+PIP 880F,Walking Ballista,,0,0.0,0,0,0,48.00
+PIP 360F,Command Tower,,0,0.0,0,0,0,14.00
+PIP 358F,Nuka-Cola Vending Machine,,0,0.0,0,0,0,28.00
+PIP 345F,Lord of the Undead,,0,0.0,0,0,0,10.00
+PIP 400F,Power Fist,,0,0.0,0,0,0,11.00
+PIP 999F,Heroic Intervention,,0,0.0,0,0,0,14.00
+PIP 352F,Walking Ballista,,0,0.0,0,0,0,16.00
+PIP 347F,Vigor,,0,0.0,0,0,0,18.00
+PIP 857F,Radstorm,,0,0.0,0,0,0,26.00
+PIP 366F,"Codsworth, Handy Helper",,0,0.0,0,0,0,18.00
+PIP 866F,Atomize,,0,0.0,0,0,0,22.00
+PIP 872F,Hullbreaker Horror,,0,0.0,0,0,0,44.00
+PIP 928F,Power Fist,,0,0.0,0,0,0,14.00
+PIP 887F,Sol Ring,,0,0.0,0,0,0,120.00
+PIP 881F,Farewell,,0,0.0,0,0,0,56.00
+PIP 343F,The Wise Mothman,,0,0.0,0,0,0,12.00
+PIP 997F,Guardian Project,,0,0.0,0,0,0,9.50
+PIP 353F,Farewell,,0,0.0,0,0,0,16.00
+PIP 894F,"Codsworth, Handy Helper",,0,0.0,0,0,0,26.00
+PIP 883F,Vandalblast,,0,0.0,0,0,0,18.00
+PIP 1006F,Ruinous Ultimatum,,0,0.0,0,0,0,6.50
+PIP 469F,Guardian Project,,0,0.0,0,0,0,11.00
+PIP 369F,Pre-War Formalwear,,0,0.0,0,0,0,7.00
+PIP 1040F,Sulfur Falls,,0,0.0,0,0,0,7.00
+PIP 889F,Wasteland,,0,0.0,0,0,0,64.00
+PIP 856F,Securitron Squadron,,0,0.0,0,0,0,16.00
+PIP 963F,Pip-Boy 3000,,0,0.0,0,0,0,9.00
+PIP 897F,Pre-War Formalwear,,0,0.0,0,0,0,12.00
+PIP 471F,Heroic Intervention,,0,0.0,0,0,0,14.00
+PIP 942F,Electrosiphon,,0,0.0,0,0,0,8.00
+PIP 526F,Treasure Vault,,0,0.0,0,0,0,5.50
+PIP 949F,"Mr. House, President and CEO",,0,0.0,0,0,0,9.00
+PIP 480F,Basilisk Collar,,0,0.0,0,0,0,6.50
+PIP 1028F,Isolated Chapel,,0,0.0,0,0,0,6.50
+PIP 996F,Branching Evolution,,0,0.0,0,0,0,7.00
+PIP 885F,Crucible of Worlds,,0,0.0,0,0,0,48.00
+PIP 884F,Arcane Signet,,0,0.0,0,0,0,80.00
+PIP 867F,"Caesar, Legion's Emperor",,0,0.0,0,0,0,36.00
+PIP 339F,"Caesar, Legion's Emperor",,0,0.0,0,0,0,5.50
+PIP 868F,"Dogmeat, Ever Loyal",,0,0.0,0,0,0,60.00
+PIP 945F,"MacCready, Lamplight Mayor",,0,0.0,0,0,0,5.50
+PIP 875F,Vigor,,0,0.0,0,0,0,24.00
+PIP 950F,Mutational Advantage,,0,0.0,0,0,0,6.50
+PIP 355F,Vandalblast,,0,0.0,0,0,0,6.50
+PIP 943F,"Kellogg, Dangerous Mind",,0,0.0,0,0,0,5.50
+PIP 380F,Struggle for Project Purity,,0,0.0,0,0,0,5.50
+PIP 402F,Strong Back,,0,0.0,0,0,0,3.00
+PIP 882F,Ravages of War,,0,0.0,0,0,0,44.00
+PIP 1019F,Clifftop Retreat,,0,0.0,0,0,0,9.00
+PIP 340F,"Dogmeat, Ever Loyal",,0,0.0,0,0,0,4.00
+PIP 465F,Blasphemous Act,,0,0.0,0,0,0,7.00
+PIP 495F,Exotic Orchard,,0,0.0,0,0,0,7.00
+PIP 491F,Clifftop Retreat,,0,0.0,0,0,0,5.50
+PIP 1026F,Hinterland Harbor,,0,0.0,0,0,0,9.50
+PIP 460F,Inexorable Tide,,0,0.0,0,0,0,5.00
+PIP 1039F,Spire of Industry,,0,0.0,0,0,0,7.00
+PIP 331F,Nuclear Fallout,,0,0.0,0,0,0,4.00
+PIP 482F,Champion's Helm,,0,0.0,0,0,0,3.50
+PIP 991F,Black Market,,0,0.0,0,0,0,5.50
+PIP 421F,"Mr. House, President and CEO",,0,0.0,0,0,0,3.50
+PIP 528F,Woodland Cemetery,,0,0.0,0,0,0,3.50
+PIP 349F,Tarmogoyf,,0,0.0,0,0,0,30.00
+PIP 498F,Hinterland Harbor,,0,0.0,0,0,0,6.50
+PIP 415F,"Kellogg, Dangerous Mind",,0,0.0,0,0,0,6.50
+PIP 478F,Ruinous Ultimatum,,0,0.0,0,0,0,6.50
+PIP 902F,"Curie, Emergent Intelligence",,0,0.0,0,0,0,4.00
+PIP 417F,"MacCready, Lamplight Mayor",,0,0.0,0,0,0,5.00
+PIP 859F,Nuclear Fallout,,0,0.0,0,0,0,30.00
+PIP 1013F,Panharmonicon,,0,0.0,0,0,0,7.00
+PIP 473F,Anguished Unmaking,,0,0.0,0,0,0,5.00
+PIP 463F,Black Market,,0,0.0,0,0,0,5.00
+PIP 988F,Inexorable Tide,,0,0.0,0,0,0,5.00
+PIP 929F,Rampaging Yao Guai,,0,0.0,0,0,0,5.00
+PIP 1001F,Anguished Unmaking,,0,0.0,0,0,0,3.50
+PIP 470F,Hardened Scales,,0,0.0,0,0,0,3.50
+PIP 861F,V.A.T.S.,,0,0.0,0,0,0,28.00
+PIP 1025F,Glacial Fortress,,0,0.0,0,0,0,4.00
+PIP 329F,Radstorm,,0,0.0,0,0,0,4.00
+PIP 504F,Rootbound Crag,,0,0.0,0,0,0,4.00
+PIP 993F,Blasphemous Act,,0,0.0,0,0,0,9.00
+PIP 342F,Inventory Management,,0,0.0,0,0,0,4.50
+PIP 1021F,Dragonskull Summit,,0,0.0,0,0,0,6.50
+PIP 435F,Pip-Boy 3000,,0,0.0,0,0,0,6.50
+PIP 1054F,Treasure Vault,,0,0.0,0,0,0,6.50
+PIP 414F,Electrosiphon,,0,0.0,0,0,0,3.50
+PIP 374F,"Curie, Emergent Intelligence",,0,0.0,0,0,0,3.00
+PIP 869F,Dr. Madison Li,,0,0.0,0,0,0,24.00
+PIP 494F,Drowned Catacomb,,0,0.0,0,0,0,5.00
+PIP 944F,"Liberty Prime, Recharged",,0,0.0,0,0,0,5.00
+PIP 1043F,Sunpetal Grove,,0,0.0,0,0,0,5.00
+PIP 1034F,Scavenger Grounds,,0,0.0,0,0,0,4.00
+PIP 1012F,Mystic Forge,,0,0.0,0,0,0,2.50
+PIP 933F,Agent Frank Horrigan,,0,0.0,0,0,0,5.50
+PIP 966F,Desolate Mire,,0,0.0,0,0,0,3.00
+PIP 346F,Grave Titan,,0,0.0,0,0,0,3.00
+PIP 332F,Screeching Scorchbeast,,0,0.0,0,0,0,2.00
+PIP 344F,Hullbreaker Horror,,0,0.0,0,0,0,7.00
+PIP 1023F,Exotic Orchard,,0,0.0,0,0,0,10.00
+PIP 864F,Alpha Deathclaw,,0,0.0,0,0,0,20.00
+PIP 1022F,Drowned Catacomb,,0,0.0,0,0,0,4.00
+PIP 328F,Securitron Squadron,,0,0.0,0,0,0,2.00
+PIP 405F,Agent Frank Horrigan,,0,0.0,0,0,0,3.00
+PIP 924F,Wild Wasteland,,0,0.0,0,0,0,3.00
+PIP 1008F,Basilisk Collar,,0,0.0,0,0,0,6.50
+PIP 500F,Isolated Chapel,,0,0.0,0,0,0,6.50
+PIP 422F,Mutational Advantage,,0,0.0,0,0,0,6.50
+PIP 338F,Atomize,,0,0.0,0,0,0,5.00
+PIP 998F,Hardened Scales,,0,0.0,0,0,0,5.00
+PIP 967F,Diamond City,,0,0.0,0,0,0,3.00
+PIP 901F,"Yes Man, Personal Securitron",,0,0.0,0,0,0,3.00
+PIP 989F,Mechanized Production,,0,0.0,0,0,0,4.50
+PIP 512F,Sulfur Falls,,0,0.0,0,0,0,5.50
+PIP 920F,"Rose, Cutthroat Raider",,0,0.0,0,0,0,3.00
+PIP 514F,Sunken Hollow,,0,0.0,0,0,0,3.00
+PIP 333F,V.A.T.S.,,0,0.0,0,0,0,3.00
+PIP 490F,Cinder Glade,,0,0.0,0,0,0,2.50
+PIP 484F,Mystic Forge,,0,0.0,0,0,0,2.50
+PIP 984F,Puresteel Paladin,,0,0.0,0,0,0,4.00
+PIP 493F,Dragonskull Summit,,0,0.0,0,0,0,3.00
+PIP 486F,Solemn Simulacrum,,0,0.0,0,0,0,3.00
+PIP 350F,Hornet Queen,,0,0.0,0,0,0,2.00
+PIP 980F,Mantle of the Ancients,,0,0.0,0,0,0,2.00
+PIP 930F,Strong Back,,0,0.0,0,0,0,5.00
+PIP 1056F,Woodland Cemetery,,0,0.0,0,0,0,5.00
+PIP 1010F,Champion's Helm,,0,0.0,0,0,0,3.50
+PIP 515F,Sunpetal Grove,,0,0.0,0,0,0,3.50
+PIP 968F,Ferrous Lake,,0,0.0,0,0,0,2.50
+PIP 441F,HELIOS One,,0,0.0,0,0,0,2.50
+PIP 1052F,Temple of Silence,,0,0.0,0,0,0,1.50
+PIP 917F,"The Motherlode, Excavator",,0,0.0,0,0,0,1.50
+PIP 1000F,Tireless Tracker,,0,0.0,0,0,0,1.50
+PIP 389F,"The Motherlode, Excavator",,0,0.0,0,0,0,1.50
+PIP 468F,Branching Evolution,,0,0.0,0,0,0,4.00
+PIP 1016F,Canopy Vista,,0,0.0,0,0,0,2.50
+PIP 909F,Feral Ghoul,,0,0.0,0,0,0,2.50
+PIP 1038F,Smoldering Marsh,,0,0.0,0,0,0,2.50
+PIP 341F,Dr. Madison Li,,0,0.0,0,0,0,2.00
+PIP 327F,Idolized,,0,0.0,0,0,0,2.00
+PIP 863F,Watchful Radstag,,0,0.0,0,0,0,7.00
+PIP 404F,Tato Farmer,,0,0.0,0,0,0,1.00
+PIP 450F,Hour of Reckoning,,0,0.0,0,0,0,1.50
+PIP 860F,Screeching Scorchbeast,,0,0.0,0,0,0,12.00
+PIP 419F,"The Master, Transcendent",,0,0.0,0,0,0,2.00
+PIP 348F,"Ayula, Queen Among Bears",,0,0.0,0,0,0,1.00
+PIP 873F,Lord of the Undead,,0,0.0,0,0,0,11.00
+PIP 862F,Mysterious Stranger,,0,0.0,0,0,0,11.00
+PIP 1032F,Rootbound Crag,,0,0.0,0,0,0,5.50
+PIP 511F,Spire of Industry,,0,0.0,0,0,0,5.50
+PIP 994F,Chaos Warp,,0,0.0,0,0,0,3.00
+PIP 506F,Scavenger Grounds,,0,0.0,0,0,0,3.00
+PIP 858F,Synth Infiltrator,,0,0.0,0,0,0,3.00
+PIP 1030F,Nesting Grounds,,0,0.0,0,0,0,1.50
+PIP 975F,Austere Command,,0,0.0,0,0,0,3.50
+PIP 440F,Ferrous Lake,,0,0.0,0,0,0,3.50
+PIP 914F,Grim Reaper's Sprint,,0,0.0,0,0,0,3.50
+PIP 456F,Puresteel Paladin,,0,0.0,0,0,0,3.50
+PIP 865F,Armory Paladin,,0,0.0,0,0,0,10.00
+PIP 874F,Grave Titan,,0,0.0,0,0,0,9.50
+PIP 969F,HELIOS One,,0,0.0,0,0,0,5.00
+PIP 908F,Struggle for Project Purity,,0,0.0,0,0,0,5.00
+PIP 1018F,Cinder Glade,,0,0.0,0,0,0,3.00
+PIP 416F,"Liberty Prime, Recharged",,0,0.0,0,0,0,3.00
+PIP 985F,Secure the Wastes,,0,0.0,0,0,0,3.00
+PIP 386F,Grim Reaper's Sprint,,0,0.0,0,0,0,2.50
+PIP 973F,Sunscorched Divide,,0,0.0,0,0,0,2.50
+PIP 431F,Brotherhood Vertibird,,0,0.0,0,0,0,1.50
+PIP 1042F,Sunken Hollow,,0,0.0,0,0,0,3.00
+PIP 992F,Lethal Scheme,,0,0.0,0,0,0,1.50
+PIP 520F,Temple of Malady,,0,0.0,0,0,0,1.50
+PIP 351F,Gemrazer,,0,0.0,0,0,0,1.00
+PIP 1011F,Masterwork of Ingenuity,,0,0.0,0,0,0,1.00
+PIP 878F,Hornet Queen,,0,0.0,0,0,0,9.00
+PIP 911F,Wasteland Raider,,0,0.0,0,0,0,1.00
+PIP 497F,Glacial Fortress,,0,0.0,0,0,0,3.00
+PIP 461F,Mechanized Production,,0,0.0,0,0,0,3.00
+PIP 1014F,Solemn Simulacrum,,0,0.0,0,0,0,3.00
+PIP 381F,Feral Ghoul,,0,0.0,0,0,0,1.00
+PIP 472F,Tireless Tracker,,0,0.0,0,0,0,1.00
+PIP 336F,Alpha Deathclaw,,0,0.0,0,0,0,2.00
+PIP 907F,"Piper Wright, Publick Reporter",,0,0.0,0,0,0,2.00
+PIP 392F,"Rose, Cutthroat Raider",,0,0.0,0,0,0,1.50
+PIP 457F,Secure the Wastes,,0,0.0,0,0,0,1.50
+PIP 1015F,Steel Overseer,,0,0.0,0,0,0,1.50
+PIP 445F,Sunscorched Divide,,0,0.0,0,0,0,1.50
+PIP 524F,Temple of Silence,,0,0.0,0,0,0,1.50
+PIP 426F,"Red Death, Shipwrecker",,0,0.0,0,0,0,1.00
+PIP 876F,"Ayula, Queen Among Bears",,0,0.0,0,0,0,7.50
+PIP 439F,Diamond City,,0,0.0,0,0,0,3.50
+PIP 1005F,Fervent Charge,,0,0.0,0,0,0,2.50
+PIP 910F,"Hancock, Ghoulish Mayor",,0,0.0,0,0,0,2.50
+PIP 373F,"Yes Man, Personal Securitron",,0,0.0,0,0,0,2.50
+PIP 891F,Automated Assembly Line,,0,0.0,0,0,0,1.00
+PIP 1024F,Fetid Pools,,0,0.0,0,0,0,1.00
+PIP 905F,Mirelurk Queen,,0,0.0,0,0,0,1.00
+PIP 1035F,Shadowblood Ridge,,0,0.0,0,0,0,1.00
+PIP 986F,Single Combat,,0,0.0,0,0,0,1.00
+PIP 477F,Fervent Charge,,0,0.0,0,0,0,1.00
+PIP 485F,Panharmonicon,,0,0.0,0,0,0,6.50
+PIP 947F,"The Master, Transcendent",,0,0.0,0,0,0,3.00
+PIP 1037F,Skycloud Expanse,,0,0.0,0,0,0,1.50
+PIP 974F,Viridescent Bog,,0,0.0,0,0,0,1.50
+PIP 1055F,Windbrisk Heights,,0,0.0,0,0,0,1.50
+PIP 501F,Mossfire Valley,,0,0.0,0,0,0,1.00
+PIP 523F,Temple of Plenty,,0,0.0,0,0,0,0.50
+PIP 383F,Wasteland Raider,,0,0.0,0,0,0,0.50
+PIP 900F,"Sierra, Nuka's Biggest Fan",,0,0.0,0,0,0,2.00
+PIP 487F,Steel Overseer,,0,0.0,0,0,0,2.00
+PIP 932F,Tato Farmer,,0,0.0,0,0,0,2.00
+PIP 1048F,Temple of Malady,,0,0.0,0,0,0,2.00
+PIP 898F,"The Prydwen, Steel Flagship",,0,0.0,0,0,0,2.00
+PIP 474F,Assemble the Legion,,0,0.0,0,0,0,1.00
+PIP 916F,Megaton's Fate,,0,0.0,0,0,0,1.00
+PIP 507F,Shadowblood Ridge,,0,0.0,0,0,0,1.00
+PIP 525F,Temple of Triumph,,0,0.0,0,0,0,1.00
+PIP 958F,"Three Dog, Galaxy News DJ",,0,0.0,0,0,0,1.00
+PIP 446F,Viridescent Bog,,0,0.0,0,0,0,1.00
+PIP 1036F,Sheltered Thicket,,0,0.0,0,0,0,1.50
+PIP 406F,Almost Perfect,,0,0.0,0,0,0,0.50
+PIP 449F,Entrapment Maneuver,,0,0.0,0,0,0,0.50
+PIP 455F,Open the Vaults,,0,0.0,0,0,0,0.50
+PIP 918F,Plasma Caster,,0,0.0,0,0,0,0.50
+PIP 447F,Austere Command,,0,0.0,0,0,0,3.00
+PIP 488F,Canopy Vista,,0,0.0,0,0,0,3.00
+PIP 906F,"Nick Valentine, Private Eye",,0,0.0,0,0,0,1.00
+PIP 895F,Overencumbered,,0,0.0,0,0,0,1.00
+PIP 428F,Sentinel Sarah Lyons,,0,0.0,0,0,0,1.00
+PIP 1053F,Temple of Triumph,,0,0.0,0,0,0,1.00
+PIP 413F,Elder Arthur Maxson,,0,0.0,0,0,0,0.50
+PIP 443F,Mariposa Military Base,,0,0.0,0,0,0,0.50
+PIP 983F,Open the Vaults,,0,0.0,0,0,0,0.50
+PIP 954F,"Red Death, Shipwrecker",,0,0.0,0,0,0,2.50
+PIP 959F,Brotherhood Vertibird,,0,0.0,0,0,0,1.50
+PIP 921F,Synth Eradicator,,0,0.0,0,0,0,1.50
+PIP 370F,"The Prydwen, Steel Flagship",,0,0.0,0,0,0,1.50
+PIP 476F,Casualties of War,,0,0.0,0,0,0,1.00
+PIP 379F,"Piper Wright, Publick Reporter",,0,0.0,0,0,0,1.00
+PIP 458F,Single Combat,,0,0.0,0,0,0,1.00
+PIP 1050F,Temple of Mystery,,0,0.0,0,0,0,1.00
+PIP 923F,"Veronica, Dissident Scribe",,0,0.0,0,0,0,1.00
+PIP 396F,Wild Wasteland,,0,0.0,0,0,0,1.00
+PIP 987F,Fraying Sanity,,0,0.0,0,0,0,1.00
+PIP 934F,Almost Perfect,,0,0.0,0,0,0,0.50
+PIP 1049F,Temple of Malice,,0,0.0,0,0,0,1.00
+PIP 1027F,Irrigated Farmland,,0,0.0,0,0,0,0.50
+PIP 982F,Martial Coup,,0,0.0,0,0,0,0.50
+PIP 919F,Powder Ganger,,0,0.0,0,0,0,0.50
+PIP 438F,Desolate Mire,,0,0.0,0,0,0,2.00
+PIP 510F,Smoldering Marsh,,0,0.0,0,0,0,2.00
+PIP 397F,Animal Friend,,0,0.0,0,0,0,1.00
+PIP 384F,Assaultron Dominator,,0,0.0,0,0,0,1.00
+PIP 492F,Darkwater Catacombs,,0,0.0,0,0,0,1.00
+PIP 403F,"Strong, the Brutish Thespian",,0,0.0,0,0,0,1.00
+PIP 453F,Marshal's Anthem,,0,0.0,0,0,0,0.50
+PIP 459F,Fraying Sanity,,0,0.0,0,0,0,0.50
+PIP 926F,"Harold and Bob, First Numens",,0,0.0,0,0,0,0.50
+PIP 436F,Recon Craft Theta,,0,0.0,0,0,0,0.50
+PIP 427F,"Rex, Cyber-Hound",,0,0.0,0,0,0,0.50
+PIP 995F,Stolen Strategy,,0,0.0,0,0,0,0.50
+PIP 401F,Rampaging Yao Guai,,0,0.0,0,0,0,3.50
+PIP 925F,Animal Friend,,0,0.0,0,0,0,1.00
+PIP 939F,Colonel Autumn,,0,0.0,0,0,0,1.00
+PIP 978F,Hour of Reckoning,,0,0.0,0,0,0,1.00
+PIP 464F,Lethal Scheme,,0,0.0,0,0,0,1.00
+PIP 444F,Overflowing Basin,,0,0.0,0,0,0,1.00
+PIP 505F,Scattered Groves,,0,0.0,0,0,0,0.50
+PIP 1020F,Darkwater Catacombs,,0,0.0,0,0,0,1.50
+PIP 955F,"Rex, Cyber-Hound",,0,0.0,0,0,0,1.50
+PIP 965F,T-45 Power Armor,,0,0.0,0,0,0,1.50
+PIP 411F,Colonel Autumn,,0,0.0,0,0,0,1.00
+PIP 399F,"Lily Bowen, Raging Grandma",,0,0.0,0,0,0,1.00
+PIP 961F,Mister Gutsy,,0,0.0,0,0,0,1.00
+PIP 509F,Skycloud Expanse,,0,0.0,0,0,0,1.00
+PIP 395F,"Veronica, Dissident Scribe",,0,0.0,0,0,0,1.00
+PIP 1007F,Wake the Past,,0,0.0,0,0,0,1.00
+PIP 935F,Arcade Gannon,,0,0.0,0,0,0,0.50
+PIP 481F,Bloodforged Battle-Axe,,0,0.0,0,0,0,0.50
+PIP 1033F,Scattered Groves,,0,0.0,0,0,0,0.50
+PIP 1041F,Sungrass Prairie,,0,0.0,0,0,0,0.50
+PIP 519F,Temple of Epiphany,,0,0.0,0,0,0,0.50
+PIP 1047F,Temple of Epiphany,,0,0.0,0,0,0,0.50
+PIP 521F,Temple of Malice,,0,0.0,0,0,0,0.50
+PIP 423F,The Nipton Lottery,,0,0.0,0,0,0,0.50
+PIP 977F,Entrapment Maneuver,,0,0.0,0,0,0,0.50
+PIP 377F,Mirelurk Queen,,0,0.0,0,0,0,0.50
+PIP 518F,Temple of Enlightenment,,0,0.0,0,0,0,0.50
+PIP 466F,Chaos Warp,,0,0.0,0,0,0,2.50
+PIP 1009F,Bloodforged Battle-Axe,,0,0.0,0,0,0,1.00
+PIP 489F,Canyon Slough,,0,0.0,0,0,0,1.00
+PIP 496F,Fetid Pools,,0,0.0,0,0,0,1.00
+PIP 972F,Overflowing Basin,,0,0.0,0,0,0,1.00
+PIP 952F,Paladin Elizabeth Taggerdy,,0,0.0,0,0,0,1.00
+PIP 429F,"Shaun, Father of Synths",,0,0.0,0,0,0,1.00
+PIP 522F,Temple of Mystery,,0,0.0,0,0,0,1.00
+PIP 1002F,Assemble the Legion,,0,0.0,0,0,0,1.00
+PIP 976F,Captain of the Watch,,0,0.0,0,0,0,1.00
+PIP 451F,Keeper of the Accord,,0,0.0,0,0,0,1.00
+PIP 979F,Keeper of the Accord,,0,0.0,0,0,0,1.00
+PIP 946F,"Marcus, Mutant Mayor",,0,0.0,0,0,0,1.00
+PIP 971F,Mariposa Military Base,,0,0.0,0,0,0,1.00
+PIP 462F,One with the Machine,,0,0.0,0,0,0,1.00
+PIP 964F,Recon Craft Theta,,0,0.0,0,0,0,1.00
+PIP 508F,Sheltered Thicket,,0,0.0,0,0,0,1.00
+PIP 931F,"Strong, the Brutish Thespian",,0,0.0,0,0,0,1.00
+PIP 393F,Synth Eradicator,,0,0.0,0,0,0,1.00
+PIP 527F,Windbrisk Heights,,0,0.0,0,0,0,1.00
+PIP 448F,Captain of the Watch,,0,0.0,0,0,0,0.50
+PIP 398F,"Harold and Bob, First Numens",,0,0.0,0,0,0,0.50
+PIP 990F,One with the Machine,,0,0.0,0,0,0,0.50
+PIP 367F,Overencumbered,,0,0.0,0,0,0,0.50
+PIP 1017F,Canyon Slough,,0,0.0,0,0,0,2.00
+PIP 1029F,Mossfire Valley,,0,0.0,0,0,0,2.00
+PIP 337F,Armory Paladin,,0,0.0,0,0,0,0.50
+PIP 364F,Battle of Hoover Dam,,0,0.0,0,0,0,0.50
+PIP 475F,Biomass Mutation,,0,0.0,0,0,0,0.50
+PIP 408F,Boomer Scrapper,,0,0.0,0,0,0,0.50
+PIP 437F,T-45 Power Armor,,0,0.0,0,0,0,0.50
+PIP 365F,Brotherhood Scribe,,0,0.0,0,0,0,0.50
+PIP 432F,"ED-E, Lonesome Eyebot",,0,0.0,0,0,0,0.50
+PIP 372F,"Sierra, Nuka's Biggest Fan",,0,0.0,0,0,0,0.50
+PIP 513F,Sungrass Prairie,,0,0.0,0,0,0,0.50
+PIP 1004F,Casualties of War,,0,0.0,0,0,0,1.50
+PIP 1031F,Prairie Stream,,0,0.0,0,0,0,1.50
+PIP 1046F,Temple of Enlightenment,,0,0.0,0,0,0,1.50
+PIP 363F,Automated Assembly Line,,0,0.0,0,0,0,1.00
+PIP 903F,"James, Wandering Dad",,0,0.0,0,0,0,1.00
+PIP 970F,Junktown,,0,0.0,0,0,0,1.00
+PIP 418F,"Marcus, Mutant Mayor",,0,0.0,0,0,0,1.00
+PIP 454F,Martial Coup,,0,0.0,0,0,0,1.00
+PIP 334F,Mysterious Stranger,,0,0.0,0,0,0,1.00
+PIP 502F,Nesting Grounds,,0,0.0,0,0,0,1.00
+PIP 424F,Paladin Elizabeth Taggerdy,,0,0.0,0,0,0,1.00
+PIP 953F,"Preston Garvey, Minuteman",,0,0.0,0,0,0,1.00
+PIP 956F,Sentinel Sarah Lyons,,0,0.0,0,0,0,1.00
+PIP 516F,Temple of Abandon,,0,0.0,0,0,0,1.00
+PIP 479F,Wake the Past,,0,0.0,0,0,0,1.00
+PIP 362F,"Aradesh, the Founder",,0,0.0,0,0,0,0.50
+PIP 375F,"James, Wandering Dad",,0,0.0,0,0,0,0.50
+PIP 915F,Junk Jet,,0,0.0,0,0,0,0.50
+PIP 433F,Mister Gutsy,,0,0.0,0,0,0,0.50
+PIP 962F,Nuka-Nuke Launcher,,0,0.0,0,0,0,0.50
+PIP 330F,Synth Infiltrator,,0,0.0,0,0,0,0.50
+PIP 1044F,Temple of Abandon,,0,0.0,0,0,0,0.50
+PIP 951F,The Nipton Lottery,,0,0.0,0,0,0,0.50
+PIP 922F,Thrill-Kill Disciple,,0,0.0,0,0,0,0.50
+PIP 912F,Assaultron Dominator,,0,0.0,0,0,0,0.50
+PIP 941F,Elder Arthur Maxson,,0,0.0,0,0,0,0.50
+PIP 376F,"Jason Bright, Glowing Prophet",,0,0.0,0,0,0,0.50
+PIP 1045F,Temple of Deceit,,0,0.0,0,0,0,0.50
+PIP 893F,Brotherhood Scribe,,0,0.0,0,0,0,1.00
+PIP 927F,"Lily Bowen, Raging Grandma",,0,0.0,0,0,0,1.00
+PIP 517F,Temple of Deceit,,0,0.0,0,0,0,1.00
+PIP 409F,"Cait, Cage Brawler",,0,0.0,0,0,0,0.50
+PIP 937F,"Cait, Cage Brawler",,0,0.0,0,0,0,0.50
+PIP 913F,"Duchess, Wayward Tavernkeep",,0,0.0,0,0,0,0.50
+PIP 382F,"Hancock, Ghoulish Mayor",,0,0.0,0,0,0,0.50
+PIP 499F,Irrigated Farmland,,0,0.0,0,0,0,0.50
+PIP 387F,Junk Jet,,0,0.0,0,0,0,0.50
+PIP 981F,Marshal's Anthem,,0,0.0,0,0,0,0.50
+PIP 434F,Nuka-Nuke Launcher,,0,0.0,0,0,0,0.50
+PIP 368F,Overseer of Vault 76,,0,0.0,0,0,0,0.50
+PIP 1051F,Temple of Plenty,,0,0.0,0,0,0,0.50
+PIP 430F,"Three Dog, Galaxy News DJ",,0,0.0,0,0,0,0.50
+PIP 394F,Thrill-Kill Disciple,,0,0.0,0,0,0,0.50
+PIP 938F,"Cass, Hand of Vengeance",,0,0.0,0,0,0,1.00
+PIP 960F,"ED-E, Lonesome Eyebot",,0,0.0,0,0,0,1.00
+PIP 904F,"Jason Bright, Glowing Prophet",,0,0.0,0,0,0,1.00
+PIP 467F,Stolen Strategy,,0,0.0,0,0,0,1.00
+PIP 1003F,Biomass Mutation,,0,0.0,0,0,0,0.50
+PIP 936F,Boomer Scrapper,,0,0.0,0,0,0,0.50
+PIP 412F,"Desdemona, Freedom's Edge",,0,0.0,0,0,0,0.50
+PIP 948F,"Moira Brown, Guide Author",,0,0.0,0,0,0,0.50
+PIP 899F,Sentry Bot,,0,0.0,0,0,0,0.50
+PIP 890F,"Aradesh, the Founder",,0,0.0,0,0,0,0.50
+PIP 407F,Arcade Gannon,,0,0.0,0,0,0,0.50
+PIP 892F,Battle of Hoover Dam,,0,0.0,0,0,0,0.50
+PIP 410F,"Cass, Hand of Vengeance",,0,0.0,0,0,0,0.50
+PIP 388F,Megaton's Fate,,0,0.0,0,0,0,0.50
+PIP 896F,Overseer of Vault 76,,0,0.0,0,0,0,0.50
+PIP 391F,Powder Ganger,,0,0.0,0,0,0,0.50
+PIP 940F,"Desdemona, Freedom's Edge",,0,0.0,0,0,0,0.50
+PIP 385F,"Duchess, Wayward Tavernkeep",,0,0.0,0,0,0,0.50
+PIP 855F,Idolized,,0,0.0,0,0,0,14.00
+PIP 442F,Junktown,,0,0.0,0,0,0,0.50
+PIP 452F,Mantle of the Ancients,,0,0.0,0,0,0,2.00
+PIP 483F,Masterwork of Ingenuity,,0,0.0,0,0,0,1.50
+PIP 420F,"Moira Brown, Guide Author",,0,0.0,0,0,0,0.50
+PIP 378F,"Nick Valentine, Private Eye",,0,0.0,0,0,0,0.50
+PIP 886F,Nuka-Cola Vending Machine,,0,0.0,0,0,0,96.00
+PIP 390F,Plasma Caster,,0,0.0,0,0,0,0.50
+PIP 503F,Prairie Stream,,0,0.0,0,0,0,1.50
+PIP 879F,Gemrazer,,0,0.0,0,0,0,7.00
+PIP 425F,"Preston Garvey, Minuteman",,0,0.0,0,0,0,1.00
+PIP 371F,Sentry Bot,,0,0.0,0,0,0,1.00
+PIP 957F,"Shaun, Father of Synths",,0,0.0,0,0,0,1.00
