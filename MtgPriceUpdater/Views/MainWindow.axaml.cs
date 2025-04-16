@@ -1,5 +1,5 @@
 ﻿using Avalonia.Controls;
-using MtgPriceUpdater.Utils;
+using MtgPriceUpdater.Utilities;
 
 namespace MtgPriceUpdater.Views
 {

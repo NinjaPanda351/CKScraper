@@ -1,4 +1,4 @@
-﻿namespace MtgPriceUpdater.Utils
+﻿namespace MtgPriceUpdater.Utilities
 {
     /// <summary>
     /// A simple logging utility that writes timestamped messages to the console.

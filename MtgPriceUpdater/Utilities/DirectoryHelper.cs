@@ -1,4 +1,4 @@
-﻿namespace MtgPriceUpdater.Utils
+﻿namespace MtgPriceUpdater.Utilities
 {
     /// <summary>
     /// Provides utility methods for accessing project directory paths

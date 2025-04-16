@@ -1,11 +1,8 @@
 ﻿using System.Collections.ObjectModel;
-using System.IO;
-using System.Linq;
 using System.Reactive;
-using System.Threading.Tasks;
 using MtgPriceUpdater.Models;
 using MtgPriceUpdater.Services;
-using MtgPriceUpdater.Utils;
+using MtgPriceUpdater.Utilities;
 using ReactiveUI;
 
 namespace MtgPriceUpdater.ViewModels

@@ -3,7 +3,7 @@ using System.Net;
 using System.Text.RegularExpressions;
 using HtmlAgilityPack;
 using MtgPriceUpdater.Models;
-using MtgPriceUpdater.Utils;
+using MtgPriceUpdater.Utilities;
 
 namespace MtgPriceUpdater.Services;
 

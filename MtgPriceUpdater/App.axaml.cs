@@ -2,7 +2,7 @@
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
 using MtgPriceUpdater.Views;
-using MtgPriceUpdater.Utils;
+using MtgPriceUpdater.Utilities;
 
 namespace MtgPriceUpdater
 {
@@ -10,7 +10,7 @@ namespace MtgPriceUpdater
     /// Represents the entry point for the Avalonia application.
     /// Handles initialization and sets the main window.
     /// </summary>
-    public partial class App : Application
+    public class App : Application
     {
         /// <summary>
         /// Initializes the application and loads XAML definitions.

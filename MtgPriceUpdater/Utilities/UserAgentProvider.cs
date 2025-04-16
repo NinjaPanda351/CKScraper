@@ -1,4 +1,4 @@
-﻿namespace MtgPriceUpdater.Utils;
+﻿namespace MtgPriceUpdater.Utilities;
 
 /// <summary>
 /// Provides randomized User-Agent strings for simulating diverse browser requests.

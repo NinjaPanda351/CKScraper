@@ -1,4 +1,4 @@
-﻿namespace MtgPriceUpdater.Utils;
+﻿namespace MtgPriceUpdater.Utilities;
 
 /// <summary>
 /// Responsible for loading Magic: The Gathering set names and their codes from files.
