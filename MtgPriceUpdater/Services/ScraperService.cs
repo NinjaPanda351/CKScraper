@@ -82,8 +82,10 @@ public class ScraperService
             var titleNode = info.SelectSingleNode(".//span[contains(@class, 'productDetailTitle')]");
             if (titleNode == null) continue;
 
-            string cardNameRaw = WebUtility.HtmlDecode(titleNode.InnerText.Trim());
-            string cardName = Regex.Replace(cardNameRaw, @"\s*\(.*?\)", "").Trim();
+            
+            var titleLink = titleNode.SelectSingleNode(".//a");
+            string cardNameRaw = WebUtility.HtmlDecode(titleLink?.InnerText.Trim() ?? "Unknown");
+            string cardName = cardNameRaw.Contains(',') ? $"{cardNameRaw}" : cardNameRaw;
 
             var collectorNode = info
                 .SelectSingleNode(".//div[contains(@class, 'productDetailSet')]")
@@ -119,6 +121,35 @@ public class ScraperService
 
             decimal adjustedPrice = AdjustPriceByRarity(rawPrice, rarity);
 
+
+            if (isFoil)
+            {
+                bool isPresent = false;
+                
+                foreach (var item in cardList)
+                {
+                    if (item.CollectorCode == collectorCode)
+                    {
+                        isPresent = true;
+                        break;
+                    }
+                }
+
+                if (!isPresent)
+                {
+                    Logger.Log($"Creating duplicate NON-FOIL variant for {setCode} {collectorCode}F - {cardName}");
+                    cardList.Add(new Card
+                    {
+                        Name = cardName,
+                        CollectorCode = collectorCode,
+                        Rarity = rarity,
+                        Price = adjustedPrice.ToString("F2", CultureInfo.InvariantCulture),
+                        IsFoil = false,
+                        SetCode = setCode
+                    });
+                }
+            }
+            
             cardList.Add(new Card
             {
                 Name = cardName,
