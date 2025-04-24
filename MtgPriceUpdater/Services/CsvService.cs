@@ -94,12 +94,36 @@ namespace MtgPriceUpdater.Services
             foreach (var card in theCards)
             {
                 // Ensure names with commas are wrapped in quotes
-                string formattedName = card.Name.Contains(",") ? $"\"{card.Name}\"" : card.Name;
+                string formattedName = EscapeCsvField(card.Name);
 
                 writer.WriteLine($"{card.ItemCode},{formattedName},,0,0.0,0,0,0,{card.Price}");
             }
 
             Logger.Log($"Saved {theCards.Count} cards to {filePath}");
         }
+        
+        
+        /// <summary>
+        /// Escapes a string for safe use in a CSV file.
+        /// If the string contains quotes, they are escaped by doubling them.
+        /// If the string contains commas or quotes, the entire string is wrapped in double quotes.
+        /// </summary>
+        /// <param name="value">The field value to escape.</param>
+        /// <returns>A CSV-safe version of the input string.</returns>
+        private static string EscapeCsvField(string value)
+        {
+            if (value.Contains('"'))
+            {
+                value = value.Replace("\"", "\"\""); // Escape embedded quotes
+            }
+
+            if (value.Contains(',') || value.Contains('"'))
+            {
+                value = $"\"{value}\""; // Wrap in quotes if necessary
+            }
+
+            return value;
+        }
+
     }
 }
