@@ -129,9 +129,36 @@ public class SetProcessorService
                         await Task.Delay(Random.Shared.Next(MinPageDelay, MaxPageDelay));
                     }
                 }
+                
+                //Checking for FOIL ONLY versions
+                var nonFoils = newCards.Where(c => !c.IsFoil).ToList();
+                var foils = newCards.Where(c => c.IsFoil).ToList();
+
+                var nonFoilCodes = new HashSet<string>(nonFoils.Select(c => c.CollectorCode));
+
+                foreach (var foil in foils)
+                {
+                    if (!nonFoilCodes.Contains(foil.CollectorCode))
+                    {
+                        var clone = new Card
+                        {
+                            Name = foil.Name,
+                            CollectorCode = foil.CollectorCode,
+                            Rarity = foil.Rarity,
+                            Price = foil.Price,
+                            IsFoil = false,
+                            SetCode = foil.SetCode.EndsWith("F") ? foil.SetCode[..^1] : foil.SetCode // strip trailing F if needed
+                        };
+
+                        nonFoils.Add(clone);
+                        Logger.Log($"Added non-foil proxy for {foil.Name} ({foil.CollectorCode})");
+                    }
+                }
+
+                var fullCardList = nonFoils.Concat(foils).ToList();
 
                 Logger.Log($"Fetched {newCards.Count} total cards (including foils). Updating prices...");
-                UpdatePrices(existingCards, newCards);
+                UpdatePrices(existingCards, fullCardList);
                 _csvService.SaveToCsv(existingCards, csvFilePath);
                 AppendCsvToCombined(csvFilePath);
 
