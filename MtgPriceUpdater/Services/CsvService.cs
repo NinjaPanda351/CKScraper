@@ -1,4 +1,5 @@
-﻿using MtgPriceUpdater.Models;
+﻿using Microsoft.VisualBasic.FileIO;
+using MtgPriceUpdater.Models;
 using MtgPriceUpdater.Utilities;
 
 namespace MtgPriceUpdater.Services
@@ -21,7 +22,6 @@ namespace MtgPriceUpdater.Services
 
             var cards = new List<Card>();
 
-            // If file doesn't exist, return empty list
             if (!File.Exists(filePath))
             {
                 Logger.Log($"CSV file not found: {filePath}");
@@ -30,28 +30,26 @@ namespace MtgPriceUpdater.Services
 
             Logger.Log($"Reading CSV file: {filePath}");
 
-            using var reader = new StreamReader(filePath);
             int lineNumber = 0;
 
-            while (!reader.EndOfStream)
+            using var parser = new TextFieldParser(filePath);
+            parser.TextFieldType = FieldType.Delimited;
+            parser.SetDelimiters(",");
+            parser.HasFieldsEnclosedInQuotes = true;
+
+            while (!parser.EndOfData)
             {
                 lineNumber++;
-                string? line = reader.ReadLine();
-                if (string.IsNullOrWhiteSpace(line)) continue;
-
-                var parts = line.Split(',');
-
-                // Each card row must contain at least 9 fields
-                if (parts.Length < 9)
+                string[]? parts = parser.ReadFields();
+                if (parts is null || parts.Length < 9)
                 {
                     Logger.Log($"Skipping malformed line {lineNumber} in {fileName}: Not enough fields");
                     continue;
                 }
 
-                string fullCode = parts[0].Trim(); // Example: "TDM 321F"
+                string fullCode = parts[0].Trim();
                 var codeParts = fullCode.Split(' ');
 
-                // Card code should be in the format "SET COLLECTORCODE"
                 if (codeParts.Length < 2)
                 {
                     Logger.Log($"Skipping invalid card code on line {lineNumber}: {fullCode}");
@@ -63,13 +61,12 @@ namespace MtgPriceUpdater.Services
                 bool isFoil = collectorRaw.EndsWith("F");
                 string collectorCode = collectorRaw.TrimEnd('F');
 
-                // Create a Card instance and populate from CSV
                 cards.Add(new Card
                 {
                     SetCode = setCode,
                     CollectorCode = collectorCode,
-                    Name = parts[1].Trim('"'),
-                    Rarity = "Unknown", // Can be refined later if available
+                    Name = parts[1], // No need to trim quotes — parser handles it
+                    Rarity = "Unknown",
                     Price = parts[8].Trim(),
                     IsFoil = isFoil
                 });
