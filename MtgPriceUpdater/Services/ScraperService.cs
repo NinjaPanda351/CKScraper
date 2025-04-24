@@ -82,8 +82,9 @@ public class ScraperService
             var titleNode = info.SelectSingleNode(".//span[contains(@class, 'productDetailTitle')]");
             if (titleNode == null) continue;
 
-            string cardNameRaw = WebUtility.HtmlDecode(titleNode.InnerText.Trim());
-            string cardName = Regex.Replace(cardNameRaw, @"\s*\(.*?\)", "").Trim();
+            var titleLink = titleNode.SelectSingleNode(".//a");
+            string cardNameRaw = WebUtility.HtmlDecode(titleLink?.InnerText.Trim() ?? "Unknown");
+            string cardName = cardNameRaw.Contains(',') ? $"{cardNameRaw}" : cardNameRaw;
 
             var collectorNode = info
                 .SelectSingleNode(".//div[contains(@class, 'productDetailSet')]")
