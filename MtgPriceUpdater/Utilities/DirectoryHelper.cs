@@ -41,6 +41,17 @@
         }
 
         /// <summary>
+        /// Gets the full path to the "Data/match" directory and ensures it exists.
+        /// </summary>
+        /// <returns>The full path to the match files directory.</returns>
+        public static string getMatchDirectory()
+        {
+            string matchDirectory = Path.Combine(GetDataDirectory(), "match");
+            EnsureDirectoryExists(matchDirectory);
+            return matchDirectory;
+        }
+
+        /// <summary>
         /// Ensures that the specified directory exists, creating it if necessary.
         /// Logs directory creation.
         /// </summary>

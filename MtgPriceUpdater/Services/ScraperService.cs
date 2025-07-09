@@ -52,7 +52,7 @@ public class ScraperService
     /// <param name="isFoil">Whether to mark these cards as foils.</param>
     /// <param name="setCode">The internal set code to assign to these cards.</param>
     /// <returns>List of Card objects parsed from the HTML.</returns>
-    public async Task<List<Card>> FetchCardsAsync(HttpClient client, string pageUrl, bool isFoil, string setCode)
+    public async Task<List<Card>> FetchCardsAsync(HttpClient client, string pageUrl, bool isFoil, string setName, string setCode, bool isPreExodus)
     {
         var cardList = new List<Card>();
         string html = await FetchHtmlAsync(client, pageUrl);
@@ -82,10 +82,27 @@ public class ScraperService
             var titleNode = info.SelectSingleNode(".//span[contains(@class, 'productDetailTitle')]");
             if (titleNode == null) continue;
 
-            
             var titleLink = titleNode.SelectSingleNode(".//a");
             string cardNameRaw = WebUtility.HtmlDecode(titleLink?.InnerText.Trim() ?? "Unknown");
             string cardName = cardNameRaw.Contains(',') ? $"{cardNameRaw}" : cardNameRaw;
+
+            if (cardName.Contains("Oversized"))
+            {
+                Logger.Log("Oversized card Found: " + cardName);
+                continue;
+            }
+            
+            if (cardName.Contains("Not Tournament Legal"))
+            {
+                Logger.Log("Not Tournament Legal Card Found: " + cardName);
+                continue;
+            }
+
+            if (cardName.Contains("(Scheme Oversized)"))
+            {
+                Logger.Log("Scheme Oversized card Found: " + cardName);
+                continue;
+            }
 
             var collectorNode = info
                 .SelectSingleNode(".//div[contains(@class, 'productDetailSet')]")
@@ -104,6 +121,8 @@ public class ScraperService
             string rarityRaw = setAndRarityNode.InnerText;
             string rarity = Regex.Match(rarityRaw, @"\((.*?)\)").Groups[1].Value.Trim();
 
+            if (rarity == "L" || rarity == "S") continue;
+            
             var priceInput = info
                 .SelectSingleNode(".//div[contains(@class, 'addToCartWrapper')]")
                 ?.SelectSingleNode(".//ul[contains(@class, 'addToCartByType')]")
@@ -121,39 +140,56 @@ public class ScraperService
 
             decimal adjustedPrice = AdjustPriceByRarity(rawPrice, rarity);
 
-
-            if (isFoil)
+            
+            if (cardName.Contains("Foil Etched"))
             {
-                bool isPresent = false;
-                
-                foreach (var item in cardList)
+                cardList.Add(new Card
                 {
-                    if (item.CollectorCode == collectorCode)
-                    {
-                        isPresent = true;
-                        break;
-                    }
+                    Name = cardName,
+                    CollectorCode = collectorCode + "E",
+                    Rarity = rarity,
+                    Price = adjustedPrice.ToString("F2", CultureInfo.InvariantCulture),
+                    IsFoil = false,
+                    SetCode = setCode
+                });
+                
+                cardList.Add(new Card
+                {
+                    Name = cardName,
+                    CollectorCode = collectorCode,
+                    Rarity = rarity,
+                    Price = adjustedPrice.ToString("F2", CultureInfo.InvariantCulture),
+                    IsFoil = !isFoil,
+                    SetCode = setCode
+                });
+            }
+
+            string preExodusCode = "";
+
+            if (isPreExodus)
+            {
+                string matchSetFilePath = Path.Combine(DirectoryHelper.getMatchDirectory(), setName.ToLower() + ".csv");
+                if (!File.Exists(matchSetFilePath))
+                {
+                    Logger.Log($"Match set list file not found: {matchSetFilePath}");
                 }
 
-                if (!isPresent)
+                foreach (var cardLine in File.ReadAllLines(matchSetFilePath))
                 {
-                    Logger.Log($"Creating duplicate NON-FOIL variant for {setCode} {collectorCode}F - {cardName}");
-                    cardList.Add(new Card
+                    String[] cardInfo = cardLine.Split(',');
+
+                    if (cardName.ToLower() == cardInfo[1].ToLower())
                     {
-                        Name = cardName,
-                        CollectorCode = collectorCode,
-                        Rarity = rarity,
-                        Price = adjustedPrice.ToString("F2", CultureInfo.InvariantCulture),
-                        IsFoil = false,
-                        SetCode = setCode
-                    });
+                        preExodusCode = cardInfo[0];
+                        break;
+                    }
                 }
             }
             
             cardList.Add(new Card
             {
                 Name = cardName,
-                CollectorCode = collectorCode,
+                CollectorCode = isPreExodus ? preExodusCode : collectorCode,
                 Rarity = rarity,
                 Price = adjustedPrice.ToString("F2", CultureInfo.InvariantCulture),
                 IsFoil = isFoil,

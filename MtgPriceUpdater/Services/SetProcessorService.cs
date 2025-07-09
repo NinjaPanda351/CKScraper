@@ -1,4 +1,4 @@
-﻿using MtgPriceUpdater.Models;
+﻿﻿using MtgPriceUpdater.Models;
 using MtgPriceUpdater.Utilities;
 
 namespace MtgPriceUpdater.Services;
@@ -84,6 +84,28 @@ public class SetProcessorService
             var existingCards = _csvService.LoadFromCsv(csvFilePath);
             Logger.Log($"Loaded {existingCards.Count} existing cards for {setName}.");
 
+            string matchSetFilePath = Path.Combine(DirectoryHelper.getMatchDirectory(), "matchSets.txt");
+            if (!File.Exists(matchSetFilePath))
+            {
+                Logger.Log($"Match set list file not found: {matchSetFilePath}");
+            }
+            else
+            {
+                Logger.Log("Match Set List Found!");
+            }
+            
+            bool isPreExodus = false;
+
+            foreach (var matchSet in File.ReadAllLines(matchSetFilePath))
+            {
+                if (matchSet.ToLower() == setName.ToLower())
+                {
+                    isPreExodus = true;
+                    Logger.Log("Pre-exodus set found: " + setName);
+                    break;
+                }
+            }
+
             try
             {
                 int totalCards = await _scraperService.GetTotalCardsAsync(_httpClient, baseUrl);
@@ -105,7 +127,7 @@ public class SetProcessorService
                     _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(userAgent);
                     Logger.Log($"Fetching page {i}/{pages} with user agent: {userAgent}");
 
-                    newCards.AddRange(await _scraperService.FetchCardsAsync(_httpClient, url, false, setCode));
+                    newCards.AddRange(await _scraperService.FetchCardsAsync(_httpClient, url, false,  setName, setCode, isPreExodus));
                     await Task.Delay(Random.Shared.Next(MinPageDelay, MaxPageDelay));
                 }
 
@@ -125,13 +147,40 @@ public class SetProcessorService
                         _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(userAgent);
                         Logger.Log($"Fetching page {i}/{foilPages} with user agent: {userAgent}");
 
-                        newCards.AddRange(await _scraperService.FetchCardsAsync(_httpClient, foilUrl, true, setCode));
+                        newCards.AddRange(await _scraperService.FetchCardsAsync(_httpClient, foilUrl, true, setName, setCode, isPreExodus));
                         await Task.Delay(Random.Shared.Next(MinPageDelay, MaxPageDelay));
                     }
                 }
+                
+                //Checking for FOIL ONLY versions
+                var nonFoils = newCards.Where(c => !c.IsFoil).ToList();
+                var foils = newCards.Where(c => c.IsFoil).ToList();
+
+                var nonFoilCodes = new HashSet<string>(nonFoils.Select(c => c.CollectorCode));
+
+                foreach (var foil in foils)
+                {
+                    if (!nonFoilCodes.Contains(foil.CollectorCode))
+                    {
+                        var clone = new Card
+                        {
+                            Name = foil.Name,
+                            CollectorCode = foil.CollectorCode,
+                            Rarity = foil.Rarity,
+                            Price = foil.Price,
+                            IsFoil = false,
+                            SetCode = foil.SetCode.EndsWith("F") ? foil.SetCode[..^1] : foil.SetCode // strip trailing F if needed
+                        };
+
+                        nonFoils.Add(clone);
+                        Logger.Log($"Added non-foil proxy for {foil.Name} ({foil.CollectorCode})");
+                    }
+                }
+
+                var fullCardList = nonFoils.Concat(foils).ToList();
 
                 Logger.Log($"Fetched {newCards.Count} total cards (including foils). Updating prices...");
-                UpdatePrices(existingCards, newCards);
+                UpdatePrices(existingCards, fullCardList);
                 _csvService.SaveToCsv(existingCards, csvFilePath);
                 AppendCsvToCombined(csvFilePath);
 
