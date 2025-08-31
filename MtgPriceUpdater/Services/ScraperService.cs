@@ -117,7 +117,7 @@ public class ScraperService
                 .SelectSingleNode(".//div[contains(@class, 'productDetailSet')]")
                 ?.SelectSingleNode(".//a");
             if (setAndRarityNode == null) continue;
-
+            
             string rarityRaw = setAndRarityNode.InnerText;
             string rarity = Regex.Match(rarityRaw, @"\((.*?)\)").Groups[1].Value.Trim();
 
@@ -139,7 +139,6 @@ public class ScraperService
             }
 
             decimal adjustedPrice = AdjustPriceByRarity(rawPrice, rarity);
-
             
             if (cardName.Contains("Foil Etched"))
             {
@@ -178,7 +177,7 @@ public class ScraperService
                 {
                     String[] cardInfo = cardLine.Split(',');
 
-                    if (cardName.ToLower() == cardInfo[1].ToLower())
+                    if (cardName.Trim().ToLower() == cardInfo[1].Trim().ToLower())
                     {
                         preExodusCode = cardInfo[0];
                         break;
@@ -193,7 +192,7 @@ public class ScraperService
                 Rarity = rarity,
                 Price = adjustedPrice.ToString("F2", CultureInfo.InvariantCulture),
                 IsFoil = isFoil,
-                SetCode = setCode
+                SetCode = cardName.Contains("MH3 Retro Frame") ? "H2R" : setCode
             });
         }
 

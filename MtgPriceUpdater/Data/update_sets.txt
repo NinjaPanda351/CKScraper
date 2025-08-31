@@ -113,6 +113,11 @@ Duskmourn-House-Of-Horror
 Duskmourn-House-Of-Horror-Commander-Decks
 Duskmourn-House-Of-Horror-Commander-Decks-Variants
 Duskmourn-House-Of-Horror-Variants
+Edge-Of-Eternities
+Edge-Of-Eternities-Variants
+Edge-Of-Eternities-Commander-Decks
+Edge-Of-Eternities-Commander-Decks-Variants
+Edge-Of-Eternities-Stellar-Sights
 Eldritch-Moon
 Eternal-Masters
 Eventide
